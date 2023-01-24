@@ -35,15 +35,13 @@ About files in notebooks:
     This finally creates two labelled datasets : questions_lablled.csv and statements_labelled.csv
 
 -    notebooks/salesaichallenge2.py
-
-    This notebook uses the files questions_lablled.csv and statements_labelled.csv to create a model that is
-    used in the final API endpoint and seems to work decently well.
-
+     
+     This notebook uses the files questions_lablled.csv and statements_labelled.csv to create a model that is used in the final API endpoint and seems to work decently well.  
 
 -   notebooks/newsalesaichallenge3.py
 
     There are two steps here. 
-    First figure out if the sentence mentions a taks and when is it supposed to be done.
+    First figure out if the sentence mentions a taks and when (this is an important criteria for filtering but we should be able to do without ) is it supposed to be done.
     This can be done using Semnatic Role Labelling.
     Once we have figured out the sentences that have a verb and a time period, 
     we use BART in zero-shot fashion to check if the task is to be done after meeting.
