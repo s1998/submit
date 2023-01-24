@@ -1,0 +1,167 @@
+Host 2: Take and go. Welcome back. Can't hear you.
+
+Host 2: Yes.
+
+Client 3: Yes.
+
+Host 2: Good. Good. Good. I'm going to be a fly on the wall for today's meeting because I can really use the power here. Ten participants.
+
+Client 3: Only to our human.
+
+Client 3: This meeting is being recorded.
+
+Host 2: With the the recording aspect.
+
+Host 2: Yeah. This is this is how the single already happens.
+
+Client 4: Good morning Good afternoon.
+
+Host 1: Hey.
+
+Client 4: Good morning? Good. Wow. There's a lot of recording going on.
+
+Client 4: Yes. No.
+
+Host 1: There's only three other humans in this call right now.
+
+Client 4: Okay.
+
+Host 1: Awesome. How are you doing?
+
+Client 4: Grace. Can complain. Quite you know, one of those days you wouldn't expect nothing and then everything shows up kind of kind of thing.
+
+Client 4: Yeah Yes.
+
+Host 1: Yes Were you calling out of today?
+
+Host 1: Sorry? Are you calling from today?
+
+Client 4: United Kingdom, Oh, nice.
+
+Client 4: Uk. I'm I'm living by this sea about two hours west from London. Yeah It's pretty late there now.
+
+Host 1: Right? It's like around nighttime time.
+
+Client 4: It's just three half past up three Pm. So Okay.
+
+Client 4: Later go. Yeah.
+
+Host 1: Awesome. This for quick introduction, I we're the team here at sales guy. Building sales tooling and we want to learn more about the competitive landscape. think we Receive your information from a review of on g two about clarity. You wanted just learn a little bit more about the space and figure out, you know, what you like about clarity a little bit more about yourself. So then you can start there... Like, just for some contacts, you know, talk about your position, your company, like, size of your company. I'll learn a little bit more about that.
+
+Client 4: So so so gonna quite the unique elements I for many, many years, it was almost fifteen years. I used to work for agency really. So what what we did, companies like top five hundreds, you know, It It communication company is used to outsource tele marketing to us are marketing in general. So for example, you know, i've I've been from from simple agent doing the work and I went right to the me their performance manager campaign manager. So I know kind of ins insulin outs from both perspective of of a user, but you know, power user admin, and so on and so. But then about two three years ago, i joined next extreme networks. So we are networking working company. I can't remember how many of us there are by we global company, we we know not size of Cisco But we compete with Cisco in the network networks space same as packard, you know, juniper networks Hpe that's that that grim level really. And this is where i what I got to know cla. So apply for us, maybe less for me more from my account managers or or or. They they use it very heavily, cla, especially the Ai based. So for forecasting, this is their tool to go. For me, is more of a tool to use on to manage my opportunities. My accounts and see how they are performing. So I think for ef for them is definitely look to the future. So... And they were rely heavily on it. Right? So whatever cla suggest them, they will treated very seriously. I'll say. As a day, they lot it heavily. And it most of the times, it seems to be to be accurate. But for my part, it's it's a different story really, because I I kind of of... I'll say Role wise. I took a step down you know, I wanted to do it. I just wanted to stop having a team and not manage the team just just just earning good condition on my own and and that's why I choose stream networks. It to know because I'm in Uk when I work for Poland. And situation upon we have we can complain about incoming business. We just can. It's it's coming more than there's three of us then we can already handle. So what I'm using cla for is really to a filter out or focus more of a focused on the opportunity the deals, the projects that I want to work with. For me, that is the most important. So let's say out of I would say probably Maybe we... Let's say, yeah five hundred different or around five hundred. How of probably couple of thousand opportunities. How to filter them out and pull about let's say five hundred at the beginning of the quarter, that will be my starting point and then filter down let's say another to about fifty that will help me to hit my target. So For me, it's it it's very important that cla is more or less his alive. It's live data because it's pulling it from Salesforce. So this is this is probably the most important thing. So I can see know, how the deals are growing. I don't think I can see, let's say, how active that partner is, I don't think Cla that I don't have access to them. It be great. So what I'm what I'm saying is, if Claudio would notify me out of say a hundred accounts or hundred opportunities as I'm working on. How which ones are the ones that are showing more activity? Because at Extreme networks, you have few sources of that data being input. It's sales team it's the services team is the, you know, technical team and it's just question is. I'll say at least four different teams of people are working in a on this same opportunity or the same account. So if I would be able so let's say i have two deals both words. Fifty thousand dollars Which one is more active. Know because if I'm seeing constantly, okay. Why why there's so many activity on that account. Is it a good thing I don't know because the partner is is... I don't know changing the configuration, for example, Right? It's out doing some stuff and removing some things. Is it because of this activity, or for example, is my technical team. Because it's my technical team is is is involved in in those changes, that means the end user might not be happy. There there issues there. So to see that difference of... You know, what type of activity how often happens what what type of activity is for example, help Wait, Are you sorry.
+
+Host 1: I i saying that Cla does do that? Like, send those alerts or is that's something that you want clear to do.
+
+Client 4: I don't think it does at the moment.
+
+Client 4: Okay. I don't think it does. I don't know about it.
+
+Host 1: And also jumping me back to the beginning, is your position right now, are you also an need?
+
+Client 4: Either way? Yes. Yes i am because how you split the The deals is the big deals let's say, I don't know let's over a hundred thousand k are being dealt with the account executives a foot funding ground in Poland. Everything else below that, we we manage it virtually. So I will go and see them. I have my accounts, but it's it's not it's all good So my role is virtual sales account manager I think.
+
+Client 4: That's a mouthful.
+
+Host 1: Yeah. Okay. Yeah.
+
+Client 4: It is. It is multiple.
+
+Host 1: And then you mentioned earlier that other is use Cla, especially the Ai that's for forecasting Do you know what that involves like, what what exactly are these Ai features?
+
+Client 4: I think it's it's it's as simple as based on history historic performance or whatever larry factors in, it will tell them, you know, based on historical date I have and probably what is happening at the moment. This is the I'm expecting. But I really never dig into that part. That part. For me, Cla is more to react to situations now that will have incoming future. So it's it's all about visibility. So for example, I'm missing is it'll be great if you could select because really, the columns in cla will linked to data fields in Salesforce force in my case. So just to set up those fields I really want to You, look into. You have to go into that set or settings. It is really hidden quite deeply. And once you have it, you can dynamically move those columns around. So for example, you know when I thought I would like to see by distributor and then maybe by the size So I think it's it's great tool, but how it's it's nice looking, but I think it could be improved by just being more kind of drag and drop kind of situation. So I don't know if you for example, familiar with the Lightning for salesforce.
+
+Client 4: No. Okay. So it's it's pretty much a dashboard. But the dashboards are pulling different data from reports. But the way how you can drag and drop different dashboards to to really fill your needs. It's something great. And I think Cla could do that very easily. I think this is more of a it's more a how the user interface is built then some, you know, back end office programming and working. So that that help because it's it's really showing everything clear and you can click and update things. But for the pure visibility of how you know which column is first? I mean, because have to from left to right and you know, you don't remember if you're working on the right name of opportunity right partner You have to flow back in... Left the right, left right constantly. In in some cases. So just having a, you know, dragging the the column that is on the very far right to left, for better, that would be great. Yeah.
+
+Host 1: So so why do you use Cla if you ready your Salesforce lightning like their dashboards.
+
+Client 4: Because In cla, you I think it's visually better. It's... You can see, for example, straight away i was an update here because the the in lighting. They will not show. They will show you, for example, your list of twenties. But it will not show you that this needs updating. For example, or for example, you know, the the closed date was downgraded. Or value of the deal upgraded. So it doesn't have that. It doesn't show any dynamic movement or changes for negative or positive. It's it's not something that will allow you to forecast.
+
+Host 1: I'm trying better think how this looks visually. Would you be comfortable actually, sharing what that looks like.
+
+Client 4: No. Because this is this is this is my work.
+
+Host 1: Right?
+
+Client 4: So I... No. No. No. I'm I can't really do that.
+
+Host 1: No worries. So so I guess the most common view that you're look to cla like, what what are they showing what information are they showing on that dashboard?
+
+Client 4: It's pretty much is I'm looking at Well, there's many filters. So it's first of all, it's all of the opportunities that I want to assign to myself based on size then I be looking at exact size is the size of the deal coming from hardware Is it software and hardware? Or it software hud and services When was the last updates? How many of such opportunities are linked to one partner and distribution because we have multiple distributions and over four hundred partners. And then I'll be able to see that. And then here, for example, when was the last change made? But also Will use siri to monitor the incoming things. So the deals I'm working on are not automatically assigned to me. So I would like every second day going to the series and soon will show me okay since you last visited, this is x amount of new opportunities that's our meeting your criteria of you want to work on that opportunity. And and yeah. So if in some ways, there be hundreds coming in. And some twenty of these I can work on. Sometimes it's nothing.
+
+Host 1: Right. Sorry. Well what are you going into to check this?
+
+Client 4: Said zero, in period.
+
+Host 1: Okay. Clear.
+
+Client 4: Okay. Yeah. Yeah. So, yeah, It's... you know, somebody loves that into Salesforce, but that reports in the cell so well. I just don't find them don't even use them. I know I could build this. I know that's probably to build this report that's that allowed... I'm gonna get the same out Cla. Claudia will take me I two minutes. A minute, maybe. And in Salesforce is actually flicking through a lot of time, you know, boxes and things and that's to get the same outcome. I'll say I can do the same thing in car moments versus in minutes.
+
+Host 1: And how often are you using Cla?
+
+Client 4: Know Sometimes Daily. Yeah. So yes. It's it's it's cla effective it's just telling me where I stand in general, I can spot what's missing right away. And my bosses are using the same thing. So you know, if they don't look into salesforce stores at all almost. They don't care. They look to siri. So if they can spell it in series so i, Salesforce, I'm gonna. It's salesforce it's it's enormous amount of fields and little tiny bits and bobs that's pro probably. I I don't know if I need ten percent of them And claudio will just filter the data relevant to me and my bosses. That's it. So It it gives that's really really good overview but all ability to jump right it into the field you want to change. So you don't have to open a new page and wait for it to log, you just just update Siri and and done.
+
+Host 1: So sounds like the main value that Cla provides for you and your team, it's pretty much like a simple version of the Salesforce and instance. Right? Like, you know no longer going to Salesforce the most part, you use Cla to update things, look at forecasts to look at your pipe.
+
+Client 4: Okay. Correct. Correct.
+
+Host 1: And you mentioned earlier of that a lot of the other aes they use cla for the forecasting piece and you don't really use it for this use case. I'm curious why it's it's a little bit different.
+
+Client 4: I would say we as Aes we we need we'll we commit to our you know numbers. And cla is the best way to see how we doing guest those numbers. Because Yeah. My my boss and his boss, and it just goes to the very top Really. Right? So you know, I don't know let's say my European region needs. To hit five million every quarter and one minute is assigned to Poland and this is your, you know, country manager and his one million is his target, and he has three, and it it just goes down to the very, very little bits and bobs. I think large as monitors, you know, how that line is moving And that's I would say, forecasting part that is important for us. But aes is, we are required to, you know, fill in those numbers So so that lies that line can go the way it should. Really. So. I I mean, you know, if if Client will see decline in a month, of the pipeline or best cases or commits? That would be flagged on the on the spot. Alrighty. So it's... I think what it gives us is being on the front foot being proactive in addressing issues that are not you know, they're being forecasted with you. Now, this it's kind of like a vision of this issue being there, and gives us time to address this problem before it really happens.
+
+Client 4: Got it. So we are on... you know, we're not... We're not firefight fighting here.
+
+Host 1: Do you also use any conversation intelligence tools like a gong? For example, I don't.
+
+Client 4: No. No. No.
+
+Host 1: Have you ever used this in the past or have you heard of these tools before?
+
+Client 4: No. No. Actually. Got it.
+
+Host 1: Curious, like, what other sales tools do you use? You said Salesforce Cla. Are there any other enable rentals?
+
+Client 4: In is extreme, we have internal team that that more or less, it's just You know, just just I'll just stand that type of webinars, presentations, meetings, videos that will been quiz on and some real life exercises all you know, we... If there's new products coming out, we have to record that pitch. Like elevator page, Sometimes this is more fun, but yeah it's pretty much standards. And and of course, a demo, right? We we a lot of what we do is links the software and how we manage that network know from clouds. So that part. But, yeah, But that's that is mainly what we do. Or what what I do. Right?
+
+Host 1: So you mentioned you don't use any conversation intelligence tools and how do you go about getting feedback and of getting that coaching element to do kind of level yourself up at as an no why it's a good question?
+
+Client 4: I've I think I think this is I mean, To honest, when I'm when I'm looking at my team is we are kind of, know, all dogs that's know, we done it for many, many years. And I think in the business when they hire us, they expect us to know how to sell Yes, we will of course, we will have some tools You know, for example, I think oh maybe maybe like, linkedin learning. Right? This is part of that I say work package we have the I think we have the link sales navigator linkedin learning, And and, you know, my boss will expect me to spend probably at a good day in my week. On training. So what killed do, you know, we have a... I think it's bi week on recession and at the beginning of the quarter she was, you know, she she would kind of ask me where do you think you need to improve? I say here and he's like, okay, why don't you just pick up some, you know, self learning kind of tools on Linkedin learning and then we'll see how it goes. So I'll say we we are quite senior in what we do. But the thing is I don't know if my colleague is doing any of that with his boss.
+
+Client 4: Because he's most the country manager by boss is is is a European, you know, virtual manager kind of finished stuff. Is it's slightly split. So I'm not I'm not sure if my colleagues you know, that I'm... That I'm selling with are being you know, forced to do it? Or do they have to do it? Or did they agree to do it? Army personally like it. So I will always continue to do so. But it's not... Of course, because when you start there this program called dojo and when you have to learn the business, of course need to know about history and then How we work in the acquisition. So you know who you're joining, But that I think It has three different levels, and I think at level three this is the last for training need to get. And this happens is normally within a year in the business. So if you more than a year, that that means you you've done it and you've not been delivering your results. And then and targets and and you're okay ish.
+
+Host 1: So do you use anything to like record your sales calls for reference? Or you still doing this Yes.
+
+Host 1: And all these. Is that mainly for you to reference yourself or do you send it out back to the customer or do you review it with your managers?
+
+Client 4: No well, it's being reviewed by my. So... But I I don't know. I never fails. Right? I don't think I don't know. Maybe there is option to file, maybe. Maybe but normally, it's more of a... You gotta do it. This is the deadline and, you know, I'd never missed a deadline really. So I don't know if there's any consequences questions if somebody doesn't do it. Is it you know, if it if you don't do it once at the uk, if you do it five times you mean fired. I didn't...
+
+Host 1: I don't care. I sense. And just this wrap up chair. I'm curious like, If you had to rate your usage of Cla and in the valley that you provide... Or the value that provides you. Like, how how would you write down a scale of one to ten with ten being like, very, very valuable.
+
+Client 4: I I think it's like, somewhere on seven eight. Down seven eight.
+
+Host 1: And why is that?
+
+Client 4: Because it's it gets the job done. So so I go there to kind of see because there's so many balls to juggle in this work. Is is just something's sometimes overwhelming. Like I would select today. You know, I I started very early. This is you know, I was... I had no breaks. It's this probably mine Yes. My twelve hour. Almost or ten ten started very early today. So I'm ten hours here. And I I didn't finish. Really. I did not and I know my weeks were not very long. So Cla will allow me one point to see my on truck. It's it's all that effort. I've put for two or three days Is it there first of all, I getting what I'm supposed to? Is my pipeline up today. This my pipeline leading to my target is that good. And then what I'll be able to do is check my errors. All shit. I've missed that update. Or this isn't right. So, you know, first of all, it tell me am I on the right path to I want to be And secondly, it will allow you because I mean, seriously, I have that probably about eighty opportunities today. And each opportunity will require maybe five different, you know variables that I need to be there. It's it's it's just you a, part of the business, because I don't know. If if if this deal is at the risk, because of the lead times of the product, it needs to have this orange light. I mean, I can see that the clay right away. You know, it's like fifty opportunities Everything is green bang. Okay. There orange wide. I can spotted it right away. Normally, I would have to go out through eighty opportunities one by one. Or, because maybe, there is reports that I can pull from Salesforce salesforce. But then what I'm doing, I'm spending my time on building report to maybe find my mistake. It's pointless. It's it's kind of, you know, getting the fly with the problem. I don't want to do that. It's pretty much when I go to clarity, I have this helicopter review Everything is good but this one. And and that's exactly what you tried for. It's just those, you know, full... Just to check my errors. Just spot check what what's going on.
+
+Host 1: You mentioned spot checking your ears what exactly are your errors in this case?
+
+Client 4: Yeah. It's it's a simple as... For example, we have the system of lights for some of the deals. Larger than something where risky deals. We we call them. And how big is the risk? That's it. So my bosses will go into Cla and they will want to... They're not gonna go... you know, if I have a hundred and fifty opportunities in a month or let's say in a quarter let's say, fifteen a month, they will not go through every single my opportunity to look for that you know, red flag orange flag. In cla, they will filter show me the orange floods bank. It's that. So you know, you you will have one tiny piece of information you're looking for that could be in fifty different opportunities apply will show you right away where those floods are. If any. If if if they're not there, you will know right away. So you don't have to mic for micro.
+
+Host 1: Yeah. That's typically for the risk deals. Right? If your deal is perfectly healthy on track then you won't see any warnings.
+
+Client 4: Exactly.
+
+Host 1: And is that defined by like, your manager, your team or is it something that Cla just is able to recommend.
+
+Client 4: I know. It's just by my... I don't know if i recommend that. I know she does. Carrie will tell you for example that's a deal wasn't updated for for a period of time if I'm not mistaken. I think Larry will, we yeah I think Larry will show you this this the deals not have been touched to work on by x amount of time. For sure. But also, yeah. Is it's my boxes to expect me to stuff. So I should not have any deals that do not have a comment that I work on them within a month. So, you know, first and we got the sentiment, That's perfectly normal to have plenty of missing updates. But, yeah, my boss, you know, if I'm if I'm middle of the December and more than x amount of my deals are not updated He asked me why? Period You'll know that right away.
+
+Host 1: Got it. Makes sense.
+
+Client 4: Yes. And then yeah. In Salesforce or in in lightning, you could do other reports that will show you that. But again, you're building a report to to sponsor. So you can do everything in a similar way, I think the Salesforce or like version of Salesforce, But for each all those things you want to check, you have to... I think you you'll have to build a separate report. In cla, it will... It it's kinda like other way around. It's you know, it will show you everything that is out of normal. So you're not looking for trouble. Could I will show you if something doesn't you know look right.
+
+Host 1: Alrighty. No we're at Honda. Thank you so much for some time the day, and we mentioned today was very busy. This is super super useful. In terms of the gift card, we'll be sending it out shortly after this in the assistant of ours.
+
+Client 4: Sure.
+
+Host 1: Awesome. Thank you so much.
+
+Client 4: Have a great rest. Thank you. Cheers

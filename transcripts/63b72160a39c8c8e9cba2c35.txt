@@ -1,0 +1,325 @@
+Host 2: Show you zoom? Alright. Stuff with happening. Alright. Yeah.
+
+Host 1: Hello.
+
+Host 3: I.
+
+Host 2: I Oh, we have two many helicopters.
+
+Host 1: That is your meeting account.
+
+Host 2: Yeah. I have do have a question. So let's see screen here. My zoom Are you guys have bunch of you? Let's see now. Sorry. I'm not familiar with zone I have bunch of Tells jose Ai thing is on the right like a lot of On your on Zoom what you talking about about?
+
+Host 2: Yeah. Sorry. I thought that I show once a. Hold one second. Let me Jonathan of mine and then another one.
+
+Host 2: I'll I'm sending it right now in the sales Ai. Channel. Hold on one sec.
+
+Host 3: Can someone add me to the sales Ai channels. I'm not on any of them.
+
+Host 2: Yeah.
+
+Host 4: I'll yeah. I can do that real quick.
+
+Host 1: Oh shit.
+
+Host 2: And then somebody to these, I don't know. Know, jonathan your recording brendan made recording you got you and Jack.
+
+Host 4: I'm assuming have like created things in sales ai and, like, we have I'll I'll I'll put add this to the list of things for ian to look into. Because basically, right now, like, we we have some kind of bug where people creating accounts of logging out it is just creating a shit ton of accounts. So you probably have, like ten Google accounts in recall, which is the bot that service some use that joins us. So I'll ping in about this interesting.
+
+Host 2: Because I only create... I am from One account. Right?
+
+Host 4: Well, yeah. But, like, have you logged in out the and out of that account or, like, done, like, delete account or changed, like, the calendar or whatever.
+
+Host 2: I just have logging even and log out. That's it.
+
+Host 4: Yeah. Exactly. Yeah. I think logging in and doing that, like, something's wrong with that. Okay. Alright. Alright. So I think let's get out of this. I actually have to go two in ten minutes here. So what I would like to see, I guess out of this meeting would be i think Jonathan by Monday, we want to just at least have, like, a staging server setup up. I know with Ver. I wonder if that's possible for you to focus on tomorrow.
+
+Host 1: When I bought the comments stuff. Because I be out of the house next week.
+
+Host 4: Oh, you'll be out. Okay. So maybe I could get on the basically start working on that next week. Some maybe Else are maybe on Monday. Sorry. I you can see there's hope floor is messed up and they're the whole floor. What I I guess I could with that Mind to try to get a staging big set outside of Monday. So maybe Ali was during jack, Like, maybe we won't have staging necessarily in Qa. Like, ready to go Monday, but we'll work towards it by the end of that week.
+
+Host 2: Sounds it's good. If you put it on the maybe this screen filing on Monday and then will just do Qa on production. That's fine.
+
+Host 1: When you ask how much you do that bring that is a way to deploy a specific branch to our domain every time.
+
+Host 4: Yeah.
+
+Host 1: We'll just do that. You can create environmental variables that are bound to that branch.
+
+Host 4: Yes.
+
+Host 1: So you can do everything. Let's try to avoid creating something else.
+
+Host 4: Yeah. Yeah. Yeah. I saw in. You could basically just do that almost in the gui. So we'll do that.
+
+Host 3: How are you guys doing the branches and stuff in, like, think.
+
+Host 1: Oh no Branches. Yep. Without pushed to Main.
+
+Host 3: So you just push it right away.
+
+Host 1: Qa weighs nightmare.
+
+Host 3: Okay. So then if I But if I wanna make a branch and and I'm trying to get side thing. I I am trying to get it's set up on my computer and I'm stuck, but if I want to set up the play right and all that and make a bridge for that. I mean, You you can do as usual.
+
+Host 1: You can create the branch and then open the point. It's fine. We we do for fulfill... We have been turned that for bigger changes Okay.
+
+Host 1: So I would say we're probably once we have more people, like, starting because, like, kinda like, work on this, like, Youtube coming on is like, alright.
+
+Host 4: We're gonna pause the, you know, pushing directly to maine unless it's like smaller stuff and we'll have kind of like, have a little bit more process. But not like, How I wanna keep it fast. So I don't wanna be, like, too heavy, but think you'll be able to...
+
+Host 1: We we... I don't think we should have p. Because at least so other people can look at your code and like, because I have been finding out like small things that could improve it. If we had request.
+
+Host 4: Yeah.
+
+Host 2: Oh, because they're the slack channel. So I will have to brandon Look at this light channel to view what are being done because I I i I've I don't don't have a way to track What it test during that day. Right?
+
+Host 4: Yeah. We're gonna have a staging branch, and we'll just have everything there and you'll be able to see, like, what's going on that day. With it.
+
+Host 2: Okay. Cool. We just want to making sure that, you know, he does as far as, you know, as you can in then Qa a... You know, we we don't stop the speed or for you to go ahead and deliver thanks to production in other words. As much possible right. K. And that's until yet And then as i support this small test goes brandon what I have right now, I'm gonna use this meeting to look at cases. That's what I wanted to have it here. Just to see the transcript and things like that and see how it works. So this is my first meeting that I have it sync with Cell Ai. But so far, what I have this test is going to be just the logging with both platforms google and Microsoft logo out sign up for new accounts and sync the calendar sync salesforce, make sure it works and also anything related to meetings. So be able to, you know, get the transcript the meeting and whatever happening from the Haven't regular returned the product yet. So that's essentially what I have this smoke test I'll go ahead and send this over to you once I'm done within an hour. And then also to Enrique to his point of view as well. But that's then everything is sort of as long just goes. And then we'll work with Jack and in Jonathan right now to say the and things like that just an i meeting as much as possible does more tests. And then anything That needs to you think that is be deleted added or modified please let me know I'll also give you the logins for Test. You know, for to review those test cases if you want to. Yep. That's what hap support and I'll get back to you within the hour or so.
+
+Host 4: Yeah. That's That's amazing. Super excited to have you know, this here and think it all help a lot. I think one thing that will probably want to do. Is I mean, I could try to stay on top of it or I'm not sure but Qa would wanna stay on top of it too. But having sent it's gonna be a big thing for us. Going forward?
+
+Host 2: Having century, Right now in team flow, we never, like, paid attention to century so much.
+
+Host 4: But I think we wanna have like a pretty stricter century policy, basically of like, trying to keep sent bugs to a minimum. So We'll just have to that make sure that, like, your aware of, like, century and, like, you know, if there's certain things popping up on we have a a team. I'll add you to all these channels, but basically you know, we're finding these errors in century. It's kinda gonna be like, I would think kind of qa. Would be like, oh, hey. Like, look this a bug. This is probably a pretty big bug. We should like get about but Okay.
+
+Host 2: Cool thanks.
+
+Host 3: How do you view this century alerts, is it just through...
+
+Host 1: Go to a channel Yeah.
+
+Host 4: I'll I'll invite you to all this.
+
+Host 1: Right. And then you can also see all the issues on center itself. I don't know if you guys are invited.
+
+Host 3: I don't think. Oh, wait. Maybe I am. I don't know.
+
+Host 1: It's zoe and so work or server I don't think we ever hit name. To say ai.
+
+Host 2: Okay. I see plenty of errors here, and I will Don't worry about it right now.
+
+Host 4: I'm gonna, like, make a bunch of bugs and stuff like that from century to for next week for people onboard, but I'm just inviting you all this up or now. Take.
+
+Host 1: And that is is small chance though we may actually replace log with century because they have a new session he played fan. And if it works out to be better or at least as good as how. We may only use century moving forward Okay.
+
+Host 3: Can somebody invite me to the actual sent account? Because don't have access.
+
+Host 1: I think I have admin access.
+
+Host 2: We'll I'll I'll ask Jeeves. You know, to get as access you know, to do this his brand has to already go couple of minutes. So I'm worry about it today.
+
+Host 3: Okay. There. Okay. As tk and procedures I would need to create to gain access and things like that.
+
+Host 2: Do what do we need admin access No. We done. Right?
+
+Host 1: You have access officer. We invite jack. I have... I have access to do that.
+
+Host 2: Oh, okay. Awesome. Sorry. I won't have to worry by time. Thing. That's great.
+
+Host 3: Is it no longer called Zoe?
+
+Host 1: No longer.
+
+Host 1: A boomer We have sales ai dot com.
+
+Host 4: So...
+
+Host 3: So the repo is just gonna stay named zoe.
+
+Host 4: We we like our change much we...
+
+Host 4: We're just repeating history for the nostalgia sake.
+
+Host 4: Like, we need to have a bunch of Hud u components actually are thinking about naming the the chatbot bought in Sales ai zoe.
+
+Host 4: So it's not potentially Then...
+
+Host 1: Yeah. I still hope.
+
+Host 2: She's still auditioning from multiple roles.
+
+Host 2: Okay. Awesome. And that's it. I guess. And Brandon, Search for tickets go, so you want me to go ahead and just send us to you assign to you on a tries started.
+
+Host 4: Yep.
+
+Host 1: Just there's no child to they'll ai and then tag, just have them assigned to me.
+
+Host 4: And then, you know, Mark them has bug or not, but I'll try... I'll be those like, once a week.
+
+Host 2: There's no time.
+
+Host 1: Want you enable try to state.
+
+Host 4: Oh, yeah.
+
+Host 1: Me when you enable it. Yeah.
+
+Host 2: Okay. Cool. Awesome okey that's for diagnose. Now we can chat about the files and any questions that jack may have for Jonathan.
+
+Host 3: Wait one last thing about Sun, I logged in and says I have to create a new organization So wrong.
+
+Host 1: If you click on the at the top, do you see the flow clear organization.
+
+Host 3: I'm trying to sign in with my Google account and the first screen it's trying to make me create a...
+
+Host 1: Oh, you should have his and mayo. I he enabled triage on sales ai.
+
+Host 3: Okay. Cool.
+
+Host 4: Alright. I gotta go to this other meeting. I'll see.
+
+Host 3: Yeah.
+
+Host 1: Yeah. I got luck with the floor. Yep. Alright. What about Brenda meeting carter? It will stay it this is the question that I had.
+
+Host 2: I I'm gonna have a lot of questions. So as soon as I invited in the calendar, and I I was in here for about five minutes before you guys arrive. This was already there. As a they were or as...
+
+Host 1: Yeah. They joined usually, they tried to join, like, came in. Before But that Do you start the the meeting recorder?
+
+Host 1: No. You should not start it manually. They show join automatically. There is a prompt to to invite the bot manually in the settings. I don't know if you saw that. But you should try to not use that. Because if you are using that it means it's it's not working that well. That they of my auto join.
+
+Host 2: Richard return. Okay. So i just to clarify, these mainly recorded that we using see and then Brandon may recorder. It is related to cell Ai. Is that correct?
+
+Host 1: Or yeah. The... That's that those are the cards from my and Brain's account.
+
+Host 2: So they stay there even if somebody leaves the meeting this day.
+
+Host 1: Yeah. Yeah. I don't think they are like it. The to the actual connection. They are like a separate user. It's a bulk user, and they probably stay them is I don't know. Until I closed the meeting.
+
+Host 2: Okay. Okay. How about there's another question? Is a Ai, and there's also the one there's says so. I in intern. It even gonna be between the two?
+
+Host 1: The the intern is the day one that you use the prompt. To to ask it to join Did you ask it to join by using the prompt? They they put the settings. Page Yes.
+
+Host 2: So that's the...
+
+Host 1: Yeah. So that's that's the one. Yeah. It's the. Alright name is. Like that.
+
+Host 2: Got we still time to figure out why the other one says ai. So ideally, it would be of the Cell Ai turn and that's it.
+
+Host 1: Right? No. The intention should never be there because it means you actually try to get the bot to join manually. The bot always is join automatically. By reading the meetings on your calendar, and then joining like, five minutes before Oh, like during the meeting.
+
+Host 1: That that that input that you see the settings, it shouldn't not really be used more like a welcome. Going when the bot does not join. Whatever is the reason.
+
+Host 2: It should not be you. So as long as I got in my calendar or saying the cow yeah.
+
+Host 1: And another thing for you to to to keep mind is that he called only updates the list of meetings like their side on their side, every, like, ninety minutes notes, I think one hour. I'm not sure on the time, but it's not that fast. So if for instance, if you create a to be like, in about fifteen, twenty minutes. He call will not be aware of it. Most probably. So the back will will not join. The way you can make the bot join is If you go to the settings, really fresh.
+
+Host 1: And when we fresh, We actually are calling endpoint on call side to refresh the list of meetings they have. So if they detect that there is a new meeting call out like you have few minutes, they they bought real giant.
+
+Host 2: Gotcha. I believe see all of these thursday ai things that have happening, like, the image that all come now. They disappear.
+
+Host 1: Yeah. They they only try, like, for a while then they they crash. Saying that they were not allowed into the meeting.
+
+Host 2: Interesting. I wonder and seen all of these Ai because because my calendar is in loading state and just keeps sending one.
+
+Host 1: That is another part that eon is looking at that for some reason, we are creating multiple calendar users on call. So what's happening is that when like, I don't know if it's when you log in or when you like you, disconnect your calendar again. Those o users they are sitting there. So it's like you have your Sales ai account. Then you have ten we call calendar users. And every single calendar user only call has their own board. So if you have a meeting, you are going to have ten trying to join the meeting to your user.
+
+Host 2: That's what happened just now. Oh, okay.
+
+Host 1: So. Okay. Yeah. That ea is looking at it today. Gotcha Awesome.
+
+Host 2: Awesome. Thank you for that. Let's man, there's so many kind i have a hard time remember all of the case. So sales Ai, basic survey Okay.
+
+Host 3: I cannot get it to run on my computer. So I was asking Vincent, but Vincent said I should ask you, Jonathan. So I...
+
+Host 1: Oh, it should ask anders. I'm joking.
+
+Host 3: I will after best of the work. I... I installed En rock, which I've never used before. So then and then I got the Local oh from I copied them from Vincent.
+
+Host 3: And then I Do you au in the En team we have I don't think so.
+
+Host 3: Is that could that be an?
+
+Host 1: Yeah. The free account not going to. You you need the paid account.
+
+Host 3: Okay. So that might be part of the issue. But I think there's another issue with that pubs of emulator thing. So Yeah. When I was trying to start the server, it It says Something about the try to install the pub something, but I already installed it, and then it just hangs.
+
+Host 1: Both with your Share screen. And I will take look And then how do I...
+
+Host 3: How do I have someone add me to the en g team.
+
+Host 1: You're gonna ask, I think now is Rabindranath, Maybe I am they admin, let me see if we still have seeds.
+
+Host 1: Alright. How do I have new Zoom in forever?
+
+Host 3: How do I share my screen? Oh, right. Oh, Ali, can you enable screen.
+
+Host 2: Multiple nutrition. Yes. Okay. Is it working?
+
+Host 3: I think so. Can you see Yep.
+
+Host 1: Yep.
+
+Host 1: Yeah. Okay. I just said you an invitation. To our En graph account.
+
+Host 3: Cool. Thank you. Okay. So Oh, it what's happening is to install it you require like your demo to being productive.
+
+Host 1: But when we run using the yan dev comment, terminal is not interested for the comma itself. Because it, like multiple running. There's no h and o where you are sending the inputs So what you need to do is run the actual common locally directly. They want to to install the emulator And let me see if it shows to you what's the common Yeah.
+
+Host 3: I did install it.
+
+Host 1: Hey do you see this comment? I don't know if you have courses. Zoom you don't.
+
+Host 1: So can you see this line where it reads g cloud better, emulator, pubs up star dash dash project, you equals. It's around like, Right? Almost almost at the beginning of the decks, they scroll down three lines, and it will be there. Very good. You see G cloud right in front of that comment? Yeah. Call copy the... From the jeep cloud onto the end. And run that on your terminal. And when it asks if it can continue. You just... Yeah.
+
+Host 3: Yes. I did this already. So then that's I thought. It should work.
+
+Host 1: Was Oh, you you need java. Oh. So let's start have mac, how do you do that? I think you have choose for you?
+
+Host 3: What is pubs up for? Is it for the transcripts or something?
+
+Host 1: That's like system because the problem is Sales ai runs and versa. And ver use infrastructure called Settlers. Where basically, there are no servers. When you hit our endpoint, It actually spans like a quick container or something function, only for that point. And then after the request finishes, if no request coming, it just kills the container. And the limitation is you cannot too log running tasks.
+
+Host 1: So let's say you wanna like, pass the transcript of a video. That's not going to happen in less than sixty seconds which still limit.
+
+Host 1: So we need this work queue that we can actually, like, send message to do some async work that can Like, take a while to finish.
+
+Host 1: And that's basically why you need the pub sub which like a message broker between a day worker And they saves I server.
+
+Host 3: Oh okay. I see.
+
+Host 1: Now for travel. Let me just find out to you that.
+
+Host 2: I just wanted to test this meeting, you know, use his meeting for test purposes. So let's see. I'm just gonna see, okay. Can we have a meeting or an hour Is that how it works? Jonathan doesn't read like the time. Does it tell, Like, when I say, hey, let's other meeting out a date.
+
+Host 1: Yeah. So the way it works is we have That isn't the new thing that Vincent is building with the sharp chat Ai, and you can ask questions. So anything you say in this conversation, you can actually later use the ai to use that context to give you answers. The see a part that we have right now that like to today salesforce or whatever. Way to works is that every organization has a prompt. And the prompt like the list are field you want to update on the Crm So let's say you are having a sales meeting and you're wanna ask What's the... I don't the amount amount of sd sdr in the team. That company has. And that could be a field in the Crm for that prospect. So... And then... Like, during the meeting, you could ask, oh, hey. How many people do you have working there as Sdr? And then the other people do answer, like, the other person of the us oh, we have like, a around twenty. And the bot would be able to retrieve like, dev to any and but that as the answer for the question. Automatically. That's one of the features.
+
+Host 1: Yeah. That's made the main like, the the main part where the Ai is used. So... yeah. For for to actually use That part, you need to have your sap on your user. You could ask vincent details about that. I'm not that knowledge on that part. So he he has my contacts. But it's kinda like that. And brenda bought left. I don't know what.
+
+Host 2: Oh, I keep him out. I wanna see why.
+
+Host 1: Okay. Yeah. Okay.
+
+Host 2: So I'm so sorry. And the last question i half. So this meeting is as supposed to be showing up after I'm done with the meeting. Right? Like, on the.
+
+Host 1: It we only only i appear on your list, the way works if one of the more details about the process is way we Let just send a link to Jack. I'm really bad Not asking. Sorry.
+
+Host 2: No. It's okay. I'm so sorry. I thought this was going to be, like, a yes, or.
+
+Host 1: No. Yeah. So I just sent. So you need to download that check install on your So the way works is we have those bots listening. They actually card the meeting. And way meeting hands the he call the provider they are going to send us a web hook. Evan. With the whole transcript. And then we use that transcript. To send Gp three. So we can, like, have more details about conversation like, oh, like the question I used it before. What's the number of Sdr in the company? And then Three, would give you answer back. And after we do all that, we create the meeting in the actual database all that information. And then we send mail to you. Nice like message.
+
+Host 1: Yeah. It should be after we end the meeting, you should receive a notification. If that sales ai bots from your account.
+
+Host 1: I do know I I will received because I have the genesis meeting he carter.
+
+Host 2: I really hope so. Okay. So let's see how many potatoes the Jonathan eight yesterday.
+
+Host 1: Good question. No. I think I like I think I only hit one potato.
+
+Host 2: Yeah. Okay.
+
+Host 1: Okay.
+
+Host 2: Yeah. So Jericho, do you wanna have a meeting tomorrow noon about the potatoes that Jonathan ate.
+
+Host 3: Sure. That sounds good.
+
+Host 2: Great. Awesome. I'll compartment, and I'll send you an email later I'm also adding a note to Salesforce. And I'll follow up with you guys later. Sorry. I just need to Testing thing this is gonna be fun.
+
+Host 1: Yeah. I was gonna to say that you guys are going to have find that's this.
+
+Host 2: So. We can end the meeting. You know, in the dumb to team you guys want Yeah.
+
+Host 1: That sounds good. Okay. Alright. Yep

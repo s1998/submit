@@ -1,0 +1,305 @@
+Client 2: You? Hit Harry?
+
+Host 1: Ali.
+
+Client 3: How's it going?
+
+Client 2: Good.
+
+Host 1: How are you?
+
+Client 3: Good no good. It's just been... It's a crazy weekend. It's a it's minus ten here. In Celsius in Vancouver which Celsius, oh my god.
+
+Client 3: For rights. This is like beyond cold and that is normal in Toronto or New York Philadelphia, Chicago, but for Vancouver, this is like, fifteen degrees celsius too cold.
+
+Host 1: At least crazy. I mean, how are you only wearing a sweatshirt?
+
+Client 3: I just... That's why not. Didn't go into the opposite. I'm actually going elevate signals later on today. I just need to do a work workout first and get my work out and just woke up or late this day. So it's a crazy day. There's gonna no one other roads. It's interview said what is negative ten negative fifty.
+
+Client 3: Of this is very high. Yeah. It's it's exactly technically be won't by any chance.
+
+Host 1: Wow. I feel like everyone in canada use it's on in their.
+
+Client 2: Fourteen fahrenheit and.
+
+Client 3: That's Yeah Fourteen to be fahrenheit night.
+
+Host 1: T Okay. I did that wrong. Wow Cool.
+
+Host 1: I'm gonna take a little bit of backseat here but us be like support as needed. Email. I know it has some things to work through, but that is absolutely not tell have to catch up about that. I don't know how you guys live out there.
+
+Client 3: Oh, it's easy the free health helps a lot.
+
+Client 3: Okay.
+
+Host 1: Got. If you freeze on the three.
+
+Client 3: Build problem. Come a lot. You know, it's just there's huge advantages living canada like wrong.
+
+Host 1: Yeah. I know you love it.
+
+Client 3: Think might be in Palo Alto.
+
+Client 2: I've friends might space of time with them and the new year I've actually moving from Toronto to Palo Alto for about two years.
+
+Client 2: Nice. Will be a big changed.
+
+Host 1: When you gonna be there, I think I'm actually gonna be in Palo Alto and, like, I think my flight is january tenth.
+
+Client 3: Gotcha. Yeah. There i think looking at third January. It will be open in Palo Alto. Out of Vancouver. Like, we built all the new water in Palo Alto ago. Is all built by a vancouver of developer.
+
+Host 1: And san francisco.
+
+Client 3: Yes. There's francisco going in San Palo Alto like San goes Very Canadian. It's very Canadian owned.
+
+Client 3: That's sorry.
+
+Host 1: For Vancouver Ready.
+
+Client 2: Cool. Thanks for joining how I just wanted to touch base on are couple of our accounts. I think we could probably start with life booster, but it looks like logins have been pretty much really really low. Over the last, like, month and a half, and it looks like they're aren't any... I was just checking so there's any models or dashboard built out, and I don't see any. So I just wanted to see checking what's how we can make progress there.
+
+Client 3: Yeah. That comes not on you guys. That was on so where obviously, we told you guys we're chain. We're looking at January year end and upon our year end what became a big obstacle for us is looking at our our Gl the way it's structured in Quickbooks is just kind of on it's not really handy frankly to do any decision making. And I know when we first started the revenue model, we were looking at this sort of usage based pricing model and then how to track that. So we came up with straight line with the revenue team, that that straight line will probably just be easier methodology. For you guys. And for us, it's something that Our board was not comfortable with usage based pricing, especially for an early stage company because we don't have the to set to prove and so it would be too lumpy, let's say for new investors next year. To accept the the pricing model and and right because we should be able to build pricing model that is, you know, fairly straight line.
+
+Client 3: Usage base. So we sort of made that pivot there. Our hubspot is being adjusted by... So we ended hiring a new salesperson and that is adjusting our hubspot rapidly. And then Steph is one they'll be handling P there. I have a call with Brian the the issue that Bryan had, not an issue, but time commitment is that he's at a kid on the way. It's supposed to be last week and then the week before that and now it's week, hopefully, You guys been answered a message for about four days. So that's where Bryan has been held up. And then steph is got a lot of plate, but she's the one be kinda running this thing with me, but She's actually helping me readjust the Qb o. So what happened is our previous accountants. They've made a bunch of mistakes with the way the model is built. So every time you push a bill into book, never actually reconciled reconcile against the bill. They just let they used to be a much of manual journal entries to clean it all up. And the end. Now the raw metadata and quickbooks is accurate. I couldn't get any time on my schedule to pull back and clean it up, and I looked at. It would take me a couple of weeks at least to work and decided it's better if I just scrap the thing and start January first and the boards okay with it. We would delete all of our old Quickbooks and just start new It got to the it's like thought it'd be easy enough to solve it and then it's not the headache.
+
+Client 3: Honestly. And so we're doing what gives us an opportunity to do is build our quickbooks hormones. So what is functionally better from a granular Gl perspective and so Do we book the department codes tags, classes, do we organize all those things to get the date that we're looking for And the main thing that transition there is we wanna know what we spend on each of our products over a period of time. That's something we were never tracking in detail before. But now the given though chance, we have the chance to rebuild the Quickbooks that was built originally, I think, like, six, seven years ago. We will now rebuild Gl. So it tracks product costing. And customer success costing as well as just time spent regionally between different departments.
+
+Client 2: Oh, wow, okay. And are you interested that be ready by January one are you guys just sort that?
+
+Client 3: It's already started. We already started mapping it out in terms of how it be done.
+
+Client 3: We're just finalizing our review engagement right now. So already under process. Once it's done, those become our opening numbers. And so what we're going to do is i'm right now in the background, pulling January to December and obviously, the first six months that, the settlements months that will be audited or reviewed. The remaining five months will not be reviewed. So I actually have to start a review engagement in January to do this stub here to five months. And then also follow the taxes for that. And so that will give me a prior year that's fully reviewed. That becomes the opening entries in the Quickbooks, but we'll be entering data sort of January February March month over month close all the way July, and then we're putting in the next five month period as well. So that it's all in there. But, yes, to to the question directly, we are it's almost done. But our biggest headache had been the Quickbooks itself has been messy to say at least.
+
+Client 2: T. So sounds like three major overhaul.
+
+Client 3: It it is, but So it will actually save us time in long run. The original quickbooks to put it and put a finally. If you put your lawyer's bill in, your lawyer bill was a g.
+
+Client 2: Oh, jeez.
+
+Client 3: That's all. And that's been going on for seven years.
+
+Client 3: And if I go back and clean it all up with geo and, like, close off the year, the metadata still shows open invoices for like seven hundred and forty thousand dollars. And I can't fix that. Even though, like, the the green category in the red category, and it's just a bad metadata. And so wanted pluto over policy and to automate all that stuff and these guys had said they used it, but they went back and looked then double check and they never actually activate any of those counts.
+
+Client 2: Wow mh.
+
+Client 3: I've had to clean up a lot of software here. So they actually have their own local account. I ended up deleting the plural account. It took me two weeks because at a call pluto don't say, this account needs to be deleted, so I can add this bank back to my new account.
+
+Client 3: Was just a whole data overhaul there, but it's good. It's just transferring streamline of processes our fund fundraising just closed on Friday.
+
+Client 2: So Nice congrats. Looks exciting.
+
+Client 3: Thank you.
+
+Client 2: Lot more So For sure. So I guess given this whole transition, When do you think you guys will be ready to start modeling in jose and sorry building out some of those historical And head count dashboards.
+
+Client 3: Yep. So I'm hoping that we'll be trying some stuff out the last December actually step not gonna be doing a couple of dinners and drinks to to kinda go over this stuff. U. She's not too far from where I live now. So we'll be doing a meetings to catch up and see how that works. And so the plan has actually... She's actually been interested in figuring out this as well. And then but it shouldn't take. We'll get our first graph probably end of the year. Maybe the first week of January should be like sort of massage and whenever Brian's ready to have a chat well we'll take look at it in more detail.
+
+Client 3: Okay.
+
+Client 2: Sorry we're thinking, like, trying to build out of model, like between now and the first week January, basically.
+
+Client 3: Yeah it'll be between Christmas and the pretty much.
+
+Client 3: Okay.
+
+Client 2: Yep.
+
+Client 3: They're nice our time. So Okay.
+
+Client 2: On the Air arr side, I know that our implementation team did build out Arr, and they have reached out to let you guys know and they also ask for, like, a source of truth. That we could potentially reconcile to if that exists. You guys had a chance to look at those numbers. I know that you said that slot is changing. So I don't know if That means the air logic that we built will also change.
+
+Client 3: It'll just get simpler. I think step may but it's... So it's actually didn't get simpler. So previously, what was happening was there was the Hubspot logic and then they would to be some sort of raw data from our systems. That would tell you what the actual usage patterns were over time. And instead given that we're gonna do straight line as a as a proxy, what we're gonna be able to do is just use the hubspot contract value over the period of time and just divide those two numbers and and recognize that it'll be similar to the signals where they'll be sort of the booking date, so the date in which the contract was signed. And is going live, and the second one will be this right. The booking date and the go live date. So the booking date might be let's say January first twenty twenty three the client will not go live. So the kick date might be March twenty twenty three.
+
+Client 2: And so it's just recognizing that the will be a booking date and the second will be of customer success go live date.
+
+Client 3: And we wanna track all that stuff and help hubspot going forward.
+
+Client 2: Got it. Okay. So probably need to have another technical scoping call and then aggregate your builds given the logic is going to change. So when when would make sense for that call? Let's see.
+
+Client 3: Of steps schedule as well.
+
+Client 2: Yeah. Let me just i send you over in Zoom chat the link? And we could see, I mean, I think the next available is first week of January.
+
+Client 3: Any holiday plans?
+
+Client 2: I'm going to Marry.
+
+Host 1: To you are.
+
+Client 2: Yeah.
+
+Host 1: I'm going to oahu, Oh yeah.
+
+Client 2: Oh, my gosh. How long are you going for the whole week?
+
+Host 1: I'm going for two weeks.
+
+Client 2: Oh, So the first week of January two, Yeah.
+
+Host 1: Because I was was trying to go to like, Thailand, but then I got super overwhelmed by how quickly was coming up in the planning and logistics, so I was like, ugh I don't wanna get do that. So then Right that's why And then It's like, well, I don't wanna you know figure out what my near. So I'm just gonna say for one time.
+
+Client 2: Nice. Are you gonna be like, working that first speaker you taking off?
+
+Host 1: Oh, I hope I'm not working, but, yeah know.
+
+Host 1: Who knows Guys.
+
+Host 1: I'm running my computer just in case.
+
+Client 2: So Yeah that you'll be working for sure.
+
+Client 2: Yeah As laptop outside to be working.
+
+Client 3: We obviously, no customers getting Layoffs going on. I know San Francisco just starting the layoffs. They haven't really gotten going again as far as I mh.
+
+Client 3: How you guys?
+
+Client 2: We're we're good.
+
+Client 2: Yeah.
+
+Host 1: We're we're always we.
+
+Host 1: So thankfully, nothing, but definitely seeing it across the board with like, Linkedin is overwhelmed with you know most about people getting laid off, which is everything.
+
+Host 1: Crazy, Yeah.
+
+Client 3: So absolutely just not even announced the layoffs yet. There's actually a bunch of going on Bay area. I was get dump paper between I think work out to like fifteen to fifty percent companies. Like dial employee. Yeah. Like, I know a company that laid off fifteen percent back in May. Quietly in the last three weeks left twenty five percent but never can public me See like know my one of my last companies actually this one that I worked out for a long time they laid off like over a hundred people and their execs to say anything about it.
+
+Host 1: It was just, like, trickling out, like, people being like, hey, I'm looking for work now I don't know how they get away with that.
+
+Client 3: It's it's not... By legislation, don't have to actually announce anything and you're in the Uk, the Uk labor lost way better for the company, you can just like, fire company not care.
+
+Client 2: It's tenants if you one to.
+
+Client 3: You can keep building without giving anything. Like, it's crazy Gosh.
+
+Client 3: It's got a.
+
+Host 1: Came in California.
+
+Client 3: But well, that's why Uk is still cheap eleven than most of Canada.
+
+Client 2: Right?
+
+Client 3: Four ones. Right?
+
+Client 2: But if you look at it a california label i like, it's very difficult.
+
+Client 2: Okay. It is. Same thing that's even trying to kick out of tenant. It's very harsh you california.
+
+Client 2: California very much so favors, the employee n lieutenant it.
+
+Client 3: Which is why we never actually own real state in California.
+
+Client 2: Yeah.
+
+Client 3: One the biggest is dog blockers for sure.
+
+Client 2: Yeah. I know some folks that instead, I'm chosen to buy a property in Arizona because the laws more locks compared to California.
+
+Host 1: Right now. Arizona is becoming the new California.
+
+Client 2: I know. Right?
+
+Client 3: Let's seems gonna a put step on here as well.
+
+Client 2: Okay.
+
+Client 3: Dot a u at dot c a. Cool. Yeah. I think it's it's really interesting just to be careful with the layouts because think they're actually gonna get a lot worse. Before they get better.
+
+Client 2: There's gonna be a lot more.
+
+Client 3: Talked to a couple of executives and Every time i have a shot chat with someone. They're like, no, We're gonna be okay. It'll be fine. Like, look there's there's no way and how your survival without, like, getting rid of hack company. Your growth rate was so do this. It's literally flat lined out your built for company that's doing two hundred fifty million revenue you're doing seventy five, like, Something's gonna add things.
+
+Client 2: So... Yeah. Yeah. I know. Tough times. Ahead. For sure.
+
+Client 3: Yes. Yeah. But i've been all good changes too. I mean, it gets people some freedom to go we're a start up or goes somewhere else, I mean, you don't need engineers may what they make in all cases. So department Right.
+
+Client 2: Okay. Cool. So... Did you schedule that for the first week of Jan?
+
+Client 3: Yeah. Okay Perfect.
+
+Client 2: I will let the the implementation see know that we're just gonna do a re react. Cool. So I think we're good on the life booster for nova. I've been making really good progress with Lindsay. On the model. She just needs to sort of finish it out and then build out, you know, forecast for actual and department dashboards. And then Also Arr is like, good to go. So we just wanna get your guys blessing to know if you're got alive. Or not So I don't know if you guys have had a chance to review Arr and pipeline at all yet.
+
+Client 3: So I haven't so the the budget got delays to the budget just got sent to the board Saturday morning at six thirty my time.
+
+Client 2: Okay.
+
+Client 3: So the budget review is actually tomorrow at noon.
+
+Client 2: With our board some are out Philadelphia in New York toronto, so it'll be done everything be approved as of Tuesday, and then we'll be able to put it with the model as a Wednesday hopefully.
+
+Client 2: Oh, nice. Okay. That's awesome. Sounds good. And so let me just see when I have my next meeting with her. I just wanna see if I've got something on the books. Oh, yeah. Okay. We're actually meeting on the twenty second. Are you gonna be able to join then? So this Thursday.
+
+Client 3: We can see why not Yep.
+
+Client 2: Okay.
+
+Client 3: Yes. I'll be there.
+
+Client 2: Okay. Sweet. If you can before then and take a look at arr and just let us know if anything looks off. I don't know if you guys had a source of truth to tie out to.
+
+Client 3: For Arr yeah.
+
+Client 3: So right now that we're still using our... So what I've the sales team is different series and how hubspot or sales trip. They they are looking at a marketing perspective they're looking at the pipe drive, I think. Doing so... And I'm not really a fan It's it's like use way of the other, but one's not better for marketing than the other. You guys have any recommendations on marketing that are better distribution. I I don't think any of are really that good frankly, but you know any that have good attribution i'd be interested in have conversation. So we might actually use Pipe drive for marketing and then use pump hubspot sales, which i think makes any sense, But Yeah.
+
+Client 2: Folks are either in one or the other, and I definitely see have hubspot a lot more often than Pipe Drive. And then also, obviously, Salesforce being like Now.
+
+Client 2: They keep comment on as for sure.
+
+Client 2: Right. Right. Okay. Well, that sounds good. How about, I guess, maybe what we should do is just schedule time for life booster like early next year. Seven makes sense just after you guys have had time to start three building all on mosaic. So When one works for you and Stephanie?
+
+Client 3: So you guys are taking me off of a second Yeah.
+
+Host 1: We are.
+
+Client 2: We are off on a Monday.
+
+Client 3: Meeting happening but you guys taking more on the status down holidays.
+
+Client 3: Let's see. I'm just pulling up test calendar, Brian.
+
+Client 3: Looks like most of the company will walk. Management team will be working on the second Looks like.
+
+Client 3: Yeah third. How about the gift. From Noon. I guess works really well.
+
+Client 3: Okay. To like, three. I we just block that period off.
+
+Client 2: Okay. I could do Twelve to twelve thirty. Perfect.
+
+Client 2: Should I is really talking about most likely modeling on that one I invite Brian Yeah Obviously run at least get into one of these calls.
+
+Client 2: Okay. Was his role again?
+
+Client 2: Coo. Okay.
+
+Host 1: Nice.
+
+Client 2: Alright. Okay. Cool. So I'm an shoot over an invite. Anything you wanna chat through the elevated signals. I know that you they're working with brad on that.
+
+Client 3: No. They're good. It's the there's only one decision we need to make, which where sorts of truth is gonna sit, whether it's gonna be in Charge b or in And ham hubspot it looks like what might be best practices you have our pipeline then use charge me for billing portion just because el bit kind of growing in a really odd way we're in Australia the Uk parts of Germany coming line for us Portugal coming online for us the Us candidates, the billing becoming a problem.
+
+Client 2: Where was just like, utterly failing, like, all the time.
+
+Client 3: Definitely move away from them as fast as possible. So the actual what we're trying to get a little bit signals right now is trying to register the account today and tomorrow that hopefully our transition team can like, take over and by year end bull. Put all the billings onto Charge b. If that's possible we'll do it if not then won't change too much just trying to figure that out with them right now and seeing what's possible for Jan first billing.
+
+Client 2: Got it. Okay. Makes sense. Cool. I think that's all I had. So it sounds like Nova is is on track and a life insertion. Pick up turns the beginning of year here.
+
+Client 3: Exactly. Exactly. And it it'll be the last time because we'll do our review for the first half the the fiscal year ending in July.
+
+Client 2: Do review for five months and it'll put all that correctly into quickbooks a new quickbooks instance and that should clean up a lot of our problems.
+
+Client 3: We've had payroll issues and other issues that I think it took me two years Brian. He's like, now I understand. We just need to replace the same language was replace to start to start fresh Queen slate.
+
+Client 2: Right? Well cool. Alright. Definitely i appreciate the time. How i know. Things are super hectic. But we'll chat on nova just a couple of days here. And then if you need help with anything in the meantime, feel free to shoot me out.
+
+Client 3: Thank you.
+
+Client 2: Alright. Sounds good.
+
+Client 3: Thank you.
+
+Host 1: Great. Warm highlights take.
+
+Client 2:

@@ -1,0 +1,161 @@
+Host 1: I'm good. How are you doing? Where you calling out today?
+
+Client 2: Boston.
+
+Host 1: Boston. Nice. Is it getting chilly there too?
+
+Client 2: Yeah. It's... It's just in the two thousand forty four today. It was thirty yesterday. Got it.
+
+Host 1: I am in Toronto right now. It's forty degrees guy.
+
+Client 2: It's pretty it.
+
+Host 1: Yeah.
+
+Client 2: Sweet.
+
+Host 1: Thanks for holding on this call. Happy Friday. Just for some context, I'm Enrique. I made, a product manager here at Sales ai. And we are looking to build tools for a salespeople people to help them become more productive and as part of that, doing a little bit of competitive research, especially around the conversation intelligence side of things. I think I mentioned we reached out on g two, or we we saw your review on g to regarding gong. I wanted to learn a little bit more about how you use Gong, like, what your thoughts on it? You need to start off with what we contact about yourself like a position, your company and kind of the industry that you're in. Sure.
+
+Client 2: So I am a sales ops manager here at Ta testing cybersecurity software company do email security specifically. So trying to stop actors from fishing people, basically. And we use... We've used Gong for years now used it at my last company recorded feature and now I use it. Here at Test, so I've probably used it for, like, three or four years now. It's been it's one of the more powerful tools that we use, but also, we don't use it for all the powerful things that it does, which is unfortunate it happen time share, but Gong one of the main points of God that I find most interesting is that they can automatically hear things are being talked about on the call and then slack something about her email then about it. I'm saying, hey, this person's talking about this competitor on this call. So get them some resources on those things Asap app or something like that or like, hey this call. Like, send a Slack to sales leadership. I hey this call. Was talked about pricing, their negative things said or they're looking at other things due to our pricing something like that. Like, there's a lot of things that you can do about do with it. It's very flexible in that way. We've used it mainly as a repository for calls. It's things automatically recorded and then having people listen to it, which is great for that. But it also does so much more that we just don't use it for. Unfortunate.
+
+Host 1: That's super cool. And that figure just mentioned, like, hearing those keywords and slack someone. Does that happen during the meeting itself or is it of meeting with process I think it can happen during the meeting itself.
+
+Client 2: Again, we know use it that often. So I'm not first on the actual details. But from what I'm... I've heard it happens itself, Mean definitely once the call is over it, for sure happens, like, the have a bit of it. So if one of our specific competitors as mentioned in the call that be well gonna slack about it, at least one calls over. Having it during the call. It's fantastic as well just to make it a little quicker, but both are just useful.
+
+Host 1: And specifically, for your company are company, like your previous company which keywords or things you have set up there. But you mentioned pricing competitor relays or anything else did you care about?
+
+Client 2: Yeah. So Generally, it's a call has specific competitors talked about on it, We'll get we would get notifications for that. For any specific pricing. If they say bad pricing or anything similar to that. Generally there will be locations, and then we also use it kind of as a coaching tool. So if the sales rep doesn't talk about next steps, for example, then we'd get a notification about that call to try to coach them things better next time, make sure that they actually talk about next steps next time. Or like, if there's any other specific topics that we wanna sure always talked about, like, the new... We rolled out new products at our last company. We referred to them as the modules. So if they don't mention our new modules on the call, and that's also coaching opportunity as well. So It's we mostly use it as an enable tool to make sure that everything's talked about. Properly and that the reps are talking about what we want them to talk about about each call.
+
+Host 1: It's interesting. How exactly you you that particular, like, workflow. So do you set up Let's say, for a new product launch, you set some keywords. And how do you use that information on a weekly basis? Like if you create some sort of reporting, like, how exactly hour.
+
+Client 2: Yeah. So we either use Gong native reporting to look for those keywords and see which calls were not mentioned there or the slack notifications. So it'll notify manager or our sales Enable team. About the sales rep not mentioning this on a call and we'll follow... But them. It was used pretty heavily for newer reps. Who are still learning on what we want to talk. About on our calls. And so especially used heavily. By the sales managers to top train their new team members, generally. Got it.
+
+Host 1: There are these all based on specific keywords during the transcripts or in the transcript? Or are they more like smart, like, topics sort of things.
+
+Client 2: I guess, what's the... What do you mean the difference between things? So I guess one one flavor of it is, like, looking to transcript i'm seeing literally, like, if this specific word was mentioned, or this gong have this sort of, like, Ai capability of of understanding, or you're talking something about, like, next steps?
+
+Client 2: Yeah. So it can... It is a bit of both. Definitely in the transcript for sure So if the works next steps are in this transcript, it'll have that notification. It can kinda contextualize phrases as well. So if you look for certain... I think it's looking for certain sentiments. I might call it. But if you're talking in a good or bad way about something or pricing. Or like, you have sort of positive words associated with it. It can kind of know that and it can pick up on general themes. They don't know if it's specifically Ai, but it might read the transcript and then figure out through context or something like that. I'm not super sure, honestly, the technical bits, but it it can notice themes and things like that. Got it.
+
+Host 1: And if you wanna add these, like, keywords or topics, how exactly do you go about Is that responsibility or the sales manager do that?
+
+Client 2: Who does that. Yeah. So Gong comes with a standard set of them, and then if we want to add more, we'll generally work close with the sales team and sales leadership on what they're most interested in hearing about as well as sales enable. So the sales name team actually has things that they wanna make sure our driven into the minds of sales reps. So it's it's more of a committee on what keywords get added for sure. Like, sales ops and never works in a bubble so i've never should working a about all sales ops should not telling sales leadership of they care about. Mh so almost be the other way around. So definitely working closely with them on what keywords should be added. Sweet.
+
+Host 1: And especially for yourself as a sales ops manager do you use Gong on a weekly basis?
+
+Client 2: So I do a lot of the administration for it, make sure the back end set up how we want it to be a lot of technical side of it. I work closely with sales enable i'm making sure Gong is set up way it needs to be. If sales reps have any issues with getting their call recorded or anything like that, then Avi in there, but also we'll do some reporting on it. I do all inference team as well. So we'll do reporting on which opportunities and pipeline have had gone calls where you've gong monitor or how many calls have happened in the last next number of days. We can kinda tell how healthy our pipeline is given how many calls they've had. Gong also has a really useful kinda like Gong refers to it as, like, their heartbeat of the call. So you can see which sales reps have had how many calls per whatever time frame you're looking at in the past and see how much they're actually doing with their opportunities, are they actually working on opportunities, which opportunities are more healthy based off calls. So Gong has a made version of that as well, but then we'll also pull it it to Salesforce. And then cross. Transform our data in a way that we can report on it and see square pipeline is as well. So lot more forecasting use pipeline health type stuff. It's a good indicator of that.
+
+Host 1: Yeah. Tell tell me a little bit more of that heartbeat of calls like, what particular data points are he's looking at and and what's representative of, like a a a good call versus a bad call.
+
+Client 2: Yeah. Gong provides some have benchmark metrics, I would say. I honestly, I'm not sure how your they are they're a good starting point. So you can see, like, who is talking those to ask the most questions who talks for longest amount of time at a time, which has been useful and then for the actual pipeline health and heartbeat bit, you can see how many calls are happening at certain times. So it's more for call frequency and actual activity rather than how calls where, but then obviously, you can deep dive into the calls and see how good those calls. Actually wear. So just so sales reps really aren't fluff their plan by having short calls or something like that just to make it look like they're doing things. But i... The deep dive is definitely necessary to see if the calls are real calls or you're actually spending talking and customer asking the questions that you need to be asking.
+
+Host 1: You. And is all those dashboards or analytics? Is that in gong itself would do you have to do some sort of export into Salesforce.
+
+Client 2: It's... So when I first started reporting on gong data, it was almost all Salesforce. They've added... I'm not sure how recent it was. But it was probably sometime this year. They've added a lot more reporting capability within Gong itself, which has been really handy. Just so I don't have to do all the work of putting it together. So more more gong now than sales course, I would say, but there is some additional Salesforce. Reporting work to do.
+
+Host 1: So what other reporting do you doing, like a weekly basis. Like, what what are some other reports that you have in mind?
+
+Client 2: Like, in general or gong specific.
+
+Host 1: Gong specific.
+
+Client 2: So it's it's a lot of what I just described. There's not much else It's mainly just pipeline health. Forecasting accuracy and things like that. If we are rolling out new products, which my company currently is not doing. But if we wouldn't roll that out, we'd see how much these products actually talked about if there's interest there in the products, and making sure that the reps are push pushing it out as much as possible, but that's also that just feeds in enable as well making he said that they're unable to talk about the new products. So I would do all the reporting for sales and they live they're not doing as much right now, but whatever reporting sales name when does, I would pull the numbers for them what they're interested in.
+
+Host 1: Do you actually use Gong or did this the team gong for forecasting or use another separate tool for that?
+
+Client 2: Because separate two forecasting, it got more informed. We use gong more as a metric. To inform our forecasting and see how accurate these people's forecast we are, but we do have a separate forecasting tool called Cla. Gong. Has kind of a baby Cla, I would say it's nowhere near as good as cla is, which is why we have clear. So you you could use it. We don't.
+
+Host 1: More about clarity well, why do you think gong isn't insufficient? For forecasting.
+
+Client 2: It's Cla. Had a lot more reporting capability in there as well. So they have They take pipeline snapshots in a way that no tool really does. So it's really helpful to see where a pipeline is at any point in time in the past and where that exact pipeline has moved along over time, so you can see the exact pipeline number, the start a quarter, for example and see deal by deal where those deals ended up. And see what happened in between. So like, we use Gong and Tandem to look at where those calls happened along the line, how those calls affected the pipeline and then out to Cla. See if they were closed lost if they were pushed out, they're pulled in even things like that. So cla a more robust reporting tool for our pipeline and then we also use it as our forecasting source of truth for the reps of their forecast as an inquiry, every I think they do it every Thursday now. They do the their number isn't updated Cla every Thursday, then it's not real. Like, we don't know what's going on and then sales you gets all upset.
+
+Host 1: And Yeah.
+
+Host 1: If here is, like, so does gong on have ability to have like snapshots like what why is gong not as sufficient here.
+
+Client 2: I haven't seen gong do any snapshots like that. They're they're opportunity data that gets pulled into Gong is nowhere near as good as what we get this query just because they they focus it more on calls than it really needs to be. And we do do porting with the calls and we see how the call affect opportunities. They absolutely affects the opportunities needs, but Gong focuses more on their products make sense then what is actually necessary. And then the actual deal health from the forecasting bits bit I haven't used that much, but they have never seemed as robust as what Cla offers, like, the reporting on specific deals, I would just rather do in Salesforce or Cla. Just it's just better.
+
+Host 1: Mentioned earlier, when time gong on a weekly basis, like, do a lot of admin more technical things make sure it's set up properly. What exactly? Does that consist of? Like, what what kind of admin work are you doing here? Yeah.
+
+Client 2: So there's... There's setup up... I work with our It team on our google connection to make sure that the Gong is connected to all their calendars. Sure that it's automatically seeing the calendar invites with external members well, external people that they're talking to. Making sure that that's pulling in correctly make sure the calls are getting recorded, and then also made to Zoom to make sure the Gong can get into the zoom that they're talking to people on and then setting up Of the member making sure that the members are properly recorded because we pay by recorded license. We wanna make sure that's accurate. So we're not paying more, than we have to make sure we're using the licenses that we've already paid for. And then making sure that the keywords are set up properly making Salesforce data is pulling in correctly, things like that. Like, mainly if there's any issues. Figuring out what the issues are.
+
+Host 1: Got it. So is it more like a reactive thing? Like, if if someone mentions gong didn't hop into this call, you do that or do you have these, like, more recurring spot checks every now and done.
+
+Client 2: More reactive now that it's all set up when I set it up originally years ago, it was making sure everything's connected. Sometimes new people will join the team and gone what be agreeing with their Google set or something like that, that all I will have to react to but yeah. Once it's set up, it's much more reactive. And then there's been new features that they've added to the salesforce integration that they have. Setting up those as well that was more proactive than reactive, but once all set up, obviously, it's more. Got it.
+
+Host 1: Now what do you like at least about gong? Or which features do you think they should implement?
+
+Client 2: I think the... This is kinda going back what I initially said, I they it enable their customers a bit more. Like, we don't have much of a touch point or cadence with our Cs there account manager at all. So, like, we're not using gone to its full effect, partly because God isn't helping us get there. So the enable resources there just our as strong as other places like for Clarity, for example, we have a weekly call at them. To make sure that we're using cla properly. They're giving us resources same day. Other things that we ask them about. We always have questions for them. I'm sure the same would be true. I've gong. We just don't have that. So they're positioning it as this grand important tool, but also not making sure we're using it to its full. Effect. So probably at least fair about favorite thing about Gong is the gone team which is too bad.
+
+Host 1: So sounds like the main way that you use Gong is where the team is through this, like, meeting repository, that's kind of like, the the the first thing, then having these keywords and kind of feeding this information into like, forecasting or reporting. Is that correct?
+
+Client 2: Yeah. That that is correct. It's it's at this company, it's an essentially glorified meeting repository. Yeah.
+
+Host 1: And have you or the team... I never thought about switching to another tool, and would you ever consider that? Yeah.
+
+Client 2: We're thinking about it right now. Our gong renewal is coming up. In two or three months, I think. And we're thinking about switching to other tools like Cla just purchased the company called Wing man. So we're thinking about moving a Wing man to consolidate i tech stack under just a clarity umbrella. So looking at Wing right now, so seeing if that does everything that we needed to. We looked at sales loft in the past for call recording. We have sales. We use sales for our Str sdr team for calls, tasks things like that. That's a whole big tool. But We looked at them. It just wasn't as good as as gong. So we stuck with that. That was a year or two ago. But now we're looking at Wing man probably won't look at sales out again just because I don't think much changed there. But Think Wing man we're the only one that would replace Soogrim right now.
+
+Host 1: And one wasn't as good as gong for for sales?
+
+Client 2: So lu had fewer capabilities and we really need to, it would do the call repository. I think it was harder to get the calls in there from what I remember, like, is more there's more of a lift to do it Maybe it's because it was a new tool. I'm not really sure. But there's less possibility with with sales off than was gone. Like, I say that we haven't used Gong fully. So maybe would have been final sales, but I think we just like Gong as an all tool better than sales for the additional features it has that we... Use Yeah.
+
+Host 1: Of this year, That's a your point of view. I mentioned consolidating all towards clarity. Like, if going to move towards wing man, What? Do you think are the advantages of that consolidation? Like, why why do you think that's important to you? Fewer barriers on our side, really.
+
+Client 2: So it would it would be easier to get Wing because we've already signed Cla paperwork. Like our security and legal teams have already approved Cla in their Msa, so it would be slot in wing man. Now that's under the same umbrella. Fewer your paperwork at the renewal as well. So it'd be easier easier to renew. One second here rather than two, which is always better. And And then if we need support, we have support in one place. The clarity team also been great anyways. So we can talk to them about both Cla and wing met at the same time, get their support with that. I haven't had the deal directly with Gong support on any technical issues that often, but if there were any, I imagine it would be. Easier to deal with Cla than let's gong. Just get in there. Got it. Very.
+
+Host 1: As you're, like, evaluating Wing man right now, what what are some of the things that you have in mind in terms of like, replacing it with Gong. Did have some sort of like, bare minimum things that you want, Like what what's going to make that decision for you?
+
+Client 2: Yeah. It would be really what we're actually using gong for right now. And can store our calls. Yes, it. Absolutely can. But, like, can it notify us of specific keywords. And Okay. That do all the reporting things that we actually use right now, which is mainly just tracking how often calls are happening health of pipeline, things like that. Does it make it easier for us to do that. Those are the... I would say, three pillars. Again, there are other features that Gong has that I've talked to about that we don't use as much. So those would be more nice to have. If wing has them, but not remarks.
+
+Host 1: So you mentioned calls can notify your specific keywords. And that pipeline health part, Can expand a little bit more about that? Right.
+
+Client 2: Really looking at how often calls are happening per deal, So looking at deal ideal, how often calls have happened in the last thirty, sixty days. One of the things that we liked to about Wing man as well when we initially looked at it was that it puts the data into Cla as well. So we're using cla our forecasting tool. It can then integrate with that and show when the next call is, when calls are not happening. Or wouldn't calls them happen in the past, if calls are not happening has a little marker on the opportunity there in within Cla, which Gong does not do. So it really enhances our ability to have a a healthy pipeline and see if it's not healthy pipeline, Yeah Oh, wow.
+
+Host 1: That's interesting. So I'm gong it won't tell you if a deal hasn't had a call in, like, thirty or to sixty days or something.
+
+Client 2: Not that I know of. Again, it might... It might be the case, but I've only looked at it on how on the that are currently in the pipeline, how many calls have happened really I don't even think it shows when the next call is, I might be wrong about that because that be a silly thing to not have. But Yeah. It's it... I've just seen like, oh, this call has had one this opportunity had one call in the last sixty days, that's probably not great.
+
+Host 1: Is that in the form of some sort of, like, email report or do you have to go into cla to actually see that earlier alert? That's in en specifically.
+
+Client 2: There's no email reporting that I know of, maybe wing has it. I don't know. But it would be integrated with Cla. Got it.
+
+Host 1: And what do you think about the migration from Gong to Way man. Is it something that you're concerned about? Or is it not as important.
+
+Client 2: Yeah. The main concern is getting the calls that we've had in the past into wing man to run it through whatever ring does. Getting all those calls over because we've had thousands of them probably at not. Sharing the exact number, obviously. But like, we need those calls in the history. For dia. So moving those over. I'm not even sure if we can do that, which would be a big blocker. So if we may can't do that maybe, we don't buy it.
+
+Host 1: Are are you traveling Wing man right now?
+
+Client 2: We haven't done an official trial. We've been talking to them and just getting demos for we started initially with me and our sales name. Director, and then we're gonna do a demo with our Sales, Vp vpn sales ops. Just to get more visibility onto that. But really just demos right now we may do an trial actually in the product, but it's not happened yet.
+
+Host 1: Cool. Sweet. So for the rest of this time, i'd love to just quickly show demo of what we are working on right now? So we're building something very similar to a gong, but with a slight twist to it. We still have that media repository the ability to hear transcript search through everything. One of the things that we're adding is ability to automatically we update your Crm right after the call. It's big game point for a lot of teams. You know, at the end of day, especially for forecasting and keeping your pipeline accurate, like, keeping your Crm hygiene date is very important. We're trying to make it really easy by surfacing these Ai insights right after your meeting. So your reps have a meeting and it right after the bot will surface these... This the like pop up window. Tell you, you know, throughout this meeting, you talked about a certain amount of feels, like x next steps to talk about certain pain points and they basically give you these Ai recommended notes about what is exactly want to enter into tier Crm. So that concrete look like a little bit like this. This is what's live right now. So there's a recording of the meeting here. Can you have the transcript at the bottom here? And we have this slow window here, it that says Salesforce. So we will give you you know, based on whatever Salesforce feels that you care about in your instance, for example, here at our company who care about the notes. Pain points of managing team, a description, and all these are actually Ai recommended. So based on whatever was talking about during the meeting, send you these suggestions. And then one click can push these all the salesforce. And we also had an overview with some metrics metrics that you mentioned, like talk time and patients, longest mono. I'm Curious, what are your initial thoughts on that so far?
+
+Client 2: Yeah. I guess how does it maybe this is proprietary. But how does it know which fields to recommend like, if I talk to, like, if I have... So I'm just thinking about our sales process we use a medic type sales process. If I wanted to fill out the metrics piece of that, like, what metrics are most important to the customer like, how would it know which metrics are best to add there.
+
+Host 1: Yeah. So our onboarding is a little bit more interactive than a lot of these products. So actually look at your Salesforce instance. We have one of our kind of Cs walk you through, you know, does this field mean to you? Like, what are some examples of what a call that matches to the Salesforce field. So once we have that, we feed that into our Ai prompt. And it basically understands like, okay. Throughout this meeting, the Ai is going to try to kind of key tabs of, like, this particular Crm field during the meeting today. Understand, like, okay. I care about, like, certain competitors like, my competitors are say, like Cla, Gong. I wanna keep an eye on those. Anytime those are mentioned, then we'll have some sort of, like, understanding that. Okay. We should keep track of, like, this particular segment of the transcript. That makes sense.
+
+Client 2: Okay. Yeah. That does make sense. And then so it craft says scripts that you can then add a night there's an edit button so you can edit it. And then does that just feed straight to Salesforce once you enter it or does it automatically just add it to Salesforce that you can edit it later? How does that work?
+
+Host 1: Yeah. So there's always going to be a manual, like, submit the Salesforce fund? We wanna make sure we don't, you know, override your Salesforce field without you knowing. So this will be surfaced right after the meeting, but it's up to the rep at the end of the day. To actually finalize those suggestions. Okay.
+
+Client 2: Great. And then is this... So this would be a call repository then that this is what one call would look like is there Yeah. I So you have a bunch of other meetings and very similarly.
+
+Host 1: Just air here. But... Yeah. That's basically the gist a bit.
+
+Client 2: Yeah. So one of the things that Gong does that I particularly like, for the reporting side of it as you can see what stage opportunities are in when a call happens so you can see, like, calls, like, maybe discovery call, you can put on this discovery stage, see what calls happen at the discovery stage, and then you can also filter on the ones that that close one. So, like, when I'm demoing Gong for the sales team, for example, that are new people I've never seen going before I'll say, hey. You can filter on calls that were discovery calls, that were then closed one and see all the calls leading up to those close one opportunities and see what was done. Right? Like, that... I don't know if you've even done that at all, but like that one of the features that I like that I guess you could add to here because the call list, I know just a demo, but it was pretty blank. So filtering for sure. I'm sure you're working on, but, like, things like that. Super valuable.
+
+Host 1: Super interesting. And would that also be like, a point in time as well. Like, so, for example, if a call went through like, a trial stage and after close one, like, I wouldn't just take the most recent stage. Right? It would actually take, like, on that date, the stage was this starting.
+
+Client 2: Yeah. I think so. Like, now I think about it, i it does do some pipeline snapshot. Stuff because it's snapshots it onto to the calls, I guess. So it would snapshot the stage of the opportunity that the call is the stage you know what I'm saying? The stage of the opportunity for each call. This would snapshot bad. So i'd say, like, this one's in our discovery stage. At this time, that you can report on that later. And then it can also grab with the state it now. So it's now in close one then I'm just thinking through the back end of it, I guess, but Yeah Yeah. It probably does snapshot the exact stage of the the was in at that call. Yeah.
+
+Host 1: I'm curious like, with when you just saw it, like, we include those filters and with the addition of that, like smart Ai suggestion for easy one click Crm updates. Do you think that would be enough for you to consider making a switch from gong to this or would there be more factors and more features that we need to look into.
+
+Client 2: I... Yeah. I mean, I need to look at the technical piece of it. Like, security settings as well our security team is pretty techie. I would say we're a cybersecurity company. So the security piece of it as well. Like, I don't think we allow things to be in certain data centers or the cloud like our security team obviously is way more knowledgeable that I am on bad, but there's certain security concerns that we need to look at and then I would wanna look at more the keywords, what kind of things it can notify on, can it send an email candidate it Slack? And it put it Salesforce in, like, a chat notification or something like that. And there's... Yeah, definitely more features I would wanna look at, but It's promising, I would say.
+
+Host 1: Yeah. So it's only from a feature standpoint being able to flash out more that, like, tagging, like those those keywords, and then some sort of notification mechanism. Cares like for you, is Slack or email more important for that. Notification piece.
+
+Client 2: It's tough because Slack and always to such a waterfall of things. Email is usually more reliable, but Slack is more actionable. People see Slack and they go and do things. But, like, he I have a million slacks right now just from the last thirty minutes. So It's just a mess. I would venture you towards Slack, but Honestly, it's all tough.
+
+Host 1: Got it. Alright. Thank you so much now. Those are all the questions that I had today. I really appreciate you hopping on this call. I hope you have a great rest of your friday and I'll make sure if there's any follow questions, maybe you can set up, like, a follow ups session in the coming weeks. But Really appreciate it. Yeah. Sounds good.
+
+Client 2: Thanks so much, Jake.
+
+Host 1: Alright Have a good one. You. See.

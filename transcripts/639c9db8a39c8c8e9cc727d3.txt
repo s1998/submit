@@ -1,0 +1,483 @@
+Host 1: Hey, Gertude.
+
+Client 2: Running was.
+
+Host 1: Good. Thanks for getting up early for this.
+
+Client 2: Yeah. Again.
+
+Host 1: We'll have a a whole squad. Hey, Jonathan.
+
+Client 3: Hey, guys. How's it going Great.
+
+Host 1: How are you?
+
+Client 3: Oh, man. I wanna be asleep right now. On stop raining.
+
+Host 1: Where you Vc? Are you new york too?
+
+Client 3: I'm in Jersey Alright.
+
+Host 1: Your a lot of your company out there.
+
+Client 3: Yeah. The is it... I'm, like, fifteen minutes from Staten Island. So I'm like Central Jersey area.
+
+Host 1: Got it. I know sign island was so close to Central Jersey asked him it was North Jersey, but No.
+
+Client 3: They it comes way down.
+
+Host 1: Cool. Hey, Stephanie.
+
+Client 4: Yes. How's it going.
+
+Host 1: Great. How are you?
+
+Client 4: You're well.
+
+Host 1: Good. Cool. Yeah. It's Friday.
+
+Host 1: Alright. So we have a couple people martin team join I think you met Denisha before maybe not. He he's my manager. So he just lead sales here, but I think he's gonna take, like, more of a like a a backseat role like myself. But we are gonna have B or Brian our Cp join. He's also another founder. But he has also a lot of, like, more like crazy type knowledge background just because he's a lot of times in the back end, like, building the integrations and whatnot. So you'll definitely be more of an active player.
+
+Client 4: Perfect. And we invited our consultant. Who's helped those bell kate. She's actually joining right now.
+
+Host 1: So. Yep. It looks like both of them just joined to... Awesome.
+
+Client 4: Hey, Kate.
+
+Client 5: I thanks so much for joining.
+
+Client 5: Yeah. No problem.
+
+Host 1: Pvc.
+
+Client 6: Hey good morning morning.
+
+Host 1: Cool. I just gave a little bit of back ground, Denisha might be joining, but I think that we can likely just get started and I'll let him in one he joins here. But, yeah, I gave a little bit of background, but feel free to get into a little bit more about Bc you doing call and then also, Kate, would love to understand as well, and then we'll get into it. I'm gonna take more of a vaccine seat on this just because is more data. But... Yeah, Yeah.
+
+Client 6: So Brian I'm one of the c founders. And listened to the last call, with Gertude. I feel pretty confident that we'll be able to get you up and running. I just wanna make sure we get into details and really just get an understanding of time. You kinda order operations because there's kind of up a lot of steps there. So yeah. Happy to dive in and and look forward to get to solution Thanks, Brian.
+
+Client 2: Cool. So it's okay. I'm Gertude. Excuse me. I I I met Jonathan and stefan on the last call, but my my role here is to just get an understanding of how all the data is struck shared within nets week. So we were... In particularly in in regards to recurring revenue, we were looking at a report stephanie pulled up. In this. We that they would like was something that you had built. So was hoping to get more of an under of how that report is generated so that we can get an understanding of Okay. If it's this logic, we should pull from subscription if it's this logic which from the transaction all all of those different inputs. So that when we go to build it in in the Mosaic side, we'll make sure we're not double counting anything.
+
+Client 5: Makes sense.
+
+Client 2: Correct. So if someone has access to to to share that might be helpful and we can take a look at that report and then kind of talk through some of the logic behind it.
+
+Client 4: I just pulled up my screen. So Kate, this is the report you created for us. The revenue by customer with the account detail that is directly ties to our you.
+
+Client 5: Okay. I'm gonna open it up to on my side. One sec. Okay. Yes By customer. Cool. Okay. I'm there as well. So do you just want me to step through, like, how I created the search, would that be best?
+
+Client 2: Or... Yeah. That be.
+
+Client 4: Okay You wanna share your screen kit would without be easier?
+
+Client 5: I'm happy to either way. I'm gonna go try and what I did because it's kind So let me share my screen and then I'll kinda it. Okay. So on this line, it looks like The only criteria that I set to pull is that it's a posting transaction the account type is an income account. And this one looks like we're just running it for this year. So the date of the transaction needed to be this year for posting.
+
+Client 2: Okay.
+
+Client 5: So nothing crazy in the criteria. That all. Makes sense.
+
+Client 2: Yeah. So it it sounds like actually, everything everything is pulling off of the transaction. We're not worried about subscription or the the journals here.
+
+Client 5: Nope.
+
+Client 5: Okay. You're not Well, journals would be included in this they hidden an income account, but Not.
+
+Client 5: Not the subscriptions. Yeah. Yep. Then if we get here, So this is actually not a bad one either even though the formula look kinda of scary. So This is just pulling the transaction information. So period what type of transaction it was the document number, just the transaction number And then on these formulas, all this is doing is saying take the transaction date if it's the first month, they give me the amount, and that's how I got the split.
+
+Client 5: Between all the months.
+
+Client 2: So that's what Okay one to twelve.
+
+Client 5: And then clearly the amount at the bottom is just the amount for the full year.
+
+Client 5: Okay. So that's that that's actually not a terrible one too. Figure out how I got there.
+
+Client 2: So Yeah.
+
+Client 5: That sense.
+
+Client 6: Is super straightforward board. Makes sense. One question. You take this report, And I guess, maybe this is a little bit of a question for Stephanie. What do you look up on top of this. So when you down this, like, obviously, there's the type dot a number. Do you use any of those to look up more information? In terms of the the Salesforce account name or anything like that, or is it just You download this and you're good to go Well, so from...
+
+Client 4: So the reason that we brought this up because we're interested in Arr. And so when we're looking at Arr, we don't actually go necessarily buy this, but this does tie to our P and L and it brings in all the different of revenue So when I was bringing up all of those different saved searches and me just share my screen really quickly Let me to set the reason we're here as well is because yesterday or whenever we met last, we were struggling to figure out how to connect Kate as well are revenue to this mosaic connection and have it all accurate, you know?
+
+Client 3: Because we Yeah. The rev, we have Journal entries, deferred revenue, these things hitting revenue, and so we weren't sure if M could pull that in. So that's that's like the pretext checks for this.
+
+Client 5: Gotcha.
+
+Client 6: So answer that is absolutely. There's no no issue there whatsoever. Under the hood no matter, how you look at it under the hood nets, which has, like, one giant transaction table. And it basically the same exact thing that kate just did there it's coast roll it up by dates. There's not gonna be any issues. And you'll be able to slice and dice the actual revenue by where it came from. So in revenue, Sorry. By invoice journal, whenever Might be, I'm not worried about the revenue side of things. That is super straightforward no matter of where it came from. Think the thing we're trying to focus on here is how do we take that next metric, the Arr and get that ready? That's the one that's a little more ne Yeah definitely.
+
+Client 4: So I'll share my screen quickly. So from an Arr perspective, we have clients that we bill on a monthly recurring basis so they will have a subscription in nets, which will then just pull the Arr for. How also have clients that pay upfront. So they're part of our deferred revenue. Schedule and they asked the way we recognize for revenue news is from an invoice. So that's a pad. And so we'll back into the Air numbers based on like, Mount quantity be in the time frame. For what's truly recurring. And then there's other report, Let me just pull it up. There is another report, these are also deferred revenue clients but it's being generated from the journal entry So again, we back into those numbers based on the quantity rates start date end date here. But there's just they're all very desperate disparate and there hasn't been a way to really consolidate all of these different reports into one to get like streamlined Arr report and kate correctly about Bye Got it.
+
+Client 2: So this was where we we had the subscription versus the transaction versus the journal. Okay. So it it's... But it it looks like you have the criteria built out for each of these individually. And so all we would have to do is stack them on stack that criteria on top of each other so that we have a defined report. Okay. So This this clears up my my big concern, which was I wasn't sure if if there was a way to know what we need to pull from the journal, what we need to pull from transaction what we need pull from encryption, but because these reports are already generated, my concern is it goes away. Like we can match whatever logic you have done here and just stack them on top of each other for when we loaded in the mosaic.
+
+Client 3: Great yesterday to I thought that was, like, the biggest issue for revenue. So you're saying we don't have this issue now for revenue. And then Arr as well.
+
+Client 2: So for this for for Arr, we don't have that issue of excuse. Of the double counting. So my my biggest concern was as as you pull from different different sources went in the same store system, it your risk of double counting goes up drastically because for the subscription i'm assuming there's some level action associated with them once they pay or... There's an invoice or something. So we wanna make sure that we don't double count the subscription object with the transaction object. But knowing that there a five logic for each of them when we pull If you were to go to return to criteria on this something, Is Cheryl and i it's for me. Okay. Yeah. So that we we would basically match this logic where we pull pull from the journal for the deferred revenue, and then whatever the logic like on the subscription, we would have not for a different chunk. And then for the for the transaction, we've got have out for a different jump. And so that's how we would do Arr. And then traditional revenue is is actually built out slightly different within our our app. We have all all of your underlying data comes in. And then on top of that, we normalize it into these different kind of buckets. And so one the the actual revenue bucket is different from the recurring revenue bucket. So we... They're calculated a little bit differently. But based on the on the that report that can eat showed. Bringing in all that revenue does it it looks like it's very doable to... Because it's all coming from the transaction. We'll have all of that data we can match that logic. Right. Pc jump feel free to jump in here if there's anything else you wanna add.
+
+Client 6: Yeah. No. So revenue from next tweet, there's still should be clear there's no calculation. We're just pulling it and showing it exactly how it is straightforward.
+
+Client 6: Yep. The Arr that's where you get into When you So Arr because it's not like a posting where accountants are are making sure it's right. It's kinda point places and that that's where you get into risk. And I think what Gertude is gonna showing is when you have Coming from different places, If you don't have something that very clearly is able to filter exclude you camera where there's overlap is And actually, the the concern I had from the call earlier was less about the overlapping in nets suite, I actually feel okay about that. Turn you me to comment about Most of your Arr r's in that week?
+
+Client 6: Like us ninety day grace period, Salesforce arr that you wanna layer on top of that. And that's what getting get that issue of You know, you there nets suites, and then you have some Salesforce deal you wanna show up as Arr. And someone actually creates a nets week, but you don't know how to filter out or so did tag your right, and I have double counting going on because it's showing up in Salesforce, but you don't know how to filter it out That was the risk. And that was one of the things I wanted to dive into on this call is think we'll be able to too fine with the the the revenue and Arr from that tweet. I wanted to dive a little deeper on what was your concern around for that flow from Salesforce Arr to You actually have invoice and now you have Arr nets.
+
+Client 4: Right. So those three reports, they're based on us I'm mean a billing side, actually building out the subscription building out the deferred revenue and basically starting to recognize revenue for it. We don't actually do that until we start billing. So my my thought about the logic with Salesforce is let me pull up the account. So When we close a new deal, the account name in Salesforce syncs to nets, and it populates this in nets sweet Id at the bottom. So that nets feed Id will map to us in nets suite for that identifier. Our my the thought about the logic is like if this If like, the Arr is not built out, in that week for this account than to use the Arr that is built in Salesforce or that Arr value because it auto calculates it on the opportunity level, which then rolls up to the account. What the Arr is for that deal. Brian if you're talking To think on me.
+
+Client 6: Alright. Yeah. Okay. So this is customer level. So... So the opportunity level you're Let's say i have a deal. You know, it's it's a hundred thousand dollars for simplicity. And we have a nets. We have Arr hundred thousand dollars recurring. And then the one year is buying the upsell for a fifty thousand. Now you have a hundred fifty dollars recurring. Yep. So there'll be a period of time, let's say, where there's a hundred thousand arr And then in Salesforce you have two opportunities. One hundred thousand one's the thousand or hundred hundred and fifty thousand upsell. So that's the... So there's gonna be gap there where just to be clear, you wanna show a hundred and fifty thousand, but nets only gonna have a hundred thousand.
+
+Client 4: Correct.
+
+Client 6: And so is there a way that original hundred thousand and that's what Is there a way to link that back to the original opportunity in Salesforce. Basically, is there a way to know that this opportunity exists in nets week and this opportunity does not exist in as we had.
+
+Client 4: Well, The problem is So we can find a sales order tied to it in nets week.
+
+Client 6: Okay.
+
+Client 4: But we don't always bill off the sales order. So we can't really use that logic to say that it's not in nets.
+
+Client 6: If you've gone to the length of creating the sales order in Nets suites. Would that be a good enough criteria of? Even if you're not billing off of it? Someone has created it in that week somewhere, Is that still not a perfect?
+
+Client 4: I think we could say, like, if there's no subscription generated she just generated for this account or but no subscription or invoice generated for this account. Then their Arr is not that sweet. Got it.
+
+Client 6: Okay. Okay. Yeah. I think it the the order of operations, I would I would take this just for for clarity of... Because a big part of implementation is validating. Like, we do it on our sides. We get right. Slice and dice other the metrics, make sure they all make sense. It's tie to exactly. You think they should be And I think that the first part of this was... We start with revenue. That'll work out of the box. And then we go to Arr from that suites. I think there is going to be a little bit of of work there. And Grace point to make sure that all three of these things are pulled together properly. Once you feel really good about the Arr from that's, we then we can work on layering on. Salesforce on top of nets me? And I do think we're gonna run into be honest, like, There's gonna be data quality issues. Of like, hey, we when we thought we created the sales already here or the sales order created, but we don't actually have the Arr nets we and there's gonna be issues there, but of that process just be getting really tight with on your side in terms of, like, hey, these are the things we need to make sure that it flows through properly. Just to make sure there's no double counting or or, you know, missed missed opportunities.
+
+Client 4: I mean, honestly, it's a win for us just if could consolidate Arr within that suite it in my opinion. So if that's like the first step to this, I think that that makes sense works for us. Okay.
+
+Client 6: Cool. So I I have a couple other questions the deferred revenue schedules, you look at those in terms of, like, future revenue? Schedules, or do you just care... So, like, when you're looking towards the future for like, hey, let's look at next year. Do you look at the the deferred revenue schedules themselves or do you look at the Arr I guess what... Do you want both of those? Does that make sense?
+
+Client 4: I would like I think kate actually built this out a report that forecast revenue based on those deferred revenue schedules. The way I I forecast from like like, a modeling side. I just do it based off Arr and then apply, like, a gross retention rate. To factoring. Anticipated churn. Got it. Got it.
+
+Client 6: Okay. And then, I guess all the Arr and revenue that you're getting from from that access before. Do you use, like, the the sales order the this Actually, sorry. Do you use the Nets sweet Id link to to link it to salesforce information to pull that through at a customer level or you try to get anything at an opportunity level?
+
+Client 4: We try to get it at an opportunity level.
+
+Client 6: Okay Okay. Cool. I think one of the issues just we what we see this is As we do that, you're gonna have some gaps in your revenue from that week just because there's some invoice somewhere, there's some sales order that isn't actually tagged with the the Salesforce Id, And so a part of this tool will just be exposing those and tagging those properly. That makes sense. Okay. I guess, one other question on the Arr arr from nets tweet. So you have the subscriptions And just to be super clear on this I know crisis, as for So descriptions clearly had the Arr on them. Correct and they clearly have certain dates. Do you have So two questions here from the things that are on this list Do you have major exceptions? Where you're kind of overriding it in Excel or changing something, like, hey, the start date on here something, but we actually it started three months later, or you have a a renewal, you know, a contract that goes for year and then the renewal there's like, a two month lag in terms of actually getting their renewal sign. But you kinda wanna fill that gap from an Perspective. Are there kind of exceptions to this table.
+
+Client 4: There's a couple things that I can think of So one is So when you think a subscription, you think of, like, truly recurring revenue. I don't know why it's not okay. We think of about as like, software fees lease fees and service fees that are recurring.
+
+Client 4: There's a couple clients I know that in their they have like, a recurring hardware purchase. So, like, they purchase ten kits of gl kilometers every month. So we actually built it into the subscription. From an Arr perspective, they're not actually supposed to be part of recurring revenue So I will try to back those out. The other piece of this is, like the complexity is there are some clients that are on our deferred revenue schedule that also have a subscription. So part of it is paid up upfront. Part of it is a monthly recurring bill. Some of it is So there's some overlap in terms of the start dates so, like concurrently we're recognizing that for what they paid up upfront. We're also generating a monthly subscription. The other pieces that we've built out as description for them to start once the deferred revenue schedule adds. So we just wanna to make sure that, like, whatever the overlap is, it's appropriate in line with whatever dates are in nets to indicate the start and Na. So those would be the but three things they call us kind of Nuance Got it.
+
+Client 6: That makes sense. The the question here on the start end dates, there's a blank one here. Is that I guess, what would be the the reason for that one?
+
+Client 4: Oh, so this this one is built off the sales order So I think we just didn't manually input a contract candidate date, but it's very infrequently that we wouldn't have a contract. I think this is the only one we don't have a contract day for. But we could just manually put that in. Okay.
+
+Client 6: Yeah. The little things like that will start to crop up and those are the things that will kind of flag But you you mentioned something. So can you click on one of these that actually has quite a few you know, underlying items. On the sales order And one of my questions is Do you have Arr arr by item? Okay. And you do. Perfect. Fantastic, Okay. Great. So in a case where you have see it on here I think that the third line is zero Arr. So any case where you had those hardware subscriptions, would that show up here as here's a subscription recurring amount Arr r zero.
+
+Client 4: Now it would show up as a value. So I have to know to like back out. So I think this is... Yeah. So here, we... These are what we math on the geo like hardware harbor purchase revenue? We have it on the subscription simply because we charge it on a recurring basis, but it's not truly ar. But as you can see here, it does have an Arr value and it does roll up to that. Arr But in theory, we could pull an export of all of our subscriptions by products. And then just map out which ones should not actually be included there. That's what I quickly do now.
+
+Client 6: Got it. So you just have a list of items and like, these items are not here. Correct.
+
+Client 2: Yeah. I'm actually Doing with this one one of my customers right now that's using nets week. We have gone in and and on the item. Bucket of them into it should be recurring or should not be recurring, and that's I like to do it that way As opposed to just saying, oh, exclude item. Bluetooth blood flu glucose meter complete or whatever be included in arr because that it's a little bit more scalable. So as you add more items, you can just flag them as this is non recurring and then we can remove that from a current. Perfect. My makes sense Cool.
+
+Client 6: So I guess... And walk me through the typical flow here. So No. No one's... Nets sweet is perfect. There's always exceptions every rule. But the typical flow is is usually... you know, you have the from sales you have, Salesforce opportunities They close one. You sync it over. You have nets suite sales orders then from the sales orders you're creating invoice and schedule or you're getting the revenue schedule, Where do the you have both sales orders and subscription. So I guess walk me through that kind of like, ideal flow.
+
+Client 4: So there's an ideal on there and then there's what's happening. So from an ideal situation, this sales order would flow over. Would indicate the cracked billing start date. And then we would generate the subscription and the invoice from the sales order. What's realistically happening is sales orders aren't always accurate. So we will generate subscription and the invoice space after just like, a hard. Like a... like an external contract that's not in that suite. And so we won't actually touch the sales order. So that's why I'm a little hesitant to say like, we should reference the sales order as like, an indication of you know, a certain trigger because we don't consistently use it because of that. Lack of data accuracy.
+
+Client 6: Got it. And that makes sense and so and the way we generally go generally, the way we go about it is We always find the the most granular accurate thing and roll it from there. So in this case, we're gonna go find these little items on the subscription and use that. Now we're gonna go get the individual transaction rose for for the revenue. And then we could just... For the sales order, we'll just use that as like, we just won't look at any data on the sales order really, we'll just use it as a link to Salesforce. Which just seems like that's what it is. Yep Okay. Okay And then so for for these subscriptions You don't have invoices generated office subscriptions? Or you you sounds like give invoices somewhere on the side and some part of the sister subscription prints. Is that right?
+
+Client 4: Yeah. So if they're a monthly recurring bill will generate the subscription and then generate the invoice from the subscription. There are times we... We just generate the invoice by itself. And then for deferred revenue it won't have a subscription. They'll just have an invoice. That's right.
+
+Client 6: Got it. And for the deferred revenue clients. So, obviously, the subscription here has like an Arr number we can use, which is awesome.
+
+Client 6: Right. For the deferred revenue clients, Do you have, like, a a similar Number do we have to like, derive, here's the annual amount?
+
+Client 4: I drive it. out of the amount quantity and Red during that.
+
+Client 6: Can you take it a quick look at that? Is this is this it right?
+
+Client 4: So obviously, take them out to look at within months that it spans? Divided by that value. And then That's the R r multiply by twelve.
+
+Client 6: Perfect. Then do you look at... So for the the start nine months, and and we have a great example on the screen right now. So you're gonna get a monthly, like, a monthly total and in August, gonna show up because it's at the end of the month. And then in this August, the the Arr is gonna be zero. It wasn't active at the end of the month. Correct. Correct. Yeah. Do you have What do you do in a case for a contractor? Or maybe don't have these is you know, twelve point five months.
+
+Client 4: You when we still it Annual it on a twelve month basis. Okay. Okay.
+
+Client 6: Yeah This seems like We'll get in here do it. There's always... There's those little things at the getting there, but I think it'll be a problem.
+
+Client 4: Sounds good. Does this dig... Like, everything that works cleaning is it very like, oh really complex because internally as we're building it all out, we we acknowledge it's very complex but we don't know like, how to streamline air there's, like, better best practices So revenue and deferred revenue schedules from from that doesn't matter what you do.
+
+Client 6: Like, at the end of the day, that's we as it stored properly under the hood. So not worried about that. When it comes to Arr, every company has their own stuff they do. Like, it's just every Arr is always messy. So don't think you're It's a arkansas concern is that that you're different, but just we just have to figure out what what it is and then how to solve it. That's just the reality of every customer real quick, Brian.
+
+Client 3: So makes sense. I think one of the things we were concerned about is for revenue is it all post says it all goes into deferred revenue first. And then goes into our income statement. So there's no customer. There's no detail. It's all journal entry. So I think we were think the issue we're having our last meeting is that how do we get that like, detail because it's coming in from Rev rec coming in from journal entries from all these different places. See like, this is our So our automated revenue, all kids deferred revenue first. And Kate can speak to that more. And then once we close or recognize it in our summary page, then it'll close one journal entry into all these items. And so I think that was the last issue that we were having and how would how would we get those details on?
+
+Client 6: Jose. Got it. So can click on one of these entries. Sure is that Is that's revenue?
+
+Client 4: Yeah. It looks like this is different for a group yeah. I don't know why it also has commission amortization here. I'm like yeah.
+
+Client 3: Maybe can select a different one? Maybe that something else. Because it's not usually it looks different. Yeah. I would do like the one point six million. Or something.
+
+Client 4: I definitely do not one point six do second from the top.
+
+Client 3: Think that's a normal use case. But I mean, there's other things like that. Right? But this is... I think this is, like, normal m o here.
+
+Client 6: Okay. So in everything in Mosaic, you will have the line item detail. So for every journal, you could literally... Read the the line description if you wanted to. For every transaction, Mosaic. So we will have all of this detail. And this name under the hood is gonna be an Id link so we can link to that to lead to the customer name? And we do have the source revenue plan. So we can use that to look up. And basically get to the revenue new arrangements, the revenue elements and kind of track it all the way back. So I don't think this is gonna be a major problem Is that is that where... Like, if you click on one of these source revenue plans, Ids? Yeah Perfect. Yeah. So this will... We'll be able to track this back to to where it's coming from. So the invoice number is the revenue elements. Presumably, the the subscriptions that are coming from that. So This is this is pretty typical.
+
+Client 6: Yeah. I I I have seen it before. If you go back, one page. Have seen it before when you do your you're posting your journal entries where you just do a single amount for the entire month. And that becomes a problem. That that definitely got tricky. But if you're actually posting it like this, by customer. And buy revenues are fine, which I think is pretty More typical? We shouldn't have any problems.
+
+Client 3: Kate. I I think you were saying something before.
+
+Client 5: Oh, no. It was nothing helpful. I was just gonna say, I think yeah. This fix it because I I'm like remembering where I got stuck. And it was like, I could get to the plan, but then I couldn't go another layer deeper So then that's why you have like, multiple reports obviously, so I think this will be great if you can you know, get layers deeper and then just pair up the the reports. Because I feel like we've always tried to do. That's Yeah. I like it.
+
+Client 3: Cool. Sounds good me.
+
+Client 4: There is another use case that is constantly ask for that we struggle with and I I know it it's kind of along the same vein, but sometimes we're asked like, how many units are we are we billing for? And the reason it's complex because of the whole, like, subscription deferred revenue piece, but I think the piece that's always missing from Let's see searches that kate creates is when it's derived from the journal entry entries. So for some reason, we're not able to pull... Let me just Yeah.
+
+Client 5: That always was hard to do.
+
+Client 4: Yeah. And I we could never figure it out why, kate.
+
+Client 5: Did iterate on it so many times not like when we pull it a report on like, all of the units of it.
+
+Client 4: And invoice for for some reason, this quantity because it's being derived from a journal entry, will never show up So we're under saving our unit count as a result. And so Is there a way this this level of details in not, but is there a way to, like, consolidate with the transactions from, like, the revenue invoice perspective.
+
+Client 5: Yeah. And for a frame of reference to, I correct me if I'm wrong but those are the ones where not created from an invoice, you're creating them from a journal entry, and then for context on the dead side, there two custom column fields on the journal entry. For item and quantity, or I think Correct.
+
+Client 5: So they're not native, and I think we were having issues. I don't remember why but i remember we failed.
+
+Client 6: Got it. I like to always think that we could do it. So I think Because the point of, like, I know we can get it on two separate reports like we can drill into the created from Journal, but it was like a layer too deep because it was on the line I think you know, it's just consolidating a couple layers really is what it comes down to.
+
+Client 5: I just can never get it on one report.
+
+Client 6: Got it. Okay. Yeah. So so the the back end of nets suite is is very different than the experience you have on the front end with the safe search and everything else. But we get everything at the line level and we basically roll it up.
+
+Client 6: Yeah. Is at the line level and you can kinda roll it all up there. That being said, there even when you have that, there's still times where you just get into weird... I don't know. You gave me weird issues with the custom fields Yeah.
+
+Client 6: Yeah. But But I think we should focus on the Arr first and then and then we can take a look at the the item company should be able to do it. But Got it. Custom field deal always there's always a red so something is weird.
+
+Client 5: Yeah. Okay So this this report here is coming from where.
+
+Client 6: Okay.
+
+Client 4: Okay.
+
+Client 5: I don't know. I can look. Let me look my hold on.
+
+Client 4: It's before you create.
+
+Client 5: I just I know. I like I couldn't forget all the reports I create.
+
+Client 5: Let's see. See hardware. Okay. One second. Let me tell you.
+
+Client 6: So could just So...
+
+Client 5: Go ahead.
+
+Client 6: Sorry. Just i'm talking through this loud too. On the subscriptions, you have an item And then on the then you create invoices and those have the items you're invoicing on them. And then you also have journal entries that you're creating. And as when you're separate from the the subscriptions when you're creating those journal entries you're just manually typing in an item. For this.
+
+Client 5: Yeah. They have like, a custom item field. So it's like, it's completely separate. Got it. Okay. Okay. This one This one is a lot. Let's see. So this one it looks like Oh, you created this one stuff. Did I make you one and then you made like, a copy of it think so. Okay.
+
+Client 4: This myself.
+
+Client 2: Did you click into the return criteria so we could fall one two. Awesome. Thank you.
+
+Client 5: Okay. So Hold on. I'm just looking at the other ones that maybe you copied just so I can see what I did. Okay. If I were to look at this one that you edited I think you changed some of the criteria. That's okay. We can totally talk through it. So it looks like what you did is you said an item filter, we're looking at it on the screen. You just manually picked items that you wanted to show. So that's stuff big blurb of text. Those are all items. They're just listed out there. And then it looks like you I don't know what the... What the Formula text is twenty twenty one. Let me see what you don't. So I'm assuming you are trying to look for just twenty twenty one.
+
+Client 5: Now I think we can add this to Okay.
+
+Client 5: That one kinda doesn't makes a lot of sense to me. Amount is greater than zero. Okay. That makes sense. And then adjustment is false. Okay. Yeah. I'm gonna go to the the original one really cool. Because I'm getting lost in this one. So let me type in just recognize quantity.
+
+Client 4: It might be like Pc complete.
+
+Client 5: Okay. So let's decipher this one instead. Recognize i period. So can you click edit the search? Okay. So let's go through this one because that has a few of those one's missing that I didn't know what they were. Okay. So same thing we chose certain items we can see this is from the rev plan, So not a transaction search from the rev rec plans. It's where it's pulling the data from. K Okay. And then the posting period, needs to belong to twenty twenty one. Okay. And then can you click results? Okay So then what this is doing is looking at the posting period if it's the posting period. Okay. Then return the revenue element quantity Second you preview the report and open one of those up. I wanna see what the revenue element dot quantity is So if you just click on like, customer or the item we'll just drill into one of the records that this is coming from. and then go ahead and click view on any of those. Great. Okay. So we're getting the revenue element quantity Okay. Where is that? Hold on looking... The eyes are scanning. Can you actually click on the revenue element too. Can you open up that in a new tab? So, like, No. Where you where you're good. Just one layer deeper that okay. So lots of layers here. Okay. This one, quantity There we go. That's pulling up from. Okay. And that originally came from in this case and invoice. Yep. Okay. So looks like we're pulling this value and no we are getting a period over period view. And we're summing up the quantity by customer an item. Is is the background or that.
+
+Client 6: Okay. Yeah. Well Yeah. When we're doing our our Arr and revenue, we're gonna see this quantity call thrown around there?
+
+Client 6: Yeah. Our first goal is gonna be getting the error right and just focusing on that. But then as we're seeing this we can try to keep it in there and then just see can see how close you are and what we need to fill in the gaps. The the filters you have on this report you're filtering down to, like, seven items.
+
+Client 6: Is that Is that to exclude quantity accounts you don't want or is that just to These are the only things that have quantities.
+
+Client 4: To look at the quan accounts that we're specifically interested in instead of the point.
+
+Client 6: Like got. So there's, like, if you just had a license whatever you'd have account of one. You don't wanna look at those. You wanna look like, actual physical things that counts. Is that New so all the products should have counts.
+
+Client 4: I was just interested in looking at, like for our Pc complete software line. Many licenses have we deployed? Or are we billing for? So that's why it's not that way.
+
+Client 6: Okay. But but in theory, for anything you're selling for all items, you could be curious about quantity. Okay. Look at good Okay Any other things you should review.
+
+Client 4: With kate on the call, with brian on the call.
+
+Host 1: I think we'll we'll definitely have a more like, similar to this, actually, scoping called, that's... Typically the next step. You guys got a very in free sales scoping call, but it would definitely be helpful. I think to have kate on that call, just if we need, you know, needed to get deeper into, like, the logic behind that suite, definitely will be helpful. To have her on it since she create a lot of the searches and whatnot.
+
+Client 6: And and one of the things that we'll want just to alleviate time is Do you have an excel file of your your aggregate view of everything. Where you take all these different reports gonna piece them all together because that's like the first thing that we're gonna try to, like, benchmark off of. And once we get close to that, then we can start diving into like, okay, why are they delta? Where are the delta? Talk to does.
+
+Client 4: I do, but I do do a lot of manual overrides too.
+
+Client 6: There it is. That's what we want know. So that's always something to. I guess what what type of manual overrides are you doing on that sheet?
+
+Client 4: A lot of times it's like, we won't trust be arr and not that'd we won't trust. Sometimes Arr and nets speed is understated. So I'll make sure I cross our say with the Salesforce, and then I'll override it.
+
+Client 6: And that's that's what we were talking about before, which is, like, hey hasn't shown. So that is your main override. It's not necessarily changing something and that's way it's just like, adding more on because missing.
+
+Client 4: Correct Okay.
+
+Client 6: Okay.
+
+Client 4: Then nets Ids aren't always Like I I oh, some of the other issues too is we have more billing accounts, then why the v counts that are in Salesforce. So, for example, university Chicago signs on with us, but they want five different invoices. For their ob b line their Line, they're you know, etcetera. So we'll have three different, like, child accounts in nets week. It only maps to one account in Salesforce So that's like another nuance thing that sometimes i'll have to, like, manually override. The Id ids to make sure that they sum correctly and get to the correct Arr.
+
+Client 2: Okay. Would do you wanna report that air... When you're looking at the level, would you wanna report that Arr on the individual, like, the five individual University of Chicago or the the one over overarching.
+
+Client 4: Typically to aggregate.
+
+Client 4: Okay. One Do you...
+
+Client 2: Are are you utilizing the the parent customer or the parent child relationships with it next week. Correct. Okay.
+
+Client 4: But it doesn't always map to Salesforce.
+
+Client 6: And and if we found any of those by the way, where it's like okay, you know, eighty, ninety percent of these match. These twenty customers in nets are missing a salesforce Id. Are those things that you'd be able to get in there kind of but in the correct Id, so that everything looks up and links properly. Okay. Cool Cool.
+
+Host 1: Well yeah. Thank you. Gertude and Brian and Kate for being on the call. Be super helpful. Like I said, we'll definitely get into this a lot more in detail after doors and like, Brian said, we're gonna build everything and then validate it with you guys. So The cool thing is we are getting down to that most very level detail. So most of these things we can always figure out, it's just a matter of, like, time and complexity. So that is one thing I want to line you guys on is that just given this whole conversation, likely gonna be a little bit of a longer implementation, but not you know, still not gonna be in that month, you know, three to four month range. Gonna just be like, probably like, think Bruce, you said six to eight weeks for Nets week, and then a couple more weeks just to get the Salesforce data in there as well. So just wanna make sure that you guys are aligned with, like, we're to need your partnership with this and we're gonna work with you guys to it, but we definitely need your partnership as well.
+
+Client 4: Yeah. Definitely. We we know our model is complex so we have this it'll take more more time because we built a a more complex business model.
+
+Host 1: So... Yeah.
+
+Client 3: Cool. Your rest special. We always take a little bit longer.
+
+Host 1: Definitely. Awesome. So I guess, from our side, I think all questions answered as far as, like, know, pre sales what we do now for you guys, I know you talked with Jason I think two days ago. Anything else that we need you? I know we don't have red lines back yet. But Just wanted to understand like, what do we need do to you know, just get it all finalized then also, I think you guys wanna to start it in January. So I just want to make sure we have that. Firm up as well Yeah.
+
+Client 4: So we still have to talk internally we Jason. There's just been a lot of like, computing priorities right now. So Leaandra maybe we you and i should just connect outside of this call and figure out, like, next steps and... Yeah. Contracting. I don't wanna don't wanna keep everyone on this call from.
+
+Host 1: Cool. Stephanie, if you can actually keep on we can just, like, you know, set everyone else that they can go back about their day.
+
+Host 1: Half or no.
+
+Client 4: Okay. Perfect. Sounds good.
+
+Client 6: Everyone.
+
+Client 2: Thank you. Have a good one.
+
+Client 3: Bye.
+
+Client 4: Jericho?
+
+Host 1: Well I have about fifteen minutes. Till my next but then I have some time later today or we can find from one day, but, yeah, I would love to here from your side. I'm glad we did that. That was like, super helpful even for me hear because I haven't been on, like, those post... Post sales scoping calls. So it's good to hear how they think about things.
+
+Client 4: Yeah I So as you know, like, I feel like We have been, like throughout, like, the entire sales process. So a couple things like I just wanna make sure that like, I think after having these scoping calls, I now or at least this second call. I feel more comfortable that, like, we can make it work. The initial one was a little bit like, is is this gonna work, So we did have to kind of brainstorm like, if if this doesn't work, So just thinking through timelines. Like, I'm not gonna be here all next week, and I don't feel like we'll be able to execute a contract within the next week. So I'm here the following week, and I love to align with Jason on, like, contracting, but know you guys mentioned that I think you're off. So We are off I'm gonna be Hawaii, but I will have my computer.
+
+Host 1: So I just... The time zones will be a little bit tough, but So i I guess when you're talking about... Because there's a couple things far as like, why contracting might be held up. If it's for, like, legal and red lines and like security stuff. That's something that we actually have a way of if you guys are okay with it, like, we essentially we'll sometimes do with nvidia like this. Legal and security where to lock in price and just to make sure the agreement is all good. Will have you guys sign the order form, and it'll have on their a strict, like, legal security out if we can't come to terms by you know, two weeks after this or whatever date. Then you guys are all, you know, liability and like contracting. So if that's the concern, then definitely, it would be ideal if we could get it done before then and then have like, some time to work it out, but it something else? Or what was the reason? why you think in the next I know you're what are you out next week?
+
+Client 4: I'm at all next week.
+
+Host 1: That's why. Oh, you are.
+
+Client 4: Okay. That's what that's part of why. I'm so because just Like, I know Jason has been held up with with other things. So there's no way we'd be able to turn it around, like, today. And I'm at all next week and then I know you're out following week. I know end of year, like, we're trying to get in things before December thirty years as well. So I I completely empathize that So I'm just trying figure out, like logistically how this this all been work?
+
+Host 1: What do you need to do on your. Obviously, like, talk to Jason, but anything else I think The other piece to this is you know, as we're scoping out other vendors We've had heard of like, other pricing models, and I know you guys have all you can upfront annual billing.
+
+Client 4: I was just wondering if there's any way to, like I know you mentioned the like legal security app, but is there any way... I... One of the vendors we spoke to, they do, like, a month to month. Billing. So we're actually not contracted for, like, a certain time frame, Like, we can opt out at any point.
+
+Host 1: Know that has a data of rails or which one is that?
+
+Client 4: Stayed of else.
+
+Host 1: Yeah. Got it. One data rails, I can say confidently will not be able to support you guys and the capacity that we can.
+
+Host 1: That is just because one, they don't have the deep integrations. Are still an Excel spreadsheet plugin in. Yeah but is definitely anomaly in the base. And the reason for that is you can kind of hear the amount of work that our team has to do in the back end too get you guys set up. So it might just be that data rails is like, Although they have a platform view, It is kind of like a spreadsheet plug.
+
+Host 1: Yeah. Oh it's a lot easier for implementation. So we can't do anything less than a year just because there is so much a of a lift on our end to get you guys a place where, you know, you wanna be So can't do that. But one thing, I don't... remember if we talked about it or not? Because for everyone who I thought was gonna be closing in month, really wanna shake the boat at all, but we are changing our pricing in the new year. Towards it's still gonna be relatively all you can eat But there's gonna be like, packages within that and add on skews. And so as of right now, you guys will be getting, like, for example, we've talked about some custom metrics and things like that. Our custom metric builder just went live. So that's really where we're gonna be adding that feature on for new customers. Definitely think you guys are gonna want it and need it just because you guys have that kind of complex business model. So that is something that's gonna be like around a five thousand dollar add on in the new year, So if that helps I don't definitely don't wanna pressure anything, but it it is a incentive to get started sooner or like, have the contract sign in red. Next year.
+
+Client 4: Yeah. No. That makes sense. I I get it.
+
+Client 4: I totally get it from a sales perspective. Is there... So I know, like, another vendor we spoke to, like, they offered. Like, a fifteen percent discount, is there any opportunity for, like, some sort of discounting just because to make the pricing like as competitive as what we're seeing in the field this because we are committing to a one year contract Like, is that something that we can talk about Yeah.
+
+Host 1: Let's see. Let me just pull up So Because of the complexity with this deal, we do have less discounting room just because it... We're let we scope out in the back end. But one thing that we can do is If you guys are okay paying you front, which is far as I know what we've been talking about, so hopefully, that is okay. You guys are bills or invoice until the start date. So if that's mid January, whatever that is, wouldn't to get that bill till then. If it helps out, like, typically, we do net ten, but we could entertain, like, net thirty net forty five if billing payment frequency is helpful, but we also can do for the end of the year, two months free, So it's fourteen months for the price of twelve that does bring the annual amount down, and it allows us to keep our Ac high. So it's kind of like a win win everyone... I mean, you guys are are with us essentially have additional two months for implementation. Let's see what that comes out to be.
+
+Client 4: So it'd be like thirty thousand divided by twelve times ten.
+
+Host 1: Yep. Thirty thousand divided five fourteen times twelve.
+
+Client 4: Yeah.
+
+Client 4: Okay.
+
+Host 1: So it a twenty five seven.
+
+Client 4: Twenty five seven Yep Okay. I think that might be something that would work for us. Okay. I To the legal and security part like what would the terms entail in terms of like, yeah.
+
+Host 1: Let me pull up an example of that.
+
+Client 4: Okay. Think this one has one.
+
+Host 1: We just pull actual terms. Okay. So Essentially, what we would do is in that special terms area it would look like this. And I'll send this to you as well but it'll say if Mosaic does not meet the customer's security legal or Dp Gpa for international companies. Customer would have ability to cancel this agreement on or before, and then we would set a date for clarity this would absorb the customer financial commitments with that penalty, all agreed upon pricing and terms would also be void. So it essentially just locking in the pricing. We're allowed to count it for, you know, our book revenue. And then we have this like, grace period where if anything comes up in the terms and conditions or anything like that, then you guys, you know, we'll try and work through it, of course. Because we wanna work together. But if we can't come to terms on it, which we've never had to actually exercise this, we're we're pretty you know, we'll work with you guys a lot on this. And then then we can if we don't come terms then just, you know, cancel the contract.
+
+Client 4: What did time frame... Like, what's the happened we, like, months because of the holidays, I mean So Ideally we want to have it be flushed out before we start implementing you obviously, we don't wanna start implementing and then have that happen.
+
+Host 1: So when would you guys wanna kick off implementation?
+
+Client 4: Probably like, mid January.
+
+Host 1: Just because let me get back, and then we're gonna have to do, like, year end close.
+
+Client 4: Yeah. So that just take up a lot of time. So, like, honestly, I could see you even being pushed to like, early February.
+
+Host 1: Okay. I mean, we could do... So we just do like, a January thirty first to be safe. And then if we need to push it, we definitely can. But would definitely give us I mean, would then could have the whole month to figure that out. Hopefully, I don't think It would take a whole month, but if it does we'll have so I can have it be January thirty first.
+
+Client 4: Okay Awesome.
+
+Host 1: Cool So knowing that Do you think potentially something that you... Like, I did... Because I could you gonna be signing it? Or is it gonna be Jason who's signing it?
+
+Client 4: Case society, Okay.
+
+Host 1: So I know Jason super busy. You don't think that he'd be able to Like, if he had any questions or jump on a call with me next week at all, Oh, I didn't...
+
+Client 4: I didn't even think that he could hop on a call on.
+
+Client 4: But to your point, yeah. Let me ask him So are you here next week?
+
+Host 1: I'm available next week.
+
+Client 4: Oh, Yeah.
+
+Client 4: Got it. But then you're off all of the twenty six.
+
+Client 4: Makes six sweet board. Okay.
+
+Host 1: Exactly.
+
+Client 4: Oh, I get back from vegas on Thursday, I think. So like, I can maybe hop on a call too.
+
+Host 1: Okay. Cool. Yeah. So I mean, I'll send over the order form with the two months and then that legal security opt out And then if it looks good, I mean, we can definitely to work through legal and security now. But if it's looking like... I don't know how your security process looks like. How does it look? What's the next long from the legal side I think we should be fine.
+
+Client 4: We just are c. We have to make sure that he signs off on everything and got it.
+
+Client 4: He's not like, as in the loop. So But i i'll send over all the security documentation that we have.
+
+Host 1: As well. And then, yeah, If if everything does look good. We'll still try and shoot for end of next week. Security. And Yeah. So all I emailed to do is, like, you know, I'll send this over to you you let me know if if Jason is or needs to meet next week i'll send you my calendar link, that way he can time he can just several some time with me. And and But, we can send it through Doc sign, and maybe won't need that output, just keep it in for now. Assuming that we I think that works Is there any, you know, aside... like, so it sounds like data rails, Are there any other competitor that are like, still kind of in the mix or So we looked at cube I honestly think that Data is like, the more more superior version of cube though.
+
+Client 4: That's my my perspective right now. So for me... For me, it's more of like versus Mosaic and Jason really likes Mosaic, and I really like my. I think they'll, like limiting back was the ability to, like, integrate with Excel. I know like you four things from a Csv, but, like, we do operate so much in Excel. So I think transparent like, I am a little nervous about the learning curve to use Mosaic because I'm so ingrained and, like how do use excel in that functionality, but I think Mosaic whole point is like, we're trying to get out of spreadsheets and, like into something more seen. So Yeah. I I think, like after call with Brian and Like, also thank you so much for having him on the call.
+
+Client 4: You'll be get a lot of the concerns about, like, mapping. That's me. Because I think, like, if we couldn't get that and like honestly, like, it it wouldn't have Yeah.
+
+Client 4: It what have worked.
+
+Client 4: Yeah. No way that we wanted get to. Down And did you guys scope out data rails?
+
+Client 4: We... Like, are we articulated same things about like, how it... Like, our Arr comes from this push, but it also comes from my journal. Like we explained that. They're like, yeah, we can do all of that.
+
+Host 1: I think you... I mean, if if you're you're still actually considering data rails, which you're calling about cube data rails is actually one that I haven't heard before. Honestly, people typically rely rails pretty quickly.
+
+Client 4: For what we experience, it like Cube does come up more, but it's not because people love their product.
+
+Host 1: It's just more that it's really simple to understand what it is are doing not getting, like, a mile worth of value you're getting like, you know, a foot. But you know that that foot is what you're getting. But i... Your guys company size. Typically doesn't work. That's the... It's it's really more for, like, the smaller companies is what I've seen because they have the dimension limitation of eight dimensions.
+
+Host 1: But so... yeah. That's that's interesting. But I... If you are considering, zero I would have someone dig into it because what we found with a lot of our competitors out there they don't properly scope and their integrations are not true integrations. And so that's where things kind of like fall apart. So that's why we really like to go about her deals because we you at least wanna set the expectation of the timeline. Properly that way you guys won't get into it and be like, hey, like, what happened, We thought it was gonna be this, and and... Yeah. So Finance software is super complex. It's definitely not like a plug and play situation. So yeah.
+
+Client 4: Yeah. And I know you're right. You're probably running over meeting.
+
+Host 1: So it's okay.
+
+Client 4: Okay. Our biggest... like, our biggest pain point is like a source of truth and integrating all different systems a number one thing. So that's why mo is like, still at our So at the top, it was just with data rails they're claiming, that they can like do all the things that we weren't sure until today, Mosaic would be able to do, so that's why like, they were still even a contender. So I think, like, now that we've solidified that. Let me just, like, take it back with Jason and figure out, like, how he wants to move forward with contracting.
+
+Host 1: But... Okay. Cool, is it okay if by checking with you end of day day just if you have an update from him on on what that would look like.
+
+Client 4: Let me see move i'm Have time to talk him today. Yeah. I'll find out with him.
+
+Host 1: Okay. Cool. Awesome. Well, I hope you have a great time in Vegas at super fun. And then if... Yeah, Jason does wanna get loop me. I would love that because, yeah. Wanna don't leave till, like, last day to find it. Both And, yeah. Me know if I can help out with anything, but I'll send everything over my end and we'll plan fingers crossed, like, As you feel comfortable saying that you guys would move forward, once you talk to Jason, I would say, like, ninety five percent Jericho hated data.
+
+Client 4: Okay. Experiencing.
+
+Client 4: So, like, I don't think that's been. A one.
+
+Host 1: So okay Cool, awesome. Yeah. So I'll send everything over and then we'll work towards just getting a signature. Okay. Awesome.
+
+Client 4: Sounds good. Thanks so much, Leaandra. Talk to you

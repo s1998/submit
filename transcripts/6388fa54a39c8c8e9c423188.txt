@@ -1,0 +1,163 @@
+Host 1: you How you doing?
+
+Host 1: I'm doing well. How about you?
+
+Client 2: Doing good as well. Thank you so much.
+
+Host 1: Good. Good to good to you're with you.
+
+Host 1: Ken is also in here. I'm gonna let her in Daniela Yeah.
+
+Client 2: That's good my colleague danielle. So I added two people from our product in danielle nail and. I don't know if he also He's also in there.
+
+Host 1: Is this... Letting know? We wanna learn a demo with them to show them the products just Like i do with you. Okay. Gonna just wanna to confirm there we go.
+
+Client 2: See. So as just as I was telling as all, they are both in our product team as well. So I take care on the community and the programs but the They take care of the products that we have across the company all of them different ones and they show us on the more technical part as well. I did share with you the sure they is send but this is mostly to get there by in and their understanding of the tool. And what we currently have, and they also have a good understanding of our community. Needs. Right, Both for, like, creating more asynchronous asynchronous networking. Angel to Angel, brother to founder the range to founder And actually to explore as well the booking system that I mentioned. With that in mind, I do think that I've seen what I needed. So I explain in drop off I don't know if you've need me for anything else.
+
+Host 1: Okay. No. That's On my end, I'm good. Thanks. Louis.
+
+Client 2: Amazing well. I'm would have lunch in. Guys otherwise. I would just because twenty negotiate. So thank you. Bye.
+
+Host 1: Sounds good.
+
+Host 1: Daniel and. Is it Eli?
+
+Client 3: It's installation.
+
+Client 4: You end numbers responding to, like alex next.
+
+Host 1: I had Luis who mentioned the pronunciation first. So... Yeah. Good good have both on here.
+
+Client 4: Same sorry, sorry. We tease each other a lot, so this is with a lot of love. That we made to computers of is that's that's our group like having. So why don't we miss our like, doing up quick intro what we are. I know that you've talked like a hundred times to not even for. But We are the teams actually that are in charge of the tools we're the ones that have the previous sales of everything that's running a that us to the programs around the company, so we wanted to understand more. Probably the technical limitations, the cost and everything regarding that. And if you could do a quick intro on how the and the features that he has, I think it's also gonna be useful for us. But also to start, sorry, my i'm a bit mess today.
+
+Client 4: So right now, the community product manager of the community, but we also work as a platform team for the company. And Is acting as a technical lead of the team has been there here for almost two years though. You're gonna have, and he build most of her automations. So He's actually the one that has the most knowledge of a of us all.
+
+Host 1: Alright. I'll... Well, hopefully, what I show kinda connects with the things that you've already built there. Thanks for that little intro daniela. It be good, you know, And I did go into some things in terms of Let's go ahead and find for trigger camera off. We did dive into some things that you are working on she's obviously sold in this as been a good thing. We've been talked a little bit back and forth with the team before this. So Yeah. I'm really happy to run through maybe a a quick demo and show you the tool and what this entails answer questions that you have. Curious though is are the objectives that you have with community and engagement and automation things like that. Is that any different from La so far, like, anything specific that you all are working on Kpi wise?
+
+Client 4: No. It should be the... Mh. So I'm not sure where the conversations started and that is your where how the had follow developed. We shouldn't in general because we're hundred So we are both looking for the general engagement of the community, but not only not as specifically founders and angels. Like angels and investors or whatever, like, for us founders might be a bit more important.
+
+Host 1: Okay. Founders, really she mentioned networking, making a lot of one twin connections, that's really what we're kinda do we plan to do at scale. Scheduling is a big deal specifically with the mentors maybe investors since they're very busy people and everything is kind of geared towards making sure that your founders are getting wins in some way. Through knowledge sharing or through these connections. Those were the big and then also making sure that there's no tech requirements to implement this which they're there are none. We kinda take care of everything. Always does help if you have a bit of a product lead kinda make sure I didn't ultimately smoothly which you have, but really low requirements on end to set up.
+
+Client 4: Let's.
+
+Host 1: Alright. Alright. Sounds good. Okay. I'll just run through a bit of a demo same thing I did previously. Can you see my screen right now? The the blue orbit overview. Okay. So just run through a high level kind of everything again at once. So orbit... You have this deck you have everything I think that that was already shared with you, but we're an Ai engine. And we are doing these one to one and group connections at scale, big thing is reducing your time doing it here at your cost to doing it as well. Three big things. So one we have this matching criteria, bit of a matching algorithm and we match up founders and investors based on role, areas of interest years of experience company stage, anything that really makes sense, and then we're going to automate that sign up. So we have no logins. There's no profiles. It's a fifteen thirty second opt form where they tells this information. And then we automate scheduling. So we're making these right connections based on these criteria can give you just a lot of feedback. So really high level. That's everything that we're about.
+
+Client 4: Before you move on, when you set up that the matching is questions, specific your goes is to something that you do or is this something that which pass according to the criteria the data that we have.
+
+Host 1: It would be the areas of interests of your founders, let's say, for example, and then they would tell us I'm interested in in discussing customer acquisition or fundraising or something? And then we'll mess them up based on the answers that form. So it is something that we asked them to give every single engagement. If you already have this information, can preload that into the platform and before we send that out to them. So it goes a bit quicker.
+
+Client 4: So how does your product work is this, like, web webpage is that integrated with lag is it done by email Yep.
+
+Host 1: It is all completely done by email. So when I I'll show you exactly what this is, like, from a member perspective or found perspective wherever you're can connect? Show you what it looks like, but everything is done through email. Okay. So I'll I'll get to that First thing I'll I'll do and I knew I should have a couple case studies. So we were originally built for Vc fund. So we were specifically connecting a lot founders and portfolio companies or kind founders to investors or mentors, Vc platform is a really big partner of ours, Sequoia Capital, n nfl first round tag ladies, then we're starting to expand our of founder to founder connections and get more into like, developers atlas last seen, Cfo with with bend. We're using this in a lot of different ways with a lot of different communities, but our roots are Vcs and founders. And I'll show you what that looks like. Just wanted to say couple of our clients right here for you. So what this is like from a founder perspective. Inside partners, they're one of our clients and they are connecting specifically founder founder founder or to investor, a lot of mentors in there as well. So You mentioned how does this actually work? The first thing that let's say, I'm just gonna your founders as an example for this whole thing. Gonna get an opt email. So it's gonna have your branding, your colors, your logo, and they're gonna get... How does it work? What is this? In run of engagement about, and then we're gonna have next steps for an opt. So you said, updates register by this date, and then you're gonna get mashed up the next week. If they don't click opt in that first email, they get a second reminder email a few days later, and you said all of the scheduling, you can customize this email of templates for you. Once they click that often, they're sent to a form. So again, everything is you are branding, we want them engage with you, not orbit or simply a tool for you to use. So this form has questions like name and email since we need that to send this calendar invitation to them. Years of experience, you know, what role which company stage, what are some areas that you're interested in discussing and you can even add a few custom questions that you wanna, you know, you think is good to connect them on. Our Cs team is really good at suggesting things to make good matches You kinda have us as a dedicated partner. You're never doing this on your own. So we help you strategize to set this whole thing up. And then they're gonna give as a last step a couple of times that they can meet up let's say, within the registration date, and a couple other last questions, but that's it. They get some confetti. That's the only thing had to do. And then they're gonna get an email introduction within twenty four hours. So our Ai does its thing? We matched them up and then we sent another email by you and this is your your partner they also get a calendar invitation directly to their calendars And also in there we can add the Linkedin. It that's something that we ask them for in the form. We can share the questions that they answered in that form or we can just give them like, a conversation guide, like, some ice breaker and discussion questions Typically these are these are used, so they're not talking about let's say, the weather for fifteen minutes, but they don't have to use this information.
+
+Client 4: Question. So it means that it also connects to their calendar. So it's not only an invitation for them to ask some, like, answer some questions, but it should be connecting their calendar otherwise, how would you be creating this the meeting. Right?
+
+Host 1: Yep. They do not connect their calendar. Although that is something that we get requests from a lot of mentors and and things like that. So that is something we'll probably push out in q one. But how we're putting stuff directly in our calendar Let me just go back here and I'll show you exactly what that looks like. Think that'd be a bit clear. So this is the actual form. Right? One click, I'm gonna fill this out. Let me just quick put this in there. And once someone fills this out, it's gonna be pre filled for their next engagement. Yeah. Roll company name We can toggle this Linkedin on or off. I'll get to how they're gonna choose that. Years of experience employees company size or company stage would go on this one. Industries is is a custom question that we can add in there. Topics we're were richardson interested in discussing And then time zones. Okay? This is where we get those available times. So we slate connecting in Thursday exam Friday. So the reason that we do that is because most people request thursday at Friday anyway, to make these types of connections. We're a bit flexible on this. We can do it other days of the week. Probably will reduce the rates in terms of who's is actually gonna get matched up here. But good dates. So I'm gonna get matched up and here's three dates or four times on these days that I wanna match up. Well last question, you want match twice. The reason that we asked question is if it's an odd number that opt in, someone will get matched up twice so knowing one gets left out. And that's it. They get some confetti. And they get matched up. But so answer a question, we don't connect the calendar we simply ask questions based on when is their availability? And that's gonna change week to Okay.
+
+Client 4: So cool.
+
+Host 1: Okay. So Yeah. That's how we put that directly in their account. We already know that these two people came meet about this date. Frictionless experience, and I can just do one click and then it's gonna take them to a branded video platform. So we built this in house a couple of our Cs team members put this together. But it's encrypted we're we're not too certified. It's in your browser. You can open it on un mobile your desktop. Very easy. And we don't really have to track anything in here, if you wanna track some keywords and stuff like that, based on discussion you can, we typically don't do that. They can also replace this with their own Zoom link or their Google Hangouts really flexible on that. But this is default option.
+
+Client 4: Let talk about tracking what information in the weekend.
+
+Host 1: From the video or from the conversation?
+
+Client 4: The general thing like can we know how many people ask to get met? How can we know how many people actually got an invitation, how many people attend to that invitation is there any on the matching? Yep.
+
+Host 1: So one on... The first piece of feedback that you're gonna get is this feedback form. So right after these people match up, They're gonna say, did the chat happen to not happen bit of a cadence for some no shows, we asked them how strong was that match? And they rated out of five. And our average match rating is a, I think a four point five right now. Four point three four point five. So very strong matches what topics are you interested in discussing in the future? Then how often what kind of frequent do you wanna be connected? So all that stuff about this specific meeting will be sent to you. Your dashboard. And then the other questions you asked about Let me pull up a completed engagement to show you Love. So other stats you have on... First, here's that feedback. On that actual engagement from the people in terms of their the rating, any qualitative feedback that gave you is it's gonna be right here. If I go into the actual matches, what's that loads for me. It's gonna say every mesh that took place here. Right? If I hover over, let's say, Kayla. She has she had three matches, although she met within Lisa, and then I can click on Kayla here it's gonna me all her pass matches and her ratings, any feedback that she's had. So you get all of this data from that specific engagement. And every new engagement, let's say, twice a month of once a month, this repo with those new matches, but keeps a record of everyone's old matching. And then this dashboard has the type of information that you asked for. So on this audience that we invited, which was four ninety six about thirty percent opted in. And the overall net promoter score was seventy three The average match was a four point four So pretty solid conversations happening here. We can see what types of people we're connecting So it was mostly Vc portfolios in this engagement versus B, b to b you can customize these so you can see who exactly is meeting up. What are the topics they're discussing What time zone are they in? And then feedback questions. So what topics do they wanna to discuss in the future then how often do I do they wanna be mashed up? And so if you had any custom questions in here, will also populate with their answers. And these are all customizable. But this is what your dashboard at a basic level looks like. We're doing a very upgraded version of this called insights that we pushed out and in queuing at some point, but right now, I think this covers some of the things that you asked about. Am I right?
+
+Client 4: Yep. Some of them. My next question here would be can we add specific parameters to the people so we can download the information and track it on our side too. Why am I asking this? Because whenever we see different tools that have engagement dashboards experts, it's super cool by tool itself. It's not gonna tell me anything if I don't match it with the information that I have. On my side. So having an internal is gonna help me do that matching without having to do menu like a lot of my work behind it.
+
+Host 1: When you say matching, I know you all are using Hubspot. Right? Are you talking about connecting with the information in that Crm or somewhere different.
+
+Client 4: I'm just talking about sending you an on a person, like, we can even create it as another parameter that you have in the database. So, yes has we got connected to the hops, but we could connect it to our. We could connect it to the other set of information that we have on our side.
+
+Host 1: Okay. So what we can do is we can add tags and information to every single member, and then you we can download all this data in a Csv, and then you can put it into any other platform that you have we are in the process of integrated with almost with every Crm out there including Hubspot. That'll be pushed. So that's one thing That'll be a bit more seamless but for now, can both upload a Csp a Csv of information which will actually help you with the matching and then you can download that back. Would that work for you with this type of download?
+
+Client 4: Good. Good. Good. That's good.
+
+Host 1: Okay. Okay. Something we're doing all the time with with our customers right now in terms of these downloads in these data. A lot of things that we can do there, we do a lot of custom stuff as well So if you need something that we don't have, which we probably have it. Can probably create for you. Okay. So that's that's a look at the dashboard. You already went through the entire member experience couple other quick things for you. I mean don't even though I'm not sure that you all be setting this stuff help on the product side of things, but you can import a Csv of all of your members here you can segment your audiences in any way that you want to and then set up engagements. So really quickly in terms of automating all of this stuff and and how it looks like on the front end. Is really simple set up here. So we can schedule out the date of the opt in the date that we're gonna have people get matched up. And then we are gonna create You select the audience and you create a topic. So this is an email that's customized. Everything is template it out for you, we can modify this stuff, your branding is in there, reminder as well. And then this signup up form. So this is where our Ai starts working based on matching up to correct people, and there's nothing that needs to be done on the product from your end. The only thing that can be done is really from that Cs uploader that downloaded an improving match is overtime. But that form customizable we can modify the member information that we ask. We can turn off the Linkedin or we can turn off the role, the company name, we can toggle this stuff. I don't know if Even these mashed questions in terms of topics of interest that we're asking for if you how this information is Csv for us, we can prep populate this stuff. Years of experience size company stage, all of this stuff is kind of pre built in, but we don't have to use this stuff if we don't want to. Adding your custom questions. If you have any determine the logic multiple you know, how we're gonna weight these things and then the feedback form as a last step. So one thing i'll show you with feedback form. Here is what it looks like in terms of modifying what topics are you interested in discussing in the next engagement, you can edit this and modify that don't even have to ask if you want to. Frequency this is where we get to learn. How often they wanna be connected And then last thing. So if you have other events, like, in person events or you're doing round tables or if you wanna discuss group matching versus one to one, this is where we can ask him that and you get that on a rolling basis for every single engagement. So again, is managed for you here in this dashboard. To Yeah.
+
+Client 3: Questions on? Yeah. I have a question, like, Do you have any Api because I see that even we had new fellow to our community we'll have to report them if we want to copy with data we wouldn't to for them Is there any way to do this automatically through your Api, There is.
+
+Host 1: So Api is being built right now. Probably our our most requested feature I would say first thing next year, it could be in use. So in the meantime, let's say we did run engagements here in December we would use the Csv downloading the data uploads and downloads. And then as we start pushing our integrations in the Api. Yeah. Q one.
+
+Client 3: What scope are you thinking with the Api? Okay. So we have we developing the api. This Api will do in the future.
+
+Host 1: Can you give me an example scenario?
+
+Client 3: So like me I have multiple deals. One is every time I have a new member creating that automatically. The second one, every time that there's an engagement, getting on, like a web like being able to get that data to pass automatically to my analytics, so I don't need to be constantly know information. So you will see more question and web groups of you know, when I mean happens, just like can save that that you know, what I would need to do anything i all.
+
+Host 1: Yep. I would say certainly, we can do is send information to Orbit So if you update, let's say let's say paid member or something like that or in you don't want non paid members to receive future engagements that api will to send that into orbit, so it will affect who we see the engagement doesn't receive it. I believe we are also doing a two way sending back to. That's where this integration with our other Crm runs are happening. So that type of communication will go both ways I know starting, it's gonna go towards orbit. That makes sense.
+
+Client 3: Thanks.
+
+Client 4: Then I guess, the question that is remaining. Since we have been part of the previous status is fees, and if you have a trial version, So we we have a trial version for pro And I don't know if you've had it have you looked at any of the pricing that I sent La at this point?
+
+Client 4: Nope.
+
+Host 1: Okay. I will quickly walk you through that. So we have a few tiers and we have twenty twenty two pricing, and it is based on you know, up to ten thousand members. So up to ten thousand members, any of these tiers make sense. If you go above ten thousand let's discuss, you know, if we need to engage that many people and then, you know, what that one tell. But you get x amount of custom matching criteria and then number of matches per month. So at the very basic essential which is five five k per year on the annual contract. You get one matching room, so one custom question in that form. And then up to three matching runs per month. That's probably the most common when it comes to connecting founders with Vc portfolios in in that type of community, as we go up into like, a more a pro it's ten k annually. You get four custom matching questions seven rounds matching per month and you do get a little bit more flexibility in terms of reports and data. You can actually edit the matches before we send them out an invite. A lot of other type of things that we can do with that. You can even sort know, getting into group matching instead of just one to one. We will do paid trial on the pro version On the five k essential, we don't do any sort of paid trial at this point.
+
+Client 4: And do you do any discounts in general? Because ten k a year, it's a bit expensive right now because we are startup at the end. And are, which means that all of the fees here us a bit differently.
+
+Host 1: Yeah. Hundred percent. You know, first of all, I know Elise Lab has been talking with, I think one of our other reps for, like, six months or so. You know, we think there's a strong fit here I'd love to work with you all and get you in here. So it's in the year. There are some discounts we can put in place let's say you all wanted to start in January, can lock you in at twenty twenty two price or even if you wanted to start in December, There's definitely some things that I can go down from what is a number you're thinking about less than ten k Like, how could we make it work essentially within your budget.
+
+Client 4: Let me talk to Nadia because I think that she's not very aware what we paid today the other tools, but only with the basic one is the three export we paid today. So it is very, very much expensive to what we have. But I wanna understand what are they seeing from business but maybe we're not seeing. That would make that will like justify the cost. At least fifty... We were gonna go with the pro don't think we're gonna be willing to put more than five thousand.
+
+Host 1: So we could do... We could start at in essential, which is five k annually. There is an onboarding fee. I'll I'll just waive that for you is ten percent of the total you so we could start at five k And then if you all or find that you need more matching questions or you need to do more engagements than three per month I would be inclined just to give you extra per month instead of having you upgrade to pro right away. So let's let's see how it goes for a little while. And then once you start consistently going above the limits. Have a discussion in terms of upgrading. But I I think you all start at an essential five k I think the main question there is since you're gonna chat with, are you both seeing value in this right now compared to what you're currently using.
+
+Client 4: So we're right now in a bit of, like, a strategy shift. So I do wanna understand better internally what we're gonna to Thompson than I think that it is valuable to connect the people. But in my perspective and, if we can connect it to an overall strategy especially with the data. That's why I was asking because if we try to do separate initiative with everything that we're doing. It's gonna be cool, but it's gonna be a fragmented user years. Right? So we're trying to get information. Here. We're trying to connect there we're trying to create a real life events. So there has to be a way for us internally to connect them all. But it is a group tool. I think that it it does have potential, but do have to check.
+
+Host 1: Yeah. Definitely. Can I ask what you currently using now to make connections?
+
+Client 4: We were using Doughnut but at least better than me.
+
+Client 3: Yeah. We were to done it. For now.
+
+Host 1: Just just in Slack. Right?
+
+Host 1: Yeah.
+
+Client 3: Yeah because where it happens all of our engagement happens to a slack. And we are building our own platform. But where First about Where as like is well we got everything.
+
+Host 1: Yeah. So I'm I'm a fan of donut. We use donut basically to test it out. I mean, is of course, it's not it's not a smart necessarily robust app But it works well with with with Slack. Slack engagement statistically activity starts going way down the long we have it and the more you put people in there, a lot of our clients also use Slack or they'll use another community management platform. So we don't manage your members we're simply a tool to engage them wherever they are or through email. That that's a common I guess, complement But I think you're still gonna need something like this to keep them engaged certainly you know, beyond anything that that donut does So good to know. Good you know that don't is something that you're using. Definitely a lot more capabilities with with Orbit here.
+
+Client 4: Yeah. Definitely, we can see that. And and as You said, like, the management did general know should be on I was like, it is our community. So we should be responsible to whatever we decide to do with it. And or it would be at to that. And I do see evaluate way.
+
+Host 1: Just... Okay.
+
+Client 4: You know, that the the scene is getting a bit shaky yeah the moment.
+
+Host 1: Okay. Well, I know you all have paid founders as well. And if this is a way to kind of contribute to the growth in that. I think the Roi on that five k as the annual fixed price, I think is gonna be way beyond that. If it can contributes to that. But I know I sent over some stuff to. What I'll do is I'll send over this stuff to both of you as well. And then, yeah. Just let me know how you know, what you need help you do that.
+
+Client 4: As. Thank you for much. You are a great salesman. Phil god give you do that. Let us look into internally early and we in bloody, we can learn with fear that is for policy and. Understanding are gonna be the main priorities and this is something where we're gonna allocate like, how many resources. So see it's something like, continue pursuing and I don't want to, like, to tell you like, you know what? The late next week, we're gonna give you a strong. We still fact a bunch of things.
+
+Host 1: Yeah. Definitely. When would be a good time for us to regroup them. Would it makes sense after I share this up with you maybe we we follow next week or the next couple of weeks Let's try to do it next week.
+
+Client 4: Like as soon as possible, and I can get the compromise of the and beat as as possible. And and if anything will tell you through email, if we're not ready to have the discussion with you yet.
+
+Host 1: Okay. Sounds good. So hold off I'm blocking any time in our calendars for the next week for now.
+
+Client 4: And so... No. Let's do it like, let's sign it. Just like, Okay.
+
+Client 4: Just for asking have the push to have the conversation, but Eve this requires, like, extra strategic alignment internally. We'll let you know if we need extra Got it.
+
+Host 1: Okay. Sounds good. So does next Wednesday or Thursday, then work for to put a slot in the calendar to be on the same time. Yes. Alright. I'll put it for...
+
+Client 4: Right, At least does this that work for you? I I was just speaking for myself.
+
+Client 3: Yes. Which day?
+
+Client 4: Wednesday there Thursday?
+
+Client 3: Yeah. It should work. Yep.
+
+Host 1: Alright. Will send it in by seven at the same time. And, yeah, you know, as you look at this, anything just let me know. Or if anything Also let me know.
+
+Client 4: Awesome we thank you very much. Yeah.
+
+Host 1: Definitely. Alright. Danielle and Gonna to meet you.
+
+Client 4: Soon.
+
+Client 4: I

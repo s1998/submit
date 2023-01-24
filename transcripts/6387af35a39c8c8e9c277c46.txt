@@ -1,0 +1,235 @@
+Host 1: Hi, Kelly I hear you great.
+
+Host 1: How are you?
+
+Client 2: Good. Nice meet here.
+
+Host 1: Too. And I think brandon gonna be joining us Crappy to.
+
+Client 2: Correct Yes.
+
+Host 1: Awesome. Well, I am was looking through our Salesforce and I saw that brie on our side was reaching out to you Did you hear about us through the email and then send us over to... A brand or did brandon bring you into the system or to to this meeting or how did we get here?
+
+Client 2: I was looking for tools. So brandon provide services to us. And so I mentioned the tool I mentioned was jose to brandon and he reached out to you.
+
+Host 1: Awesome. Okay. So you've heard about Before.
+
+Client 2: I had not No. I just found to... I don't don't even remember how accounting.
+
+Client 2: But somewhere somewhere on the Internet.
+
+Host 1: Cool. Awesome. And it looks like he's joining right now. So perfect. Great. Well, today's call just so you know hey, Brandon. Is more of like a discovery call, so we won't actually get into the tool today. Just wanna understand really what you guys are looking for, or what challenges you're looking all and then we'll get into a demo on the next call and it'll be a full hour. So there's definitely a lot to go through. But, yeah.
+
+Client 3: Brandon Hey guys. Sorry About.
+
+Host 1: No worries. How how are you?
+
+Client 3: Good. How are you?
+
+Host 1: Good.
+
+Client 3: Awesome. Okay.
+
+Client 2: Hi there.
+
+Host 1: Cool. So, yeah, I guess I'll just open it up and say, Kelly, when you were starting to look tools, what was the reason for it? Like, what was the catalyst in of needing change and what kind of change are you looking for?
+
+Client 2: So started the conversation with brandon, looking at how I can automate and have better flexibility fill in my business plan. So looking at scenarios, once I go my business plan, your video I consumed like I think it's top of mind for most Ceos is, you know, we don't know what the shows bringing with the recession what impact it's gonna Have it hopefully there is no recession And so, you know, we currently are modeling everything in Excel. From a business planning perspective. And my son works for one of your competitors. I don't know whether you know profits. Do you know that name?
+
+Host 1: I have heard of it. I don't think we're in we're in the same space, but I don't know that we don't think you overlap the same.
+
+Client 2: I gotta try I got told them I looked at his company's website and didn't really address what I was looking for in the market segment that I'm in which is a fast software company.
+
+Client 2: So I just wanna to put that out there how many conflict of interest really?
+
+Client 2: But so Yeah. So so business planning is the first thing that I started looking at. But I am looking I'm just leaving we went to another Crm solution that was supposed to help us with our Arr and all of our Sas Kpis, and it did not work. So i'm a little bit done shy because we invest it a whole year with a company, and we're just ripping it out right now as we speak. And what team do that?
+
+Client 2: Feeling lot of pain. I'd don't rather to not talk about what we did.
+
+Host 1: Okay.
+
+Client 2: Most space at all. They were not in your space at all. They were coming at it from the Crm side. And then layering on some of the things that are sas companies. So So I do have a void that not clear whether or not I know you don't integrate two dynamics three six five. So I don't know I can get where I need to from the perspective get into my fast metrics. So I'm looking to understand my are my turn... All the core you know, metrics including, you know, my subscription and margins my services margins, you know, everything from the financial active down to understanding you know, my my you know, lifetime value, my c, all those standard glass metrics.
+
+Host 1: Yep. Yeah. And no it's a really good question because, yeah. We don't come across microsoft dynamics very often, but looking at your business model, I get why you guys are using it. It's kind of like what you guys do. We can still help you guys with saas metrics. It would just be that we would have to ingest your Arr schedule with all of your customers start deep end dates, and the amount via a Csv, which is actually a okay route. The part that we wouldn't be able to do just because we don't integrate with your Crm, is pipeline and how the pipeline is gonna help you guys forecast out revenue can definitely still help you guys do like, really robust and accurate for... Like Op forecasting and head count forecasting and all the metrics that are like the financial metrics hash metrics, whatnot.
+
+Client 2: But and anything built on Arr as well, it just won't be like a dynamic flow.
+
+Host 1: It will be i He upload. So really is the pipeline and in the revenue forecast if you're using pipeline to do that. Probably would sort keep that in Excel, but if you guys are doing like a sales capacity model that's built off of just like Sas metrics, head count, and quotas can definitely help you guys not in that avenue.
+
+Client 2: But I think dynamics is one of the biggest Crm crm behind Salesforce, any reason why you guys haven't looked at dynamics?
+
+Host 1: Yeah. It's... I mean, it's a good question. And I think it's really interesting. Sorry. There's a car outside. But in our space, so we are specifically B b Saas typically venture backs from Series seed all the way through series like d e f is kind of like, on the tail edge of where we're servicing. In that area, it really is mainly Hubspot Salesforce pipe drive for like, really small customers. I think dynamics is more of like an enterprise solution.
+
+Client 2: It is...
+
+Host 1: Yeah.
+
+Client 2: Yeah.
+
+Host 1: And it's that's good rationale.
+
+Client 2: Yeah.
+
+Host 1: Like that is a or startup up tool. And so you guys all not... I would... Like you guys have been around for a while. I thought you been there for, you know, almost twenty years, which congrats. It is definitely more geared towards, like, that start of companies okay Yeah Right.
+
+Client 2: So... And we're not a startup up or a more mature than a startup up obviously, but we're not a large company where and I I have not started to look at the market. Quite frankly to see what else is out there that can meet our needs. I. I know there's choose bill. I know there's, you know, a number of others that you know, that that they do some parts of what I'm looking for. So I I guess my main thing is is, yeah, to clearly understand what the gaps would be with Mozilla.
+
+Client 2: Mh. To give me the full solution that the team, you know, would need, I think from the financial she'll sign a very high level. You know, what sounds like you might help me with the business planning. But helping my sales leader with the you're forecasting model would be, you know, helpful too. We we do sell an Arr model, but we also sell two and three years description. So you know, being able to turn those into the right metrics that we're looking for. So Okay. Else Yeah.
+
+Host 1: So I guess on that, you mentioned a lot of the saas metrics that are super important not you kinda mentioned, like, scenarios, what kind of scenario planning are you guys doing today? Is it head, revenue, all every all the above.
+
+Client 2: Yeah. So, you know, in the model today, I will adjust the revenue. I'll look at the impact on you know, the balance of the year, what my and i look like you know, with the reduction in revenue. So I... I'm trying to get our I'm trying to get live our actual. Month to date that coming from Quickbooks.
+
+Client 2: To give me that populated model with my current Op backs and, you know, all of my costs to give me a live view as to, you know, what's happening throughout throughout the year. So I I can see and know, you know, okay. So we are behind here, this is what the impact is gonna be on cash three months.
+
+Host 1: So.
+
+Client 2: Do I need to look at making adjustments and then be able to one of those adjustments and say, okay. My current plan, I have hiring you know, two resources in this month, five resources in this month. If By free hiring those resources, what impact is that going to have and will that help me step my way through this or do need to take more drastic cuts and vice versa, if things start selling faster, you know, on the other side to understand you know, the impact of of that. And what what I need to do be able to address that scale.
+
+Host 1: Yeah. No. That is really helpful. We can definitely help address all of that I'm... Are you guys forecasting on, like a monthly basis like, how often are you guys we revisit and updating for actual.
+
+Client 2: I would like to do that on a monthly basis. So month end take the data And We are using spotlight brand night martinez. My day. So, you know, that gives me you know, where I am against my budget. But it doesn't give me the tape a thing that I saw or thought your demo showed me that gives me a more full picture. The analysis of I can do. So today, I would go into... And we would sit and look at spreadsheet of all of the costs that our company has in the spreadsheet. All of the revenue assumptions adjust those one at the time, and then once she's jack once you've adjusted it, know then you put all these versions of your budget that was set at the at the front of the year.
+
+Client 2: Mh. And it's a bit of a mess.
+
+Host 1: Gotcha. Yeah. Version control a huge issue and I think that Mosaic is a really good job of solving for also in a bunch of our satchel. So right now, is it once a year but you like get to monthly or is it, poorly Sorry.
+
+Host 1: It's what? The fort ref forecasting.
+
+Client 2: I want to be able to monthly have my app trolls input into it and look at the results.
+
+Host 1: Mh.
+
+Host 1: But today, where you guys at right now.
+
+Client 2: Oh, I I... I mean, it... It's done at a point in time where I feel need to do it.
+
+Host 1: So...
+
+Client 2: Okay. We don't have a defined process where we're doing this quarterly or doing this monthly. It is highly manual and labor intensive. So we're not doing as much as we would like to.
+
+Host 1: Gotcha. Okay. Good to know.
+
+Client 2: And then I I need a monthly you in my business. If you wanna know, like, trying to understand. I want an employee view of my business.
+
+Host 1: Gotcha. Okay. And because you guys aren't like a typical venture company I didn't find any fun fundraising information online. It looks like you guys are, like, bootstrap or, you know, you're profitable. What's the hiring plan look like for the next I guess, year, like, do you guys don't just hiring drive a lot of how you guys are your business or does head count play into your operating plan?
+
+Client 2: I had can is the foundation of our plan. Right? So a sales head and then all supporting head count is what I've got you know, this model, it takes goes up to twenty twenty eight. It's a multi year and long term you know, projections. Okay? But it is running off of all of the current data as of today and then the assumptions. So you know, we have all of our you know, financial assumptions, all of our sales had account assumptions and revenues and things, which is where, you know, we're trying to get to really understand that better too, which is more on the pipeline side, but really easily get into win rates and mh, you know, metrics on the lost reasons.
+
+Client 2: And truly is it lost to a competitor is opportunity still open, but it's been delayed that's said pushed out because the customers pushed out the decision or is it derailed in that, You know, we know and we're closing it because, you know, they said, no, you know, where we're not moving forward other projects have taken priority whatever. So, So I'm looking ideally for the two elements. So one to give us better metrics coming out of the Crm.
+
+Client 2: Mh. On the pipeline in the Crm. And a better financial modeling the output it that Gotcha.
+
+Host 1: It's kind of difficult for me hear because everything you're wanting is stuff that we can do if we enter your Crm. I'm not gonna ask you guys change our Crm because that's like, you know, a crazy feat to do, but I'll I'll inquire before our next meeting about how we... If we can get that data in and way, Like, if you can download opportunity to and ingest that data. But I did see a services component on your website as well. What's the percentage of saas to services.
+
+Client 2: Services is probably twenty percent. Twenty five percent in there Okay.
+
+Host 1: Perfect. And then as far as your collaboration when you do build this budget and sounds like you're building all your own or did brandon help creator Like I know I was built by a finance.
+
+Host 1: Gotcha.
+
+Client 2: Okay.
+
+Host 1: Are you guys sharing out, like, department budgets with your budget heads or where how does the collaboration look like right now?
+
+Client 2: So we are a small team and the exact team is aware of I mean, they they worked with the team to build the budget. So Yes. So parent it. And unlimited level is what we do.
+
+Host 1: Okay. So you guys are already doing, like, budget versus actual at least go compared to, like, the what we can from what we have.
+
+Client 2: Yes.
+
+Host 1: Okay. Cool. So it sounds like a lot of the stuff that you guys are dealing with is has kind of likely been the status quo for a while, and I know you mentioned that a recession is the reason why you're looking at this and wanting to do more scenarios, but Is my not recession.
+
+Client 2: No. It's not just their recession.
+
+Host 1: No.
+
+Client 2: Okay. No. No. We have a we have a growth plan without getting into all the details of our business and I need to be able to be really monitoring their reality against our assumptions. As you know, we've got this significant ramp of growth. Budget in front of us.
+
+Host 1: Gotcha. Okay. That's... really helpful to know. Awesome. Well, I definitely wanna find out for you guys how we can kind of bridge the gap for the Crm. I know we can bring in the air like I mentioned, but like, all the other data that we typically can bring in like, the pipeline closed loss reading reasons, things like that. I'm am gonna see if we can bring it in any other way. But when there... Is there still value or like a significant amount of value in just getting in your Quickbooks data Brandon mentioned that you guys maybe don't have an hr system, but you have, like, a people head count like, a tool that keeps track of all that.
+
+Host 1: No Okay. No worries.
+
+Client 2: Not was just in his spreadsheet.
+
+Host 1: we can just bring in that spreadsheet then. So on just the financial side, if we can't only get you like, the Saas metrics, but not at like the pipeline and then likely more sales forecasting based on, like quotas. Is that still valuable or is it really a lot of the Crm data that's gonna make this beneficial.
+
+Client 2: Well, I prefer not to have to go to to tools to give me the full picture care of business I would need to understand. So one is you know, yes, they are declined, but one is the plan, and being able to I'm assuming yours is a full planning tool. So my spreadsheet on.
+
+Client 2: Right? Yep. It's that correct. So instead of living in spreadsheets, we would be doing the planning in your tool that would give me all of my budget and current state and ability to connect with Quickbooks to give me my actual against that. Right? Mh. But what we're gonna miss is staying current on actual head count because that's changing, you know, monthly by higher or if we have resources move. All those other places.
+
+Host 1: Look at that data in. So the head count piece can definitely be uploaded Okay.
+
+Client 2: And and Is your problem one big solution? Or do you break it out into modules?
+
+Host 1: It's and all you can eat one solution. Correct.
+
+Client 2: Today. What's the price of it roughly, Give me a wrong.
+
+Host 1: So you guys are kind of in an interesting situation because we have two tiers of price seeing one's like our Smb model, which is first seed stage or under thirty five employees. I saw forty four on Linkedin, but Brandon mentioned you guys have twenty two employees. So with that and the fact that there isn't any funding online, You guys could fall the seed stage, which is significantly discounted from typical because it just means it less complexity typically. Let me actually show you what that looks like and then show you like, our other tier looks like because you get the same tool, but it's all just around complexity. So pulling this up. And then just so I also know as far as how you guys build out customers, Is it just straight like contract and then you got... Are you guys billing from Quickbooks or how are you guys building out for both the services and the Saas component So we invoice out of Quickbooks, but we're looking at moving that invoicing out of the Crm and then just updating Quickbooks.
+
+Client 2: But today, it's all about a Quickbooks.
+
+Host 1: Gotcha. Okay. Cool. That's perfect. Cool. So let me... quickly share out the pricing. And I don't typically do this, but just because you guys are a little bit of a different use case. Definitely wanna make sure it's, like, at least within a stone throw.
+
+Host 1: There's two different options here. Although I said it's all pretty much one. I say that because the bundle encompasses with everything including analytics than planning. The only other option aside from that is analytics only, which doesn't give you any of that planning functionality. It's just is essentially, like, you know, Bi visualization. So I've only sold one it's only deal with typically everyone goes with a full suite. And with our typical bracing, Oops I just wrong button here. Our typical pricing lands at thirty two thousand. This is unlimited users unlimited and data and then twenty four thousand for the analyze only with a five thousand dollar implementation fee, no matter of how many times you guys switch your tech stock or if you guys do, you know, wanna add a text that like that. It's all the same. But for you guys, since you are more in beach tier. You can see at the bottom here, we do say Smb available for seed stage under thirty five employees. You're looking at eight thousand off the bundle, which is the tool that I would definitely suggest for you guys. Then two thousand off implementation. So around twenty seven thousand all in, but of course, you know, if we get to a demo, which we definitely... I would like to. Show you the tool. You guys like it, and we're, like, you know, a little bit out side, everything's is a conversation, and we can definitely make a work with them in your budget.
+
+Client 2: And my talking in American Opinion right now.
+
+Host 1: You're what?
+
+Client 2: Am I talking to an American or Canadian right now?
+
+Host 1: Oh, yes. Us.
+
+Client 2: Okay. So this is Us dollars.
+
+Client 2: Yes. Okay. So gonna add like thirty five percent to that.
+
+Host 1: Yeah.
+
+Client 2: Do you just sell in Us dollars?
+
+Host 1: Yeah. We do sell in Us dollars, but we do take that into account. Like, honestly, I'm talking Voodoo actually play is a Australian based company and their exchange rate is probably the worst that we've seen so far, so it is something that we take into consideration. So again, like if we're within reach, I would like show you the power of the tool because it is really a very powerful tool, and that's why a lot of our customers are paying like thirty thousand plus for it. But just knowing the situation, everyone's trying a hold bunch of cash right now. Definitely willing to get flexible if if you guys like it and wanna utilize Mosaic.
+
+Client 2: Okay. Well, this is given me the high level information I was looking for. You know, in consideration of this. So let me let me look at this. And we can circle back whether we're interested in going to next step. If I'm in a position that I want to pull the trigger on this right now. We have a lot of other programs going on including moving Crm and the middle things. The team has been exhausted there. How much time of our resources does it take? In order to do that implementation.
+
+Host 1: Yeah. Our implementation is actually really a light lift and the reason for it is we're not like, migrating data like you are from whatever Crm you guys are using to microsoft actually just integrating. So all the data can... like, from Quickbooks would flow in same day, do a mapping process with you just to make sure we're getting the right roll ups of your Gl accounts. And then Crm, we... Or I guess we wouldn't do Crm. So actually, your process to get your data out of the tool would probably be like, I would say two weeks or so just because Crm typically takes a little bit longer to is a lot more bespoke to how you guys wanna pull data into the tool.
+
+Host 1: But with just Quickbooks and uploading your Hr data, that's pretty much self serve. So it is real value.
+
+Client 3: But if we were if we were importing, like, I'm not sure if this possible sales data from, like, microsoft dynamics, Speed have to do that. On a monthly basis It's as often as you guys want because our Cs upload is self serve.
+
+Host 1: Okay. So if you guys did, like, our typical data pulls, like, twice a day, and then you guys can always push manual I'm saying, but if you guys wanted to like update it every time you close a deal to get, like, that most upstate data. Definitely can. I think it would be worth at least like, setting up a demo because, like, if in the first thirty minutes, you guys like, hey, is isn't really what we're looking for. We can cut it short, but I hate put the price before the tool because this what typically happens. Because I think that you will still find a lot of value out of getting on a spreadsheets really automating your whole budgeting process and then looking at how we can get that crm data in.
+
+Client 3: think it would be really useful if we do go ahead with the demo would be to really under time that, like, the how we've marry the gap between dynamics, and Yeah Yeah.
+
+Host 1: So I actually have a full list. Let me pull up this metrics catalog. So one of the value biggest audio I would say, is very unique to Mosaic compared to any other competitors you guys may be looking at is that we are focused on Saas. So whereas other tools in the market, they have to pretty much build everything from the ground up and there's a lot of saas out there. So you're pretty much reminded the will ever time. We have over a hundred fifty out of the box metrics and this is not supposed to be customer facing. I copied and paste this out of our knowledge base. So sorry that it looks so ugly. But pretty much in here, I can let me just apply some filters. So I can look and see like, hey, what which of our data is coming from... which source and for revenue, We can pull it in from that Csv upload. It would just be more of the two d data that we couldn't get. So if I just clear all this, and pull up the opportunity these are the metrics that rely on opportunity data. And it's still likely that we could whole opportunity to enter the flow, but it would be more of that. Upload. And actually, let me show you guys this. So Is it a full Et etl tool mapping?
+
+Client 2: How does it work?
+
+Host 1: We are not That's kind of more on the technical side, which I don't really get into, but I can actually send you guys here. I have a good video on it. I don't know if it is Etl, but like, for example, for Erp integration, It is essentially just, like, a plaid like integration where like turn off the volume on this. This is our integrations page and you just click on whatever systems you guys use. So like, for example Quickbooks you log in with your admin credentials on Quickbooks. Then it pulls all that data in.
+
+Client 2: And then not get that because you've built a connector to quickbooks. I'm thinking more the Crm.
+
+Host 1: Oh, yeah.
+
+Client 2: So what what data do you I mean, do you have a list of what data do you bring in the pipeline? Like, do you bring, like, with the extent of date?
+
+Host 1: So With Crm, we can typically bring in any custom field or object. So you'll see that when it rings in the data here, we actually get the full, like, everything will field. That you guys have in there. So as you guys add peeled, if you guys happen piping into Microsoft dynamics, and then you guys will actually just go in there and choose what you ask actually want to see what's important to you, What do you wanna slice dice data by? And then that's what's pulled to the tool.
+
+Client 2: But that's because this is Quickbooks and your team's built integrations to quick...
+
+Host 1: This is Salesforce. This... So this was... I'm showing a Crm integration one now.
+
+Client 2: We have okay. Yeah. But but if there... If you haven't built that and all we're doing is taking an export Csv out of our Crm. Then we're having to bring it in. Anyways, we you you can send that to awesome, we can take a look at it because you know, I think at the price tag you're at. I I'd really need to feel comfortable that we could get the full benefits of sales and planning. Yeah. It it's not worth quite frankly for the planning piece of it.
+
+Client 2: Totally. I'm I would need to be able to get the full benefit of both.
+
+Host 1: Yeah. I... I'll definitely check on that because I totally agree So if in our data management flow, we do have That's here. Where I'll see if we can import this data because it's an export from Salesforce. Like, this... You can take it Atom mosaic and it's what's coming in at Salesforce or So let me just check on this and and that's That is a good next step is also considering that would be probably more willing to be flexible price.
+
+Host 1: If you guys did decide to use Mosaic, and there is have rounds with Crm. Because another thing on that is that Crm is... Like I mentioned a bigger lift implement. And with that being taken away, and it's just a Cs upload, then likely able to lower at least implementation and and likely the software cost. So I'll definitely check on that. But in the case, Let me get you guys an answer by likely end of day tomorrow, because the rest of my day is pretty busy here. Then based on that, we can decide if we wanna go to a demo and and take a look.
+
+Client 2: Okay. Sounds good.
+
+Host 1: Okay. Awesome.

@@ -1,0 +1,285 @@
+Host 2: Hello?
+
+Host 1: Hey Maximus. I think I had too much coffee this morning. Okay. My throat is a little dry. Yeah I sleeping my mouth last night. Nice jacket it. Until it's early. That blue on your face. Let's see. Yesterday Mike was acting up. So he said he would have a different mic today. So he's probably trying to get connected. Cool. Hey, Jason.
+
+Client 3: Good morning? Good.
+
+Client 3: Yeah. Martin early out there on the on the West coast side.
+
+Host 1: Honestly, I'm a little cruel. I'm... Because I'm central time, Maximus is specific time. So I make him wake up early to do.
+
+Client 3: I'm east Coast like it's almost time for lunch. Guys. Because good.
+
+Host 1: Awesome. Well, super excited to talk with you today, know we only talked to yesterday, but I you like to recap mark it's always really great about watching the demos as well. So he's up to speed with everything, but just to make sure that everything that I watch and had our conversation yesterday. We do have a really quick slide deck and then we'll get into the tool.
+
+Client 3: Cool let Maximus introduce himself and then we'll jump into it.
+
+Host 2: Yeah. That's meet you, Jason. Excited say walk you through Mosaic today, but it was for about two years he and prada was was in the finance like you. Leading the finance function functionality a Saas company called easy text do that for about. Four years and actually implement Mosaic there. Love the tool of the team and made the jump over to sales.
+
+Client 3: Right. Bye ma'am.
+
+Host 1: Cool. So lots of words on the slide, but I always have to, like, get thirty minutes of content like, make it into one thing. So I'll walk through all of it, but from my take takeaways from yesterday, reporting really is the highest priority right now. You mentioned a bunch of metrics that I'm really happy to say that we'll go through them. We have all of them Really reporting is immature and inconsistent or... Yeah, Not consistent across organization. Partially because of all the acquisitions you guys have had just the complexity as far as different product etcetera. So really I'm hoping that you'll see that Mosaic will become that single source of three three guys, bringing in all those different systems into one and then also aligning your whole on definitions. If there are different definitions were like, let's say the sales team this biden team will also, you know, bring that to light. That way, you guys at least know, but the difference the metrics are. But generally, it just seems like you guys need automation, you're getting what you need right now, but it's in a way that takes a bunch of time. Away from other things that you wanna be doing. So as far as just like, where we are. I know you guys have Power bi gonna require a lift. You have to build everything out, and that's really where we come in as far as, if we can do it all just easier. And you mentioned that budgeting and forecasting is relatively easy. We still wanna show you that side of the tool just because might be something. Even though it is easy, it's easier to have it on one spot. So we'll go through but we do start with reporting. So that's gonna be, like, main focus today. But I am curious as far as like, the Bi tool kind of like wondering, if you were to have to quantify If you were to go that route, how much one time, and then also money would be put into that project. And and that way, we can't at least see like, hey, is gonna make sense for this, or is this something know, that would be equivalent or like, how would that work in comparison? And also any other tools that you're looking at when you were doing your Google search, Yeah.
+
+Client 3: In terms of other tools know this was sort of opportunistic. I kind across it and so I'm at least interested in looking at it. I have not been looking in the market for anything because we have a number of other priorities too. So Part of it is it if it's a good fit and it looks like it's something we can pull off, we would you know, be interested in doing it. In terms of the the rebuild on the the Power bi I don't know Haven't really started to explore that. I don't think it's substantial in terms of the you know, kind of to to get it to sort of a working order again. What I don't know is how far do we want to take it from there and all of that. So it it's kind of it's that's a hard question to answer because I think to get it to do something that would be meaningful for us is that much, but to get it to be everything for us. I mean, you know, that kind of black hole that you could go down. And Yeah. You know, I can't can't really answer that one.
+
+Host 1: That makes sense. Yeah. You kind to, like, scope that out. Decide like, hey, what do you mean? Where do you nice to have versus need to have. So totally get that I guess on that, is there chance that you guys keep doing things the way they are, or is it like, hey, you use it to like mosaic or you're gonna do a power bi.
+
+Client 3: I think the do nothing keep doing what are is is definitely a possibility and we continue to kind you know, get get a lift out of just being better organized and using Excel. Not the yeah we're with Google. In the google tools. Not necessarily preferred, but we we do have to kind of strike a balance of We only have so much capacity kind of invest in what we're going to do. So... But ideally, we do it toward the tool that we can leverage in take it advantage of.
+
+Host 1: okay. Perfect. That pretty much answers both my questions there. I guess last thing then we'll move on is just when you mentioned you have other priorities, I'm curious like, is this relatively on the prairie was like lower middle, Like, where does this project landed if it's easy enough.
+
+Client 3: It's fairly high on my list that it easy enough.
+
+Client 3: Okay. Is obviously, you know, to to run our business better, we need better visibility in all areas. So bad in it. It's pretty easy to justify if if it looks like it's something we can pull off and we we tangible benefit front.
+
+Host 1: Nice. Alright. Perfect. Well, that'll be my goal Leaandra. Show you that it is easy enough and that we can get you everything you need. So really the whole goal here as far as just Theme across Mosaic is getting you away from being super tactical. That way you can be more strategic. I think we kinda talk about this yesterday with my little slide deck as well as the founders, so I won't go into that too much. But we're gonna focus on today is just how we can automate things and optimize your process. So plugging directly to sage set Salesforce and bamboo hr, marrying together the datasets. That way you can get everything you need from a financial perspective off like, perspective, in a way, you can really drill down very accurately align everyone around the same metrics and also report out to the board. Do bunch of our satchel, etcetera. Really helping you guys just like, scale more effectively. I know you guys are not necessarily like, know, a startups are up where you're like, a couple years old, and you're trying to figure things out in entirely, but there is that side of the business that is fast growing. And so you wanna send more of your resources towards that and wanna decide how to change or or improve that go to market strategy. That really is where Has focus is helping you get that time to value. And then also, of course, it's being more accurate less burnt error. I know you guys are using drop right now. But if it is all Cs import, There obviously is some errors that can be involved there. So just integrations are gonna help out there. And then, of course, it's building your models in mosaic. If you choose to go that route, we do have a lot of robustness here. So we'll go through that afterwards. But the whole goal I would think is to collaborate with the rest of your apartment heads and really anyone who needs information. So metrics are great, but they're not great if no one understands what they mean, you know, how they impact everything else and also can't understand what goes into them. So that really is everything when mosaic is find that is not made for finance eyes. It's made for finding people to use and then be able to spread that information to the rest of the business because that's how, you know, things get done. So I went the virus yesterday, really just we're built four five by financier leaders. Everyone Maximus myself included have been in your seat at some point. And so definitely understand the pains. And hopefully, that shines through and the fact that we're speaking your language and can really understand your your pain pinpoint the needs. So as far as the what we'll go today, first go through connecting on your systems. Then we'll go through the reporting layer, which will get as deep as you want here and then follow that up with modeling. But I saw you unmute. You... Sorry. Kind move fast, and I drank a lot coffee this morning. Did you have a question?
+
+Client 3: No no. I wasn't sure if your. I went way from my confirmation, but we're good to go. So...
+
+Host 1: Okay. Awesome. I'm talking too fast, let me know I guess I didn't put enough like water milk or whatever what I was drinking. So awesome. So I'll hand it over to Maximus, and we will get into it.
+
+Host 2: Awesome. Jason will first touch on the integration process, really found foundation how Mosaic works how this sausage just made. So it's spend about one minutes explaining how it's done. The key takeaway is that we have native Apis into your core system, so sage Salesforce Bamboo, logging with Credentials, we pull over all that relevant data into the app. That Becomes that central source of truth. For all your financial information. So really just trying to eliminate the need for you to do manual work download opportunities, data from Salesforce, pull your Hr data from Bamboo, etcetera. Mosaic is just doing that. Manual work for you. Awesome. Any questions here with just the connection page before we move on to Mapping? Cool.
+
+Client 3: Nope. Makes sense.
+
+Host 2: So with the sage integration, it's a pla integration. You log in with your admin credential is here. We'll pull over all of your Gl accounts. And then you're gonna map all of your accounts into Mosaic categories. These categories are completely customizable to you. Really, you're just visualizing the data kind of reducing the noise of your Gl accounts into something that you're reporting out to the board, your Ceo etcetera up. Something that you're probably already doing today.
+
+Host 1: And this will pull it all your different entities. So all fourteen of them. I did ask about your question yesterday as far as, like, will be consolidated will on a some subsidiary level. So the answer that I got is that sage interface will look just like nets week, which at this point is at a consolidated level or forecasting. However, that's gonna be changing. Also in One, likely January, or February, so you might have like one month where you have consolidated, and then they'll switch over to that subsidiary level because that's when our nets week breakout is slated to be live.
+
+Client 3: That's fine.
+
+Host 1: Cool. And one thing to note here as far as just like I know you're not using the drive integration. So I'm not sure how it works with like, Cs upload. But we get down to the transaction level. So it's a lot more granular than drag I know that they i can only get down to, like, the G level. So it just gives you a a lot more insight into like vendors, you can do, like, better level forecasting. And then also just like, see all that insight in your metrics as well.
+
+Client 3: Yep. Cool.
+
+Host 2: What the Salesforce integration he takeaway right here is that we can pull in any custom field or any some object with Salesforce. So they just wanna sit down with you. Understand what those nuances are, understand, you know, different pipeline stages as an example. These are typical fields we see with our existing customers here. But just know that anyway that you wanna kinda slice the dice data by, like, product line industry, other things like that we'd be able to pull in.
+
+Host 1: And Jason, I was curious just because you guys are forecasting out your revenue based on the different product segments, that's something that you guys tag in Salesforce. Correct?
+
+Client 3: Yes. Salesforce and tax. So the Yes. The product the product ties to a business unit. So each each product in Salesforce, which becomes an item and impact those are the same thing, but they each have a business unit associated with them and then the business it is the dimension that we and a look at from a product line.
+
+Host 1: Got it. And the business unit and intact, is that a different field or dimension than your department dimension?
+
+Client 3: It is. Yeah. It's heartland. Is one dimension, business unit is another.
+
+Host 1: Gotcha. Okay. Perfect. And sorry. Last question on Salesforce, how you said that you're just pretty much getting all your data from Salesforce. Assume that that means that it's relatively clean. Correct?
+
+Client 3: Yeah. Yeah. Should be you know, basically, opportunity in salesforce then gets pushed into and as a sales order. And that sales order in impact, I don't know how familiar are with tax I think the next week. Right? If it that's kind like a billing contract if you will and from that sales order you converted into invoicing and and Rev rec and all those steps happen in intact.
+
+Host 1: Cool. So it has be clean, because that's how you guys are building It sounds like.
+
+Client 3: Right. Now the the only difference is if there is. Something that needs to get sorted out or something gets adjusted, We can do that in intact But make the change in salesforce. I don't know that that happens often, but invoicing. And the rev all happened in. Intact Got it.
+
+Client 3: From Salesforce or another system.
+
+Host 1: Okay. So if you were to choose your source of truth for like, your Arr, it would be intact being more accurate that bad.
+
+Host 1: Okay. Perfect.
+
+Client 3: Brook. Now we we do it's just we have the integration between impact in Salesforce does allow us to... We push back from impact the link and all of the information on the impact billboard order into salesforce. So opportunity closes within salesforce. It pushes initial sales order into intact if that impact sales where it gets modified. It does come back into as an object into the opportunity on Salesforce. Same thing with the invoices and everything like that. It does flow back through into salesforce so you can see all of the information in Salesforce as well.
+
+Host 1: Awesome. It's always... I mean, that sounds like better than what I was expecting. So that's great.
+
+Client 3: Great.
+
+Host 2: Any other questions here, Jason just with, like, the connection mapping and process before we jump into the tool. Cool.
+
+Client 3: Nope. I sense.
+
+Host 2: So this is the live app that you're looking at here. It's called analysis candice, it's support document park dashboard. So think about anything you can do in like google slides Powerpoint, as well as things like notion. You can write notes takeaways action items. But really the powerful part about the tools is when you hit the plus button on the keyboard, is where we have over a hundred seventy out of the box financial metrics. Anc and Sas Kpis as well as all of your pipeline level details. Out of the box. So you type in a metric name, you call it Arr as an example. Be able to pull this in changes, you hit confirm. And then within seconds, we'll pull it on at the canvas. And this part of the tool is completely customizable. So like, you can drive and drop these charts. Change the sizes as however you want. And then because we're connected to your underlying data here, you can drill in and all of those individual customer level details. In any given period. And you can make these ready. So you can add things like labels, growth rates, stack values. And then all of these charts and graphs are export to a P. Or if you want the underlying data, the customer level details you can export to Csv.
+
+Client 3: And are you able to share this is a as like an Ml page or that how typically work.
+
+Host 1: So Doesn't have, like, license or per head licenses like a Bi tool a lot of other tools do. So essentially, you can invite anyone in here whether it's you, internal external. And then once they have access, you can set certain permissions per dashboard per.
+
+Host 1: And then just share out the link.
+
+Client 3: Okay. So we just share out the link and then we can make people read only so that they don't make changes. That okay? Okay. Exactly.
+
+Host 1: And one thing I do wanna know I might have said it's already before, but all of these different metrics are calculated based on how you guys wanna see them. So maybe like, you know, customer count, for example, if you guys define customer count only paying customers are only like, you know, customers that have renewed or something like that. All those things, you guys will be able to line on along those definitions. Everyone who is using the tool, get a hover over and see that definition, so don't feel like you're an our box. However, if you do wanna have, like, a a best practice definition, I'll send you a resource afterwards that helps us or that shows how we define a lot of them. Then you can always lean on us for that as well.
+
+Client 3: Okay. Great.
+
+Host 2: And then taking reporting is step further here. If you click this blue attributes bill, this is really where we're giving you know, finance teams or just broadly anyone using the tool, that technical skill set. So this is where we'll pull in all those custom fields and attributes for you. That way, you can slice dice your Arr by product line as an example. Also automate richer your data with slices like D Lac size. So just pulling in these different dancing buckets based off the way you segment your business? And then lastly, cohorts, just pulling in like contract start data customer acquisition to date and creating these for you. And then lastly, really allow you to do investigative work too. So for example, your board's asking you, hey, how can we you five, you know, three percent? In September, you can always flip this to a table. I know in finance we love looking at things in rows and columns. And then this is where you can really peel back layers of the onions so you can see hair self serve segment. Know declined by twenty percent. Let's drop in, maybe our support tiers and then even our individual account names And then you can dive into... Okay. Maybe it's coming from our no service segment, and then what specific accounts changed behaviors. So here you can see like, our Uber account may have turned. So really easy to get to that level of understanding within a couple of clicks. And really give me those port insights quickly.
+
+Client 3: Cool any specific metrics, I'm actually, I think a good way to show you a lot of the different metrics we have is an our mosaic template.
+
+Host 1: On the left here. We have over thirty five different templates that are really just focused around different themes. So whether it is around collections, billings, cash, sales efficiency, like you mentioned or pipeline, These are all pre built dashboards that you'll have soon as you data connected, And that way, if it's like ninety five percent of everything you wanna show, but you just wanna add a couple of notes or stories behind the numbers. You can just make create a copy and then share it out with whoever needs to see it.
+
+Client 3: Yeah. I mean, I'd be interested kinda looking at like the cash flow and But... Look, I think generally speaking, you know, you guys know, my business is, like I said, like it it's it's a pretty standard software business. Right? So is that if back your target market, My guess is you're going to have of things I'm looking for. Like, I don't have a there a bunch of specific needs or crazy here. So I I think jed looks conceptually what you guys are bringing to the table is sort of what I would want. I think for me a lot of the question is really around you know, what is it really gonna take to kinda get this set up and going and then you know, what what is it really gonna cost me?
+
+Host 1: Like? Yeah.
+
+Client 3: Wow transparent. Like I I I'm not like, the the bar of fail, like, you know, assuming that this really is pop Could populate with my data which I have to believe, you know, part of the process. You know, the the putting the metrics there and all this, like, it doesn't look like you're missing any thing that I'm gonna do website, like I seen the stuff like you're not looking for something bizarre really unique.
+
+Host 1: Got it standard stuff.
+
+Host 1: Jason, you're so funny. I've never had someone be so forthright right, so early that like, hey, just tell me how much it cost and how implement. I actually... I do wanna answer this question I mean, like, no reason to spend time on this if you like it and you're like, if it makes sense it makes sense. But I do also just wanna show you the forecasting side how about this? We'll talk about yeah.
+
+Client 3: No. We i'll be great. I mean, good. But Yeah. No Mark, I mean, like my first use case market hit right there. So like, that that would be like, the thing I would normally do. It's like, okay. We'll like Arr arr down why is light change. And you know, which business unit or I'm already looking at this which customer like that's do all that today. You know, that... It's just putting it together. I wouldn't have to do that anymore. I wouldn't have to ask somebody to go put all that together if I could go ask my question. It's just there. So I don't like, those are the reason we're having a discussion, so I think we're good on that point. Yeah. I'm happy to look at the the forecasting and stuff. And and look at that and kind of understand. You guys show me where you think the real differentiator and the value of tool.
+
+Host 1: Cool. Yeah. For sure. So everything we showed you is like, pretty much Bi functionality if you want to get it to that point like you said, where mosaic drifting away from that is the fact that because you're building your forecast within the tool, now we can look at future reporting as well. So what we've done in these two graphs here is we're building out the revenue forecast, the expense budget in the other side of the tool, and then we're actually able to overlay on top of the same graph. To show investors or execs, hey, you know, we're in November right or December, I guess now. We we're below target for expenses last month, and we're looking like we're gonna do it again. Like, that way they can actually see everything in one of view. So that's one piece of it. And then Maximus is before we flip over to forecasting, let's just show the scenario comparison. So we're we're gonna show you how we get to this point, but since we're already on this side. Just wanna kinda give you, like, the outputs of the end of everything, this is something that I know is headache or most the people who I talked to is just how can we actually get the downstream met of all the different scenarios we're building and help our execs and board members either validate the decision we've made or help them come to that decision. And so that comes with sen certain peace the model, and then actually seeing, like, the cash impact or everything else that affects it. So what you'll notice here is that with Mosaic, anything in green, whether it's highlighted. Aside from like, on the bars. Around the bottom that green line got a forecast. And so we're comparing two different forecasts here that differ in attainment for top line. And are showing, okay. if we hit you know, eighty percent worth hundred percent does that affect our customer account or cash, etcetera? We can do this for really anything whether it's like, head count, top line, adding a new business unit making acquisition, fundraising whatever it is. And how you do that is on the other side of the tool, but this is just a great show to look show that we can compare to you side by side and help you guys visualize that an easier way.
+
+Client 3: So one question for you and love to kind of fee or your your planning tool that presumably, like, we also have all this data like our our plan and our forecast and everything in intact. Right? We load that budget there or we we build it in draft, but then we it it pulled it's we have intact you know, with a budget that we measure against as well do know, certainly in there. Presumably, we could pull that through as well. If we user tool or it really have to be your tool that to get that those metrics populated.
+
+Host 1: So I'm actually not entirely sure. On that part, I actually did tag our Cp when you said that in the Discovery call and said we're doing that in intact. So I said, hey, if they builder their but an intact, can we, like, pull it in and like, have that? I... Our tool is typically writing over the top of all the data and then that's how we're able to, like, do the calculations and visualize it. So my assumption is we would actually take that part away from sage. So that's why I wanna show it to you to see Do you wanna use it in mosaic? You wanna maybe get rid of this sage part your bundle, do you wanna keep it in sage?
+
+Client 3: Let me let me I'll just be Totally friends. So I'm certainly interested in open to it. I'm committed for a year with what I have and we've already done most of our budget. Twenty twenty three. Right? And we do a fairly granular build up. So I budget up by vendors and customers and all kinds of stuff. So if there's a way to just basically bring that through for twenty twenty three and then discuss it for twenty twenty four, I think that would be more there'd be more appetite on my side for that discussion. Then trying to replace the budgeting piece. First week in December.
+
+Client 3: To kinda get point twenty three that. So that that's that's it's not that I'm not interested it's that I kind of already have made that decision. For at least the next year.
+
+Host 1: Yeah. And totally, I mean, like, if you were like, hey, I want this next year. We can definitely work that. In. The one piece that I will say like, typically, when people create their budget, like, we obviously right now a lot of people have it done or they're scrambling we get done. There is a benefit to having in a tool. So we actually typically do upload your budget into Mosaic and that comes from budget versus Jebediah and also keep rolling forecast. So once you create that boardroom group plan.
+
+Host 1: We want that in mosaic, of course, but then actually creating that rolling budget and then dating on.
+
+Host 1: Right. Yep. Exactly. It's easier.
+
+Client 3: Okay. I'll even within tool.
+
+Host 1: So what quickly show you how we do that.
+
+Host 1: Mh.
+
+Client 3: Cool. Yep. Okay. Sounds good.
+
+Host 2: Awesome. So the way to create a forecast, Jason is you hit this new model icon here at the top left. Get the model name. So maybe this is like, your rolling forecast. And then you pick when you want it to start will just point your actual as of this date. So this is how you can create that rolling forecast as an example if you hit October. You make the forecast end date like twenty twenty four. We'll pull in all your axles from sage. Through October. Then once you hit create mo spit up baseline scenario. We'll run through the head count planner Second, the person I wanted to walk you through is the income statement planner. This is where you com Op as well as the balance sheet planner. This is where you forecast cash things like prepaid Capex, fund races. What we're doing here with your income statement planner? Is pulling in all of your Accounts that you grouped into these categories for roll ups. Right? So if I click into office expenses, be really similar to probably the way you're forecasting and sage. We'll pull in your software subscription g all their historical and then what your run rate is into the future. So what we're uploading, for example, your Fy twenty three budget, our team would just go in pull in all your actual from sage. And then here in the forecast period, we would just take whatever you have. Right? The way that this works though is that all of these different accounts are built off of different drivers. So the different drivers we have are per month This is, like, run rating and expense every single month, think of, like, rhett and lease something fixed. Per person or per head. This will actually link to our head count forecast. Salary, this would also link to our head count planner pulling the salary expense. Percentage of account. This is how you link things like Cogs or hosting as a percent of revenue. And then we also have a manual or kinda custom excel sheet for one time or lumpy expenses. You just wanna fit within something that's different than a formula. So really the building of your expense forecast is probably gonna take maybe, you know, two or three hours. Because you're just picking the different drivers. Right? So trying to make this less of an Excel build if you do need to create custom formulas or link this to your revenue forecast, things like commission expense, etcetera. You have that ability, but probably don't need it here.
+
+Host 1: And Jason on this level of the tool, we can obviously break out any of these Gl accounts into departments, I'm curious and I Probably the answer to this is yes. Are you guys also breaking out within that to business unit on your Op forecast. Or you only breaking up business.
+
+Client 3: Okay. I we we... I mean, think of it it's basically a matrix. Right? So and we we would track Gl level and then the vendors we are track at or things we track at know we would budget a granular as a vendor the customer department business unit and any combination of those four five thanks.
+
+Host 1: Got it. Alright.
+
+Client 3: Perfect. Obviously, our goal is to not yet super granular, so we try to take very, very high level on things. But so it's, you know, we typically know that travel to easy right. You usually just do it. Every department that one's is the most complex, but it's usually easiest just usually head count by it an amount per head count in my by department. In business unit and you just supply that. Other things like facilities and stuff. It'll go to Admin Sheridan yeah. We would just we would typically just look at a by vendor. And and say, okay, here our leases. And.
+
+Host 1: Got it. Okay. Well, one thing, I am never want to tell someone to which something that you know, it's not gonna be best for them to be totally transparent today, we only have the ability to plan on the Op side on dimensions of departments, So I would agree with you, like, at least for the first year because we are coming out with dimensions in one. Kinda comes hand handle on nets sweet thing. But I I would say stick with it. So we'll definitely go app for, like, the analytics side of the tool. But the reason why I was really excited to show you this forecasting side is because I know that you're getting all your metrics in one spot, you're piping them somewhere else I was hoping we can get it on to one side of the tool or one tool because on our top line forecast, that really is where it becomes super powerful because we're in pretty much in word spreadsheet here. We can pull in any opportunity from Salesforce any object from sage, and then apply the same kind of metrics that we have built on another side of the tool. To your top line forecast. So whether we're pulling in pipeline, in certain opportunity applying Lt or turn rate to those things. It just becomes like one integrated plan and it's really seamless.
+
+Client 3: Yeah. No. I think we're aligned on. That would be great.
+
+Host 1: Yeah.
+
+Client 3: These are saying. I I and and and in all honesty, you know, the the top line... When we do four passing it really is at a top line. Like, we our our it's not like our expense based fluctuate While, you know, a sure business is like yours ninety of our expenses is just head count. So it's not like you play around with that on a regular basis. We they know what we're going to do. What we're usually trying to control for is what are the top line impact and how So there may still be value for it. But I agree like from a forecasting at the op level, I would need a little bit more granularity to really be able to use it for my full name.
+
+Host 1: Cool. Alright. That's good to know. So we'll go through implementation and pricing and then if it is something where it's like, hey, As soon as you guys have that, I'd be interesting to like taking a look. Something that we can definitely build in to the to the quote if if you wanna do that.
+
+Client 3: Okay.
+
+Host 1: Cool. But it sounds like if pricing and lyft makes sense, you can see the value in the analytics side and it'd be entertaining to to move forward.
+
+Client 3: Yeah. Yes. I i I I definitely think so. Just understand you're presenting to a Cfo who it's extraordinarily ordinarily cheap.
+
+Host 1: So... Yeah.
+
+Client 3: Alright. Perfect. Wonderful.
+
+Host 1: Well, don't worry. We are a startup of. And I have been known on our sales team to get the deal done. So I have not wanted to shy away from, you know, discounting make it works. So we'll under number.
+
+Host 1: Okay. So as far as on onboarding goes, the thing that I think you will appreciate here is that since you have a adaptive before, it's gonna be like that. I think you saw from our integrations page. It really is, like a plan like, integration as far as like, hey, just gonna log your credentials. Everything's gonna flow into the tool. And then all we really need to do with do is is mapping Our data team does get involved for everything billing related in Crm. But European Hr is really self serve and then handheld or guided with our cs team just because we have to, like, knock out your accounts and then Hr is like super easy, but Crm and billing because we need like, really custom deals in office and whatever you want to see, data team doesn't volunteer here. But really the better that you know your data and under and the calculations that you have today that you want us to match out to your source of truth. The easier it is for us to get it right on the first time. The thing that's gonna kind of make implementation longer or shorter is just the more you are with us and better you know your data. That way, once we do connect everything, we create all that logic in the back end. We don't have to spend, you know, doubled amount of time like, reconciling to be like, hey, why is this off? And is it because the calculation is not actually the calculation. So typically, I would say four or six weeks is like the average. I do have a... I I would wanna get you to scoping as the next just to make sure that we understand everything, especially with sage because it is like, I've mentioned a newer connection for us. So that way we can give you more accurate time, but it really never goes beyond eight weeks. That would be a pretty hefty build. So I would say, especially with analytics only and not having to out your financial model and just doing an analysis portion, that also should trim off some time as well. So four six weeks for now, but then we'll get more clarity on the next call. So as far as your teams over here or data architects or data scientists are the ones who are doing everything billion Crm related again, any kind of top line metrics, things like that. Our Cs team members are gonna be your liaison on through the whole process from start all the way, you know, for forever... Until you, you know, decide Hey, no more, which hopefully doesn't happen? And all of our numbers are also domain experts as well as product experts. So they're not just you know, you know, Mosaic, Cs they actually in prior lives also were F fp professionals. At Beauty saas startups ups or big four. And the last they support team just for quick tickets bugs, things like that. Really we do like take the white glove approach here. Is is a tool that you're gonna be working on a very frequently and probably every single day. And so we want you to have as much support you need. We have a lot of enable around this as well. So we have obviously, when i one trainings, we have a knowledge base We have guided videos in the tool and then last we have a sense of community with weekly office hours on Thursdays at ten am pacific where we have all of our customers, you want to join talk about rotating sessions and we do like a group training essentially. So really, tips for tips for successful onboarding, any kind of milestones you have so I know. Like, right now, if you guys just have a board coming up, let us know what you wanna have for that. Just obviously, transparency is the best, and you can us know like, hey, we have this coming up. We'll tell you how we can back into that and get you to what you need by that date.
+
+Host 1: How does all that sound so far.
+
+Client 3: Sounds fine. Yeah. I mean, so it sounds like a lot of this is going to be self guided by us so we can the timeline here a little bit with the exception of, like, salesforce for Crm connection. But I mean, honestly what you showed let's remarkably similar to And other tools where it's you bring in the chart of accounts and then we just go map all these the category. It's actually very similar to how impact is set up and they use categories too. So I a sense to that, it's gonna be pretty quick. And then obviously data validation, we should be able to do pretty easily on our own. So Yes. So I think Awesome.
+
+Host 1: Sounds right. Yeah. And because it sounds like you a sense of your data and, like, what you want, that's gonna actually make it easier because the part thing for us is when people are like, don't know the definitions these.
+
+Host 1: Let me actually ask like, the rest of our team, and then it all gets dragged out. So it sounds like we'll be on a good track here. So as far as products packaging, like I mentioned, we do have that bundle, but for you, I'm gonna suggest the analytics only, which is not very common, but in your use case, that's what you need. And so you're on the lower tier here of analytics only being twenty four five. This is unlimited user's, unlimited metrics. We are gonna also be coming out with a custom metric builder that's slated for early q or this quarter, potentially, like this month even. And that is gonna go beyond all the out of the box that we have. So if you ever do come across and then you're like, hey, i need something you guys don't have it, you'll be able to build it, no code, not like a Bi tool or you have to do so that'll be self serve. And five thousand dollar implementation fee, this just covers really everything, if you guys ever changed your systems, do anything really? Have to pay it again. So this is really just the upfront cost just to help us get you started with our data team and it and whatnot, but Again, flexible, we can definitely work on this because I wanna it sounds like you want the tool, and that's really all I want it.
+
+Host 1: To validate. So from there, we can definitely make pricing work and then also, of course, do our scoping to make that we can set the right expectations.
+
+Client 3: Okay. Okay. Makes sense. Question for I guess, couple questions I have. Sure. Many how many customers you guys have today?
+
+Host 1: Yep, we just crossed over two fifty.
+
+Client 3: Okay. So two hundred and fifty using it today. And how are you guys funded? This Yeah.
+
+Host 1: Let me.
+
+Client 3: Draft? Is it? Is there like an Nope.
+
+Client 3: So we're very proud of our investors, and of our funding.
+
+Host 1: So we're about three a half resolve, we have sixty million, really top tier... My gosh. Top tier investors otherwise.
+
+Client 3: Yep. Okay. You guys found. Oh that that makes sense. It's the your connection. Okay.
+
+Client 3: Yep. Okay.
+
+Host 1: Cool I...
+
+Client 3: Yeah. So what's the next up?
+
+Host 1: Yeah. So next up, I do wanna set up a scoping call, but also just since we have some time here would love to understand, like, your ballpark of what you could do to make this work. That way. At least I can, you know, start getting some approvals and don't go through scoping and all this stuff and be like, hey, we're just talking different languages.
+
+Client 3: Yeah. I mean, I think we'll end up somewhere where more than I wanna spend and than you guys want general but yeah.
+
+Host 1: Right. We can't so we do have a floor of twenty thousand. We do need to have a two right. But we have like a lot of levers pull. So that's why I do wanna, like, understand from you. Hey, what matters? Is it? Just the cost, Is it the monthly? Is it like, we tend to... Like, I mean, If you can work with us to keep Our Ac higher, but more sanjay james that's really beneficial for both sides I think.
+
+Client 3: Yeah. No. That makes sense. I I would tell you that I think my like interest would be almost like a hybrid of what you guys offer. So I I would like to the top line forecasting would actually be something I could use today and it I don't really have a great solution for. So but I don't need kind your full forecasting planning tool.
+
+Client 3: And I, you know, like, again, my initial drivers really around the analytics in the metrics. So those would be... Those would be my two things that I'd like. My initial budget just to be completely transparent within the fifteen thousand range, which, you know, was sort of have I have no data on you guys so didn't know really kinda of where we're gonna come out. So getting that to twenty isn't gonna be end to the world if I really feel the values there, which i I could convince myself on, assuming we can kinda get out the money quickly.
+
+Client 3: Mh. And you, so I think within that, why you guys propose what's that you want the cash up front, do you want monthly payment. You know, I'm I'm open. So think about that. You know, is it a single year? Do you guys one a three year thing, like, there's probably some lever i can pull on my side too. My only kind of caveat and would be that I'd probably want some window of time just to make sure that everything sort of is working. Only because kind of, again, I know you're not adaptive. I know you're not, grab all these other things. But, like, unfortunately, because of the way our business is, like there's always some sort of thing that's going show up Isn't that do a deal breaker, but it's, you know, it's it'll be a workaround, but if I end up with some work around, but I can't really take full advantage this them in the easy look that I want. Then like, I don't get the same value for that. Night. You know, and just rather kinda continue the way we're doing it.
+
+Client 3: And because unfortunately, that's been the it's like, that I think that's just reality, but, you know, with with impact but all these other tools that we've implemented along the way. You know, we've had to make a number of trade off because the reality is our business should be running on something much more But we don't want to or we can because we're you know, forty million dollars software business that has but we have the globe we have all this overhead of complexity new global operations, business units, etcetera that just make it hard for us to and it it'd be a lot easier just a simple single entity empathy single product kind of business, but we're not And so those are the challenges, you know, currently and stuff.
+
+Client 3: And and we didn't talk about this. So maybe this is something to talk about you know, it's multi currency how do you guys do you guys handle that today? How do you handle that? Those are the things that I don't need to kind I I won't even know the whole list of things that ask you about but like they'll they'll kind of come up during the implementation. So I'd probably want like like, a ninety day make sure like uncomfortable kind of thing and at that point, we move forward, with, like, a firm commitment for how long you guys think so like term. That would be my kind of little concession ask is, like, a ninety day all in to kinda make this work. And if we find out that it's is not gonna work like I don't wanna committed to something through the long term.
+
+Host 1: I see. Okay. Well, I do wanna address the currency and all that Mark is kinda sending to that. Because I think he knows more about it than I do. But what I will say is that we don't do like trials or oh it's really... Just because it does take a lot from our team to in a lift to create everything. But it would be super.
+
+Client 3: I felt software too. So don't... You're you're not surprisingly here.
+
+Host 1: Okay. Because that that isn't a really... That's, like the hardest ass whenever someone i'm like, oh, I Like really don't have a way to do that.
+
+Host 1: But Maybe said maybe it said differently Leaandra is like I would be uncomfortable beyond the year without that proof point.
+
+Client 3: So I'm happy to do a multi year deal, but I'd want at least a period of time to say I gonna gonna be able to stick with this beyond the year because it's so easy.
+
+Host 1: Got it. Yeah. No. That makes sense. So we can definitely Why don't we just start talking about a year deal? We we have the most lever with an upfront payment, but that payment doesn't start till use our printing. So not like you pay on signature, And on the next call, it'd be... I know you said you don't really know the roadblocks that are kinda gonna come to play, but if any that have happened would be great to flush them out because hopefully, we're not doing the forecasting, that's really where more roadblocks happen than the analytics side. The side is pretty straightforward.
+
+Host 1: So Maximus, can you speak a little bit to the currency conversion Yeah.
+
+Host 2: Definitely. A couple of things there. First We're... Connected to a third party apple currency layer and we do intercom elimination entries and consolidation for just tons of our customers who have multiple instances of zero, Quickbooks, So that's not an issue on the reporting side. Same thing with Salesforce data. If you're selling it to multiple countries, typically like Salesforce has their own currency rate. But we can pull on that rate or we can pull in a custom rate that you want. I'm not concerned about that. Like said, really where we face some hurdles is on the forecasting piece. And if you need a forecast, in multiple currencies. Then understand like the differences in Fx and budget versus actual by those. Just something that we haven't built out just yet. But on the reporting side for.
+
+Host 2: Yeah. Are...
+
+Client 3: Yeah. No. That that makes sense. And that's that's that be the the black hole so I own I appreciate that's not necessarily there yet or the order that so that makes sense. Okay. The Yes. No. That's fair. I'll think I'll try to think through that. And and then I'm just thinking about the analytics you know, we're gonna pull the consolidated book at least initially So that's all in single currency anyway. So I don't know that it matters. It does bring transaction for the end, so maybe it's maybe I have what I need anyway, but hold on.
+
+Host 1: And when we do split out the subs, then you'll be able to split your metrics by the subsidiary, what is still a question mark is whether you'll be able to flip flop between different currencies.
+
+Host 1: You doing that? Are you looking at metrics in multiple currencies today?
+
+Client 3: No. It it's... No. We tend to look at everything in consolidated Us dollars here. Is the analysis part that gets a little bit trickier, right? So when we see something changed, but changed because of swing in Fx or did it change? Because, you know, because like we have annual contracts that we renew we the Fx rate from day to day doesn't change, but year over year change substantially. So we could see it we could increase somebody in yet you know, five percent to be a ten percent currency change, it looks like a revenue went down. In Us dollars, but in constant currency, it's actually up that's harder to see without that currency information.
+
+Host 1: Yep.
+
+Client 3: Yeah. And so it's more of the analysis it's back to that first use case. Like, hey, dropped this month. Which customer why I see it all in U us dollars. It's one thing, but to know like, hey that was that was a you know, nothing euro contract that was renewed, nine months ago and I know that the Fx has dropped substantially. I just seeing at euro over euro would tell me, hey, it's actually up, but it's an issue.
+
+Host 1: Yeah. It's it's a really recent need and topic because everything that's been happening and so that's kind of why we're like, we know it's an issue now, but it wasn't like, at all a year ago?
+
+Client 3: It wasn't for use, then five years ago it was and then it you get these periods where it doesn't matter and it does. So... Yeah. I know i you understand. Like, that's the... That's why I need not because I wanna sit here in run one set of metrics and Gdp and another and euro and all that. Generally speaking Us dollar is there. The honest answer, I just need to know so I know what I'm dealing like, mh. That for me, it's just understanding what it can can't do is is more valuable than thinking that it works one way or not.
+
+Host 1: Yeah. Totally. And so We actually just dealt with this recently. So Maximus create loom is showing like how we could export it because everything's export. And then you can do, like, workarounds for sure. But we'll be super transparent about what we can can't do. Especially in the scoping call, our data know, they wanna make sure that you have their own expectations. So we're never wanting to, like, fluff things up, at least I I don't think I do that ever. So so we'll get definitely get into it next week. But it looks like we do have time on at ten Am on Monday or Tuesday, or sorry not ten Am your time. Eleven Am eastern, Monday or Tuesday? And one thirty Pm on Tuesday as well. And let me just show my calendar here so you can see this. And these are central time. So just add an hour.
+
+Client 3: You're central time. And you're saying Monday, eleven or one thirty... I'm sorry, Monday, eleven. That doesn't work. Tuesday at eleven would work.
+
+Host 1: Okay. Perfect. So I'm just gonna look this in my data team. And then I'll add you to the invite. And then we'll go from there. And then also have some more proposals on pricing as well.
+
+Client 3: Okay. Yeah. If you want iterate on that in between we can. Arena whatever you So if you wanna of discuss that, we can do that to keep the lenders just sounds scoping things stuff to you guys, but as well We'll get one answer quickly.
+
+Client 3: Yeah.
+
+Client 3: Figure Great.
+
+Host 1: Last thing, if you did wanna to implement, like I mentioned, sage is gonna go live in January, but if use one of your pipeline metrics and It would actually be limited to pipeline and head count because your billing is also on sage. We could get that stuff up and ring sooner, I mean, I don't know if you wanted implement over the holidays, but we can also obviously push out to January timeline.
+
+Client 3: Probably it'll probably just better to just start with everything at the same time.
+
+Client 3: Agree. And yeah that's okay but if that now intel, And then in January though, that'll just be the consolidated intact the consolidated book first.
+
+Client 3: Yeah. That's fine Okay. Cool. Okay.
+
+Host 1: Awesome. Well, Jason, I'll follow over email. I'll send you a proposal if I get an answer for End day. Otherwise, we'll talk on monday and we'll go with the scope call next.
+
+Client 3: Thanks so much.
+
+Host 1: And have good.

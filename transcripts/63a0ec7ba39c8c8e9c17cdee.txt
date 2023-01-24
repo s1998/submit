@@ -1,0 +1,285 @@
+Host 1: Hey Denisha, How's it going?
+
+Client 2: Good.
+
+Host 1: Cool. Some background for everyone doing. So we had the demo last Thursday, I floated like, our end of your pricing at twenty three and with two three months, and he was like, No the best you can do so then after afterwards I followed up, so we got approval for matching our analysis only at twenty k and one free month. Given their size and everything like that. So that is the pricing that we're at.
+
+Host 1: New with this is that it is entirely, like, like, usage, but it's like, you know, a percentage of transaction, essentially, like a Type, like, toggle when you're buying something, but it's, like, for order protection or insurance, you can, like, opt into tune in like, pay two bucks like that. And they dress and not series a, which is why they i now have the budget.
+
+Client 2: Gotcha. Okay. So we're scoping up the jim. Right.
+
+Client 2: Yeah. Yeah. Sounds run a good point price. Wise all I need to I'll build fu around next year and stuff, but sounds like it's probably Are you pretty compelling for. My imagine?
+
+Host 1: Cool. It looks like he's joining all hang u. Gertude.
+
+Host 1: Cool. Six she'll be here in a. Over on Soogrim. That's Soogrim I think cheap flights or something.
+
+Client 2: Soogrim himself.
+
+Host 1: I don't know.
+
+Host 1: Is joining audio. Hey, Jericho.
+
+Client 3: Hey, Leaandra. How are you doing?
+
+Host 1: Great. How are you doing good.
+
+Host 1: Awesome. Cool. So I have a couple team members on from my side. Gertude, who's in charge of our data team, and she's gonna be the ones scoping out just make sure we have all data sources. She'll be leading the charge here. And then I have brought Denisha on from my side, probably gonna talk a little more detail after we're done scoping out, but he leads our sales team. So want to have extra support and just I know we're chugging towards a timeline here. So aren't everything I could to get ahead of it.
+
+Client 3: Awesome Cool. Thanks so much.
+
+Client 2: Yeah. I fix you down.
+
+Client 3: Meet you guys. Denisha? And great, yeah. Sorry. I'm gonna... I'm gonna join for my for my computer probably five five minutes or so. I'm just on my phone right now. I like to walk during calls I've been on a couple calls. Recently. So I'm gonna... I'm gonna join my probably, like, five minutes.
+
+Client 4: Yeah. That that works yep.
+
+Client 3: So... I need to Oh, sorry. Go ahead, Tenisha. See No.
+
+Client 4: Go ahead. We're gonna say, I was just gonna say, do I...
+
+Client 3: Well, I need to, like, share my screen and work on anything on my end or will be mostly on guys then.
+
+Client 4: No. I don't want to show your screen not I have wasn't going if you have anything. But I just took me ask you a couple of questions about your data.
+
+Client 3: Cool. Perfect.
+
+Client 3: Okay. Then maybe i'll just stay on my.
+
+Client 2: Feel free to. I was gonna say, yeah. Feel free to put a walk. I I think we can probably make this all verbal for you.
+
+Host 1: Yeah.
+
+Client 3: Okay. Thank you Yeah.
+
+Client 4: Absolutely. So as Leaandra mentioned, I i lead our technical scoping practice. So really my job today is to get an understanding of all of your top line metrics and and where that data flows from and and how do you calculate the basically? So I I caught up with willie earlier today and out a walk a little bit on on what your your business is and my understanding is that it's it's kind of like insurance on on on package delivering, so you can add it on. When you order something, and then it something goes arrived, and you guys could screen share the package. Is that that accurate?
+
+Client 3: Exactly right.
+
+Client 3: Yep. We're also adding some like Saas product like, true saas products.
+
+Client 3: Too. Having where it'll be, like, you know, just contractual monthly or annual revenue. But right now all of our revenue is that Like, sort of transactional... insurance. Money We don't call insurance just the transaction like protection revenue.
+
+Client 4: Okay. Great. So so when you're thinking about your your top line or... Well, actually, I'm gonna take one step back. Where does all of this data live? Like, how you know how much revenue you have from each transaction.
+
+Client 3: Yeah. So we have a few sources be primary sources is our database. Post database. And then the secondary source would be our the second resource that we use in practice is like Quickbooks.
+
+Client 3: Because we'll, like, book invoices in there. And then also data from our billing platform. Which we use authorize dot net Okay.
+
+Client 4: Cool. So the reason that I ask these questions and trying to get an understanding of what metrics are important for what top line is, particularly with the a usage or more of a transactional base revenue model as opposed to the saas side. That's that's where we we wanna make make sure that we're able to you and show you the the type of metrics that you're looking for. As you move more into that saas side that's We have a lot of very out of the box metrics for that. So we have Mr we have scheduled revenue metric, which is where you would see more of your one time revenue. So I'm curious to to get an understanding of what what metrics are important to you you're looking at it from the the transaction side from a a a top line perspective.
+
+Client 3: Yeah. So So... Yeah. So we don't have, I guess, maybe taking a step back. We don't have true Arr obviously, but But we call recurring revenue and just in brad...
+
+Client 3: I mean, just and... day to day, we call it arr an Mr mri. Right. I mean, our revenue is very tied to the merchants revenue. So it's it's we actually think of it as, like, almost a step above even just like traditional usage based model because, like, in order for us to be you know, in order for us to lose money the brand is actually losing their top line revenue as well.
+
+Client 3: So it's... We're we're... Our our interests are very aligned with the the brands that we service. Meaning that that from a contract perspective, it's it's recurring. It's just a question of, you know, because of some of the cyclical There's, like, a question of much that will be on a monthly basis. So So you Obviously mean so from the... I'll go ahead No.
+
+Client 4: That that make that that works it's interesting. It's nice to see this... Even though it's more of a usage transaction based business, if you're still kind of concerned in the recurring revenue bucket, which we do have other customers who do that been because it makes sense with their business model. And that that flow really nice explain to all our downstream metrics. So we have well in our in the revenue resource that we'll create for you. We'll calculate your Arr your Mr. Scheduled revenue, which is more of a a traditional revenue schedule. So if it's a a contract, for more that Sas arm. We would pro the first last month and then anything that you actually don't include in recurring revenue. We have throw that in there as well as kinda that one time bucket, but The reason that I like do an understanding of what metrics are important to you if you're thinking about your revenue from a non recurring standpoint is a lot of our downstream metrics are driven off of error. So things like our customer count that that drives off of the hair out of the box and so I wanted to get an understanding of if that would fit your business model, which it sounds like it does. But correct me if I'm if I misunderstood the the the transactional revenue does it go credit. I got this... What I mean.
+
+Client 3: Yeah. I don't know that we would wanna I mean, obviously, they're, like, we'll probably have a few different approaches for, like, forecast purposes, but I don't know that we want just you know, say that, like, we're gonna be forecasting number of customers based on revenue?
+
+Client 3: Just because, like, we're ...I mean, we target you know, we're we're really trying to capture, like, the highest... The the sort of, like, top high percent of our market and are, like, average contract value is, you know, somewhere between, like, fifty and hundred k. And that I can vary a lot though. And so you know, we may have a contract fifty k. We they have a contract that's five hundred k. For more.
+
+Client 4: So Okay.
+
+Client 4: Yeah. Yeah. When I when I said the the because account for example, that is more of your current customer account. So we we look at customers as like, customer changes happen when Arr changes or Mr r, whichever you look at. So... And for example, last month you had a hundred dollars an hour for this customer. And then this month, you have no no R that we would consider that a turned customer at of box.
+
+Client 3: Oh, I see.
+
+Client 4: I see. Yeah. So that's more of just your your actual and then you can get... With with your data you could get into into the top line model or and do more forecasting on on what you from a customer account perspective and how customer count could drive your new and vice versa.
+
+Client 3: Cool. Cool. Very cool.
+
+Client 4: Cool. So that as far as kind of getting this data. It sounds like we probably have a couple of options. There the authorize dot net we we would be able to take a Csv from that whatever cadence make sense for you. We have a called Cs upload. Where you would you could just upload a refresh Csv whatever you'd like to. I usually see customers doing this on a monthly basis or if they're preparing for board, then they'll growing fresh data. So that... That's kind of the cadence that we typically see, but you could do hourly if you'd like. So that would be that would be one way. Or it's with with Quickbooks, depending on how that's all set up.
+
+Client 4: We might be able to also play revenue from Quickbooks. The the key that we will run into there sometimes is if you're billing someone for her say, like, a coronary. A lot of time we'll just know the invoice date and we won't necessarily know that we should spread that out over the quarter. So unless if there's something in there that would tell us that, but The Csv upload would probably be the best approach.
+
+Client 4: That's something that you would be interested in in pursuing.
+
+Client 3: One of the avoid manual uploads as much as possible. That's part of the reason we want use a tool like, mosaic? So, I mean, really, I guess from Jericho.
+
+Client 3: So two I think we talked about last time, doesn't all the information from authorize dot net flow into Quickbooks.
+
+Client 3: Yeah. Yeah. Was just gonna say that. Maybe we don't go use authorize dot net and we just say Quickbooks is the sole source of truth Okay So when you're when you're doing all your billing you your on a monthly level most of the times actually it's daily.
+
+Client 3: but there are some weekly and somewhat monthly.
+
+Client 4: Okay. So... But there there would it be something where say for example you build you build Gertude coffee shop for an annual subscription or something all up for an animal invoice or something all upfront are all at the end of the of period. It's it's daily weekly or monthly typically.
+
+Host 1: Oh, Don, I think you're on mute.
+
+Client 3: Sorry. I am on mute... I was cutting out there. Can you hear me now?
+
+Host 1: Yeah.
+
+Client 3: Perfect Perfect. Sorry. Great. You say that one more time.
+
+Client 4: Yeah. No worries. So it sounds like the the highest level that you would build a would be the month to the level, it wouldn't be quarterly or annually only Yeah.
+
+Client 3: Not right now.
+
+Client 4: There's no small possibility that i change, but I don't think we need to build around that for now.
+
+Client 4: Okay. Perfect. Yeah. Yeah. Then now that way then we could just pull it from Quickbooks And I'm assuming that if we were to change that, like, we can just add a tag to of those invoices that says like something and then you know to to advertising across or recognize it in different months or something.
+
+Client 4: Exactly. So... yeah. That's what we that's what we've done with other customers as we we'll do, like, tag. Would you even either tag with the exact time frame that's invoice covers, where you can just tag it as this is an annual invoice, and then we would spread it out a year forward or a year behind depending on how it's built based on the billing date.
+
+Client 3: Okay. Cool. Perfect. Like I said, we don't have any of that now and you probably won't in next future. So Okay.
+
+Client 4: Cool. Yeah. Then we can do it from Quickbooks So that works.
+
+Host 1: Perfect. And and quick question, Dawn. So when you guys sign a contract, is it for set amount or is that period of time or is it just for as long as you guys have usage, like, how do you guys define a contracted customer.
+
+Client 3: Yeah. So we we... That's why I like to explain kinda the the referring nature because we sign a contract that our widget will be live on the store's shop like, available for customers to purchase our our service.
+
+Client 3: Yeah. Which is why we view it as, like, it's occurring. It's just it's not don't know the amount because there will be some level of attachment within a specific range, which varies generally by store. Like, we don't see attachment very super we don't see it very lot by, like, within the same store over time.
+
+Host 1: Very much.
+
+Client 3: Then also just, you know, the customer's but the client's revenue.
+
+Host 1: Got it.
+
+Client 3: So very tied the client. Client's revenue and then timeline wise. It's just... Generally, our standard is twelve So Okay.
+
+Host 1: Cool. So they are contracted for a certain amount of time.
+
+Client 3: Yep.
+
+Client 4: Cool. And when you when you sell like a a hundred thousand dollar contract, for example, is that The the minimum is that the kind of average expected amount. What what is that represent or is that just to get the the wedge on the platform?
+
+Client 3: Sorry. Can you say well... I know really understand your question. So are you asking about the, like, what? The hundred thousand means?
+
+Client 4: Yeah.
+
+Client 3: Because it it sounds like it would be pretty variable.
+
+Client 3: Yep. Exactly. Yes. So that's a tasks that we make based on those those things I talked about, like storage order volume, an assumed attachment rate and I mean, those are the two main drivers.
+
+Host 1: it's like you guys will sign a hundred dollar... A hundred thousand dollar contract assuming that they'll probably hit that in the twelve months, but it might be less or might be more depending on actual usage.
+
+Client 3: Exactly. Yep. That's cool.
+
+Client 4: Okay. And so when you're when you're looking at kind of your more of your top line metrics, are you more It it sounds like Arr mr or of interest do you do you will get anything from a contracted error perspective?
+
+Client 3: Yeah. From the sales side, like from sales, you know, just analyzing the sales efficiency, but from a financial perspective, like, numbers again, mean, we will obviously present sales numbers to the board as well. But from, like, a financial and, like, outcomes perspective. We don't care as much. About the forecast I I guess I I should I should qualify that. We we do care about the forecast for the sake of saying here's our current Arr. Even if we're not live. Like, for example, we signed a very large client like, high six figures and they're not currently wide because we're, like, building out some custom stuff for that.
+
+Client 4: For them?
+
+Client 3: From the perspective of, like, you know, putting nothing numbers to our board, we would include that in Arr. Like, here's our prints Arr that we expect in and from from a forecast perspective, It's a little bit maybe custom for for client, but but in general, that's way once the contract contractor is signed, we do include it in in our, you know, sort of next twelve months or deaths.
+
+Client 4: Okay. And so that that data on your sales data would live spot, so we would we can pull your sales and pipeline and and bookings number out of there.
+
+Client 3: Yes. Exactly.
+
+Client 4: Okay. Perfect. Okay. Yeah. So as far as doing doing actually calculating contracted error out of versus and everything out else outside of of Quickbooks. It's doable. I will say that sometimes can be a little dis destroyed sometimes because you'll see attributes a little how hubspot that don't live in Quickbooks. But but it's it's definitely something we we can do or we could look at it more from like a bookings perspective. And and your Crm serum. Your Cs can help you. Spread that as as a booking into more of a contracted view as well.
+
+Client 4: Okay.
+
+Client 4: Do you have any sort like a a configuration between Quickbooks hubspot.
+
+Client 3: Not directly no.
+
+Client 4: That's our just.
+
+Client 3: One question our a lot of our data that we will want to pull in from a revenue perspective. Could... Once i i think. We definitely have data that we pull from our database right now. I'm assuming we like a like in post database on.
+
+Client 4: So we we don't Yeah.
+
+Host 1: We don't have a database connection. So think that you guys did wanna pulling from your database. Right now would it be a Csv upload we're coming on with database integrations in q one, So that would be snowflake and red redshift though. So anything that's coming out directly from your guys platform, you would just wanna upload it to Mosaic.
+
+Client 3: Okay.
+
+Host 1: Alright we are most likely coming out with a open Api later half of next year though. So we'll build obviously our part, but then if you guys have developers wanna build directly into Moses. You'll have the ability to do that, but that is probably q three q four next year.
+
+Client 3: Well Sorting now, I think I mean yeah. We obviously, our data needs to be accurate. I'm just sometimes there is... Like, there's a need on our end to just, like, audit, you know, reconcile our database say with quickbooks the quick stated that we push The data we push the quickbooks comes from our database anyway, and sometimes there's discrepancies there because of, like operational inefficiencies on our end so bottom line is, I think think quickbooks what's and hubspot will be will be great on their own for now, and maybe with some manual uploads until that. With the Yeah.
+
+Host 1: And, Jericho, one thing that you can definitely on us for is just best practices. I know you guys are like just out and you're starting to grow. So Gertude team handles everything relating to Crm. And we actually have a lot of great resource out there for just like, cleaning up your Crm and getting to into a place where it is usable and and you guys can create all those automations around it. Then your Cs will be the team to leverage for anything around, like, your Erp or Quickbooks. So definitely feel free to ask because, like, how do most customers do this and things like that because part of the benefit of starting Mosaic early is that you can really, you know, make your prospects these work really well from the start instead of, you know, getting so far grown and then realizing that know, things that you guys set up are not working now at scale.
+
+Client 3: Totally. Okay. Yeah. Appreciate that.
+
+Client 4: Yeah for sure.
+
+Host 1: So Yeah.
+
+Client 3: I'm sure we'll take a advantage of that where like we said we're mean still and I need some good processing.
+
+Client 4: Awesome. That's that's one of my favorite parts of my job too is talking about how data structure within Hubspot or Salesforce or whatever Crm? So definitely waiting on the team for that. We we really like to do it and we've seen the good the bad and the ugly place. So I'm sure we could share some more stories with you.
+
+Client 3: Yeah we'll probably fall the somewhere between the bad and the ugly for now, but hopefully it's most good as we go.
+
+Client 4: Go Like the. I don't have any other questions. I I don't know wasn't Denisha if you guys have anything. Jericho, if you have any questions on the implementation, I'm also happy to answer those as well.
+
+Client 3: Nothing comes to mind. I'm sure was actually thinking this already just from more but more from the like, just the have perspective of Like, bringing on your team for for Just because, you know, as we've as we went to the demo, there's, like, a lot of available features. I don't wanna, you know, spend my wheels with trying to play around and funny anything i'm sure don't wanna help on that front, but I think nothing I can think of would be, like standards So Yeah.
+
+Host 1: Thanks crazy. I believe yeah. Know, Jericho. Definitely, you'll have a lot of hand throughout the whole implementation process like, setting up your model and all the dashboards definitely don't expect you to just, like, know how to use Mosaic. We're gonna make it work for you and then obviously, as you need more guidance and as out new features, we're gonna help train on them really throughout and then as needed did.
+
+Client 3: Awesome.
+
+Host 1: Crazy feel free to drop, I guess it's more technical scoping questions, but then, Jericho, if you can hang on for, I guess, I think we have about eight minutes left. Just talk through anything else Thanks, Rosie.
+
+Host 1: Cool. Yeah. So As mentioned earlier, so I have Denisha on just in case we need any extra support, but I guess, really just wanted just see... I mean, you said feedback was good after the first call. And we are aligning to, you know, about a week of turnaround, which is great. And, you know, really helps you guys eyes as far as pricing goes, but how is everything as far as stations with Harrison and what you guys need from Ross in order to you know, move forward Yeah.
+
+Client 3: I mean, I think we're ready to pull trigger the. The pricing you you you mentioned call. I actually can't remember specifically right now. Like I said, I know that was received well. So Yeah. I think we're already to move forward. This is gonna be kinda of my probably my main Focus or one of my maybe two main folks starting January to get like that night stuff. That dial in. Obviously, we need to Yeah. And that's like, really important for you know, future raises and just like, word stuff now, now that we're like, official. So Yeah. So that's Yeah. So I I think we're able pull the trigger. I guess what do you need from us like, I reach any you guys can send a contract over Get doing sign internet.
+
+Host 1: Yeah. So just a couple questions that I had when so I had on here the start date being the ninth, but I just honestly assumed. Do you wanna start earlier or later than that?
+
+Client 3: Let's ninth in January.
+
+Host 1: Yes. Which which lands on a Monday.
+
+Client 3: It actually could be good because yeah, the the prior week I'm sure will be Let's see look actually. Yeah. Let's do... Let's see night. I that'd great. Pickup. Perfect.
+
+Host 1: Cool. And then just making sure I have everything right here. So I have your email as the bill to or accounts payable email. Is there a different one I should have on there?
+
+Client 3: Yeah. I need just accounting in order protection dot com.
+
+Host 1: Perfect. And then should I have it sent to you through Doc To Harrison?
+
+Client 3: Harrison for pronounced still... We reviews all contracts drafts Cool.
+
+Host 1: So I can send it through Doc but if you think that he's gonna have any, you know, adjustments or changes, and then we would wanna do that first on the word doc version and then once it's all good to go, then we can send it through Doc. Do you know has he had a chance to read at all or What's that? Look like, you guys have like a pretty in legal security process here small, but how they do and sometimes not. So just wanna check.
+
+Client 3: You sent it to already?
+
+Host 1: Is that sense? Yes. I think I sent it I got approval after our call, so I sent it through on a Thursday, but I can just bring it again Could you...
+
+Client 3: Yeah. Could you send it to him And me? So i I tend to usually read through the contracts you signed them. So... yeah, If you could send it to me And Harrison And then also just send a doc sign, ready to sign based on the current version, and if not, then we'll we'll reach back out.
+
+Client 3: Would that work?
+
+Host 1: Yeah. That's perfect. So when do you have your next meeting with him? I guess, I don't... Like, to be annoying, but we are coming I mean, we saw four days left, but I do like to know like, when you guys into I mean signed by just so like, if it goes beyond that, I can reach back out. So you Do you be with him some sometime of tomorrow or when should I check into to see if it hasn't been signed yet probably Wednesday and a day.
+
+Client 3: I would think that we will be signed if we haven't gotten back here.
+
+Host 1: Awesome. Well, I'll send a little reminder for the both of us. And, yeah, Just... Know, you guys are getting a really good deal wanted Denisha on here, doesn't in case.
+
+Client 3: Appreciate that.
+
+Host 1: And But... yeah, it was definitely something where, you know, end of year aligning with small company and everything. So Yeah sorry yeah.
+
+Host 1: Was just.
+
+Client 2: Say, Jericho. Just just sent you a connection on Linkedin especially since you guys are standing up those go to market, systems on that side. I kind of in the internal stakeholder of our Crm and how interface with Mosaic and we have a pretty deep use case on our side as you can probably imagine with all that stuff. So Yeah. Shall you know on Linkedin, let me know if I never be a resource on side. If you look anymore the, like, the best practice that maybe your success team we'll be speaking to. So yeah. I just wanted to out your way an option as you guys start to kinda scale up your system and and have any questions on that side. So that I it down the road and looking forward to partnering with you guys.
+
+Client 3: Thanks so much. Appreciate that. And sorry. You you're saying, like our own internal systems just in general. Is that or, like missed being another resource on there on the Mosaic side Sorry.
+
+Client 2: I think. Yeah. It's been a resource on on on your account team. I do line your account as an executive sponsor. So I just wanna throw out there guys have any questions on, like you know, use cases on your Crm data with a Mosaic or statement on those line just wanted to that's open.
+
+Client 3: Awesome. Yeah. I appreciate that. Like I said, I I... I'm sure we will. I wanna... I mean, yeah. My my... I I really appreciate the value of like good. Know, analysis and forecast. And so I I think this is gonna be, like a probably, you know, pretty high priority just high value project. For us And so, yeah. I appreciate that sure we'll be Yeah. Reaching out for all that all the help.
+
+Client 2: Sounds good.
+
+Host 1: Awesome, Jericho, will i'll send an updated version. It's same as the last one except where I put accounting instead of your email on there, and I have you as a business contact i'll still sent it to Harrison to sign just because gonna be working with you is implementation goes through and then just ongoing. But, yeah. I'll send it through Doc sign, and i'll check him with you Wednesday. Around the same time, we haven't seen it come through yet.
+
+Client 3: Awesome. Yeah Sounds great.
+
+Host 1: Awesome. Well, thanks Let us know if any of your other questions come up. We're excited to get this kicked off the year. Yeah.
+
+Client 3: Appreciate Leaandra. Appreciate moment.
+
+Host 1: Hudson soon.
+
+Client 2: Thanks.
+
+Host 1:

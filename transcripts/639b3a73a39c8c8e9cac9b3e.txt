@@ -1,0 +1,103 @@
+Host 1: Hey, Rabindranath.
+
+Client 2: Hey. How's it going.
+
+Host 1: Great. How are you?
+
+Client 2: Live in a tree my think Or you in the office today?
+
+Client 2: Yeah.
+
+Host 1: Nice. I forgot are you Eastern time central time at Indiana.
+
+Client 2: Eastern time Okay.
+
+Host 1: Cool. I think there's like a part that's in central time and I like I usually write that down, but i I didn't have it. But good to know.
+
+Client 2: Cool. Yeah. By Chicago, they they go off of central time, but...
+
+Host 1: Alright. Yeah. It's be close. Cool. Well, I I'm actually having Denisha join. my director sales, but I might Frodo and he sat there and then he was, like, it's too early for him. So totally fine on that. But I guess it has been a little bit and I know that a lot has been happening on your side. So would love update, because I I mean, I guess, the whole point of wanting to have a call out, and then there's Denisha. So I'll kind of is just to see like, you know, what we can do if anything, it will be, like, really flexible with you. Hey, Denisha.
+
+Client 3: Hey, Leaandra. Hey, Ron?
+
+Client 3: Hi guys.
+
+Host 1: Great.
+
+Host 1: Really Yeah.
+
+Client 3: No.
+
+Host 1: Awesome. Yeah. Denisha my director of sales. So just them on because he's gonna have more levers of pull just in case there is anything that we can do, but definitely wanna get date. From your side and, you know, see if that's an option. See like, you know, how flexible what we can be if in and... Yeah.
+
+Client 2: Yeah. So we actually just got off the board call yesterday. For budgeting. And I could say pretty much near certainty at this point that we can't do anything in four. Our December sales are phone up the cliff, basically. So I think we finally hit the economy that's kinda been out there for a while. In December is usually one of our our biggest months were off by i somewhere in the ballpark of twenty five to fifty percent. So our board is saying, maybe you guys have finally hit that same economic climate that we're seeing in the rest of portfolio and they've asked us to basically take out a bunch of expense to the current structure too just to be conservative so that we're position with the extra cash for next year.
+
+Client 2: So they basically put us into the position of everything wait and see until we get through q one. And even with our nets speed implementation, like they've Think we're at like a hundred thousand dollar over on a initially hundred and fifty thousand dollar budget. So it's pretty substantial for us.
+
+Host 1: Okay Is that with the new consultants coming in? Or is that with the original ones?
+
+Client 2: So we've got Nets speed is providing the additional people for free. Because the initial. Went so bad, but they are telling us that we have to pay about change fee you for the other guys upfront. So it's kind of like a we're paying them, but net gonna keep the cost and either way, we would have been out close to that hundred grand. So but they were... They're also telling us like, basically, we just have to drop scope on it and get it down to the bare minimum to be wise February first, so we're not getting a lot of the bells whistles that we were hoping for. The good news is because we're not getting those, I think that that does extra value to the F fp and side of now we are definitely gonna need that because like, we're cutting out some of the Arr reporting that we were expecting in nets suite and and in that zone billing application. But we don't have any budget till at least spend of q one before we can make decision.
+
+Host 1: So are you guys gonna be keeping Saas in that case then?
+
+Client 2: No. We're we're already too far along. So it'll be out and that week will be in.
+
+Host 1: Oh, so you're keeping zone billing. I thought you said you're getting rid as own billing.
+
+Client 2: No. Zone is part of nets. They're we're locked into both of those. We can't back out now.
+
+Host 1: Got it. Okay. All kinda... So I want to bring on because he is a little bit more privy to some of the changes that we're having coming up here. And I think we might have talked about this a long time ago. So I I mean, it's probably been at least a couple weeks in a couple calls ago ago. But what we wanted to do is potentially one helped land in wherever as far as like, budget goes into the future, So whether that is huge you or you know, some point in q one or whatever that is, we actually don't bill or invoice until the start date and know originally we talked about like a January thirty first start date, that is something that we want to see if we could be flexible with that. If it would change things and part of the reason why I want to bring it up is because we're seeing some pricing changing come pricing changes coming up here. In the new year, I didn't think we would have to run into, so I didn't wanna... I might have mentioned it, but I get into detail on just because I thought we were gonna not have to have the conversation. So kinda of like don't talk to that a little bit, but, yeah.
+
+Client 3: Yeah. I guess, first Rabindranath. Definitely sorry. Here you guys experience on the the nets side. I wish that was more atypical, but we've heard that probably half a dozen times this month it's just a real development when you're something like that is just wall behind all this pro service work and it just an ever ending scope creep. So... Yeah. I come from the Oracle side house didn't work with the nets suite itself, particularly, but some of the challenges are calling out and got at least oracle step to give you some help on consulting side. But, yeah, what Leaandra heck for in this chat was just to to flow some flexibility kind of for some of the conditions you called out in the economy and where we're receiving our customer base get hit. We are a little bit more flexible on when we have our prospective customer starts although you called out, obviously some pretty looking budget issues. We are flexible to starting and then therefore, billing, you know later into the year. So if that does resonate, it's something we can think about. The reason why we're floating this is just because we are making a change to our pricing taking kind of a natural step in maturing model where we're not gonna just kind of unlimited users unlimited models and limited everything. We have have some, you know, scalability to our pricing as we know our customer to scale up. So that's coming next year, but this year, essentially, you can get grandfather than to just more than more typical peer, you know, Saas model. Unlimited users, all that. On top of, you know, naturally some kind of increased pricing going on next year. So because of that, we're aggressive in floating these delayed start dates because we just know some sometimes for organizations meaningful and we don't want, you know, perspectives to change when the economy is always the only trending in our worse direction it appears in next six months. So Yeah. I do want to flip out your way as an option, delayed star delayed billing. Just to see if that you know, resonate at all.
+
+Client 2: It wouldn't help us at all because we would recognize the expense over the over the period anyways is so that doesn't really Like, or issue he isn't so much cash flow, It's just the expense itself and our covenants with the lender package. So Yeah. I think at this point, they've basically said, Like, we're probably going to have to cut items not only out of expected to increase that we were hoping to do next year, but we'll probably take some stuff out of run rate too already just to make it be where they want, at least for q one, But I think we've got a few portfolio companies that we aren't usually is impacted in cycles because our pricing is pretty low, Like, we have some customers in the Arr range of six figure like, hundred thousand three hundred thousand but the vast majority of our customers five ten thousand dollar deals and you know, five ten grand, nobody's really certain for that right now. But it does seem like it it's starting for us because obviously, December is, like, or forecast way off. And it's kinda got them shook.
+
+Client 3: So Yeah.
+
+Client 2: They basically told us last night that pull everything getting that sweet. Across the line, and then Let's see how our sales go. So January and February pretty light months for us. Anyways, So unfortunately, I can't use those as gauge as really because if we blow it out of the water. It's gonna be like, who cares that's you know, four percent of your annual. Total.
+
+Client 2: We really have to wait for March to see really where we're at with the business cycle, at least in their eyes.
+
+Client 3: So Yeah.
+
+Client 2: Do have a huge way out there that would completely change our financial picture, actually two of them. So we landed either of those deals. You know, it will be full steam ahead and actually probably spend ten times more than what we had even initially planned. But until we either hit one of those deals or get through march channel see us being able to sign anything across the board.
+
+Client 3: No. Absolutely. No Appreciate the clarity Rabindranath. Gal. We'll we'll stop on the the kinda timeline line stuff. Sounds like you guys got some things to figure out the next few months. If it helps you all. We've seen a little bit of slowdown on our side and I think December for us is typically a very slow month, but So we don't anticipate it coming lot in. But we've just seen this and we've seen it even totally from our buyers because we're working with, you know, similar orders to you guys every day and seems to be a little bit of a collective lull this early part of December certainly. So if that helps the, you know, the the mental case at all, feel free to... Yeah Take that it but yeah. Bring to the transparent on you guys are at and we're happy to just back as a as thing that to on your side?
+
+Client 2: Some well, appreciate it, guys Yeah.
+
+Host 1: Rabindranath. I'm just curious, what do you think would make sense for us to reconnect. And, like, do you think that this is something where it's just like waiting out timing and waiting out the board giving you guys the green light or is it potential that you guys would be in the case where you have to not choose that financial to keep doing spreadsheets.
+
+Client 2: I think it's just a matter of timing of just wanna see hit the the goals because next year, this know, probably extra detail, but we have to start paying our pick interest and a few other things next year. So at the end of next year they're concerned about with that extra cash flow going out that we haven't had to pay before. That it'll screw up our covenants and that we could default on our loans. And they wanna pretty healthy cushion and they're like said they're pretty scared and we're owned by five elements and J. So both of those guys are saying the same thing. It does kinda me to believe everybody's portfolio are kinda screwed so know they've told us what is going on with being a sales and adapted to. So we i feel like we are getting some pretty good advice from them, but unfortunately, that just means that all this stuff has to go on hold till we see the sales start least at least know that we know what the bottom looks like as opposed to could we be off fifty percent for the next year kind of thing Yeah.
+
+Host 1: Totally. So do you think check back in in March April, What do we do something like end of January just like as a checkpoint because at that point, I'll know better or we actually hit the that's sweet deadline of February first.
+
+Client 2: And... Yeah. And then hopefully that point I can at least have something to... go back to the board with. And then also I did reach out to the folks at J and five elements to try and get you guys onto our list because they've made a few recent transactions. So there's I don't know, probably half the portfolio doesn't have Fp a tools. So There's nothing else I was trying to help you guys out to get on that because it's pretty much all the star wars plus a few of these. Tiny companies that I've never heard of that but they're according to these sheets, they're tiny, like, two to ten thousand dollars a year. In feed type of companies. So It sounds like it's a glorified spreadsheet and they probably just have some automation built in, But I think that you guys have that perfect middle round it's You're not this tiny little mom pop shop. And it's not like a full blown or whole hyper. Set. But get, like, almost all the features of Hyper Period at that nice middle round price. So I think you'd work well with most of these companies, because they're they're probably in the Forty to hundred and fifty million dollar Arr range, give or take So I think that's target market.
+
+Client 2: So we actually have to a relationship with five elm of the nothing formal, but they've prefer up all of their portfolio companies.
+
+Client 3: We're working with a pat on that side of don't know interface all, but he was working with us on that side now.
+
+Client 2: Yeah. That's I've been talking to.
+
+Client 3: So Alright.
+
+Client 2: That and then There's two or three guys on the J side. But they're basically the path of that. Or group. And they do the same thing bit So Don't don't if pat showed you the slide that they send out to everybody. And there's probably fifteen companies to pick from and it's really actually pretty nice. Like a mini ga report, but that's what they kind of use to say if you're an a b or c grouping in our portfolios. If you're the c players, here's your small stuff if you're b, here's that mid range. If you're a here's the big guys in they've already got pre negotiated rates they've got pre negotiated. Terms and conditions, like, Msa nsa are pretty much worked out. So then all you gotta do is have them select you and forward.
+
+Client 3: Well, that's interesting. Good. Cool. We'll check with cotton then. But yeah, I appreciate you throwing that out there and something would definitely take you up on it maybe after there.
+
+Host 1: Yeah. And Rabindranath, do you think so... I know... I know we talk with this little bit, but j, I know that they've come up into a couple of our other deals and some... Like, for some of them definitely we're, like, pushing men or like, wanting people to look at ben at least. Do you feel like they're have to that or are they pretty open to whatever you guys are saying?
+
+Client 2: They're fairly open. I mean, they own a good chunk of dana. So they definitely have reason to push people that way. I would say you're probably only looking at the top quartile as the portfolio would be a good sit for that. Because obviously, they're slightly more expensive than you and They have probably a handful of extra bells and whistles that would be useful for... especially on the global front, but outside of that, I think there's probably only... Like I said, maybe a quarter of the portfolio that would be meeting those types of things and that J is all about saving some money. So if you're heard, and twenty thousand dollars. A year less than them than that's a pretty clear value prop to J. So trust me. In this market, they are all about every way to save.
+
+Host 1: Good to know. Alright.
+
+Client 3: Makes sense for it. Be or that size and Yeah.
+
+Host 1: Awesome. Well, I'll reach out to you in the last week of January. Because that's actually really good timing, like, if there is a change, then, you know, we can move on something quick. But, yeah, Rabindranath, it's been great working with things were always being so transparent and I'll check and In four weeks, have a great holiday.
+
+Client 2: Thanks you guys too.
+
+Client 3: See you.
+
+Host 1: Yeah thanks.

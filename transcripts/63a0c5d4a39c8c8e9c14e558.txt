@@ -1,0 +1,331 @@
+Host 1: To cool. Like, blue while you got going on back there. Is that a hallway or something? Is the hallway.
+
+Host 2: Yes Thank you. Both right here. Do you mind taking notes Yeah.
+
+Host 1: I could do that Bob.
+
+Host 2: Hello? Hello? We can't hear you Shaniqua. Hello hello hello Hello, Mon Shaniqua.
+
+Host 1: You there.
+
+Client 3: Hey what's.
+
+Host 2: Motilal Motilal. Can you hear us?
+
+Client 3: I can hear you.
+
+Host 2: Yeah you go. We made it. How are you do it.
+
+Client 3: I'm busy, but Our life is good. No complaints. How are you guys?
+
+Host 2: Same here, busy and good. Well, it's it's great to meet you. Thanks for to in the time. By way of of quick introduction, will the team over a team flow or building a dial right now, So we're just making market results to like heal about competition there where they do well what people like but they didn't like and and on into forth. So... Yeah. I mean, that's just the contact for this charge. We'd log would have to hear mobile about you and and and and I believe I found your name on g to you... You will living early for con?
+
+Client 3: We use sc are right now as outbound dialing software. We use primarily for va overseas. So our inbound agents here in the states we use Zoom. So depending what what part of our sales department determines, which dial use.
+
+Host 2: Can you tell me a little bit more about you and and your company? What what do you do? What does the company We're in real estate where the largest player in our market we have a small to medium sized market in Richmond.
+
+Client 3: But we buy home. You run make them sometimes we keep rental, sometimes we by land in build brand new So we do everything in the real estate space and we really dominate our market but because it's a smaller market we can dominate. So i'm not sure what we do.
+
+Host 2: Right? How big is the company? And and what do you do there?
+
+Client 3: We do... We have gotten with sixty three five people I'm primarily a train for the lead generation folks in the states and also for the lead generation people overseas in the Prague.
+
+Host 2: Interesting. And and how many folks do you have working on on?
+
+Client 3: Altogether, maybe fourteen, six human states and then the rest are overseas.
+
+Host 2: But it's so mostly sd deals and i am i getting this right?
+
+Client 3: What does that i mean? What it was like What what the what other the titles?
+
+Host 2: Like, are they like, deals basically?
+
+Client 3: We have two training leads in the Prague. That team is growing And then basically, everybody in lead generation in Richmond answers me and I report to the Vp marketing.
+
+Host 2: Got it.
+
+Client 3: I work remote. So I don't actually live in Richmond I live in Florida, which makes my my role interesting, like a hybrid.
+
+Client 3: Yeah. Not really production a lot of what management, but i sort of out on production now. I'm more younger.
+
+Host 2: Yeah. We are florida that you. I also live in Florida.
+
+Client 3: I live in west Palm beach. So Yeah. One hour ish north of Miami.
+
+Host 2: Yeah. I'm busy mainly.
+
+Client 3: Okay.
+
+Host 2: Cool. Tell me more how can you find out about con in the fields place?
+
+Client 3: I think a guy that used handle our Was a former Vp and he kind of came cross in circles and not how we got turned on. So He's no longer with those, but And also was basically step up from what we were using before. I think we're using What will we using before this very basic very limited what you could do, but it basically, hey, here's a campaign here's... You just have agents pound these things, and it wasn't very intuitive. It wasn't there wasn't other option you can do with it. I forget the name of the the dial where we're using what what those the instructions that Is offering that you're appreciating They do have a option for a recording.
+
+Client 3: So you know, how many leads we're submitting the talk time that the agents are on the phone? Pause time time from that we can kinda Calculate, what someone's conversion rate it is whether their wasting leads are burning through, you know, can't campaigns some fast. We also have a function in there where they kinda if you're new aging you can kinda use the automated script function words, like instead of, like, then they have to memorize everything they can we can we have our script right now, but based on the questions that they are asking they can click on these questions and kind of move to the call flow based on that automated.
+
+Host 2: Oh, wow so like a?
+
+Client 3: It is a it's basically a culture in the call obviously you can build it out, but you know, based on what the question they're asked on what the customer says, they can click on that response. Know. Answered the new question for them giving them rebuttal to the objections and stuff on that.
+
+Host 2: Wow Yeah.
+
+Host 2: We which of those... You mentioned how many leads of submitting Yeah.
+
+Client 3: So we we we used to have well we do the appointment study here in Richmond. The views overseas the leads to us. Meaning they pick a disposition in the in the, and that talks to our Salesforce integration and basically, sends over the lead to our team to to follow up and qualify.
+
+Host 2: So can you walk with the the flow a little bit like, where do you get the get these lists in the first place? Is Fox dale, we have a company that does for us.
+
+Client 3: Company. I don't know if the name companies it's based out a Seattle, and they pull all altogether and we pay them a lot of money, and we trusted that as good they're the best in the space. And then they go and find their in the counties and neighbor that match parameters that we're looking for. And all the owner information, and then we skip chased that plug it into and also and there there are a couple of campaigns that we're calling actively right now that we focus around. One of them people are closes. The other is in general. List, and then we also have a couple of different markets. So in richmond, but also Virginia beach.
+
+Host 2: So you're you're calling folks whom you wanna buy houses from?
+
+Client 3: Yeah and usually see the data suggests that there's something financially there that would indicate they're going through some financial hardship.
+
+Host 2: Right. Okay. So you buy the list you send them you send it to your folks in the Prague And then these hooks dial using con con and once they like, get the lead who's put potentially interested to send them to your sales team in the Us and that sales team qualifies is the lead and and potentially closes. Is that is that the idea?
+
+Client 3: We qualify we set the appointment our manager in the field actually goes on the appointment. That's like they added... The last step. And it's anything. We meet the property contract then. That's why We put something on paper.
+
+Host 2: Yeah And... Okay. So again, Is really used as a, like for.
+
+Client 3: And I think it was... I seem other people who use it more of as as a Crm, but we have Salesforce for that. So There's a lot of integrations we built in to have those two things talk to together to Interesting What kind of things have you built?
+
+Client 3: That's a very nuance question. We have a guy in our team at handles all those integrations and we work with all the different people, but essentially if For example, someone in the Va wants to submit a lead based on the disposition they click on in And also so, that will trigger something to happen in Salesforce. And salesforce then create the lead based on the fields that they fill about. And they'll, just talk to each other end then the our team have a where they can go in and you call that person without having to manually. Me just click on the name and the numbers of hyperlink and met go from Zoom. We track the timestamp. In Zoom many it's reported as as a reach out. In salesforce.
+
+Host 2: I'm sure. I can get that. So I'm sorry. I didn't get to need the integration here.
+
+Client 3: Yeah. So the integration happens when someone in the Prague, clicks a disposition in un bo. For example, hey For us it's called scheduling appointment, that's the name of the button in So when they click scheduling appointment, as long as they have certain amount of fields filled out, in in also, it'll trigger a new lead created in salesforce for us I mean, that list generates on our on our team, then they can see that live and we'll call them call that. That's the right away.
+
+Host 2: Interesting.
+
+Client 3: Then we hard qualify the leaf. Is this a real lead or is this like a I'm just one of our people don't speak english.
+
+Host 2: I I I searched the folks you with call from converse with already in your crm, but that's not the case. So How do you get the Full numbers into con?
+
+Client 3: We upload the numbers in. And maybe this is some fancy stuff. So I can't tell you what's certain to whether we whether we load it in the So in it for reach in Salesforce or whether Was contacted something already existing in Income. So I'm mean in Salesforce. I remember I'm remember hearing smart people in our office. Talk about that. I don't know which is.
+
+Host 2: Got it certainly they talk back to each other.
+
+Host 2: Yep Do you use con match yourself?
+
+Client 3: Yes. Yeah. Yeah. I'm... I'm today I added a user in there assigned licenses cl users, adding campaigns. I'm the one that does. We have another third party guy is not our main leap writer when you in this leads. I've I upload the leads the campaigns. I can take away users from each campaign campaigning and kinda specify which agents I want, to be down which campaigns. Looking at reports, I've set up automated reports from him those to shoot over to our email I'm I'm in it all the time. I'm not dialing on myself because I'm no longer that production role, but I'm I'm I'm looking at it every day.
+
+Host 2: Tell me know about the campaigns what does it mean? What does a campaign mean in proposal?
+
+Client 3: campaign, I guess would be more like a marketing it would be a group of lists. So the way I understand is those house campaigns and within each campaign there are specific list that you can dial. So a is is probably at the group of numbers that you're going to call with a group of agents that you specify.
+
+Host 2: Got. Why would you you mentioned sometimes you mind to like, i remove users, from Why why would you do that? Way would you just Okay. Can you tell this here Well we This is probably more of like a financial thing.
+
+Client 3: Right? So Also charges you license for every sorry. Can charge you a fee monthly per every license you have. So if we don't have an active user. Right? I might as well. Either you have to be him or take his license applied to a new person with hired No.
+
+Host 2: Sorry. I meant I think not removing users from like a specific campaign. You mentioned like, I I I'll decide who is on what him paying or something like that.
+
+Client 3: We have like sometimes different campaigns are, like being a different type of customers or going through different things. So for example, for foreclosure is kind because object. I don't want just random that's not something I'm gonna give to all of the lead to all the Va. I'm probably gonna give that to you training leads to are probably they have to have a better accent. They sound more polished they know the small nuances nuance is in English language. Not just normally come out and say, hey, they're gonna be a little more customer. Friendly, Like, did they know how to bring that up very gently without just saying aid. You're in trouble wanna buy your home. So be kind of skill level, I guess is what determines sometimes what we who we think should be dialing and what campaigns Interesting.
+
+Host 2: So conclusion is you do that in in.
+
+Client 3: Yes. They also have this thing. We don't use it much, but they have a way to, like, i a grade your agents, based on like skills, And Not sure. I think you can assign a a rankings to an agent and say, hey, These campaigns are only for agents who meet the threshold in nurse score as an individual agent. I think they have that feature. We don't use it, but I know it's something they offer. Sort formula word your seventy bush percent of above. Now you become eligible whatever settings or campaigns you've deemed you need to be above the skill level ranking to dial this.
+
+Host 2: You mentioned reports to what what kind of reports or you are you're looking for?
+
+Client 3: The basic stuff that and I just mentioned to down right Those... I guess those the biggest things that I look at as a manager no longer way they're talking in the chances of they're having more success leads, wait times, up times, polished times, pause tells me whether someone is you know, not being productive. Week tells. If there's an issue with the number of leads quality of leads in the in campaign or this if the the wait time is too high, that means, you probably don't have enough leads in there. Most of the time. So we need to refill that campaign up because there's options where you can either use power dialing setting or a predict dialing setting. So you know, if I just want this thing dial, without looking at up ramp up or ramp down. I'm just gonna to say no which empowered how this. Seven we're gonna set it to saving for seven calls per agent. And as long as you're actively available, and also would dial out seven different telephone numbers. For agent tenant that is. Lines registered ready to go. So for the most part we use predictive dialing. But our evaluation time the time we'll use it. If I just wanna blast through a campaign and then call it really.
+
+Host 2: You mentioned the duck time, like, is is tough time like the time on the phone or the time spent actively currently docking as a rep talk time means that call was connected.
+
+Client 3: Right? The talk time ends when you fall is disconnected.
+
+Host 2: Got it. Does Got it. Do you do any coaching of your team to tell like, hey, you didn't do this well. And you did you did that twelve. How does that work?
+
+Client 3: Often. So I have the training leads there in the Prague. Handled The day to day stuff, I do meet with a team weekly, and I say, hey, you know, looking into the lesion. Quality on the leads that they're sending in. I also pushed him up on rebuttal, you know, what they should be saying to certain objections. There's a very specific way we handle the introduction. And and how we go about trying to sound super casual.
+
+Host 2: So Yes.
+
+Client 3: Very much.
+
+Host 2: Just see... Did you see that Sorry you go ahead.
+
+Client 3: I have some questions.
+
+Client 3: Yeah. A lot of what I do is really just sales training, like how to overcome objections and stuff. The other part of my job is looking at the productivity of the agency making sure they're not getting distracted or wasting time or burning through leads if I see someone That's a very low talk time, but highly talented I know He's just probably no. Clicking leaking and there's probably something there. I'm gonna reach out to them and say, hey. Yeah. How can we help you? You know, double the amount of calls and every other agent or your i it's like a third of what rest of the people are doing on what's going on.
+
+Host 2: Yeah. What what what is going on? What typically is going they're probably waste they're they're just not trying to have conversations getting off the phone as as possible.
+
+Client 3: They're not... properly qualifying customers with follow questions. You're not clarifying or not asking the questions we're supposed to if someone says i'm not interested we have a very need responder supposed to that. Sometimes you just help. Thank you very much and knowing the race to up Right which is not Does converter records these conversations for you?
+
+Client 3: Yeah Yeah. Yeah. Yeah was Force, It this happened make, but Yeah. Everything is recorded and you can listen to them. You you even have promote where you can kinda like just listen to calls live, Yeah. Well, agents are having that conversation, or you can barge you know, correct somebody on the spot or you can in western remote with when you talk to the agent only the age can hear. Really cool Do you do you use these?
+
+Client 3: A lot... Yeah. I do it all the time. And give get freaked out the things to tell. I'm listening and sometimes I don't tell.
+
+Host 2: Interesting Which do you use most between recording or Bulging in always bearing?
+
+Client 3: And ninety percent of diamond was whispering. I don't I don't want the customer to hear me most at the time. And I've probably only done it less than five times. We used both so. For us. It's like, hey the volume is most to make you better. We want you to make mistakes early on. So if I'm bringing your ear I'm not usually I'm not gonna say that everything in my life is writing on this one thing. So I'm okay not By in. I wanna get the agent like chance to kinda learn and make mistakes in and tweak their they're contract track to to match the customer's needs. So Do you also watch the recordings after?
+
+Client 3: I listened to a lot of recorded. Yeah. These are just audio. About Right.
+
+Host 2: Yeah. Yeah visual yeah.
+
+Client 3: I listened a lot of new If if con called you tomorrow, and it was like, hey, Well taking away either or like recordings.
+
+Host 2: We which would you which would do wanna take away And I can only keep one.
+
+Host 2: Yeah.
+
+Client 3: I would say keep the recording Why?
+
+Client 3: Because I think that's has a greater opportunity for the agent to learn. Right like, that's something where I did not intervene. And I want to have a raw recording of what they perform like without any help That way I can listen to them in their natural setting and and give them feedback based on that. But wish mode is good but oftentimes I'm crying up the call much. I don't want them to have this flustered mind that on the phone works it's month. It's like a double agent. I'm I'm guessing most of the white doctor not like Cia operating you can continue their life and then the conversation with one western whispering and their ear from command center like that's That's not what we're doing with. So i i I would much rather forty What do you do when you these when when you listen to these recordings, I'm just checking to see if these guys are are executing some of the techniques that we talk about all the time, the introduction rebuttal what on that, suppose you you hear something you don't like during one of these recordings, what do you would do then?
+
+Client 3: If it's a package... Guess I'll feel you, like Does...
+
+Host 2: Did they you like a feature or anything like that on the recording?
+
+Client 3: They might Not that I knew of, but I'm usually... If if I if I hear it more than two or three times, and I know it's a pattern, they're probably being it more than once. So I'm gonna write that down. And pass it onto to training leads and say hey, when you meet with illness this week this is probably the thing that he needs to focus this on.
+
+Host 2: You don't feedback that right you give it to the manager. To the lead Why is that?
+
+Client 3: I want the managers to have a little bit of authority right gives them a little power.
+
+Client 3: I don't want Right?
+
+Client 3: We can run to me for everything? And Right.
+
+Client 3: Yeah. So that's probably what we do. And and they're on the same region they have Although I'm pretty good at, like, you know, i'm managing with I'm not I don't rule with an I fist. I really a comfortable. Still wanna give somebody else a little bit of power to Right?
+
+Client 3: I'm not there. They actually respect. People who are there.
+
+Host 2: And you mentioned you you wait until it's happened three or four times and there is a bad before giving feedback you some sometimes did give the feedback straight away first time.
+
+Client 3: It's usually two or three times. And I'm a lot more with new agents.
+
+Client 3: If it's a season agent when i hear they're making the same mistake. Twice gonna I'm gonna I send the feedback right away.
+
+Client 3: I'm like, hey. You know, better than that you've been here for, you know, six months, Like that's This is the correct response to that objection.
+
+Host 2: I see. Yeah. What do you... If anything, what you you not like at proposal?
+
+Client 3: I think no one great for me would probably be some call flagging, features, like, I think it's really true doesn't as an add on up upsell type saying in my mind. It's like, well, I think that's just be clear is part of the normal package, like, I'm using a dial Okay. That is a function that I would like to know It actually helps us manage the telephone numbers, they call them the Ids, but I think that would be I'm I'm good hey, this is Included of think.
+
+Host 2: I'm sorry. What what's cold flagging?
+
+Client 3: It's when you have when you buy two ninety telephone numbers, the system tells you, hey, this number getting a flagged off spam or a scam light. The software tells you you you need to replace this or you should be replacing this So they're monitoring whether or not the numbers that you're calling are flagging these telephone numbers of spam.
+
+Host 1: I see... Sorry, See. It's the outgoing numbers.
+
+Client 3: Right?
+
+Host 1: Yeah. Yeah. Yeah. Yeah. Okay.
+
+Host 2: Right. Great. Do you have any other questions Jebediah?
+
+Host 1: Let's see. No. I don't think so You guys are, like, rapid fire.
+
+Client 3: I feel like you guys have came into this conversation we more prepared than tonight it.
+
+Client 3: You guys are looking to build something that competes with combos or what is your background?
+
+Host 2: Yeah. Actually, there was those my next thing. Yeah. We've had too many of these conversations.
+
+Host 2: Can you can you see my screen?
+
+Client 3: Yeah So we're building...
+
+Host 2: Building this... It's it's it's got a lot of components to it. So there's like... a sales floor here where that you can do to like, to your point, like, over here conversations and like the dials, does the day the the day here. Like your your reps would be using, which we like to think is like a little model on than like other other of. And then there's like, same as as like those like these aspects like can you know, you can see the meetings. And you can see, like, the successful ones the ones And for each meeting you can see this summary, you can see the insights here like, hey, like, Do today talk to much, do they not wait long enough, like, do they those are cool.
+
+Client 3: Is that like Don I, is that something It's a little bit gong Yeah.
+
+Host 2: Is that something that Con doesn't give you?
+
+Client 3: I don't think They have that future. I could be wrong, but I'm almost certain they don't have that. The type of software to indicate hey, the buyer was showing you some gave you some indication that they were they were interested in doing what you... Right? I've heard... We've talked a lot about that, the guy that implemented that stuff thought about introducing close. Be part of ways He's gotta introduce on. So we he's no longer here, but he talked a lot about that level of specificity. Like, that's cool. I I I'm pretty sure we don't have it right now.
+
+Host 2: Do you have a sense of how much is discussing if you don't mind me asking well It's I believe it's...
+
+Client 3: twenty five per license right now we've got fifteen. So from that perspective, but just just based on licenses the loan. There's that and then whatever the maintenance fee is, for that. I I don't know. They they... They talked to our county directly You.
+
+Host 1: Is that per month? Twenty five dollars per month per person.
+
+Client 3: It's not twenty five. It's like, I think it's two hundred and twenty five dollars for like.
+
+Host 1: Oh two hundred. Yeah.
+
+Client 3: Yeah. It it's pricey. Yeah. So which is why I'm really like, if we're not using a license, we to change up to someone who is or Right?
+
+Client 3: Offload. Right? Trying to manage the the head count. As best possible Who is in charge of buying solutions like that?
+
+Host 2: Did you pick Or or did someone else?
+
+Client 3: That led Vp who's no longer with us. It and quite potentially, I don't even know unless someone like you reset to me and said, hey, this is how we are different from windows. So I wouldn't really necessarily know what to look for. Right? Like, it's gonna be some I with someone else offer something like.
+
+Host 2: Right. And looking at what it just showed you like, is that... Do do you feel like that's a compelling differentiator to con?
+
+Client 3: Yeah. I think it's interesting. Like, if we show this up to the agents, like, It's one thing to hear and for me. It's another thing to hear from like, a third party Yeah.
+
+Client 3: Neutral service says, hey This is how you're grading out. Not based on my roads just based on like, finance. I don't know what you call Ai. Right? Like, Yeah.
+
+Client 3: It's interesting.
+
+Host 2: Oh, the other thing by the way that this does is like, this can automatically update your sales. So, like, the next steps, you... You can define any fields that you want in your Salesforce and based on decision, it can be, like it can use Ai to like, automatically updates the fields for you.
+
+Client 3: That's crazy.
+
+Client 3: Actually.
+
+Host 2: Actually, between is these two these two features of, like, the metrics here and like this sales here Like we we will do is most compelling to you.
+
+Client 3: Function is mainly for Translating leaving what been thing on the phone, like, what what is the sales component?
+
+Host 2: No. The salesforce pulls... The salesforce really. So you you select any fields that you like salesforce that you that you wanna update after your calls. And like, if the the the the prospect said something that, like, built that field during the call then it doesn't even just transcribe it. He's actually just, like, and seals the question and like, fills up the field here.
+
+Client 3: I'm I'm stuck on that. I feel like that both people is.
+
+Host 2: Right?
+
+Client 3: Valuable test.
+
+Host 2: By the way, I'm sorry. Just use the time well like, can you go one or two minutes over?
+
+Client 3: I'm good. I got a four o'clock but... Yeah. I'm good.
+
+Host 2: Alright. Appreciate it. How how likely would you be to switch if you found something you like better?
+
+Client 3: Think we're we're not... We're not married though. So I think if someone came in and said, hey, Here's the key differences between us and Con. And financially, these are the things that would change financially for you with the impact. I think we could easily wave.
+
+Host 2: Well, I mean, in no case, and again, like, my agenda here i was like, I'm not selling just yet. Because frankly, the product is not ready like, of building the dial we all looking for design partners. So, like, help us as we are thinking through these things. Like, there's a lot of questions you need to answer as you're building a product. So, yeah. I mean, like, what what the the the button get is to get access to the team, like, we we know the single two about dialing at this point and and the industry. Get free access to the product when it's ready and when it's better. And you most importantly, you would get to, like, shape the products like use case just so. Because like i'm gonna ask you doug because like out, like, this is exactly high wanted. Right? And what we get is we get we get joined sales to questions like we get we get like a user who helps us you know, like, build and craft perfect product. Would that be something you'd be interested in?
+
+Client 3: I definitely be interested in how far you guys selling smart people how far are we away from, like, true Ai agents where they sound human, but they're not.
+
+Host 1: They just we're to a full qualifying talk track.
+
+Host 1: We are working on some mas aspects of that. So like, we're working on a a deep voice mail. So that you can, like, personalize voice mails without having to actually record them every time I'm guessing that technology is not that far away because there are certain components of big companies like eighteen you work you say something into the phone.
+
+Client 3: It listened and then you can hear that Yeah.
+
+Client 3: Right And they spit out a human voice response. So I'm guessing probably less than five years away from.
+
+Host 2: I I would agree the problem that it's illegal. You you gonna have a fully automated ad. But the voice mail we can do and the voicemail mail you could literally say, like, it would actually record yourself saying hi first name, I saw company name on Linkedin I was interested, and our Ai would would replace first name in company name with your voice like this those name in the company name. So, like, that's coming like to, like the variation in the month.
+
+Client 3: So, essentially, instead of looking a pre show dot template it would be in an audio template like, basically.
+
+Client 3: All the blanks with That's very cool.
+
+Host 2: Yeah Do you guys do have the option to drop a voice mail if I hit voice knowing it automatically leaves I'm recording.
+
+Host 2: Yeah. That that's the option. That's the idea. Is that something that Con does as well?
+
+Client 3: I believe they do. We decided to not use it. For last year as as a method of following up. But they do have that option.
+
+Host 2: Great. Have you not used it?
+
+Client 3: We I don't know. We we're looking at the engagement research and it shows, like, No one well, the number of people who reach out who follow up based on voice mail especially a generic voice very very low. When we do leave a voice a very pacific. It's like Hey, Jebediah. It's Mu Shaniqua. We've been trying to get integrity for a very long time. It's really important have because and then we purposely hang up. It's called like a cliff hanger. That we get a way better response from that than engineering hey. I work with recover companies. He's gonna be calling me a chance like, there's way more engagement from a Cliff hanger type of Netflix approach.
+
+Host 1: Interesting.
+
+Host 1: That's good.
+
+Host 2: The keeping thing now. Alright. I got a jump as well soon. But Shaniqua, it's been it's been awesome to chat... Like I said, I would love to onboard you as a as a as design dock and, you know, it's cheaper lightweight. It's like, one It's either like the call every two or four weeks, you know, it's like half an hour or something like this. you know, we add you to a slack. I'll let me send you an email we have a question.
+
+Client 3: I'm down for that. Yes. Let me know what is... You now. Send to me the email i appreciate Alright.
+
+Host 2: Thank you so much.
+
+Host 1: Thank you So yeah.
+
+Host 2: I well. Things. Yep.
+
+Host 1:

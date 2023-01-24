@@ -1,0 +1,197 @@
+Client 2: Hi there.
+
+Host 1: Hey, Benjamin.
+
+Client 2: How are you?
+
+Host 1: I'm good. I'm good. And how are you doing?
+
+Client 2: Good. Thank you.
+
+Host 1: Good. Yeah. Thanks for... Thanks for hopping on here. Really good to go to connect and learn a bit about follow boss.
+
+Client 2: Awesome. Yeah. I would love to hear a little bit more about how your your program works inside of communities.
+
+Host 1: Yeah. Definitely. You're you're based in Ontario. Right?
+
+Client 2: Yeah. Our company is completely remote. So our our team stands all across the country, the the globe really But, yes, I am locally based in Ontario myself.
+
+Host 1: Alright. Cool. I I've never been myself, but they're always top of the charts in in football. Say, I can't ignore them.
+
+Client 2: I'm in Reykjavik. Oh, that's cool. You're Reykjavik yourself.
+
+Host 1: I am I yep. Probably lot colder up here this time here.
+
+Client 2: Yeah. Well, we're... Actually by the end of this week, we're supposed dip into our snow time. So we're trying to catch up Okay.
+
+Host 1: Yeah. It's it's we're we're deep it at this point. So I guess we're we're a bit ahead of you in that case.
+
+Client 2: Yeah. You win.
+
+Host 1: When Winter Lewis is one of the two.
+
+Client 2: Right? Right?
+
+Host 1: Yeah. But... Yeah, Good good to hop on here. I have us for about thirty minutes and, yeah. You know, would be good just to learn about your community goals since I I know your head of community I know a little bit of follow boss from, you know, did the initial Outreach I did, but really, you know, wanted to see if what I show you about orbit would make sense for for us as a good partner. That sound good to you?
+
+Client 2: Yeah. I mean, you know, we we leverage community as... I would say it's more our Tangent, we're not using community as a way to sell. Because the people who enter our community are already part of our user base. So once they are existing clients, then they're added into our community. So I lean into the customer retention side of things. We're using community as a place to you know, strengthen the relationships provide value answer questions. You know, just create a stronger level of engagement peer to peer as well as, you know, brand to consumer. And that's why I thought it was super interesting when I saw that you know, we do. We have an expansive database of folk and we are driving more and more people into the community on a daily basis. And I suspect that number's is gonna grow and grow as more and more people start to see the benefit of it and One of the big challenges is trying to figure out how to get the right people to connect it dots and make it meaningful. Some people might be on a teams, that might be little low, you know, And and if there was ways to leverage, you know, whatever data the platform would allow us to, you know, cultivate and connect it out because right now, it's all very manual. I take the time to be very intentional and and get to know who everybody is, and I'd like to obviously continue to do that, but Let's be honest. You can only scale that it so far. I can't know you know, I'll twelve thousand people and know exactly who should be in that your mastermind group together or who would be great to connect coffee and talk about, you know, deals. Yeah. So I would love to figure out ways that you can leverage, you know, funny, because I didn't think that Facebook was allowing any third party integrations. Into their groups to help out with this. So I was fascinated to hear that maybe they are.
+
+Host 1: Well, we're we're using it in terms of we can place an opt link And so I've had, you know, a couple handful of community managers at I self have engaged with community on Facebook in terms of a group and they opt in and then we you know, can use arts tool to actually start connecting us. So that's one way on that channel. To start engaging. It's just kind of like a Slack group eggs, for example.
+
+Client 2: Pretty sure.
+
+Host 1: Yeah.
+
+Client 2: And then the job... So it... So it's your So are you in essence your own community channel and once you get people over there, you're able to sort of dis information one way or shit. Explain me a little bit more about how that works.
+
+Host 1: Yeah. Sure. So really a high level. Just so you have some added context here So orbit we are we're a tool. So we're not a platform. We're not a community management place for your your commute to go, you know, you're managing them in your own Crm you're managed them. Yeah. Within follow a boss. So we are simply an Ai powered match making engine to connects. Your community wants one and once you join and group at scale. So three big things that we're doing again, just for some added of context One is we have this custom matching criteria. So you can tailor, you know, matches and topics that help strengthen your commuting.
+
+Client 2: As you mentioned a pretty big goal of yours and get feedback for your other programming feedback in terms of setting up an engagement cadence to make sure that you're keeping them engaged in that just a really big value add for them as a member the second thing we do is frictionless sign up.
+
+Host 1: So this is another part of going into let's say Facebook groups is it's a one click opt. For your members from wherever they're located. I and that includes in email. So there's no logins. There's no profile to set up. We're just a tool for you to engage with them. And then the third thing is we actually do automated scheduling. They are opted in gonna make these introductions and send calendar invites So these in... Or so these conversations are happening based on challenges or industry or common interest or anything else that they they tell us?
+
+Host 1: So that's that's.
+
+Client 2: I love that. Because that's actually another from a scalability standpoint. One of the initiatives that I kicked off in twenty twenty two is creating Pure led mastermind inside our community, where I was literally piecing together people that, you know, whether that we were putting whole, hey, who's interested in being part of the mastermind on this topic we're gonna cover automations or oh, we're gonna cover you know, how to benefit yourself with the smart list. And then whoever opted in saying, yes, I'm interested. I put them together. You send a colleague that. And that whole process, you know, Sure. You could set up a zap or something and kinda create a workflow. But at the end of the day, it was a bit of a lift. So get down.
+
+Host 1: Manual work is is definitely the biggest the definitely the biggest pain that or it helps community managers solve.
+
+Client 2: Mh. Yeah. Cool.
+
+Client 2: Well do you have, like, a little demo? It go through how it works?
+
+Host 1: I do. I'd love to show you what it's like, I I have a couple more questions. So, like, when I go through this, I'd love to kinda pinpoint, these exact areas for you. But, yeah, Happy to walk you through exactly what is like a member perspective.
+
+Client 2: Okay. Cool.
+
+Host 1: Just just so I wanna confirm So Follow boss is an actual Crm In your... It looks like you're connecting brokers teams and real estate agents and you're in that industry. That... Is a is that high level is anything else predominantly, But but we do find because the way that we're structured with open Api and the ability to of build out your workflows in a way that's and essential for however it is at your team or your solo business operates.
+
+Client 2: We actually do find that we have non real estate. Other industries also leaning into our tools. But definitely a vast majority or real estate centric. You know, whether that's real... Whether that's real estate agents brokers teams lenders. You know, we we... We... I mean, we have some interesting use cases of even, like obviously, investors commercial We have some, like, roofing companies, roofing companies. I mean, different different industries are starting to say, hey, this looks like something that would make sense for us.
+
+Host 1: So can expand I guess.
+
+Host 1: It sounds like real states your your main target and then, you know, a adjacent industries maybe within the communities is kind of who can leverage the Crm tool that you have.
+
+Client 2: Yeah. For sure. But definitely mostly real estate centric and all of those different portals within.
+
+Host 1: Okay. And I know, you know, i we give about nine k plus on on Facebook, So that sounds like maybe a community that you'd want to engage. So it's value out for them, but are you looking to also connect paid customers or, you know, you mentioned twelve k as well in terms of size, Like how much of them are paid unpaid customers and like, what types of connections are you making?
+
+Client 2: Okay. So you might have looked at the Facebook business page, which I do not that our community isn't run through that. So we have a private case but group, and that's the one that I run as kind of our member value member value add. That one is the one that's inch up on twelve k. As far as accounts that we have you know, users registered. I wanna say probably closer to fifty thousand. As far as on social media, that the community building, we don't use can structure a little bit differently. We use our social media as more of a marketing means. As a way to get information out there to existing members that just need reminders, but predominantly that's more of our marketing means. But our Facebook group we kind of have our own department for that, which is in retention. And that one is twelve k. And it's growing. So it's continue we're trying to get more and more of the the fifty k and growing continually moving and migrating into our community. That they can be a part of that conversation and benefit from it.
+
+Host 1: Got it. Okay. And what would be some of the main initiatives that you're connect them around. When you when you do these manual connections and obviously, twelve k's quite lift in terms of manual so scale, sounds like it is definitely something that would help up, but what would be you know, the main reason is that just networking is is self their own practice, their own solo operations. It's it's just for knowledge sharing. It sounds like Less not networking.
+
+Client 2: I mean, I think networking is always sort of, like, the frosting on the cake, but most of the people that come into our community are very specific in what their reason for being there is.
+
+Host 1: And it's typically Hey, how are you leveraging the platform to accomplish x goal.
+
+Client 2: So we create are our community be very strategy oriented. And the way I've set it up is where it's less about being a support queue because we obviously have an amazing support team that does our tickets for support. But more so about That's so it sounds so much troubleshooting. I mean, there is bit of that that definitely happens naturally, but more so just strategy. So the difference between, like I can't get this thing to work, You know, how do you do that? Less of that and more Hey. It's twenty... you know, we're business planning for twenty twenty three, and we're trying to figure out how to set up some workflow automations so that we have, you know, this segment set up under campaigns. What are you guys doing to corner that side of the market. Like, people chime in and and share ideas on what's working or maybe they're saying, you know, hey, I'm a solo agent right now, and I'd like to grow my team. You know maybe have ten people by the end of next year. For those of you that went from solo to teams, like, what are some strategies that have worked for you? To grow your team out. What were some of the, you know, challenges that you face. So it's that kind of conversation where there's all of these people just asking questions. And and honestly, what the feedback I get. Inside the community is that people come to the community to learn. And stay in the community because they feel that it's at a much deeper level of of knowledge sharing than most communities. So we invest heavily in creating a really meaningful space for everybody that's there.
+
+Host 1: That makes sense retention is a is a big part of it retention and value add getting them to stay in there. Maybe just a one quick deeper dive on on that. How is that going so far. Like, how are you currently you know, hitting your... Let's say, your retention numbers, are you managing these metrics. And, you know, where is this at in terms of where you wanna be?
+
+Client 2: Yeah. I mean, I'm definitely... I've created massive growth and, you know we're we're starting to build up the department for community to have even more because as we grow we need more hands on down So we're definitely we're on the our company as a whole is going through a bit of a hybrid growth stage. So we Everything is kind of on the upward trajectory. Right? Merry goal is to figure out how to optimize because what happens is you go from being a small quaint connected community to now bigger and then bigger and then bigger. And that's feel of connectivity is going to wan the larger you get. And I know some of the Og g's already filled that, but which try really hard to find ways to, you know, level them up so that they're always included, but Scalability is always going to an issue as you grow. So that's why I'm very interested to look at tools that can help you know, make that process still feel intimate and connected while we continue to grow and scale.
+
+Host 1: Got it. That is really helpful Yeah. That's really good. So I I'll share some of the things that we have going on just to walk you through that. And then just so just a recap some main things that I'm hearing that you're focused on achieving just just so have it arrived. Yeah know, retention, value i optimize as you grow making sure scalability is is there. Strengthening your relationships stronger engagement peer to peer. You wanna connect the right people to have meaningful conversations. You're also may interested in seeing how this could contribute to your Pure lead mastermind. If that's something that it could facilitate with with your members. So you've lot of good things going on. But I think Yeah. Is is that good as the recap for you. Anything else in addition to that?
+
+Client 2: No. Those those are that's a great recap. Don't you love Fire that's so helpful.
+
+Host 1: Yeah. I love. Yeah. I I can also send... What I'll do is I'll send what I share after for this and if you want any of this transcript or audio I can also send that to you, but Yeah.
+
+Client 2: Be great.
+
+Host 1: Okay. Awesome. Well, I'll share my screen. And I'll walk you through this. Just let me know Yeah. If you can see it, when I wanna pull this up there, it'll be a blue screen And i say orbit overview.
+
+Client 2: Can you see this? Yeah. I can.
+
+Host 1: Okay. So I already gave you, like, a really high level of orbit does the top three things that we do. The biggest thing after we do these connections the these automated scheduling. We give you a lot of feedback. So we have a nice dashboard to take a look at these engagements which are happening on a monthly basis or a weekly basis or how many times that your community is asking for them, and again, it helps your feed other programming. Like your mastermind. Just a quick look at who we're working with because think this adds a lot of context. So orbit was initially started to start connecting Vc funds, portfolio, companies funded to founder founder investor sequoia capital is a customer ours first round and affects, probably well known B that that are out there. We started expanding into other markets kind of how you're going into some other places with the beyond real estate So spend is a customer of ours they have a six thousand paid membership on just Cfo they wanna connect Vc platform, still in the Vc round, but Nikita, maybe a bit more closer in terms of yours, they're a customer community, but they're connecting prospects to customers, so the prospects can understand the value add of using Nikita a bit for demand generation in that case. But then at lastly obviously, they're the really well known trello all other products. So they have one point four million people and they're using us to connect the developers their full stack a lot for these peer to peer connections, but just to feed in a lot of this knowledge sharing in between their different users and of that pads value to them in terms of maybe customers later, or some resell we're not necessarily aimed at demand generation. Just interesting what a lot of these different customers are using orbit for. Okay. So I'm gonna share Cfo connects, which is a Spend community. And this is what it's like from member perspective. And then I'll get into the admin experience. And what just like to set this up super quick and high level for you.
+
+Client 2: Real quick before you dive into that, Just so I know, because everything that you're you're showcasing so far is very much more enterprise focused and we're not quite at that size. Are you do you have any options that are sort of scaled for companies that are rowling, but they're not at that massive enterprise size.
+
+Host 1: Yep. We are. So we typically... We have a couple tier levels And as you open up tears, you know, you get more matching rules more engagements per month, more things you can do with your data. In the number of invites you can send out. So there's two ways to next one send out an email invitation, through our platform and then they'll opt in and you get up to ten thousand invites. Bit probably, I would say, more in the enterprise size, is more than ten thousand member invites per month. You may be kind of at that ten thousand number at this point, but we can start in batches. And the other way, is to have a link in ogden link that you can share on your Facebook groups or you can share in your newsletter and get them top in that way. Another way to do that. But I would say based on your community size kind of right in line with you know, the number. Like, I mentioned Atlas last one point four million, they're only connecting probably twenty thousand people at this point.
+
+Client 2: Okay. Yeah. I mean, they... Like like They said, we have about what about fifty thousand people that are, you know, have accounts, but how many of those are active inside the community or the active is even up another conversation altogether. But inside the community, about twelve thousand. So usually it's that ten percent marker of what you have registered that show up in the community. We're trying to scale a little higher than that now, but Yeah. We'd love to continue to grow that even more. I just wanted to make sure before he move through that if it was only massive enterprise. I did wanna waste your time because I know that we wouldn't have the budget of, like, those massive enterprise solutions that you're Sure showcasing.
+
+Host 1: Yep. Absolutely. I I show those just for, you know, a bit of a a trust who are working for that's well now. Definitely have something that would work with. Sounds like this is definitely like a good potential use case for you. Let me get through this and I'll share some price. But. I definitely think that Yeah. We we could align on on budget.
+
+Client 2: Yeah sure. No. No. I definitely wanna see how it works. I'm I I'll be all ears.
+
+Host 1: Okay. Alright. So from your member experience, or let's say, from, you know, the brokers teams, the solo agents. This is what they're gonna receive. So once we're all set up, the first thing that they get is an opt email. And instead of the opt email, again, you can have a link. You can just go directly let's say your Facebook group or newsletter let's say you did have, you know, ten percent of your members with an email. You wanted to tap into your own Crm you could send in this and it's your branding, your logos everything is customizable. We want them communicating with follow boss, not with Orbit. So a bit of an introduction in terms of what is this engagement? Why you gonna be mashed up with somebody in some next steps. So you're gonna set an opt in date that they have to opt in by. And then mean, the week later, they're gonna we have these matches. If they don't opt into that first email, they get a reminder to to opt in.
+
+Client 2: Okay. Awesome.
+
+Host 1: Once they clicked that opt, they're gonna be taken to a form. Again, you're branding your logo, your colors. Everything is in... This is all that something we created in an onboarding. With you before you send us out there. So again, you know, what is this about it's gonna say, follow boss member matching or whatever you wanna put there. Then they're gonna as fifteen seconds What are some areas of interest that you wanna discuss What is your role. What is your company, what are years of experience or industry if you're not in real estate you know, if you're in roofing, let's say, we wanna have that key detail to have the best match as possible and then we're gonna ask him some times that they queue me up within the next week. That's also a pretty big factor. Again, fifteen, thirty seconds that get confetti with this form, and then that's it. The next thing that they're received is gonna be a match introduction in email. And it's gonna come from from you guys. Or from follow boss and it's gonna say here's your match. Hear some information about them. We're also gonna put an invitation directly in their under with the link to to meet up and we can also put in they're Linkedin in your role. That's the net gate they gave us in that opt form then a conversation guide also very customizable in this setup. Once that date comes along, and they're ready for it. They click and they're taken to a branded video platform. So this is something that orbit has built in house. And the only reason that we built this in house is to keep it a very seamless or frictionless experience for remember. So nothing to download they can open this in their browser on mobile or their desktop And if they wanna swap this out with their own Zoom or their Go hangouts, can do that as well. Really really flexible there. Believe cs team put this together. Then the last thing is the back. So once that matches completed, We're gonna ask him did the chat happen didn't it not happen? There's a bit of a sequence for some no shows. And we're gonna ask them to rate that conversation or that match one out of five. Our average out of tens and tens of thousands of invites. Or matches is a four point three out of five. So pretty strong matching our Ai is is quite good in terms of matching up the right people fostering the right connections. We're also gonna ask them, what are some topics you wanted to discuss in the future or, hey, by the way, we have this Pure led mastermind does come up. Is this something that you're interested in? Really good way to get feedback on your other programming. And then ask them how often do you wanna be connected. So they're gonna tell you monthly or every other week, and we also schedule these engagements to go to increase that right. And then that's it. That's the only thing that your members receive. Any questions on that?
+
+Client 2: Okay. So that's all that they're receiving. But is that where the is that where the the process ends? Or is there... Does it go deeper beyond that?
+
+Host 1: For the member Yes.
+
+Host 1: That's it's for the member. So Usually it's you know, busy professionals or Yeah. They they wanna make a connection. They wanna have a good station, they wanna know this is something that follow boss is providing as a nice value you add they have that conversation, how to leverage, you know, the tools in a better way. And then they're done. If they give feedback saying, I wanna meet up once or twice a month, we can send another engagement in another two weeks. Or we can do another one next month, and they'll opt in again on an ongoing basis. So it's really meant to not be work for your members.
+
+Client 2: But that's is it only one on one? Or is it like, can it be set up to where if I if I was like, hey, we're trying to make this to be like a pure of mastermind where like, no more than ten people are brought together no more than eighty eight people brought together talk about us, you know, whatever topic. I they do on that form? Is that how we can set that out that way or is it only one one?
+
+Host 1: We we can do both So we have both one to one and group matching. I would recommend usually what we love to recommend if I could just buy this idea off. I think one one is typically a better way just to start out, We get some data in terms of opt and what your members are looking for, the cadence and how conversations are going then if you have this mastermind, and we wanna pull in some really engaged users that we know are gonna go into this master or if already have this segment to out, we can plan that out. And we do... I'm sorry. We do group matches at best of about four to nine people. So if you're thinking less than ten.
+
+Host 1: That does for sweet. Yeah. I would say, you know, maybe couple months in, we we introduced the group. That's, you know, maybe a good place to go.
+
+Client 2: Okay. So the one on the one is is sort of set up as a way to say, hey, based on the information that you provided us here somebody who also has provided similar feedback as what they're looking for, you'd be great people to shit chat with one another and you're both inside the success community together, you know, Bob meat, Joanne or whatever. Right?
+
+Host 1: Yes. And you so... Yes. We're mentioning them based on their answers, which we know is gonna fall good connection and everyone that's filling out that form is opted into yes. I wanna have disconnection if they don't opt in through that email or through that link and let's say Facebook group, then they can opt into another one next week.
+
+Client 2: Okay. Next question on that is the data behind it. What what kind data points do we see? Because that's one of the things that I'm always trying to figure out is how to get... like you know, the when we're tapping into the Kpis and the the Roi and all the all the fun three letter acronyms acronyms that we have set. What what kind of back end data do we get to see?
+
+Host 1: In terms of your members and everything.
+
+Host 1: Yes. Yeah. So you can manage... So first of all, you can import a Cs of all of your members. You can expert from your Crm or put in your If you have their name and email, And as they enter that information in their form, it will update automatically. You can segment them into audiences if you want to. But when it comes down to engagements, I'll go into a completed engagement here. And then you can look at the feedback that every member has given the date of their match, even any testimonial or call a feedback in addition to Same s score, You can also look at the individual matches all your members. If I click on one of the members, I can look at the history of her matches. If i go into kayla here, her recent match was in Lisa? But she's had three matches in the past, and you can show all the data and the S score that she's given with the rating and who she matched up with so lot of data on your members. Again, you'll have this as basically a robust data point In this platform is not for your members. It's strictly for you to manage them. And we can always link this up or export this and just upload it into your Csv. That's where you're gonna manage this.
+
+Client 2: Are we able to add, like fire dot ai to these chats so that we have a record of what conversation topics are being discussed that we know how to year better content, better offerings. Product development, etcetera?
+
+Host 1: We have a feature an add on where we can do that with hours. If they decide to swap out their own Zoom, know, in in in case, they're gonna have to have Fire. So we can't guarantee that they are gonna get recorded. That's also why wanna have the correct information in the opt form and in the feedback form. So you get the the information that you want to. But Yes there are ways that we can ensure that we start tracking topics and stuff like that.
+
+Client 2: Okay. Because if it's all Ai driven, I would assume that whether as long as it's being recorded in some way shape before you'd be able document, like, you know, this is the rhythm A lot of people talking about automations or they're talking about, you know, a frustration on the certain pain point, like, assuming there's a way for the Ai to kinda comb through that.
+
+Host 1: That is So on the actual call recording that's something where again, it'd be something we'd have to do some work to make sure that we can ensure that happens where they can't swap belt. They're own Zoom link and we can't provide you that information. Is certainly request that we get, we can do. When it comes to for sure data, if you wanna leave it flexible for them to not record that meeting or if you don't wanna come through that data this dashboard provides you information on the the engagement. So this engagement had about four ninety six five hundred people. It shows the option rate their average match rating the net promoter score, it'll tell you who the community is is meeting up. What topics they're discussing because these are what they shows in that opt form. Time zones and they even can get your feedback questions, we can add in custom questions as well. So once they answer that, know, they're interested in discussing x y with somebody else or they want be matched up upon a monthly basis. So these are the for sure things that we can get. But to answer a question on the recording, That is something in addition that we can we can chat about Okay.
+
+Client 2: And as far as I'm trying to think here. So if let's say it you said it's opt in on a weekly basis. Right? So it's it's either weekly or monthly or do we set the cadence? Or how does that work? Because I could see how weekly could potentially feel overwhelming.
+
+Host 1: Yes. I just wanna check out time as well. Do you have some extra time or over at this point?
+
+Client 2: So, yeah. You know what? Actually, let me double check because I have a few things scheduled today. Give me one second. This. Calendar line. One moment. Please see here. I my next meeting is at three thirty I can rem stay on for another ten minutes, and then I have to kind of prepare for the next one.
+
+Host 1: Yeah. More than enough. Okay. I'll I'll I'll click run through your questions here. In terms of setting up in in cadence. So and I'll do it as I kinda walk through a little bit of how we've set up one engagement But if we get feedback that they want multiple times per month, we can segment your audience and send that group multiple engagements, but let's say, eighty percent say they want monthly engagements we'll set up a monthly cadence where we can just duplicate one engagement and make sure that same is?
+
+Client 2: Okay. Great. So... And that's all basically like, set it and forget it because your platform is gonna be the one taken care of it. I don't need to worry about that.
+
+Host 1: We we take care of it So on the setup, you're just gonna choose, like, some basic things like when you want your next engagement to happen, the the registration date, the matching date, you're gonna include, like, data... You're gonna segment your audience and pull them in and say, which audiences do you want to have in this particular engagement. We can make sure this is recurring. Every single month as well. And then you're gonna set up the form. So you can optimize I'm sorry. The the email. So you can customize the the invite the subject line. Again, if you don't use this and instead the opt form that's totally fine. But all of this stuff is there for you. Even that conversation guy that's gonna go into that calendar invitation. But one of the main criteria during onboarding before that first engagement comes on is the sign up form. So what information we gonna ask from your members. So role company name, typically, you wanna measure that so you can you know, update your own database. You can turn on anything that we want to or turn off anything. We're gonna ask him these match questions. So what are the topics of interest? Years of experience, company size, all of this stuff we can customize and we can turn on her off if one too. And this is where we edit up all that information even in the feedback form. So just wanted to show you that very quickly as well. In... And when we set up that that cadence.
+
+Client 2: Okay.
+
+Host 1: Any any questions at all on setting up that form or the cadence or the dash anything in this admin.
+
+Client 2: No. I'm definitely more interested now on price points.
+
+Host 1: Okay. So in terms of price points, Let's see here. Yeah. I can one I'll share this with you after the bag just so you have this. But I did wanna ask I guess at this point, you know, based on you're looking for retention of value add, are you seeing orbit as a valued partner for Potentially, Okay.
+
+Client 2: It sounds interesting. It seems interesting. I mean, I'm I'm I'm already doing this, but like I said, I'm doing this manually. So this to me looks like a way to create better scalability. So it would just come down to if if financially it makes sense for what our budget looks like.
+
+Host 1: Yep. Sure. Makes sense. So our range right now in terms of price is... And I'll just share this with you verbally, if you wanna look at the actual tiers, I can that over as well, but let me know. Up to ten thousand member invites. And even if you have twelve thousand people in your Facebook group that you wanna connect. Let's start with the segment under ten k. We don't get into larger enterprise. Up to ten k, our pricing ranges an annual contract, so it's a fixed price no matter how much you grow. And it starts at ten k and goes to fifteen k annually.
+
+Client 2: Okay. And that's... And that includes the elements that you showcased in our our slide deck. Right?
+
+Host 1: Yep. The ten k is our pro, and that is one to one or group matching. Where is our premium at fifteen k includes both one to one and group matching, you get some additional matching rules, more engagements, you get some more white labeling. Things like that. But essentially, they both offer everything that you need in what I just showed you in this demo, branding, customization and everything.
+
+Client 2: Very cool. Yeah. Okay. Yeah. I be interested to have you said over. Your pricing deck because basically, what the next step for me are. I mean, I'm definitely interested. I definitely am you know, the big head of our community, but I'm definitely gonna need to talk to our Chief Financial officer to just discuss, you know, hey, you know, is this as we're moving into budgets for One, is this something we can lean into, or is this something that we look at for q two, q three? Or not at all. So I will be the pitch presenter and so I'll need all of the different moving parts that I can make that case. So what would be help me because I'll be more than happy to kinda put this in the mix in rather than later. Is if you can share the side deck that you just shared with me, just that I have something for them to thumb through and look at. And so when I say them, my... I would like to have my Ceo and to see if I'll be able to lean into that and That way I can kinda answer questions based on what you and I discussed, but then they can kind of a visual as they're gonna probably talk without me thanking them to say yes. So if you can... you know, the more information you can share on the pricing deck, the offerings that break down. Just anything really super clear, obviously, the And just anything that would be a value add as they build that pitch out, that'll be fantastic.
+
+Host 1: Definitely. I can send you this over. I'll send a bit of a recap and email And, yeah, anything else as you have those conversations with your Ceo, you're I just let me know what you need or if any concerns comes up in terms of getting this finalized in q one, happy to of course, help out in anyway.
+
+Client 2: Yeah. Yeah yeah. I mean, honestly, I think just like the basics about you and I neither of them are gonna wanna go through a demo or any bed. Like, that's that's gonna be on me. So it's just a matter if I see something that Make sense. They're just gonna wanna see the moving parts to make sure that it makes sense for the spend. So whatever you have, that's that compelling closing conversation that really helps all of us involved. So Yeah, Bring it on. I'd love to check it out.
+
+Host 1: Alright. Benjamin, I will send this over to you and really excited to work with you and hopefully get them interested in. And, yeah, would be great to support.
+
+Client 2: Yeah. I love it. Great timing as we, you know, we're wrapping up the end of the year and going the new year. So this is awesome. And thanks for connecting. Appreciate.
+
+Host 1: Really good to think. Have a happy holiday holiday day break if I don't chat with you beforehand.
+
+Host 1: Yeah.
+
+Client 2: Okay. Sounds good.
+
+Client 2:

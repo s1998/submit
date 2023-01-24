@@ -1,0 +1,445 @@
+Client 1: I'm there.
+
+Client 2: Hey how are you?
+
+Client 1: Good. How are you doing?
+
+Client 2: Good.
+
+Client 1: Good. Okay. And what's your first name?
+
+Client 2: My name is Hamilton done it.
+
+Client 1: It's me minute.
+
+Client 2: Yeah. So Jody should be joining us here, Jody as brains behind the abe collaboration. And so we will need to wait for her to get going.
+
+Client 1: Oh good. Yeah. I know we have this scheduled for an hour, but typically, Cool.
+
+Client 1: So where are you guys located?
+
+Client 2: So The headquarters is in Palo Alto.
+
+Client 2: But we are probably about fifty fifty remote at this point. So I am calling in from Saskatoon Saskachewan.
+
+Client 1: Bagel. How's the one Saskatoon right now? Pretty bold?
+
+Client 2: You know, so I find it to be pretty pleasant. If you're not from here, you probably would be less impressed. But we are in the process we're getting ready to get get crushed by about a foot and half snow here over the next few days. So Okay.
+
+Client 1: In time.
+
+Client 2: You know, it's cheap to live here for a reason.
+
+Client 1: Yeah. My family's been well southern, Saskachewan like the James bill area. So familiar with the cold. It's it's an acquired taste.
+
+Client 2: It it it definitely is. But speaking of the brains behind the operation, Bye.
+
+Client 1: How's it go.
+
+Client 3: Good. Good. Where are you under??
+
+Client 1: I am at Portland Oregon.
+
+Client 3: Okay I not this snowy trees.
+
+Client 3: I don't know how I got this background on my zoom, but I love it.
+
+Client 1: It's very you know, winter vibes Yeah.
+
+Client 3: Too christmas.
+
+Client 1: Very tasteful.
+
+Client 3: Yeah. Sunny Palo Alto.
+
+Client 1: Right.
+
+Client 2: And and and just for for Clarity, is is it Anastasia or is it Anastasia?
+
+Client 1: Anastasia.
+
+Client 2: Anastasia. Okay.
+
+Client 1: Well, it's just too, I think on the invite. Is that right?
+
+Client 3: Yes. Yeah. But I did forward it to Jeeves, but I know Genesis is directed Paul, but I know she was in, like, back to back meetings this morning, so she may not be able to attend the call...
+
+Client 3: Which is is fine, but Absolutely.
+
+Client 3: Our Okay.
+
+Client 1: I was just gonna say I can definitely send the recording after the fact.
+
+Client 1: If needed.
+
+Client 3: That would be problem.
+
+Client 1: No ma'am. And just to give you guys an idea of what will cover on today's is calls. So this will be pretty high level kinda like I mentioned in my email. We'll go through introduction. So I'll kind familiarize you with two your points of contact So info will be apart from myself, and I'd i'd love to get know a bit more about your company and how you plan on using the tool. Also review the details of your subscription, make sure you understand everything there. Talk through access and provisioning of all the licenses and actually speaking of which it looks like the initial kind of admin email with a link to log in went to you Jody. Did you happen to see that come through.
+
+Client 3: Yes. I did. I didn't realize it was the admin one. So do I need to log in and activate the other licenses?
+
+Client 1: You do. But towards my call, I'll walk I'll log in as you and kinda walk real.
+
+Client 1: That process. It's pretty straightforward. But, yeah, you're we... Once I show you that, you're free to get them added whenever you like. And then we'll schedule the necessary team training and any integration calls on this call as well.
+
+Client 3: Sounds good?
+
+Client 1: So to get started, I'd love if you could tell me a bit about proceed.
+
+Client 3: You wanna take it from here?
+
+Client 2: Yeah. Sure. So so some proceeds is it we're an Erp. And it is in the Erp that is focused specifically at the needs of the heavy equipment and dealership industries. So all of the stuff that moves things polls things and pushes things over. We support the people that sell that stuff.
+
+Client 1: Gotcha. So... Yeah, That kinda answers my second question in terms of industries as you guys work with, obviously. Transportation. But where... In the purposes of kind of how you'd be using Zoom in go or in general. What types of, like, job titles or apartments you typically look for when you're prospecting.
+
+Client 2: So so our conversations usually start with with c blanc o's and vps of x So Vps parts, vps of service, chief financial officers, chief executive officers Obviously, the Erp decision is a pretty big one and is not one that kind of low level employees get to speak to all that much. And so when we're looking at that, you know, we're we tend to start with you know, truck dealerships, construction equipment dealerships, any heavy equipment dealership, and and then, yeah, usually see if we can find the right Person is gonna be able to sort of be our champion to get that ball rolling.
+
+Client 1: Makes then And then last question on there for, were there any like particular challenges or pain points i've prompted the a decision to bring on to info right now.
+
+Client 2: You know Anastasia, I would say that, you know, the the the big one is that hit historically, you know, our sales organization has not done a very good job of being support by marketing. And so, you know, what we were looking to do is to have as much information live in our Crm as possible. And so the... you know, that obviously, there's there's all sorts of people on it out there that do things sort of, like what you guys too, but the big thing that pulls us in with Zoom was just how tight you guys integrate with Dynamics three sixty five, which is our major partner for Crm activities. So that was really kinda... you know, we're we're we're looking at it pushes into other industries, we've been pretty much a truck dealer platform in the past. Run it out a real estate there and wanna make sure we're ready for what goes next. So you know, couple things right The big one is just figuring out who are the players outside of our traditional space. And then how can we leverage the existing tools that we've already invested in better with a tool like Zoom in info to make sure that the data's is cleaner and more.
+
+Client 1: Yeah.
+
+Client 3: We also have a lot of gaps in our data too, or outdated contact names and stuff for, like, opportunities or leads that you know, said get back to us in two years when our contract with competitor ends. So we, you know, we also wanna make sure that our days up today and complete, you know, so that we can look at who are, like, ideal customers are based on locations and revenue and stuff like that and just kind of do a deeper dive onto who are the right people to to target with whatever marketing initiative. We're doing.
+
+Client 1: Yeah. And I noticed you guys obviously purchase bridge, which will certainly, like help we up that data so we can get it clean from the Get.
+
+Client 3: And also, I really like to zoom in five with a Doug and Brad street champion because I've used them in the past. But what really told me on Zoom info was the ease of your interface.
+
+Client 3: Dmv is so clunky cases since they bought movers, and I was hoping it would be fixed by now. But It's not. So I really was impressed with your guys is interface It's super easy to use and very intuitive Yeah.
+
+Client 1: I would agree with you there. I'm not as familiar with the other ones that was, like, the first thing that stuck out to me when I started working here from other or companies I worked at is, like, how clean it was. Which obviously helps and add so.
+
+Client 3: Gifts.
+
+Client 1: Perfect. Appreciate that context. And just to give you guys idea of my role, so as your onboarding manager on really be kind your primary point of contact as we get everything and running with the two wall. So feel free to reach out with any questions that come up as your started, and then I'll also be connecting you to the various teams and resources that you see there. So we have a dedicated training and integration team, which we'll talk about. And we have support, of course as well. We have our just regular platform support as well as integration and actually enrich specific support. And I'll send you those email addresses, but that will definitely be your best resource. Very like technical login issues or after the initial integration implementation. If you just have any one off kind of questions, support will definitely maybe be your the quickest turnaround time for those responsive. And for University is another great resource that all users will have access to directly with within the platform, and it's kind of like our hub all things training. So tons of like webinar webinars you can sign up for, great on demand videos you can watch all the private training sessions that we host free guys will be automatically recorded and uploaded to the university as well, so everybody can access them there. So like I said, just a great resource that everybody can access and I'll make sure to send you guys a link as well my. Perfect. And after onboarding, you'll move on to your permanent account team so Brian will kind of take over for me as that main point of contact as Am. He'll also be your sales and contractual would be forward as well. So should you need to add an licenses or credits or anything that would all go through prime. And then we also have a customer success team that's made up of around fifteen or so folks, that really are the platform experts. So if you had, like, a very specific platform question, or you just needed help maybe building out a list Or wanted to talk through something. They would definitely be your best resource for that. And I will definitely send you their contact information, their email and their phone number as well as Brian. But Brian will likely be reaching out in that kind of thirty, sixty day window at the end of onboarding just to kind of introduce himself and start that relationship anyways.
+
+Client 1: Alright. Questions about that. Nope.
+
+Client 3: Straightforward forward Alright.
+
+Client 1: So looking at your guys subscription, it looks like we have the advanced edition of sales os. With what we call North American class data access, And this really is access to contacts companies all over the world. With just a few exceptions system some countries that are located in the Eu, but apart from that everywhere else. And then there are few features here I wanted to briefly touch on that are of course, included in your subscription. A first of which is our out extension for Google Chrome. And does this look sound familiar? On the sales process. Okay This is the extension linkedin.
+
+Client 3: The Linkedin connector thing. Right?
+
+Client 1: Yep. Exactly. So it's an extension for chrome that layers on top of link in. So if you're ever looking at someone's profile like in those little screenshot here and you probably bring our extension on the side, you can essentially see all of the data points that we have for that person. Without having to leave Linkedin. So if we have their know direct dial, mobile phone number, whatever it is, you can do that right here. So obviously, a great compliment to linkedin if you guys are already using that and some extent, And then in addition to Linkedin, this also works on just company websites. So if you're ever looking at, like, nike dot com or whatever, and you were to pop open you can see, like, or chart information, high level company details, essentially just a smaller scale of what you'd see in the plot. Questions about this?
+
+Client 2: Now I'm sure I don't need to tell you this, but that's like a shift.
+
+Client 1: A great way to describe it. No. It's awesome... I think this is our like my one of my favorite features and one of our more under underutilized and of unfortunately but, yeah, it's something that can, like, obviously add value to your day to day. Workflow. So I'll send you guys the link to get the added to chrome. But let me know if you're gonna into any issues. So Okay. And then website is another feature that is included and this feature allows you to track what companies are visiting you or. Site. Notice this ramp.
+
+Client 3: I think so.
+
+Client 3: Yeah. So know if this was included in like, our demos, or anything. But, yeah. This is This is interesting. I mean, we do have Market and so we can, you know, use that also, but this might offer information that Market doesn't necessarily show us.
+
+Client 1: Yeah. Exactly. So I am So we have a lot of customers that using something similar and I always say, Like, chances are we'll have more data or at least different data. So there's really no harm in adding both this also integrates directly with Google Analytics. If you guys are using that as well. You can kind of help supplement the data and Google analytics with this. And it's to get it set up. It's a pretty straightforward process. I'll send you the step by step implementation guide for it. But it's really just a snippet of code that you would work with your website admin to place on your site. And then once that's added, all users can come in here and see the data. So the name of the company busy? How many is it? How many page views? Stuff like that?
+
+Client 3: So how is the company identified, would that be like through the Ip address or So we...
+
+Client 1: Yeah. So we track... By adding that code, we can track It addresses. We then cross reference those against our database to associate the Ip with that person's company. So privacy reasons, of course, we can't show you like the specific person that's on your site, that we can the companies.
+
+Client 1: That's how that's gathered.
+
+Client 3: Okay. Okay.
+
+Client 1: Yeah.
+
+Client 3: Next today. So with all the new cooking rules, If they say don't accept any cookies, will this still work or is this cookie based.
+
+Client 1: That is a good question. So I know that we're moving away from that, with websites and intent because we'll have to, I think. Let me don't wanna miss speak. So I'll send you an Faq document that answers all those nitty gritty questions Yeah.
+
+Client 1: That's definitely there's something I should probably know This goes to that rule changing. Yeah. Let me send you that document over that.
+
+Client 3: Okay. Okay.
+
+Client 1: Perfect. So yeah. I'll send you guys the implementation guide for it if you or your web admin, it runs into any issues, or needs any help with it, just let us now, we can always get you set up with a quick thirty minute call with our integration team.
+
+Client 3: Alright. Sounds good Right.
+
+Client 1: And then intent data, So intent, of course, being specific topics, that companies are actively searching for. And if above what we determine their baseline for searching for those topics is Does that sound familiar Yes.
+
+Client 3: This is another really great selling point.
+
+Client 1: This this is an awesome feature. And with you guys subscription, you'll be able to select six topics, from our list of existing intent topics, which I will send you We have over four thousand maybe almost five thousand topics on there now. So once you've reviewed it and selected the six that you'd, like added, do need to send those back to me so I can get them updated on the back end. So it's nothing you can update yourself in the account, which can be a bit confusing. But once you send them to me, it's like, a two minute process for me to get those updated.
+
+Client 3: So If we select six topics and then like, next year or something, we want to change those topics. Do we just email what's his named, Brian and he's able to change him for us?
+
+Client 1: Yep. Absolutely. So the general kind of rule of thumb is once you've selected the first six. You can change those up to three times a year.
+
+Client 1: Okay. So, yeah. There is some flexibility there. In my experience, I find folks will typically change you know, a couple, maybe after a few weeks or months. But...
+
+Client 3: Yeah. Because it it's not a perfect science.
+
+Client 1: No. It's certainly not side. And sometimes like business needs change and stuff. So we wanna allow for for that flexibility. But... Yeah. There is some flexibility there within those three changes because we wanna work with you guys to make sure you're fine right.
+
+Client 3: So we have such a niche market what if you don't really have enough topics that really match what our folks would be searching for.
+
+Client 1: So we offer something called custom intent which is a relatively new offering for it. It does come in additional price. And you wanna reach out to Brian to kinda discuss that. Those specifics, that cons debt is pretty cool, because if you guys had an idea for us topic. We would give it to our intent team, and then they would test that topic for you. They test it for about two or some weeks just to make sure that, you know, it's viable and it's a certain amount of signals per week or per month or whatever it is. And if it is viable, then we would add it to your account. And what's nice about the custom topics is they would just be for you guys So it wouldn't be available to our larger list of customers.
+
+Client 1: Okay So, you know, after reviewing it if there's a few, and there's no harm in, you know, testing a few even if you don't wanna to get it to to purchasing it. Right? Just to see if they would even be be options for you, and then, you know, we'd be able to tell you through that testing process. Like okay. This is the topic that he was gave us these are the keywords that we use to kind of help gathered the signals and this is how many signals and you can also suggest keywords too. So things that folks might be searching that would then lead to that topic.
+
+Client 3: Yeah. That was gonna be my next question about keywords Yeah.
+
+Client 1: So the nice thing about... The other thing too with our custom ent with you can also take one of our standard topics and customize it by adding a different keyword. So you can get really, really granular with it. But... Yeah. So something to keep in mind and then, you know, I can always put that request into our intent team if we just wanted to see. And then you'd wanna work with Brian on the pricing.
+
+Client 3: Okay. Sounds good Alright.
+
+Client 1: And then rich, which we talked about earlier, So we'll get you guys set up with an enrich call. Let's we'll get you set up with a a few integration calls, the first being one to connect and then the second two to work for the. And then licenses and credits. So it looks like we have five licenses each of those licenses is gonna have one thousand recurring and monthly credits. And then you'll have an additional thirty five thousand full credits. On the account level for the full year. They'll back up a second. Are you familiar with how credits are used?
+
+Client 3: Sort of... I mean, like I said, I was with Dmv several years ago. And obviously, the recurring monthly credits is is self explanatory, but what? How exactly Are we charged that annual bulk credits. I mean, what? Are those used for?
+
+Client 1: So you might have noticed on your agreement. There were two line items for credits one in rich and then one, like, just include credit. So full credits like kind of think of as like a savings account of credit. So if somebody is trying to export a list, of, let's say you know, right now if you were to go in there and export two thousand contacts. It would pull one thousand from your monthly credits first, and then it would dip into them. Like savings account that credit.
+
+Client 1: So what you can do is the admin is you can allocate those thirty five however you'd like, which I'd recommend. So you can give everybody like zero access to those, you can give them an extra one thousand if they go over in any given month. And that way, you're kind of safeguard them. Just in case someone decides to go crazy with exporting, and you also wanna make sure you're saving them for at rich, because obviously, that's gonna be a big use case for you guys.
+
+Client 1: Yeah. So I've just described them as the savings account. When run an enriching job, any updates or initial kind of updates will will pull from those boom credits. That's why I think twenty five thousand comes with enriched. But you could use the additional ten thousand you've got in rich as well. So they kind of all lump together and one. One larger. And I'll show you when we go into add users you can allocate those bulk credits. Yeah. The other thing with Monthly credits, I always like point out, they are attached to the specific license. So you transfer those guys between users and they are used or it. So if somebody doesn't use them by the end of the month, they will not roll over to that next Oh, Interesting.
+
+Client 3: Okay.
+
+Client 1: But if they do, then they'll be provisioned one thousand on the person.
+
+Client 3: And you said it it's the first of every month it's not like the fifteen right now.
+
+Client 1: Very everyone. Yeah. Any other questions about credit?
+
+Client 3: Nope.
+
+Client 1: Alright. So just a few more questions for you here. So me about the users of the platform. Will this be primarily used by your sales team marketing, that look like, sales and marketing Just working.
+
+Client 1: Perfect. And then integration. So obviously, we're gonna wanna set up dynamics integration. And as I'm sure you know there's two components to that, both of which will need to be set up to get in rich going, but there's the connector, which would allow you to score directly from zoom info two dynamics. And then there's the native application, which would create kind of a Zoom and invoke in inline page within your dynamics instance. So we'll get you set up with one call to get both at those set up. So for dynamics, we schedule an hour, And who is the or a admin?
+
+Client 3: Would probably need to be our dynamic partner Okay.
+
+Client 1: You me do a third party for...
+
+Client 1: You think we think it's them or you think it's todd?
+
+Client 3: You know, I don't know. We could probably send todd a message and see if it's him, and then because I know he handles those the licensing and stuff, but I don't know how complicated this would be?
+
+Client 1: So the nice thing about it is we really walk you through it. So as long as as he has admin access and dynamics he can set this up. So...
+
+Client 3: And... Okay.
+
+Client 1: My knowledge there isn't I'm not quite the levels of dynamics accesses, that I imagine if he can add users when that should be the same privilege that would you know, be able to get this connected. I can also said you guys our dining implementation guide. If you wants to just look it over to get an idea of it. But yeah our team really does, like, hand you through the process. So it it's not incredibly complicated at all, but we will need somebody that has... Yeah that access and then will he be... Let's say he is the dynamics admin? Will he also be a user on the platform?
+
+Client 3: No. No.
+
+Client 1: Okay So for the initial setup up, Hill either need to. I'd recommend having him log in as one of you guys assuming that you guys will be admins. To get that connection set up. So you can do one of two things. You can either share your login credentials with him because somebody will need to be an admin on Gemma zoom info suicide to get that connected. Or you can add him as a user make them an admin. And then once it's connected, you can remove him. And then it replace that with somebody else. I'd recommend the former if feel comfortable with it just because I know that sometimes when some degree. I... I'm not quite sure how seamless that is within rick. Like, if you were to create and run, rich jobs, it's and he were his license where to be switched, that might get complicated, but that sense?
+
+Client 3: Yeah. Yeah. No. No that makes total sense. Now digging of licenses. When I connected my kettle with dynamics, there needed to be a license a cat license directly for for dynamics. Does that make sense? We had to issue a Market license for order for it to connect to dynamics, then it's I always signed in and stuff like that. Do we need to do something like that? For Zoom info, No.
+
+Client 1: Not necessarily. I I I understand what you're saying. This works a little bit currently. The only thing is we'll one of the users has to be an admin always. All users can be admins, but whoever is setting up that integration, just needs to be an admin. So it's all kind of handled through that person's accounts so like get set up within their account, but there's... It wouldn't take up like a license from you or anything.
+
+Client 3: Is it a best practice to set up with a specific person's license rather than creating, like a generic license, It depends how you wanna do it.
+
+Client 1: So like, Jody right now, you're the initial admin, will you likely stay that person that will be owning the the administrative piece of it. So, like, adding and removing users and stuff like that. Yeah. I would say it would be cleaner to have everything done under your account. So that way, if you needed to go in and change anything with the mapping or within red. It's all already associated to your account. You could... I mean, make yourself like a generic one and everybody else even share the password with other folks. The only stipulation there is only one person can be logged into an account at any given so do we try to get logged? Into the same account that would kick somebody off. But that's gonna go to you how you wanna handle that. You know, if you wanna share your credentials with todd just so we can get it set up. He'd likely they won't need to be in there at all after.
+
+Client 1: Initial setup, but I'm just thinking, you if it would be...
+
+Client 3: I I can speak to the rest of the marketing team offline if it would be better to have my specific login or the email be marketing at proceeds software. So the marketing team can have a log to, you know, Yeah.
+
+Client 1: And we can do that. One consideration there as well. So there's always gonna be a two authentication when you're logging in to Zoom info, we can have that changed to an email to factor authentication. As opposed to the phone number, which would probably be what you wanna do.
+
+Client 3: Yeah.
+
+Client 1: Situation. So if you guys decide to go to my route, just let me know we can have that changed, and then we'll just have our support team change the two to email for you.
+
+Client 3: Yeah. I think that might be Also I'll talk to Jeeves about it but and and i'll loop you in Hamilton, but I think that might be the way to go Yeah. Conversation. Yeah.
+
+Client 1: No. Just keep me a big here. Looks looks like changes. Jumped. Just to give you guys kind of an overview of the onboarding timeline here. So biggest one will really be done after today. These two will be these kind of integration and setup pieces. Jeeves hi. Thanks for joining.
+
+Client 4: Hello. Sorry I'm late. I got stuck on another call.
+
+Client 1: I'll get hours.
+
+Client 4: Then all day.
+
+Client 1: And I was pulling them this is being recorded. So I'm more than happy to share the recording with you after the batch for what you've missed.
+
+Client 1: Okay. Great. Thank you. Of course, Yeah.
+
+Client 1: So these two, is gonna be these set pieces. So the Microsoft Dynamics call after that, we'll get the rich implementation call. Both of those are gonna be our long calls And I recommend Jody, you're gonna be that main Zoom info admin in todd griffin both you on that call. So. It sounds like we'll need to confirm if he has that admin access. So do you wanna get back to me with scheduling those guys?
+
+Client 3: Yeah. That's fine. If you can send over the implementation guide, maybe this afternoon.
+
+Client 1: Absolutely.
+
+Client 3: I'll send it over to todd and say, hey, Do you do this or do we need Dine pros to do this? And then, you know, we can schedule out whatever we need to based on his answer.
+
+Client 1: Perfect. Yep. And then On your end, the intent topics selection. So again, I'll send you that list you'll just need to send me your six topics back whatever. Then the website setup up again can happen entirely under your end. But if you run into any issues or hiccups there, we can get you scheduled with the call with our integration team. And then phase three will be the training for all the users. And for the advanced edition that you have, we had two levels of training, what we call our essential features and are. Advanced feature sessions. And reason being is because there's just so much there with intent websites and and kind of all those extra features that we think a second session is generally pretty beneficial. I like to say, you know, we can get that based on, you know, your guys team and availability, we can get that essential features scheduled as soon as possible. And then the advanced session, I like to leave about two weeks at least two weeks between it. So that way, you know, folks can kind of use what they've learned in the first session and hopefully come to that second session with. Some specific examples or questions.
+
+Client 1: Yeah. That being said, would you be able to get schedule today?
+
+Client 3: I think so. Does mid January work For you Ben, is that good for your team? Or who else going to h a w?
+
+Client 4: I think then it's pretty booked in January. From our previous calls.
+
+Client 2: So so well, and like, I mean, I I don't necessarily need to be... I mean, I'm I can probably get what I need here from Zoom info university I'm more concerned about dean being on this than that than anybody. So I think, you know, outside of the H w week, I don't think booked to go anywhere just yet. So we can we can get that on the schedule from that standpoint.
+
+Client 1: Alright. Let me offer another option for training. If you guys think this would be easier. So we offer live public webinars for both of these sessions almost every single day of the week. So big advantage to those is folks can sign it for a time that works for them. They can do it another own They are live, so they're hosted by our our trainers and we have folks got questions and whatnot they're just public sessions. So occasionally, there's other clients on the call. But if you prefer to go that route, we can certainly... I can share those links with you and you can share those with the team.
+
+Client 2: So that does not strike me as an environment in which dean is likely to be successful So I I think we have a private option that's fine. Let's just find a date that works.
+
+Client 3: Put it I'm January eleventh, Alright.
+
+Client 3: Give me one eleven Am Pacific times.
+
+Client 1: Alright. Just seconds. Like pull that. Hopefully, that far out, we still have pretty open availability. Alright. January eleven, which the one two. You said eleven Am pacific?
+
+Client 3: Yeah.
+
+Client 1: Yep. We have that open. Should I go ahead and get that scheduled?
+
+Client 3: Yeah. Let's go ahead and get that good for the essentials training, and then And so my system only let me send this to one person.
+
+Client 1: So Jody, you mind if i send this to you and you pull forward.
+
+Client 3: That's fine. That's thing doing.
+
+Client 3: And then Can we i do this? Oh, who's that office. Can we do the same on the twenty fifth? That's two weeks later? Is the twenty fifth okay minute? Or would you prefer it in February given month end.
+
+Client 2: Look, we know. Our our are we we focus more at quarter than my.
+
+Client 2: You know, and to be honest, that month end is probably good because most of the people that we need to talk to are much more folks at month into to that standpoint point.
+
+Client 3: So...
+
+Client 2: Okay. Okay. I think I think I'm likely to be in Mexico at that point. But the team won't be.
+
+Client 4: I'll be in Canada, but I don't know if I need answer jenny or I could listen to the the live webinar? Yeah.
+
+Client 1: We can certainly push to February. I mean, it's really up to you guys.
+
+Client 3: But we could do it on the twenty course Yeah.
+
+Client 3: My.
+
+Client 2: My my my bias is is that here too. So if I've got a listen in from from from down there. I can I can do that or, you know, i I don't spend a ton of time Crm. So do.
+
+Client 3: I do We could do ten thirty on the twenty fourth, which is Tuesday.
+
+Client 1: We can only do hours and start on the hour.
+
+Client 3: Okay.
+
+Client 1: But I can do ten Am or eleven Am on the twenty four.
+
+Client 3: Well, Jeeves and Hamilton both have a ten and eleven.
+
+Client 2: Move move mine.
+
+Client 3: Alright. Lucky it's.
+
+Client 2: I don't even know what it is.
+
+Client 3: Touching base with Aj.
+
+Client 2: Oh, yeah. He's probably only be working probably at that point. So I'm not super worried about that.
+
+Client 3: Alright. So let's do eleven on the twenty fourth january got it.
+
+Client 1: Thinking here, Jodie, also Summer.
+
+Client 4: I'll see if I give move my meeting. And if not, I'll just get Oh, yeah.
+
+Client 3: You're fine. You're ten o'clock is fine.
+
+Client 4: Oh I keep... Sorry. I'm in the different time zone in my phone of so that's what i've having problem with that today do. My phone is on the Utah timezone zone, but may my computer is on the Palo Alto timezone zone it is thoroughly melting my.
+
+Client 1: I'm dealing with the same thing right now. I'm traveling home for the holidays half of my myself mountain tan and happens and pacific effect, which is down it would be that confusing, but it's actually really Yes.
+
+Client 4: Mine's the same way.
+
+Client 1: And then and I'm very confused.
+
+Client 3: Okay. So we got those two scheduled.
+
+Client 1: Perfect. Okay. So what last thing i'm gonna do is hop from as huge as where you can add the other users. And then we will be all set it. So give me a moment here. Pull that. And then Jody, when you or any admin logs in for the first time Those see have two bubbles it'll pop back one that says sales last and one that says admin portal. And I just clicked on Admin Portal, which is what got me here for contacts Okay.
+
+Client 1: But to add... So this will be kind of real manage users, this will be where you'll go to set up and manage the integration stuff. But to i'm users it's pretty straightforward. You'll just go into user management. Add user? Put their first name last name email? You can designate other people to be admins. Like I mentioned, no limitation on that. For subscription, you'll only have one option here. So just make sure you select it And so this is where you'd say, this user credit limit is always gonna be referring to the this credit. This is where you'd say, I want to give this user access to one thousand.
+
+Client 1: Of my thirty thousand full credits. Or you can change this to zero. You could change this to a hundred. You could so So the thousand there Does that include their already allocated thousand credits?
+
+Client 1: So the monthly credit like I said earlier, they're attached of the license, you can adjust those or around.
+
+Client 1: So this is in a addition This as in addition.
+
+Client 3: Okay. Okay. Got it.
+
+Client 1: Yep. And then once you click see, they get sent an email with the link they can use to create their password and on.
+
+Client 3: Alright. Sounds good.
+
+Client 1: If you need to remove anyway, ever. What you can do as frequently as you need to, you can switch out licenses. You just need to select that user. Actions and then deactivate and that'll create up one or seat.
+
+Client 3: Okay. So if we wanted it to change my login to be just a generic the marketing at proceeds software. Log in. Can I just change the email there? Or does do I have to go through you or Brian to do that.
+
+Client 1: You know, me you I think it's can do that there. But the one thing is if we haven't it loaded up on the back end there might... You might run into some issues if we, like, sync the account So yeah, what is she... You email, I me, I think that be a little bit clear. I think the answer is yes tech what we can, but I've seen issues that All Especially it's the only.
+
+Client 1: It. If there was another admin, they could come in here and change that out.
+
+Client 3: For you. Yeah. Well, then then it will be an admin. Or at least for now unless you decides somebody else on speed admin, but I think there needs to be two admins, one for marketing and month from sales.
+
+Client 1: Is fair. And if that's the case too, ben if you're an admin all you'd wanna do is deactivate Jody, like I just showed here, and then just add a that new user for that marketing.
+
+Client 1: Way.
+
+Client 3: If we deactivate... Say yeah going here is me. And I do a bunch stuff. You know, set up a bunch to the lists and subscriptions and all of this stuff. Now if my license is deactivated, All that goes away. Right?
+
+Client 1: So, yes, but you can always reactivate your license. So... And then that would we'll like, be remembered And so what Let me see if you guys did a trial here. So for instance, Did you guys do a trial on the? Okay. So this is an example of it. So if you... Because what I was looking at is all the active users. Which right now is just jodie. You can click all or inactive to show anybody that's ever had a license before So let's say that you know, we deactivate you and you're vanessa because it'll say no product. Right? Because you don't have an active license to reactivate somebody. You just go ahead and sign them a license. So, like, you ever wanna reactivate to your own stuff, you can just come in here or run it can come in year and reactivate. You. And that one saved. Because this is, like, your account. Right? So anything that you've done on here would be right.
+
+Client 3: Right. Right. Also As an admin, if I go in here and I create you know, like, specifically fourteen Dean. If you need to help creating a list or something, but I created under under my license or or the marketing license, whatever. Will he be able to see that list Well, I... Or am I able to make it, like, visible to to everybody on the on the proceed account.
+
+Client 1: So we Yes. So we have a very new feature that allows you to tag lists and then share, you can make a tag public or private. So if you were to make it public, it would share with everybody on your account. I'll go over the details of how to do that and training, but Yeah. So and that's that's something people have been asking for forever Some super stoked about passenger. What other questions do you guys have for me right now?
+
+Client 3: Think that's all of my pleasure at least at this moment, I'm sure when we go through training and all of that. I'll have a other.
+
+Client 1: Totally. You don't know what she don't know. Right?
+
+Client 3: Exactly But now that... This was very helpful and and very thorough So, yeah, I think this is. So after this call, we're gonna be provisioned and everything. Like, I can can I send out the license emails today, Yep.
+
+Client 1: Absolutely. So you'll just go to that...
+
+Client 1: Yeah. Least I do... Yep. Yeah. Just go to admin portal. Go right in there and start adding everybody. You're more than welcome to do that. Next steps will be... I'll send you a follow... Email And then I'll wait to hear with the implementation guides for yes I am makes and enrich. And then we'll schedule the integrate... Those two integration calls whenever, you know, you guys have the availability. And then Yeah. Then we'll go from there.
+
+Client 3: So do the integration calls assuming they need to be before we have our first essentials training.
+
+Client 1: Not necessarily. I mean, the training is generally gonna be about the clock.
+
+Client 1: Form. Right? So the only I it's a personal preference, but there's certainly no reason why it needs okay.
+
+Client 3: Or... I I wasn't sure if if you would use our specific instance for the training or if you have, like, your own generic.
+
+Client 3: Instance, Because question.
+
+Client 3: I think it's really important to show it in an actual dynamics environment.
+
+Client 1: Yeah. So I think that they will show that because I know we have a sales obligation demo environment. So imagining have my dynamics too.
+
+Client 3: I mean, when talking to...
+
+Client 3: I I think our sales guy was Jericho. I mean, he was able to show us in the dynamic dynamics yeah.
+
+Client 3: But you know, for some members of our of our sales team, dean.
+
+Client 3: I'd tried to show it in the so platforms so that he could have that visual and yeah.
+
+Client 3: He needs to do.
+
+Client 1: Gotcha. Yeah. So I'll I'll go them here and say that they I would say if we can get that set up before at least the advance features, that would probably be absolutely I want it set up before the advance you know, the end of january.
+
+Client 3: Just... You know, if the essentials is a second week of January, you know, the first week of January is gonna be catching up and everything like I wanted to, you know, to get that on people's calendars as soon as possible, but Yeah. If it doesn't need to be done before the essentials Now.
+
+Client 1: Because the essentials really is a lot of, like, the basics. So i'm building out a list filtering evening and subscribing it. It's the vast already is platform specific stuff advanced features is where they'll go into those more advanced things like the dynamic item of application. So, yeah. We'll likely do able get those scheduled well before that. Yeah. So if there's something else happy to get you guys some time back and I'll get this to emailed by the end of my day today.
+
+Client 1: Perfect. And we'll go from there.
+
+Client 3: Also so Anastasia is it Anastasia or Anastasia.
+
+Client 1: Anastasia.
+
+Client 4: Anastasia. Will that Well, the email include the links to the recordings Like can catch up. Okay. Thank you so like.
+
+Client 1: No problem. Well.
+
+Client 3: Okay. Alright. Thanks so much, Okay.

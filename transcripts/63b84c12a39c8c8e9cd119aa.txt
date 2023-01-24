@@ -1,0 +1,455 @@
+Host 1: Oh, Merry.
+
+Client 2: How's it going man Yeah.
+
+Host 1: Good. Go.
+
+Client 2: So this seems like a pretty straightforward forward one. Seems like and he under the way noticeable at man, but sounds like they're using it for their internal employees to connect them. And their real estate company parent by partners.
+
+Host 1: Yep. They're using Ms teams and there they want this to be an alternative to donate. So it's like an improvement from donuts.
+
+Client 2: So just hopefully, yeah so they they were using Doughnut and then we beat the donut renewal.
+
+Client 2: Right? And we we ended up consolidating in... Like so that Yeah.
+
+Host 1: Because don't donuts does Slack and they no longer use Slack.
+
+Client 2: Okay. Because on wanna best Teams. Okay. Alright. I'm gonna go ahead and make it then. Okay Hey. How's it going?
+
+Host 1: Hey Rabindranath good see you again.
+
+Client 3: Hey, good see lean.
+
+Client 2: So I I I I know you and Lee have already been introduced to each other have a few conversations, but it's great to meet you here on Zoom. My name is Merry Hit here. I'm gonna be or the onboarding manager for the next thirty days.
+
+Client 3: Awesome. Sounds great.
+
+Client 2: Alright. So I see you got a a big cup of coffee there, which is great because we're gonna go in to a few different things. Really appreciate you, you know, taking the time to join us today.
+
+Client 2: What I have planned for us is I have a very short slide deck wanna go through kinda ground ourselves in orbit bay, some engagement strategy So quick introduction, just passed the a little bit of how I introduce myself there. And then I wanna use, like, the next thirty minutes of the caller, so after that to, do demo, really start kind flushing out that first engagement. And just kinda like, supporting you in any way I can, but I ideally get getting your hands on the system and so you can really see how it works. Lee, please feel free to chime in or interject that any mo, but if not, I'm I'm gonna kinda just just move forward. I tend to talk a little quickly. So if I'm moving too quick, just let me know, but if not I'm gonna that the pace is gonna be a lot I'm gonna throw a lot at here. I'm gonna go ahead and share my screen meeting and get started. Sounds great. Yeah. So this is this is gonna be the the first call that we're having Ideally, there's gonna be some other touch points through the onboarding process And once you graduate, from onboarding and moved to the Csi side things is I'll actually also be your account manager so you and I will reporting a pretty close relationship as far as it goes with without orbit and the mac making here. So really excited to take things off. Already brief went into the agenda, but here it a little more broken down if you don't see anything that you think should be covered. Let me know and I'll make sure to make time for it. Also, I realized I am not forwarding. So let me go ahead and do that real quick. Perfect time to do that. Or we actually get anything and that's but dog, their friends.
+
+Client 2: Yes. Surprisingly.
+
+Client 3: Right? Yeah.
+
+Client 2: So this is the quick agenda so just a little introduction. So I've already briefly introduced myself but a little bit more about me. I I sit in Jacksonville, Florida, So most active during, like, eastern times, best way to reach me or anyone on the Cs team for that matter will be the c s at orbit dot I. Email address, I'll be your like, assigned person, I'm gonna be your account expert. But there's a few other folks that manage accounts as well that we kind of each other on and just the case I'm out of the office or sick one day, there's always someone around to assist you and that's just why we ask you to use this email address here. I'll be sending you the slide deck, so you'll have all of the contact information on this deck moving forward. A little bit about me and why Orbit is an ideal fit and why you know, I I I chose to come via. Board manager here is I really like seeing the growth in community that is driven through networking and I think our product just does a great job of fostering. That environment and allowing back and network to happen. So it just sort of seemed like a natural fit. That's really what brought me over to Orbit and I've been here for close to seven months, but I came from the fintech side of things before. So seasoned that in the Sas world. Just a little bit about you, if you don't mind Sherry, just a little bit about you're located what drives your passion for community and what really excites you about kicking off this orbit it match around and matching your community.
+
+Client 3: Yeah. I'm looking located just out of Indianapolis. Suburb, but not was basically, And I... What drives you our but our central or, like, corporate office in Lafayette, Indiana, but two hour drive from here or something like that. And then we have people kind of across the country. What drives on for community. Well, you know, specifically, with this tool and and what we're thinking, say, community is really just trying to connect our teams a little bit better. And so we're spread out, you know, this whole, like, know, everyone... I know I came from a B Saas company before how came to this company, but and we were spread out across country and be some other tools to connect people and those worked well. And, you know, this... Company I'm working for now, I've been there by two months. You know, don't really have... They they were, like, all in one location and then all like a couple of locations and out, you know, close Covid, you know, kinda spread around the country and and know, the connection and the community not as strong. And so like a tool like this, would wouldn't be able to help us to you you know, just maintain good relationships and get to know other people, we wouldn't, bump into in the office. And, you know, maybe have a more entity empathy for what other people are doing for our company and and understanding and things like that And so we're excited to about tagging. Yeah. I just, you know, those things. I just think that be really great to over. For me personally, getting you know other people in the company, but you know, for them to get to know each other and things like so excited about that.
+
+Client 2: Absolutely. Yeah. They thank you for sharing. I love asking these questions because I I I I know Lee is very thorough on the sales process, but we always get get some new details from these questions. So let lee informed me, about a lot of those details that you're actually gonna be using it internally and actually gonna move two this next slide here. And so some of those things that you mentioned we did take note of and are building it into the overall strategy of the account So we know that your community right now, is gonna be your a hundred plus employees that are all spread out through your organization, and you want to use orbit to connect those folks built all connections. Like you said, ideally, really open the door to understand a little bit more what folks are going through and and kind of just build that relationship that you're not being exposed to in the office setting, And you sort of done this in the past with donut, but you're no longer Slack, you've recently moved to Microsoft Teams, which kinda listed an opportunity for you to use orbit who sounds like I've been prior exposed to from inside partners.
+
+Client 3: Yeah. The the company that I worked for now. Tri, we we they didn't use Donor or anything but how used donut in previous company. Can I also used Orbit a previous company as well. So So I've used Word And donut. Were absolutely... Yeah.
+
+Client 2: So That that's interesting. They that that you've actually used and obviously, glad glad to see that you're setting on on this time onboarding call, with And that that sounds like you had a really good experience with with with the orbit product.
+
+Client 3: Well, you know, So we were part of a larger our small B b Saas company was part of a larger organization. And so they actually used Orbit to connect. People in their portfolio companies is what we were. Know, thirty different companies or whatever. I remember exactly how many people are connected through there, but, you know, so they used word it. We used doughnut for our company, and then they used Orbit. When we move what I moved to the the company I'm at now, you just be transparent like, they, you know, slack. You can only use Donut if your fees Slack. Were use Slack. So I was looking for other tools in orbit was the the other kind of tool that did something similar I had used in the past, and so that's kinda how this that you know, came up.
+
+Client 2: And Merry for for context, it was it was high alpha.
+
+Client 2: Oh, okay. Hi, Alpha. Thank you.
+
+Client 3: I think I help What investor and you guys or something investor as well?
+
+Client 3: Okay. Yeah. Have a really good relationships with it. Kyle Alpha and bunch of the companies there. So that's where I came from. So Awesome.
+
+Client 2: Okay... Thank you. Yeah. Sorry. I think I I I might have been confused on on some of those details but they thank you for clarifying that there.
+
+Client 3: So moving onto our next slide here.
+
+Client 2: So I I I went ahead and kind pulled together sort of the the first match out is some details that I thought we could leverage there. So usually when we talk about the math around. We we still break it into three categories and those categories are gonna be the date that you're gonna use for the master out. The audience list and who you're going to invite And then the matching criteria I which you would like them to be matched on.
+
+Client 3: Sorry. That was the three categories were date, and audio less who is essentially gonna be, like, your participants?
+
+Client 2: And then the matching criteria that will be used to match those participants. And so whenever we sort of boil those down. We we we sort of recommend running these rounds at a monthly cadence at a minimum. You can, of course slot more in or or do it slightly less, but we we really recommend getting on that, like right where scheduled diet. So what I did is I sort of went through and drafted up the dates that I thought we could use for the first match round, So when we think about dates, we really break that down into two separate categories as well. And we first look at the registration window. So what that is is that's the amount of... That's that window type frame. That you can promote that engagement and let members know that there's an active link that they can opt to to put them into the applicant pool to be matched. And then that window will eventually close, it will not accept any more essentially applicants because then we have to make the the... The Ai has to do the match making. And then the next business day, once that matching around Invitation closes, the next business day, those members will be introduced to each other. So that's why it sort of strict on not allowing members to opt in after that close date. And then we always just try to build anticipation for the next one, if anyone that we just say, hey, Let's... Let's get you signed up to the next one. The other dates that we define are gonna be the conversation dates So orbit handles the scheduling functionality of all of these conversations. So when members are opting in to be part of the applicant pool, you'll actually define the two dates that you wish conversations will happen on. And then they will have an option from seven Am to five Pm and select a minimum of three times within those two dates that they're available. So that's how the scheduling happened. And then, of course, they're able to move their conversation to reschedule. But we get the initial invite invites and scheduling a link out to them. Any questions on these dates that I selected here and I can go a little bit more into why I chose these dates.
+
+Client 3: Oh, that's fine.
+
+Client 2: Okay we we we try to... After this call, we try to usually give you about to get everything set up, and then we usually like to see that match out being kicked off a week after that this call, just ideally, so things stay fractured and we can just keep building on that momentum. That that is why these dates were chosen. For the audience list, We're gonna recommend opening it up to as wide of an audience as possible we we recommend the first one being sort of, like a general matching around, with a matching criteria will be you'll be able to define some areas of interest for them to choose from. Years of experience and maybe something like their role or their title. And just kinda keep it general and preface first one of the general one, new tool, trying to, like, warm everything up. It's an Ai powered algorithm, so it's also gonna learn more from this first matching round. And then as we develop it a little bit more the second, third, so why we start getting a little more I would say, like, pinpoint, things and maybe not make them as general and make them more like strategically, but this first one we want, like, open it up as wide as possible.
+
+Client 3: So that means that like, when you say like years of experience area. They're they would try to match people with similar years of experience or Correct.
+
+Client 2: Yeah. So it will it will try to match on years of experience, roll, And then you are able to define areas of interest. So those are things that they could be interested in Soogrim some of those could be, like building culture in a remote world. Strategic planning, You can make them a little more in detail towards, like, the real estate side of things. And then we'll try to match based upon those. There's some other criteria that you can use but some of it isn't super part because It is matching within the same organization. So another... Some other things that members will match on is like size of company, if they're they're matching from cross companies, but that does nestle necessarily apply here And then as well as because as you know from High, but A lot of those companies are earlier stage investments. So also like, what stage of company are they at? So those are some ideas of what other folks are doing. For what we fine tune this more pass the power round, but for the pile around, I think this is this is a lot to get a started year Yeah.
+
+Client 3: May even just wanna slim that down a little bit. Like, like I haven't... I haven't really thought the year yet, but maybe just areas of interest or or something like that and you know Yeah.
+
+Client 2: Yeah.
+
+Client 3: We we got care how many years well.
+
+Client 3: Roll that kind of thing. Just But kinda of like, you know, Ceo end up talking to the know, the bus driver or something maybe, you know, potentially I kinda, like, keep it open in like that if... Okay. Potentially. So But I like the areas of interest. That could be kinda can see, like, doing something like yeah. One is just being like, get to know a new person. Like a social, like, you know, another category being, like Yeah. Like, something like real clean or something business real estate. Something or another Yeah.
+
+Client 2: We have... We have one, one community and the community manager actually had some something similar on their first match around. I like to share this for this is exact example. One of the questions was actually If if you could bring back one of these guests to speak at like, add our twenty twenty three summit or or, like, twenty twenty three all staff, who would it be and they were listing like, like, Gandhi Nikola test kinda like more like ethos driven, people. And then so if you just kinda want it to be something like that that... That's, like kinda, like on one that that has worked really well and went well with a community that was matching, like, internal members and wasn't so much matching on, like, Oh, you're this stage. You have this many years, but it's still kinda of, like, gets the essence of, like, who you are and you you kinda like, identify with be can be up on one?
+
+Client 3: Remember did this with High and they matched me with, like, well one of the options was like, hey. You wanna talk to you other our and another startup up. And so they're matching which is helpful in that role, but I feel like yeah. Okay. Well, maybe we can think on this little bit where Yeah. I cool. I understand what the... How this works.
+
+Client 2: Cool. And so on the demo, I'll show you how to set all this up, And I think that's gonna get the gear starting a little more and we'll have like, a more conversation action.
+
+Client 2: Sounds great. Ten minutes or so. So just a little bit something of this might be like, like, not doing it right now. Or like, I have to kinda look a little bit more at my numbers But if you have done any, like, engagements, with this community and tried to sort of ramp this up and, like, how much time you were spending on it and on average, like, how many people were participating? The reason why We like to ask this is we just like to kinda gather, like, your internal Kpis things that, like, turned you to wanting to use a more automated process if you be doing it more manually. And that way, we can just make sure we're tracking it with the same lens that you are.
+
+Client 3: So I'm new the company, and I I don't believe they've did anything like this. And so I don't have any metrics or you know, you know, anything like that. But I don't believe we were doing anything similar to this.
+
+Client 3: Okay. But they have meetings with their teams. And you know That's.
+
+Client 2: So so that that... That's perfectly okay. And and and we like to sort of like, help you sort of define this and and and sort of like, develop your own Kpis but the great thing is that we actually each orbit engagement will come with these or standard Kpis that we're gonna track automatically for you. And then imagine the goals will get a little bit more personalized as you get more matching around don't your about... But just to go with them briefly, So each engagement has its own Mps score that members can essentially recommend the experience overall that's going down to the match questioning and the tools kinda like the overall experience We're also gonna track the often rate. We wanna see how like, how that community is engaging with this engagement over time. They'll also be asked to rate their match specifically on a scale one to five that feedback is gonna go directly into the algorithm. And essentially help the community help the the Ai tool learn your community a little bit more based upon answers provided and experience and match rating?
+
+Client 3: Is it possible and I'm not sure I wanted this yeah that curious. So to be possible to remove match and just have feedback. If we if we have limited sort of matching criteria, I just don't want to rate, like, like, rating... Think they're rating people on, like, how good of a conversation. It was or something, but maybe like a Yeah.
+
+Client 2: So I know that that that is built into, like, essentially back end on every workspace. So do. Some questions can be excluded. That's not one that's posed on the Ui that I can exclude.
+
+Client 2: I can ask our Cto what what that would look like if we can. But I know that that's like a standard thing for.
+
+Client 3: It's a really fast thing did for them to click. So was just curious if that was possible. Because, yeah, I know, like, if you've ever really eventually go like really in depth like, how we're matching people that could be I guess, like, helpful in that.
+
+Client 2: Yeah. And and and the map rating also helps to like, for the... Like, also it's it's also for them to should their experience, but that's also a big factor that does go into into the algorithm and sort of knows like, Okay. This person answered like this and this person answered like this, and they said the match rating was good.
+
+Client 3: So Gonna explain what the match rating is. So like, in that same trading app, like a one through five.
+
+Client 2: So actually the demo, I can show you how all these questions are being and what that... Like, how it practices to them as well That that should cement it a little bit more.
+
+Host 1: Sounds it's in a much different way where they're not they're not actually saying it was the man trading. It's asked in a way that which just the way that we present I think I think what it says exactly is like, how how well a fit was this match for me on a scale one the five.
+
+Client 2: Like, like, something like that. It's not necessarily like, petting it back on the other person but more asking, like, based on your your experience was this person a good match for you.
+
+Host 1: And then also based on, like, the topics and the responses the opt, like, how old do this meet your expectations essentially?
+
+Client 3: Okay. Okay.
+
+Client 2: And then the last thing that will be tracked automatically, and there's a few other things these are, like, big Kpi driven things for a lot of our communities. Is there will be an open ended feedback question where they can essentially leave you testimonials and advice testimonials are great because you can grab them and use those to market the program, the folks that maybe aren't aren't opting in or maybe a little bit slower adopters and say, hey, there's someone in this role look at this straight testimony they're leaving, we think you would receive a lot of benefit And then the advice is great because you as a community builder and program manager, you can look at that advice and sort of craft the engagement to how members are are answering those questions Once again, that's an open text box that they can they can write in I know it's...
+
+Host 1: I know it's pretty early still Rabindranath, but would there be any other Kpis like these that you think might be important to you?
+
+Client 3: I really like... Well the getting a feedback, like... Like you said, if if someone had a, you know, positive experience about their I I I think I when, you know, you said kinda, like, especially getting this program have been running like, they're like, hey. Look what this person said about their. They're meet ups so I could share a few of those and be awesome in. Just said, you know, promote it because I'm gonna guess, maybe around one people are like I don't know. You know, maybe I won't get this much. I don't know. How will maybe Maybe I'll have to, you know, keep promoting it for a little while to get it pain the option rate to be higher. And I can see that. I think it just like, over time, just I would want to be sharing with probably even up to the Ceo, like, you know, how we're using the tool. You know, like how, like, many people connected had conversation? Mean, that's the biggest one. Right? It's like mh. And then Yeah. I think that problem biggest saying. It's just like how many people are doing it and what's the overall feedback about their experience positive. So I think all the things you have here again.
+
+Host 1: Qualitative things from the the people were matched up in addition to... Yeah, the dashboard would give you. Makes sense. Okay.
+
+Client 2: And and on our feedback call, I'm gonna show you how to gather I you won't see that on the demo side as much, but on the back call that will have at the end of Onboarding. I'll show you how to collect all this information and and navigate through it.
+
+Client 3: Okay.
+
+Client 2: Brief timeline just to sort see why we're sort of expecting and kinda think This this will sort of Path will take... So of course we're right here on January six. We're doing our overall strategy an onboarding call. I I'd like to do another touch point on January twelfth before that engagement was live, just answer any questions, make sure I be comfortable and and kicking it off. January seventeenth, This one, it will be another touch point for us. Can either be sort of just email driven or a quick Zoom call but sort of just like a check, how are things going and anything you need from us you know, Are we hitting our often goals. And then February third is when we do that feedback call. I just mentioned where we'll go through look at all the quantitative analysis of the engagement sort of like look at any opportunities to improve on the next one.
+
+Client 2: And show you how to gather all the feedback but these are rough dates. Nothing set in stone, but just sort of like week of dates to be mindful of So that's all I have on this slide deck I'd like to now jump into the presentation. Or sorry, into the demo. So I'm gonna go ahead and stop that and pull up the workspace. So I went ahead and have made you your user for the Orbit platform and we'll send you all of your login credentials at the end of this call So it'll be pretty straightforward. But ideally, kinda want you shadowing on this first one And so you can see how it works and it looks like it me out. So let me log back in real quick.
+
+Client 3: I need to send something to my like, director of It with... I don't want these emails to go to spam. So I'm not exactly sure I have to send in, but maybe like, your email domain or something like that. To, like, I think there's something he can do to, like, make it a Like, have a unknown entity or something like that.
+
+Client 2: For for our emails.
+
+Client 3: Yeah. Because I could see, you know, like email gets sent to all of our team members Just could I'll kinda go to there like basically what spam on cool they're potentially I see because, like, a firewall that's set up for the company.
+
+Client 3: Yeah. In fact, I would guess that would happen, like, like a hard have, you know, I'm Yeah.
+
+Host 1: Help you out there. And just to make sure that, you know, you don't get blocked Sorry.
+
+Client 2: I having a slow Internet day here. It looks like in on top of it logging me out Okay. I am. Now in the workspace. Sorry about that. So so once you logged in, this is essentially the screen that you're gonna first, it's gonna take you right into the middle of this navigation bar under the engagements tab. So really, whenever we talk about navigating through the orbit site we're usually referring to any of these tabs up here of the navigation ribbon. And then there's also your settings left here on the top right hand side. Gonna dive into the settings briefly because there'll be a couple things their the close of this call, you'll need to just log in and do. The first thing will be to go ahead and upload a logo that you would like to be displayed on the the emails that will be coming from the orbit. Platform, we just personalize them with your logo. As well as the the login page for members opted in forms when they're opting into an engagement, and then you can also rand brand those certain accents of the email as well as the the opt form with your primary and secondary color. So if you just have to codes. You're it's pretty easy.
+
+Client 3: Just a lot of wow Sorry. I I think I kinda miss that. Understood upload that I image, then what are these other... What are the background So these are there there will be certain areas on the email that will have just little accents on them with the background color as well as the body color.
+
+Client 2: And so on the email, there will be a button that will say, hey, I wanna opt into this and so you could just brand it with your colors. And we'll we'll actually look at that as well further long the demo where those buttons live.
+
+Client 3: Okay. Did got somebody marketing. I don't really understand them. But like code associated with the color, but I things that probably makes sense that there's Yeah.
+
+Client 2: It's like a Rg b code. But you... If you're familiar with that, but everything sort of moved the hex. So it's gonna be a hex color and not an Rg. If if that I might be speaking.
+
+Client 3: Yeah. No. Yes, Chinese. Yeah. But that's fine.
+
+Host 1: Bye bye. Think that's automatic. Am I right, Merry, like, once we once we put in your logo to pull that out or we can easily go that. So it it it should be like a a really quick process and really easy update.
+
+Client 3: So if I just upload an image, you know, probably it'll pull in the Yeah.
+
+Host 1: Cool.
+
+Client 2: And then I went ahead and added your user here. And if you ever need to add anyone else, such as four required fields, Adam, and then three different roles you can assign, which I'm sure you you've seen these roles on on multiple different software that you've used But you're you of course are an admin admit and have, you know, all the privileges Quickly navigating through the other areas. So started on the top left here. We have our members tab. This will be your ongoing list of everyone who's participated in an engagement, as well as anyone that you've invited. So this is this is kinda like your master list of everybody. As you run more engagements, you're going to most likely segment them out to new audiences whether that's you know, you just wanted to run, like, and all employees wanna maybe you just wanna run like, an operations team one or maybe just like a marketing team one do you wanna more siloed load, you can go ahead and segment those audiences out here. Essentially, just by going to this create audience button and then I ask you to name it, and then it will give you an option to upload it via Csv file. So this first one, we just recommend going to your single source truth that's gonna have all your employees contact information in there. All you need is first name, last name, and email address. Go ahead and download that in a Csv file. Create an audience, like, an all employees audience and go ahead and upload that Csv file and get everyone uploaded into the system.
+
+Client 2: Any questions there?
+
+Client 3: Yeah. That's really good. And I understand my slack. What are we saying? Could you explain that again about? I could make, like, operation specific one or, like Could you just say that again?
+
+Client 2: Yeah. Yeah. So... So the great thing about the orbit the orbit campaigns of where they really differ from, I think like a lot of competitors is setting up an orbit matching round is really like, a choose your own adventure. So it's like, you used up the matching criteria. And who you want to join. So this first one we're opening it up very wide very general. But let's say you wanted to be a little more specific hey. I just want the operations to get to know each other a little bit more. And I wanna ride a mask round of just down. So you can upload an audience of just your operations team and only invite them This would be, of course after this first. You know, this first onboarding round would be a little more, like, once they're introduced the tool. Or, like, just your marketing team or maybe you just wanna do marketing and operations and you want them to exclusively batch to each other. So that's where you would segment out the different people that you want to invite. Jumping back over to the engagement, so this is where we started So as of right now, you don't have anything here. But in order to set something up, it's pretty simple. You just gotta start your first engagement. And you'll notice that each engagement will essentially get own name, and it will be your workspace name and then engagement number one, engagement number two get number three so on and so forth. This this name is purely internal. So if feel free to name it, whatever you like as you'll be likely creating more engagement down the road and wanna be keeping track of them. So most of them have, like, a navy convention of, like, three top ventures like January engagement February. Like, something like that you're so easily recognizable. Go ahead and hit create then if you ever do need to change this name later on on the road, you simply just hit the pencil very simple. So now this is really where you're gonna set and find as I said, it's, like a choose you're adventures. So this is where, like, starting that adventure of that first engagement really starts So the first thing that you're gonna be asked to do is set that date of the master So we sort of went into that a little bit on the slide deck and we talked about the conversation dates, and the registration date So this is where we would actually define what those dates would be. So it's a it's a very simple data selector on the left hand side, and then you'll see sort of the the timeline being built on the right hand side. So the first thing it's gonna ask you to do is set the registration dates And so we said we'd do it on the seventeenth Usually, we'd do it on a Monday and like, we definitely can, but that's ml payday. I don't know if if that's a their a holiday by the company so I didn't wanna like started on on that day where maybe a lot of folks are gonna be out of the office.
+
+Client 3: It's actually not holiday there. So Okay.
+
+Client 2: So so we we could actually start it on the sixteenth. Okay so then we can then close it. We usually recommend leaving it open for a week. So we can go ahead and close it on that following Friday. And then if we click So now we just see that this timeline is being built And then now it's gonna recommend dates to us. I usually don't recommend using these recommendations because I think in my opinion from my experience We always want this registration open date and the first invitation said to either be the same day? Or be Monday Tuesday. Reason for being soon as registration opens, we want members knowing that they can opt in. So what we can do is we can just simply use the state's and say, hey, we want those invites to go out on the same day. And we don't usually recommend doing, like, nine Am. We usually recommend doing Before lunch, it's like before noon but let them clear their inbox out in the morning. So send it at ten Am, or like, even like you know, ten thirty Am. So that's sort of like, morning rush is through their inbox ideally, this is heading like, a clean inbox, and they can just simply opt in and join. So there'll will be a total of two emails that order will send out on your behalf. So we just look at the date of the first one For the second one, conversely, I usually recommend setting this to D final date of registration, creating that urgency for members to join And once again, you know, sending it out little bit after, you know, that morning rush so ten thirty, eleven Am a lot of folks like to just make these, like, symmetrical and if they said the first one at ten thirty does they'll send the second one at ten thirty as well. So really, really easy to change those dates around.
+
+Client 3: Did they get reminded if they did sign up? Or are they only getting reminded if they didn't know Only folks who did not sign up.
+
+Client 2: So they'll never be like, double email then we we try to be very cautious about how many times we're emailing folks about this.
+
+Client 2: So only folks that that signed up. And then here you're able to set your conversation. Dates So once again, the orbit gonna handle that scheduling part, so then you just define what days, you would like conversations to happen because it's internal, it it might be a little bit different for you. But most of the external folks will always have the conversations, the following week after registration close, reason being is it's a little bit easier to sort of manager your calendar when you get some of the week's notice versus, like, throwing it on their calendar, like the there. So I have a being internal. You might have a bit of a different take on that or or or want that cadence to go, but we'll usually recommend be the following week and then we'll also recommend it being the last day of that week, so Thursday, Friday, Friday is a holiday, Wednesday, Thursday will be your best day. Reason being is our data shows that when members do reschedule their conversations. They're almost exclusively them two late Thursday or friday eight just go ahead get a get ahead of the card and just, you know, scheduled them for Thursday and Friday for them. Once that date... Once that timeline is set, it hit save, and then you'll see that you'll have a a a green check mark here. Saying that you fulfilled all the criteria of this step. So just once again to review the timeline registration will be open on the sixteenth. Closing on that same week Friday, We'd be setting invites on the sixteenth at ten thirty Am. For folks that didn't opt in, we'd be sending another reminder on the day of close January twentieth, ten thirty Am and then they'll be able to schedule their conversations for twenty six and the twenty seventh So super easy to set set this up. Gonna now jump into the topic side of things, and this is where we'll actually we define the mapping criteria. And outline those emails that would be coming from the orbit platform that you just set a schedule for. We go ahead and hit the select button and we'll go into what we call our topic library. These are sort of Kernels of an idea to get you started, But ultimately feel free to go ahead and create a a new topic and start with sort of what we call blank slate. So you'll see it's gonna take us to our first section of the edit content section. And then above that, we'll have what's called our topic name. So if you recall, I showed you that naming convention where it's gonna be tossed ventures Engagement in one, engagement two. That's the internal name of the engagement, for the external for the employees, this topic name will essentially be how they're referring to the engagement. So feel free to name it like, one on one training us ventures, something a little more identifiable to them. So so something like that, because this will be the name of of the engagement that they'll essentially see and identify with. And then there will be the email content that you can they we pretty much give you everything you need to really get started here I mean, feel free to add a Emojis g's or or use this bolt tax editor here, but really all the information to get started and let someone know how the process worked. Is all right here. So it's very digestible, and easy for them to read. The reason why we have you set see the the timeline up in the first step, is because there's actually variables that you can pull into this based upon What template are you in right now?
+
+Client 3: Like I those like a bunch of them. Which one is this one?
+
+Client 2: Yes. So that... This was the... If I go back? Oops. There was a a a create... I do that right here. You never we're moving. Okay. So whenever I went into the top library on the top right hand side, there was a create new topic and I went into that one, and that gave need blake slate.
+
+Client 3: So like create new tab.
+
+Client 2: Yes. Because the other topics, they won't recommend questions to you. Per s, all they'll do is auto the subject line, and the the email body with the topic name. That that... That's really all the topic name does. Where I I think it's a little more personal where you get to select the topic name and make it a little my that viable for what, you know, you think the community will go for the most.
+
+Client 3: K.
+
+Client 2: Similarly, there's a reminder email. So this one's a lot shorter nature because they've already received the first email So this one's a lot shorter nature as well has the variables for you to choose from. And, you know, you can feel free to edit this, but a lot of science really do just just leave it They think that the the verbiage is just pretty good.
+
+Client 3: The, like, Sorry. Haven't like, I'm I know that translate to something important, but like that dollar sign matching. Clear acting. Like that that's that that's smart enough to know the date. This what that is. Basically, that's the yes.
+
+Client 2: So so that's why we have you set up the the date in the... And the first step is because then you can pull these variables in, and it's gonna pull everything.
+
+Client 3: It looks like if you hover over the matching, thing it explains what it is there.
+
+Client 2: Yes. The date matches Me here. Okay. Yeah fourth.
+
+Client 3: Let's see. Like That's weird.
+
+Client 2: Let's go ahead and hit save and see December twenty fourth third.
+
+Client 2: Okay. That's it's a good catch there.
+
+Host 1: Text that our product team missed yeah. I don't think that's actual date. We'll we'll we'll raise that to him now.
+
+Client 2: Then on the once those matches are made, as I said, they'll automatically be scheduled in a conversation together with the meeting link So nothing you need to do on the scheduling side or really fostering you know, fostering the that that scheduling. The one thing that is attached on that email though is some thing that you can create called the conversation guide, that will be attached to their meeting invite and, essentially, this is the path that you want them to follow. For their conversation. And we just break it up how we see like how is just smart enough to, like schedule the the time Yeah.
+
+Client 2: So so on the sign up form, So what what one of the options that you can choose from is they'll be asked what time zone they're in? And so you can give them all the time zones you want for them to identify with they'll identify with one time zone. And then they'll be asked on the two dates that you selected to pick at minimum of three times that they're available, and then they'll be matched to someone else who's said that they're available at those same times. Then that's how we determine, okay, These people are good match because not only do they have overlapping availability, but they also match on all of the other It's not like looking at their calendar.
+
+Client 3: It's it's just based upon the self identification process that they...
+
+Client 2: That they go through here. Yes. So this engagement in description, what we're looking at here now is this is the back end of that survey that members are gonna fill out. To essentially be added into the matching pool.
+
+Client 3: Oh, sorry. Could you back to the conversation guide. Real quick. Okay.
+
+Client 2: So so this is the back end of that page that you'll use to essentially direct members to add them into the matching pool. And you're able to give just a short blurb about why this initiative is important kinda of just think members another in the right place and proceed with the opt in process. We'll look at what this form looks like once we complete it, Why when went...
+
+Client 3: So this is This is the they get sent to this from the.
+
+Client 3: Okay.
+
+Client 2: Yep. And then this would be like, the landing page of that opt form Then as they progress through, we're gonna collect some member information from them. This isn't gonna be used in the matching process. But is more gonna be used to introduce the matches together So they'll be asked their name, their role, their company, maybe this isn't super important because it is internal and everyone worked at the same company where you could just you know, turn that off if you don't want folks answering about their role because everyone's already at same company or go ahead and leave it so we can collect their their title information.
+
+Client 3: Well, if they put in, like, if we... I don't know if this is possible, but if we do a question, says like, would you prefer to be paired with someone in similar role Then I guess that would be helpful to have that in there right Yes.
+
+Client 2: So Yeah. So I'll I'll show you actually show you have those questions work. But I I think it usually has helped delete this. In there. As well, but I just kinda wanna give you all the options being that you know, it's the internal side, which can sometimes be a little bit different than folks matching externally.
+
+Client 3: Are these optional. Like, if they're trying to whiz this or is that required? They can't Passcode.
+
+Client 2: So... So once it is turned on? It is required fired and it will auto save and their Blue chrome once they submit it at once, it's gonna just predict it for them the next time. But it it is required.
+
+Client 3: So there's... And how can we get to them but like the first connection a little more information we're asking from them. But Can I upload the their title in an in the Csv at the beginning?
+
+Client 2: You you can upload it, and then it will predict based the email they give then it will predict because it will have that information and call it off from the data So once I put their email in, it will automatically guess that for them.
+
+Client 3: Okay. So I could, like, remove this question and just put their title in that Csv. And that would... Have the same if it's...
+
+Client 2: If you did remove the question, they wouldn't be introduced to each other with their with the role.
+
+Client 2: Okay. So you would know from the back, like... The audience tab, like, you would have that information, but when we introduce the members three other, they wouldn't have that level of information.
+
+Client 3: Okay So if I wanna do something with roll at some point, then I need to they need to put that in there.
+
+Client 2: Okay Yeah.
+
+Client 3: Spend to... I'm also just trying to be conscious of, like, making sure this is like a quick. Thing because you know, like people start to pull something out, like takes a long time, and then they just stop yeah.
+
+Client 2: Yeah. Yeah. We try to be cautious of that as well And that...
+
+Client 2: That's why it's like this this might be fifty fifty of, like, could be permanent, but also Think I might not be.
+
+Client 2: And if you do this, I'm when you're going in inside of up the one unfortunately.
+
+Client 3: I think I'll leave it on right now. I may not I'm linkedin in though may take out.
+
+Client 3: Because they we can find that one off. Guess They can look each other up linkedin then.
+
+Client 2: And yeah.
+
+Client 3: This market probably we don't have Linkedin. Some of our folks I can't handful like a smaller group of our are. More like, blue collar some like maintenance decks and people like that, our facilities actually that know, they're definitely not gonna linkedin in. But honestly I've I'm I don't... Think... I'm not sure how many them will actually sign up. Did this, but Am Might be stressed Yeah.
+
+Client 2: And and and that vein might be smart to exclude it because like, it it it will be required if they don't have a linkedin maybe like that something on that.
+
+Client 2: So let's go ahead and just leave that off.
+
+Client 3: Yes. Absolutely. Yep.
+
+Client 2: So now here is actually the matching criteria. So these are the discussion topics, slash areas of interest that you give them to choose from. So they're able to select. You're able to give up to I believe six options they're able to select up to four to five of those options and there's automatically a catch all that gets added onto the sign of form. That we'll say open to discussing any of these topics, so you don't have to add that on here. If you did wanna edit these, you simply just hit the pencil can actually just type whatever I want there.
+
+Client 2: Okay. You can type whatever you want and then just hit the It's not say... Oh, okay. I same, I thought it was a bit funky beverage. But. Go ahead and hit save and then that will now become a new option. And then you can drag and drop these around to order them You click add there, what are the other options in there terry so they're pre populated.
+
+Client 3: Oh, they're not ones that are already Yeah.
+
+Client 2: So they'll just be blank.
+
+Client 3: So there's four I can... It says I up to four to five. Okay. This is about the normal time frame or we might ask too many questions were going slow or...
+
+Client 2: No. No. No. We're we're perfect. The whole point is is this for you to ask is many questions as you feel comfortable ago. To go back. I I I can go a couple of minutes over. So if if there's more questions, please throw at as we wanna make sure you're you're comfortable. Okay. I I I need to look at my calendar on who we're.
+
+Client 3: I'm I'm good after this, but I don't know you are Merry Yeah.
+
+Client 2: I'm I'm I'm good. I can definitely go go a little bit over. So no worries, please. Please wanna make sure you're you're comfortable. I believe if you got jump the afterwards as well.
+
+Host 1: Feel free to Okay.
+
+Client 2: Goal. So scrolling down. So on the math questions, these are all we call I'm of the box question. These are gonna be not pipe sizable because you saw you can customize the answer field, but it's not like your you have a hundred percent customization those will live under the custom match questions, which we have four out of the box buttons for you to choose from, but sounds like you might not even wanna use all four of them right now.
+
+Client 3: So was outside understand the difference. Between those two things like the it's customizable Yeah.
+
+Client 2: So the custom match question is you can go to add and you can ask whatever you wanna ask and then give whatever answer fields you wanna give them to choose from. Where the regular is these are actually like already defined for you and you're editing one detail such as the answers are able to give or you could use like these years of experience, you could change how you're asking the question, but can't change the answer field. So different level of customizations. Where the custom match question is you have full authority to ask whatever it is you wanna ask and have whatever answers and you wanna you wanna add in. And so this this would be an example of where you would use, like, the... Who would you like to bring back for a dinner conversation question? Right? But then you would use the discussion topics for those like, hey, What what are you just most interested in discussing? What are you interested in learning about sort of sort of thing. And then if we wanted to turn off the years of experience, because hang on this works match mount, it's not relevant. We just simply turn it off. Company size and company stage probably won't ever be relevant because it's all the same company. And then so the cost of mass question. So you could just have this one question of like, what are you interested in discussing and you pick you could completely remove the custom question and just have them answer that one question and match just based upon that.
+
+Client 3: Now when they get this, is this, like the match questions and the custom match questions? Are they I call the same Yes.
+
+Client 2: Okay. I'll show you the ui that they'll see. As soon as I click through, get get finished the feedback form, Well the match questions like, what are people putting in that like, what do you...
+
+Client 3: I'm just curious, like Yeah.
+
+Client 2: So so for people that are matching externally, we'll see, like, what what industry are you in? Also something else you could put in here is, like, what role are you in? And then mass based upon role. Sometimes we see folks taking one of the the the out of the box questions with limited customization, like years of experience, and then adding it as a custom question and giving it a more customization as far as, like, defining the answer fields they're given.
+
+Client 3: About the member info one, was that that not work that like because like, that was one of that So these are just used to enter do some matches to each other, but aren't doesn't work into the match out right.
+
+Client 3: Okay. Okay.
+
+Client 2: So if you wanted to match on role, you could, Something else that you can do is you could ask your question, but not use it factored into the Ai match making. And just... That way, you can retrieve the data to see what members are filling out, but not use it as as as a mass ranking tool, So I think like Like, internally, it could be something of, like, like like, what like where if there's Any like, company wide, like, initiatives that are being run, like, what? What most initiative are you excited for going into twenty twenty three?
+
+Client 2: That way you're sort of just aligning on, like, other interest for the company, but nothing like professionally wise that's gonna be like, oh, you're not a good fit because I think with the purchase that we did, like, we only have so many custom questions or something.
+
+Client 3: Just come up one or something yeah.
+
+Client 2: Yeah. With with one. One five. Yeah. So on the central chair, you'll you'll you'll just have one here.
+
+Client 3: But the other one I can still click change Yes.
+
+Client 2: This... This you you can add up to four to five the discussion topics.
+
+Client 3: And that matches has done based on those discussion. So ago.
+
+Client 2: Okay. Correct. And same thing with years of experience, you can... You can change this around too. Okay. So then as mentioned, you get to define the time zones that members are in So like you know you don't have anyone in in in Europe, it's very much it's like strictly Us based company, you could just give them you know, that the standard. Us time zones there?
+
+Client 3: Yep then the feedback form.
+
+Client 2: So... This is we kinda look at earlier about those Kpis that are are automatically gonna be added on So here's how they'll be asked to give it the Mps for. Here is how they'll be asked to give testimonials. This will be complete open ended did text for them to use So you can see here there's one that asked them, hey, do you think you'll make better decisions probably not super relevant, so you can turn that one off.
+
+Client 2: Same thing with the mastery connect. This might not be super relevant because it's more of internal and they'll have a little more easier time reconnecting. So you can turn that off as well. And then here is how they're asked about advice. If they have any advice they would wanna provide to the program runners.
+
+Client 3: And this would be like one page thing that they would get.
+
+Client 2: Yeah. So at the the close of their scheduled conversation, they'll receive an email just saying, hey, we saw your conversation with scheduled, you mind just leaving some feedback cool.
+
+Client 2: And then there will be optional questions that you can choose to turn on. And this is just asking, like, what type of preference they prefer on a connection, like, they for, like, panel events, they really like these curated one connections. So it might be interested collect some of that information for moving forward you can also give them new discussion topics to add. So if you have other things that you did to added to the first engagement. Feel free to add them here and let members go and say, oh, I'm interested in talking about this this and that next and then use it as like, a fulfilling cycle to rotate in new topics based upon how members are answering. And then the last one is just how often they find value in you know, opting into these these matching rounds.
+
+Client 3: So I could the, like, the discussion topics, piece second, like change some of our discussion topic pieces to these things if we get a lot of people clicking.
+
+Client 2: Correct. Yes. A lot of people clicking these and you can edit these the new things. To new things just like you can with the other ones.
+
+Client 3: Okay.
+
+Client 2: One thing pretty important about this page and if you... I I know I I this is where I spend the most time on the the onboarding calls. But if you don't pick up anything else from it is that it does not auto save. Sorry hate for you to lose any work at all. So whenever you see the state button up here, this gonna be your best friend and just make sure to hit that save button I essentially rotate and once done spinning, you'll know that your work is saved.
+
+Client 3: His did that, like, on each page that we were on and you need to click save before you went to the next page?
+
+Client 2: It's a master saved button Best practices is if you're gonna take breaks and between like on this, go ahead save between your works, but it is a master safe and we'll save everything that you've done.
+
+Client 3: Can I... Is there a way to like? Okay. Say I wanna do this every three weeks or something, like, is there a way to like? Sort automate this to like Yes.
+
+Client 2: So there there actually is. So once you go back in to this page, now you'll see that there is under the engagement page, so you'll see that one we just created and underneath the recurring page. You can go ahead and hit add And then it functions very similarly to, like, a Microsoft or, like an office calendar invite where You set the occurrence use that the end date. So if it's like, hey, I know I want this to go through the end of the year. I want this to occur every month until twelve thirty one, go ahead and hit save Oh what's is it possible to to...
+
+Client 3: I'm curious that said month that is kind of the frequency we were talking about as every We thought two weeks might be too much and a month might be too long. We were thinking every three weeks. Is that possible to do in here or not.
+
+Client 2: Yeah. Absolutely. So you can shift that to every after weeks.
+
+Client 2: And then if you hit the save button and then if you better never need to make change anything about it.
+
+Client 2: You just click on that. And then I'll let you know it's ending December thirty first. And essentially what it will do is it will follow this saint cadence, so it will be the third or or or stack... Second week of each month. So it's gonna try to get on the sixteenth or like, the sixteenth is a weekend or a a a non business day, it's gonna try to default to other days. So you'll just have to go in And essentially, what it will do is when this engagement is about to close, as far as just being complete, and you'll know that from this status here. It will it will move towards a completed status. Of new engagement names Trinity ventures, number two, will then now appear in draft mode and you can click it to that? It's gonna have all of the same stuff that the original one had the same questions, all the same stuff and you just need to go away.
+
+Client 3: Can just go deal.
+
+Client 2: Yeah. Just go luck. Give it a once over? Because sometimes, like, the the the the company is global. So our priority is based out of Europe. So some holidays might not reflect as like, business days. So if there's that, like, Evo ml k is like a good example of one that, like, not everyone's gonna be off. If it might try to avoid that day. So just making sure that, like, it's, you know, all the dates back.
+
+Client 3: And then you could just type in then, then like, where I go into each one and then click like go not to. Click something.
+
+Client 2: You you just need to go into edit and just just select the date that you wanna change. You can just select it right here on the list. And it'll take you right to that portion and then hit save and go back.
+
+Client 3: Okay.
+
+Client 2: And then once you're, like, okay. This looks good. And I'd say, like, nine out of ten times you're out to do anything. Talk but there are, like, rare occurrences where, like, it's a holiday or something like back And then you just hit submit for review. And so it's it's a couple steps but definitely takes out the... All the steps of creating a new one, and then form.
+
+Client 2: Okay. Yeah. The last thing I wanna show you is this will be the Ui members would be following to opt in. Your logo that you upload is gonna go right here. And then the that button accent that I was talking about on the beginning the call then might have not made a lot of sense now you're kinda seeing it right here is this is where that... Button would be branded based on the logo colors that you given. And then that blurb on the landing page that we went over, this is where you customize. So that's how it's all gonna look to members.
+
+Client 2: This like a page, so feel free to, like, make it feel home for for them. And then that topic that we talked about and like, hey, this is what members are gonna be referring to as the name, So this is how the name would be displayed there. And then as you can see, even though it looks like the email was a little wonky as lisa said I that was your topic December twenty fourth.
+
+Client 2: It's got... It's got the right day. Yeah.
+
+Host 1: Just there's just a formatting to show you the more. Outside. Fine.
+
+Client 2: Now you can see that I as I said, it's gonna, like, predict based upon past enrollment. So you can see that I have clicked through this numerous times on ongoing calls, so it has my information saved it even has me randomly typing stuff onto my computer. Hey that I I've done as I've been testing things So really easy to click through if there is a custom question because I hit saved, but I didn't delete it. So it's gonna just so say those default things, which I can remove the areas of interest it's gonna let. Members know the like, one to three and then there's that catch all that we talked about if they select the catch all, they can't obviously select more because it's essentially selecting all of them. And then the time zone, And then this is that scheduling functionality where they would say, okay, like, what time are you available and this is how they would identify a pay I'm available. Like, Thursday is really open and I have a little bit availability if Friday didn't want.
+
+Client 3: Just curious why why is there only like see lives like us. Eight o'clock or ten o'clock or new Yeah.
+
+Client 2: So it does it by two hour increments and that was I don't know what... I I I I couldn't tell you what these exact logic of why they went with two hours, but they wanted to break it up from, like, a standard time and and so two hours happen to be how how it was broken up there.
+
+Client 3: Automatically scheduled a half hour. Right?
+
+Client 2: Yes. Automatically schedule doing a half hour.
+
+Client 3: That's not customizable. If we wanted to put like, eight eight thirty, nine, nine thirty ten or whatever. That's not can't do that.
+
+Client 2: Right? It's always gonna do the route. It's always gonna do the round hours. Yeah. Okay.
+
+Client 3: What happens if, like they're like, oh, none of those... Because there's a like what. I have would fit in their day on each day Like, none of those five slots work. What happens. Just give us.
+
+Client 2: That so...
+
+Client 3: Okay.
+
+Client 2: Yes. So that's a great question. What we usually recommend doing is This this is sort of part of where, like, promoting it and setting expectations. To the employees is really important because what you can say is after promoting it is you're gonna be asked to schedule it yourself if you don't see times that you're available, please just select times, and you'll be able to reschedule that meeting. With your with your match counterpart part and I don't... I don't know like you guys use a cal or a mixed match tool and anything like that. But usually, the res is pretty seamless because they have each other's contact information, It can just say, hey, This time doesn't work for me. So just that way, they're still participating go ahead and just select whatever time closest to that you can. And go ahead and reschedule your match.
+
+Client 3: And They wouldn't get the feedback form the... Or they would like pretend that they're doing at g but not really Yeah.
+
+Client 2: They they they would still get the feedback form, and they would just have to go back in and fill out.
+
+Client 3: Sorry. Can you have a recommended bike email, like, I haven't an email our whole team that we're doing this or anything yet? Do you guys have anything like that, that you send Yeah.
+
+Client 2: So the the the last thing I wanted to show are two two more things I wanna show you is this is our resource tab really really accessible right here on that tab. And the best way to grab that and I'll also send it to you is go to this article is called internal promotion. And I can't type right now. But if you go ahead and click on that, there's a sort of different ways that you can promote it. Whether it's a one on one, and how to show the link and, like, example example language for you to pull from.
+
+Host 1: Customers who have good conversion rights and good messaging. So we we put that there to use. And we can probably pull up other the ones you know, later on to that. Or working won't share that with you. We can have a a bit of a folder.
+
+Client 3: Okay.
+
+Client 3: I think what well maybe one last question to you. I send like a test... Like, if I set this up and stuff, I know that we're gonna meet again before I send this out for But can I send like, a test run to, like, my boss through year?
+
+Client 2: Yeah.
+
+Client 3: So has popped in for, but I don't know if that's the same thing.
+
+Client 2: So that's a great idea and we definitely have seen in in urge to play around with it. So you could go in and, like, create a new one and walk through that steps. And underneath the audience, just create like a on side.
+
+Client 2: You and the boss want and do a mash round just between You where you both opt ed and we'll we'll go ahead and match you and just so you could see how it works in short to finish.
+
+Client 2: And so you can see the process if you don't care about the actual matching side of it.
+
+Client 3: Don't second account count against my No.
+
+Client 3: No no meet outs or whatever per month.
+
+Client 2: No no. No. We we... No. We we wanna make sure you feel comfortable. If you want us to actually run the Ai algorithm, we can if you just I would email you and be like, hey, don't Mike.
+
+Client 3: I'm just sending this Up with them to see what the form was gonna like whatever Know. We'll spend time with yeah.
+
+Client 2: Yeah. If... And then if not, if you get enough people that you're like, hey, we'd like to see this actually in motion, You know, we we can totally we told on So so it's it's completely up to you. Okay But but the ai would just of course, pair you if it's just two people or just pair you you two together.
+
+Client 3: Resources. Is that where you access the internal Yes.
+
+Client 2: I'm sorry. Yes. And it works just like a Google search and you can really just type anything you want there. K. Last thing, something we're really really proud about is we recently have put a lot of work into updating our analytics dashboard. So as you create more engagements right now because there's nothing in here, you'll have a full dashboard pretty much, like comprehensive data of everything going on with the engagement it's gonna be all right at your fingertips. So next steps would be for us to just kind get something on the calendar for us to have our another touch point we either to do that right now or I of like, calendar they're like doing now cool.
+
+Host 1: At any time we're excited to kick this first off Awesome.
+
+Client 3: Well, thanks for your help. Appreciate it.
+
+Client 2: Thanks, lee. So Next week, I'm I'm fairly open. So if there's a day or time that works best for you, we can definitely let me know. If not, I can suggest something I think of like I know we're we're kinda launching this pretty soon.
+
+Client 3: So I'm wondering if maybe I should do it real here in the week. Like, and then we could meet again. Potentially if there was a problem or something like that, so maybe, like, Tuesday, would tuesday say it, like eleven work for you? On the Tuesday the tenth eleven Yeah.
+
+Client 2: Yep. That works for me. Let me an invite Yep.
+
+Client 3: Awesome. I will and that I will try to have like, what you just created, that didn't get saved to my companies. Thing did it.
+
+Client 2: The the one that we did the demo on. Yep.
+
+Client 3: That... That's all I did. Oh, perfect. Oh, good. Wasn't sure if that was just like a you were in something else where I wouldn't say, but Okay. That'll don't make it easier for me because I liked a lot... I mean, of those things I might flip around, but that actually speeds it up a little bit for me. Okay. Cool. Well, I'll go ahead and play around with it beginning of next week, and then I'll try to like, play around of how I think it would be good and then come up with any questions. That I have and then starts communicate get out to people what we're about to do too. So Okay Yeah. That's what I'm connecting on to tuesday.
+
+Client 2: Okay. That sounds good. I just kicked off the meeting invite, so it should be should be good there.
+
+Client 3: Awesome. Thanks so much.

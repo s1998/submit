@@ -1,0 +1,197 @@
+Client 2: Way better than saying, isn't good enough go back to your lawyer. So i have I have to still re a bunch, but i don't know. I hate when people tell us to do red lines for them or just like, go back to the drawing lot of your Reviews for whatever you seem to have done that lately.
+
+Host 1: So Yeah.
+
+Client 2: Prognosis this is not too bad, but Tb.
+
+Host 1: Jim is running. Nice Hey, Jim. Hey, Jim. How's it going?
+
+Host 1: Good. Long time.
+
+Client 3: Oh so he's gonna be a feminist late just Cool.
+
+Host 1: No worries. Yeah. We can just pick back up. I I was curious I assume that you sent over our conversation to Enrique. I was curious if you got any feedback from him on that initial part No.
+
+Client 3: I've actually forwarded the email that you sent. With the recording with short little, you know, no from myself, you know, reiterating what what we discussed and Actually, his one reply that he did give me is one liner one... What is the real incentive to side today versus waiting until where our our systems are in a better place.
+
+Host 1: Yeah. And Leo running. So let him.
+
+Client 3: It's only because... From from from what I can gather, we get two months for free if we sign today. Right. Well, what else will see other incentive to to sign today? Because if we sign today and start implementation and March.
+
+Client 3: Mh. Yes why don't we sign in February start March? I don't... I I I I just looking for answers from from you guys. I don't I just don't know the answer.
+
+Host 1: Yeah. Totally. And I get why Enrique asked that because he's been like, involved on your side, but not on our side, we actually gave you guys a pretty deep discounts. If you remember, it was originally like the the five thousand off implementation, five thousand off the software, to do it within the thirty days and that's, like, kind of our on the barrel if you guys do with within thirty and like the biggest discount we can give. But because you guys had this issue with the technology, we offered a little bit of a deeper discount, saying like, hey, we're gonna we know we're not gonna provide that full amount of value from day one you guys don't have nets meet? We're still gonna give you guys that two months free to make up for that gap as well. So... And and if you remember, pricing is going up next year. I believe I mentioned that. I've been trying to tell everyone that.
+
+Client 3: Maybe I I think you had some idea that you weren't sure like what it was going to be.
+
+Host 1: Yeah. We're still not it's not released yet, but it is changing away from, like, the all you can eat. And if you can remember, it's because of the database connectors and the custom metric builder. So from there, we are getting a lot more into that no code Bi space where you guys don't need to have someone managing it. And that really just opens up our ability to service our customers and like a really higher value proposition. So that we're we're adding more like product based pricing instead of just having everything. So you guys would get the value of... wanted just discounted of price and then also getting all our future upgrades. Included instead of having to potentially pay for them.
+
+Client 3: So if we lock in, like, the fixed right now, it's more than advantageous than waiting Well, yeah. Waiting until pricing goes up and it's a different pricing structure. So we get paid where we were pay by take Api call or how I don't know how it works, but Yeah.
+
+Host 1: I'm actually not sure I think the more.
+
+Client 2: Yeah. I could jump in. Yeah. Looked Leaandra it was pretty accurate there. We're still working on the exact numbers, but it's gonna be a little bit more carving out of products. So like what we position to you guys so far is full access to every corner of the application full enterprise support, all that. What we'll we doing next year is moving towards a more a little bit more feature function breakouts probably several different Skus. And then, yeah, the way that we'll charge one done Api Api call necessarily, but I'm, like, just the data scale a number of transactions in different systems. So something that's just a natural point of evolution for us, but Yeah. It's top of the existing discounts in three months. That this is laid out. It's just a way to lock in both existing functionality, and then also, you are grandfather into those releases that Leaandra mentioned that are frankly probably aren't two biggest releases since we released that's all so Yeah. Definitely is... Leaandra being transparent there around the that it's end of the sport in here.
+
+Client 3: Grandfather into into what I'm sorry?
+
+Client 2: Grandfather into the upcoming release that Leaandra called out around database connectors and query builder. Those would be add ons. For example, and, you know, the pricing next year. On top of kind of the base fees increasing. So, yeah. I think of what we've showing you guys now as, like, the mosaic bundle, really everything that we do and sell. And then in January, that'll be broken out amongst at least probably three or four different sub product categories.
+
+Client 3: Yeah. That's okay.
+
+Client 2: On top of the yeah, the kind of transaction related pricing as well.
+
+Client 3: So we would be grandfather into no transaction base price.
+
+Client 2: Yep. No transaction. Yeah. No feature function, add ons just the higher application. Absolutely. And we can send you actually if it helps you Jim. We could send you, like, the first quote, we sent you and kinda like what, you know, how the pricing is billed you the newer one that we've been working on and we can send you some of those details i that price change will look like, because I can totally see what you're calling out around the timelines lines on your side with, like, why does it interest us now? Definitely something that we try to be transparent to about. So customers aren't surprised, you know, down road.
+
+Client 3: Yeah. I've I seem to remember, one of the slides is presented in like one of the meetings the bundle is thirty thousand off rack Right? you offering plus five thousand installation. Yep. Or integration implementation. So what you were offering was five thousand dollars off of the thirty plus the free implementation. This that right? So ten thousand Is that correct?
+
+Host 1: Yeah. That was the initials.
+
+Client 3: Okay.
+
+Host 1: And I think from our first conversation, it was Like, there was an intent to get started the first thirty days, which is why We offer that Yeah.
+
+Client 3: Okay. I was I'm just writing it down just so I got now And How i think we've talked about implementation process being roughly six to eight weeks Is that super heavy on us or is that on on you guys to do, or this kind of work together type of thing.
+
+Client 3: I'm not familiar with how the your process works.
+
+Host 1: It's definitely. A team at apart, but we take on the majority of the heavy lifting. So actually have this onboarding info that I may have shared with you if not i'll share it again, but We have three teams our data architect, get involved for everything billing related in Crm related. Our cs team members are just gonna really be the ones who guide you guys through everything your liaison on from start to really ongoing when you guys get nets, will actually help you guys get nets connected because we do have to work through that Nets we analytics connect and an Hr we'll just connect to directly, but and you guys actually that self. So really the biggest part that is a lift on your end is just in our meetings, we wanna understand like, how you guys wanted to find things, We will have meeting set up with you guys like, the biggest part obviously, is, like, the systems connections making sure we're validating the data, So it really does vary a little bit based on if you guys have like a source of truth to validate against versus if we're trying to figure out if it's accurate and then just knowing like the definitions to your date to your metrics and things like that. But I would say six to eight weeks is like a good conservative estimation considering you guys have stripe and We're kind of working through that like in between period with some of your systems. Sounds like you guys might not have those definitions set out. So we can definitely provide the best around it, but Yeah. It it does depend on your data scale and also the cleanliness that we're working with because we can work through, like, some messy data, but it obviously will take a little more time.
+
+Client 3: Okay. Yeah. I think you just share this maybe not with me, but on the screen.
+
+Host 1: I can share this actually And I would say Enrique really only needs to get involved.
+
+Host 1: Like, if whoever's handling each part. Like, if whoever is handling the metrics, I mean, Leo would probably be involved lot for like, once we get nets sweet set up and how that flows in, Jim, it sounds like you a pretty good picture on, like, the more business operations metrics. So I would say whatever Enrique is is owning as far as, like, whether that's the Op forecast or the the revenue forecast. That's when we can get them involved and we'll actually flush out like the roles and and everyone's contributing as far as like, who wants to own what during, like, our kickoff process.
+
+Client 3: Yeah... Because as I mentioned yesterday is this one of his concerns his bandwidth is very limited for the first definitely first quarter, maybe even first half of the year. And you know, he wants to be part of planning budgeting once we get everything rolling, that he he definitely wants be part of that end like, how we're defining things, how we're defining ai how we're defining churn. How finding everything And so I'm wondering if there's, like, best practice that you guys have implementation, whether it's using whatever whatever your clients have been using out love to hear, like, we actually have an ebook that I'll send you on metrics and catch relations, and that would actually be a great first step.
+
+Host 1: I mean, if you guys do have any time to allocate towards that it's like, really just defining your metrics. I mean, you guys can definitely use our definitions but some people do have little nuances how they wanna look at things. And so if you guys take that step in the in between time, like, in, you know, two months or so. Even just getting a start, you don't have to have it end to end done. But that as well as just any kind of, like, definitions in general, would we're always in rely on you we're say, hey, how do you want define this? You guys know it? The click yeah.
+
+Client 3: When what he said that I was I was kind of... curious what where he going with that because I to me in Arr some of these metrics definitions are pretty straightforward, but I guess, he wants to be as involved as he can be, but his bandwidth it's quite limited.
+
+Client 3: So I that's what Leo and myself would have to pick up some And if you were...
+
+Host 1: What we can Denisha?
+
+Client 2: Oh, sorry, Leaandra. Yeah. What what we can do in that situation, Jim is because there's kinda two there's like the integrations and, like, you know, validation of the data. And then there's the creation of like the metrics. So what we could do is just completely those first couple steps just, you know, leave Enrique out of it and we could just sit down with you and then knock val like, Okay. Does the data tie, you know, how actual reflected accurately and then we can, you know, pull them in or any of the resources in. On to actually calculate those metrics. And like you said, yeah. Some are very standard, but you know, naturally businesses allow a couple extra wrinkles and, you know, every dataset is set maybe a little bit different. So could just pull on that last mile, so not just gonna work new on on his side. Okay.
+
+Host 1: And if we ever did need to, like, rework the metrics. Like, let's say you guys are doing something one way, and then in six months it changes. We can always rework those metrics. So i don't feel like you're locked in forever and It's...
+
+Client 3: Yeah. Yeah. Yeah. Of course, of course Yeah.
+
+Host 1: We have this ebook that I'll send over to. It's called the Saas metrics cheat sheet, and it just has definitions, calculation formulas, everything like that, so we'll send this over as well.
+
+Host 1: Cool. As far as what it's seemed like to you, I know Enrique needs to hear all the reasons why it's better to do now it versus later, but do you think it's still like you think it's still possible for today or what's your gut feeling on it.
+
+Client 3: Well, he he i when I resell to them very briefly on Slack yesterday. That is one. One question or clarification. What is the incentive to decide today versus signing in in February, and I think you you answer that question. It's the pricing that's gonna go up in the discount set. We're we're extended to us. And and just being grandfather out into a product that from what I've written down. Correct me if I'm running it. We're grandfather that it of a bundle with no transactions. Whereas if we sign in February, we would sign up for individual products or Skus and then having transaction fees on top of it. Is that correct?
+
+Host 1: Yeah.
+
+Client 3: Okay. I'm trying to find this what.
+
+Host 1: Sorry.
+
+Client 2: Was that?
+
+Client 2: Yes. transactions will be defined as lines in next week. And then also think about it as terms of, like, transaction on the revenue side. So those are the two main that arm aware of now. We may look at head count, but probably less back wholesale I'd say your notes. Yeah. That nets sweet and then trade action on the around side.
+
+Client 3: Head count meeting like, limited number of users or No.
+
+Client 2: We're still gonna go unlimited user. That's still important for us. It's more about like this kinda scale of the actual application itself where we wanna bake in some of that kinda transaction pricing, but It'll still be limited users. Something that will still carry over.
+
+Client 3: And and you said mine's in nets week. How how is that defined. Because now it's it's all you know, anything you wanna do this. Right? But how was blinds in next week defined as it frequency of updates or is it Yeah.
+
+Client 2: My understanding is it's just transactions on the S. But that that's probably still being worked out in true definition. So but, yeah, that's my understanding a date. We're actually having a lot of these conversations this month. So or I should say in December, Okay.
+
+Client 3: Sorry. I think you were starting to say something this.
+
+Host 1: Yeah. I was just gonna say, like, it's it's a natural maturation for the company to get more complex of pricing at a salesperson person not my most favorite thing. I like keeping it all, you know, very simple, but it is gonna it's just... We're honestly providing a lot more value right now than we're getting paid for. And so the company just trying to get, you know, more scale as companies that more complex with us.
+
+Client 3: Right. I appreciate that. And grandfather when I when I think of being grandfather dan, like, you're you're locked in in the life of your contract or or a relationship with the company. Which which is it for you is that we're locked in for the for the next year. And then once it comes for renewal, then we're gonna be exposed to transaction pricing and and Skews for different products, Is that how we're so would we be grandfather then for the life of our relationship with Was Yeah.
+
+Client 2: So, I mean, there's always a chance down the road we like we can reconfigure our pricing, but there's still protection in the contract for, like, increases beyond certain percentages and all that. So Those chance. I guess in short we could rework things, but it would not be at, like, significant cost increase or anything like that.
+
+Client 3: Would it be something sense if we're we're locked in for for twenty plus purely even number. Twenty thousand dollars this year. Right? Yep And then we're for renewal next year and it be up you know, ten percent or something like this rather than being subjected to all these new skills and transactions and stuff like this. It would just be like a percentage increase. Is that fair as of where where pricing would be in the in the renewal process. Yep.
+
+Client 2: Yep. That's correct. Okay.
+
+Host 1: And just as a reminder, I am sure you've Me this to Enrique, but you guys won't be invoice or anything until the start of your contract. So if you guys decide to choose starting like, february versus, you know, signing now and then we implement, it would kind of aligned to the same thing.
+
+Client 3: So we... Yeah. The... We just, you know, execute the contact today or November. And then the bill, the invoice won't be said until whenever we start march Yep.
+
+Client 3: And then what where the... Whatever date we start February or March or whatever exact date. That's when the twelve months start or the fourteen months. I guess, we're working on the fourteen month I'm still assuming.
+
+Host 1: Yeah. So that's when it will start and then they would end fourteen months later.
+
+Client 3: Right. So if we start february front... Let's let's say, we'll start March first and then So we're up for renewal May first.
+
+Client 3: If you guys are working first, it's on a twelve month.
+
+Host 1: So the fourteen month, we would have to start January thirty first the latest. So be January thirty first through March thirty. Versus marks thirty first through March t thirty.
+
+Client 3: If we start out march, I we start on January thirty first, we have two months. If we start out after February first is twelve months.
+
+Host 1: Exactly.
+
+Client 3: Either way, the renewal is April first.
+
+Host 1: Yeah. Around.
+
+Host 1: Okay.
+
+Client 3: Leo, do you have any questions you can quiet? They're talking.
+
+Client 4: No. I mean, I don't have any detailed questions I think think was M, I think Jim, do we have any other questions for them? Because I know that we've been having a lot of calls with these guys. I just wanna make sure that we have all the information from Jose so that we can you know, like, make... We can concrete our the next step. Going forward.
+
+Host 1: And if more questions come up, I actually have a pretty available day today. So feel free to Yeah.
+
+Client 4: I think we owe these guy's decision.
+
+Host 1: That leo.
+
+Client 4: Yeah. I I... you know, just discovery calls and a lot of calls we have. Appreciate your guys being available. So to make sure the function to you we have everything we we need to have to talk And then yeah Yeah.
+
+Client 3: I think I don't think he's had the time to see the first time, but I I did sent him that link you shared yesterday miss. So even if he was able to see it x speed. Hopefully, he was able to capture some of that, but I will relay this pricing information to him and the incentives and the the benefits of signing now versus later, which is it's been made clear.
+
+Host 1: Cool. Yeah. And know this is also clear, but what do you guys start in March or January, they're still is that fixed eight week implementation time. So even if he's not touching the tool, think you guys will get value to the tool. I we'll make sure that we don't want anyone sitting on the tool not getting value because that just means you know, you're probably not very happy So we'll definitely help you guys get something out of it before Enrique needs to touch it or can get involved.
+
+Client 3: Fantastic. Right.
+
+Host 1: Does it make sense for me to send the quote through Doc design?
+
+Client 3: Well, the not to me it'll the l Sara. Yeah.
+
+Host 1: Do you want it... So actually, I can don't think I have your number, Jim. I'll if it's okay, I would love to text you that way if you do have questions, you can just get to me.
+
+Host 1: And then also, when ...Enrique is good to sign Don't wanna send it over and he's like, hey, you know, I know we're doing this. If you wanna just text me when it would make sense to send that, then I can do that.
+
+Client 3: Glad want my number.
+
+Host 1: Yeah.
+
+Client 3: This three four seven seven.
+
+Client 3: Nine zero seven Nine one nine.
+
+Host 1: Three four seven nine zero seven five nine did around five nine one months. One three. Four seven five nine seventy five, nine or nine. Awesome. Let me know if you get that. Did it come through? It said it's a landline. Okay. I... I definitely have wrong. Three, four seven. Five nine seven.
+
+Host 1: Five nine.
+
+Client 3: Three four... Eight four seven.
+
+Client 3: Yep. One zero nine zero seven.
+
+Host 1: Oh, okay.
+
+Client 3: Five nine one nine Okay.
+
+Host 1: There it is. It's blue. Awesome.
+
+Client 3: And what got.
+
+Host 1: Let me know if you need me at all. I'm like I said, available for the most part. And then Let me know when you send it through if everything looks good.
+
+Client 3: Fantastic.
+
+Host 1: Thank you.

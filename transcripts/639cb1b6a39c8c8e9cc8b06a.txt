@@ -1,0 +1,331 @@
+Client 2: Guys dale.
+
+Client 3: Okay.
+
+Client 4: Doing.
+
+Client 3: Brad Friday.
+
+Client 5: Friday friday Anybody drinking beers yet?
+
+Client 6: We're beating us to it dude. You like three hours.
+
+Client 7: Call office waters.
+
+Client 3: Put it in a mug and you know, That's it's fine then.
+
+Client 3: Lot the don ask what's my my no bad coffee Mug. You don't want it now then.
+
+Client 7: Large Have the best. You have the best mugs. You had one that I was just hoping that you would like drink out of on a client call the other day, and it says I can't remember what it said, but it was it it tickle me.
+
+Client 3: Is it... I'm trying to think I had the grinch one yesterday yesterday. I'll drop in that one for a bit one I wouldn't this call.
+
+Client 6: It's bad.
+
+Client 7: It's it had something funny written on it. I don't remember what it was.
+
+Client 3: Remember. And I have the one that might my last company gave me this one from the office that says, like, world's best boss and that's like good under, like logo.
+
+Client 3: On. Right here.
+
+Client 7: Oh, it said audio bit.
+
+Client 3: Oh yeah.
+
+Client 3: Yeah. Yeah. Yeah. Wait did I show that to you did you no.
+
+Client 7: You you like Casually took a sip out of it. And I saw it and I think you were in the middle something. But yeah. I cracked me Yeah.
+
+Client 3: That one's not for customer call for that but didn't make appearance there.
+
+Client 7: Since we're like to...
+
+Client 7: Say Like to out one when we talk to people from the Uk.
+
+Client 6: It's is it?
+
+Client 7: It's a ga in the flat.
+
+Client 6: It's funny. Used to have a huge collection of mugs. Before we get kids and then I don't know my wife got up i middle on night one night and just, like purge my coffee mud collection I was like destroyed it for a day. Just like so many years of amazing mugs and gone. But I yeah. It was kinda getting out control. There's entire shelf dedicated to my mods.
+
+Client 7: Now it's cups.
+
+Client 6: Yeah. Exactly.
+
+Client 3: About those designers?
+
+Client 7: I guess someone's gotta cli the nfc west. Right? Like, That was...
+
+Client 8: I mean, pretty cool for Birdie Yeah.
+
+Client 8: I was eating... I looked up and... he was like, ten for ten with hundred yards in a touchdown. And I was like, teeth. It's just crazy how Shana just schemes up the right things for his guys nick see the truth or not I just don't think you need to be the truth I think you could be a jimmy bro or brock party and you make a five yard throat to Christian Mca mckay or any of the other guys and you have the offense do the work.
+
+Client 8: So Yeah.
+
+Client 3: I guess that helps here your stats when to dump off goes heard thirty yard or whatever.
+
+Client 8: Yeah. I just I mean, the game plan was feed in thirty two times. So my life is all about y man to How about this Jets Jeff?
+
+Client 3: Way wilson coming back. After two... Two week hiatus.
+
+Client 9: And now I'm not I'm not happy about it, but you played.
+
+Client 9: Doesn't give us any clarity though if he does play well.
+
+Client 3: Yeah. Right Maybe it's a trade asset. Cool. Are we at? A Brian, we waiting on you guys.
+
+Client 4: Now Yeah.
+
+Client 4: I'm ready to go. Else by the way that may Yeah.
+
+Client 3: Oh, okay. Now. Just making sure supposed to anything up here.
+
+Client 6: No. No. No. No. I think Brian, we good to show that the couple slides what we're gonna do Yeah yeah.
+
+Client 6: Just jump into the demo and just start bouncing around ideas and asking questions on the topics.
+
+Client 4: For sure. So I'll and I'll give this as a quick intro what we wanna do here today guys, is basically just of run you through the new features that were released a couple of weeks ago now. So three new capabilities vendor forecast seen in in various reporting, top down head account planning. And role based user access How I think we can also give a little preview metric builder if we want to.
+
+Client 6: Right?
+
+Client 4: Exactly. So Yep. So these these three new features that were released, I think it was two weeks ago now. In those two weeks, we did all kinds of kinda marketing a promotion around them. So we sent out an email to all of our customers and prospects in our funnel, we did a product webinar earlier this week, we did post in the product to be a chameleon what else did we do? Well we did all kinds of stocks. Anyway, like, the word is out But now we also train our Cs Cs team on this as well. So now we just wanna make sure you guys have the information you need to know how to, you know, demo these things for our Maximus as well as for aes to speak to them and make sure that we're putting them front center because pretty much all three of these things tons to tons the value to our customers. And so we wanna make that, hey, like, you know, they know we have these things because these can be real. Deal for sure. So Anything else i'll you'd add to that or if I hit it right?
+
+Client 6: No. No. I think that's right. I think the the the three core focuses is you know, vendor little forecasting, tops zone head count, in magic builder. But toss the question back to the group, but do you guys have any questions on vendor forecasting, whether it's, like, messaging how to show it. I mean, we should be showing this or was talking talking about it as company as possible during deals. So Why don't we start with better level forecasting, We can walk the demo. If you guys feel that. It's valuable for you, but at this time for you, so let me know any questions or if you were like see of the how mini demonstration of it I think it then would be good.
+
+Client 3: One question I have is I know we get questions around like I'm not quite exactly sure where stems from. I think it's that customer prospects ask Like, do they need to, like, assign each vendor to, like a vendor level forecast. For me, that seems obvious because it's like, yeah, otherwise, you're doing everything on a vendor basis like, I guess, like, what's the what's the reason why we care that so often like, like, what are they expecting to you that that we're not doing They're expecting it to be just like how, you know, when would create the model.
+
+Client 6: And essentially does the bottoms up forecast for you when you can slice Gl department.
+
+Client 6: It's the same the same.
+
+Client 6: Now they just wanted by vendor.
+
+Client 3: Got it. Guess That would just be kinda gnarly because you crack it up and you would just see does doesn't.
+
+Client 3: So Yeah.
+
+Client 6: Yeah. Like, in theory, it makes sense like, on in writing, then when you go to pull it up, you're gonna have, like it could be thousands of vendors. Right? I know there's talks like on the V to make it like a selection. Whether it's like, leveraging our current calculation like top ten metrics, to pull up, like, you know, the the eighty twenty rule. As like a selection menu, but I haven't heard talks about it since like a month down. Oh month. You know, I'm not the guy so.
+
+Client 3: Yeah.
+
+Client 6: I get that almost every three asks on it for sure.
+
+Client 3: Yeah. Okay.
+
+Client 4: Yep. Yes. Sir sorry. Go ahead Denisha.
+
+Client 3: Hold.
+
+Client 2: When... I just had one quick question here. So that's a derail image, but A lot of times people are like, oh, like, we don't book our They're, like, vendor details aren't booked appropriately. I know that's an accounting thing. Just curious, like, any reason why they don't book their vendors, like, why they don't tag their vendors I was just curious to be any inside there my gut instinct is because it's a lot of granular details so they're booking like a journal entry trade, It's a lot of work to break out multiple lines.
+
+Client 6: The same concept as, like, the forecasting. Right? There's there's so many vendors. And some of the vendors come over dirty. So it's like amazon dot a aws dot com versus like, Amazon, versus a Amazon Llc or whatever. So there's that whole messi as well of data.
+
+Client 6: yep Just just just like for thought to, like, what Pc working on? On... Last night I showed over that Loom, the thursday Thursday product. Highlights. There's gonna be the ability to do custom dimension attributes. Where the way it would work, like sb v one as Mvp will be Cs will go and enable, like, attribute one, let's say, attribute two, that's like literally a blank text input. And then the user can go in... Like, the customer can go in tag up probably want. So, like, a perfect use case would be hey. We have a bunch of vendors that are super messy or they're me well now it's sitting in mo and now, you can just, like, category some of vendors to, like, the the perfect example like those three Amazon. I'm gonna just tag them as Amazon Amazon Amazon. So the they could tell Amazon versus breaking out three different zones.
+
+Client 4: And do you guys understand kind of the the fundamental functionality here, Do you want me to just give a quick thirty second overview. Just to cover the basics here I should good on the basics.
+
+Client 3: Person I'd always appreciate the thirty second overview.
+
+Client 4: Cool. Alright. So you see, yeah. What's new here is technically two things. Right? So first of all, on the forecasting side, like, Outside being able to segment, your forecast out by different vendors. It's like before you could plan by account and department, but you couldn't get any more granular than that. The reality is is when a financing team is building you know, an expense budget. They actually wanna break out the forecast by account find department. And then probably a a series of vendors. You know, vendors would be things like Amazon sales force a marketing agency a contractor. Right? And and the reason they wanna break their forecast down to that level of detail is because it enable enables them to build a more accurate and precise forecast Right? And that's like, the name of the game where you forecasting and you wanna be as precise as humanly made possible. And so it's like, if you have a bunch of vendors and you know how much you... How much money you spend with them. Because you have a contract in place or something. Like if your finance, you wanna plan to that level of detail because there's certainty around those numbers. Right? You know how much you're gonna spend in the Salesforce next year? So this... This gives our customers the ability to to to do that to to segment out their plans at that level of detail. Second thing that's new here is we can now surface that vendor level of detail and Canvas for budget for actual reporting. So that... We we couldn't support that before. We can support that now. That ties into a really important reporting use case, which is... you know, the the same as all budget your actual reporting. It's like, you wanna track how you're doing throughout the year. So if you're like, way over or wait way under you can take actions to course correct. Right? And that's a huge part of what finances is doing every month every quarter is there tracking the budget versus actual because it's your way off as business, all kinds of problems with that. Right? Like, if you're spending way more money that you on, you wanna know about that. You need to fix that basket because you can't just like spend more money. Right? You have to get that back in mind. And so it's it's the Bb a reporting. That's the mechanism to manage all of that. One one of the odd here too is I think the reason why vendor level forecasting in Bb reporting is a requirement we hear so often. And I don't have the hard stats here, but I know, like, in Q three and q four, It was a it was a large percentage of the time, we heard the requirement. right? And that's true for as long as I've been in this space right? It's an important requirement because just think of the cost structure of businesses these days. Like they are just so vendor oriented whether it's, like, software tools you use or the marketing agencies you use. The hosting costs you have to pay to run your, you know, run your product. Like, we pay hosting fees to Aws. Right? So it's like it's just such a fundamental part of any businesses cost structure. That you need to manage your forecast and your actual, like, at that same level detail to have real control over how the business is is operating.
+
+Client 6: Hey Brandon can I share my screen.
+
+Client 4: I'll show you yeah for the example.
+
+Client 6: I'm a visual person. Yeah So, like, for example, a lot of times, people are building reports You guys see my screen here? The vendor, chemist Yeah.
+
+Client 6: We gotta. A lot of people are report on their expenses, like at this level And then as you can see, there's certain account categories that are like, running on. And so that people start questioning well who is spending money on this. Right? Typically, like the next, like, evolution of, like, ledger versus actual forecasting and planning. Isn't coming in here and saying, old who? Should I go and scream at? So down to the department level, so then, like, who is spending engineering staying ton contractors. Of course, those pesky sales marketers are always going and traveling. Okay. Well... the next question is like, well what are they spending it on? like is there du of know, software expenses or what have you, like, running and ramp it across organization. Typically, a lot times, this is where it stops. And so then they're like, well, I don't know. Like I gotta go look at accounting data, pull it from the Erp from a a credit card transaction data whatever it is. Like, stitching that together to get to those answers. Versus, like, put the mosaic now, we have that ability to bring that in. And then now you're slicing it down again those answers like, relatively. Okay. They're spending a ton on deal. Why is that? Sales and marketing. They're spending a ton on you know, these different contractors. So it just gets the answer faster. And then you can say, okay. Great. I identified these big boulders in the forecast, I wanna go hold the business accountable to these, And so I'm gonna call out my forecast. This send to be beyond. And rank? Because along we're like Very small. And there is noise but I wanna hold them to that. And then come back to be, like, wise deal growing and when our head count isn't growing, Right, should we go and audit it do an deal and and, you know, erase some of the users that are static or haven't a log for two months. We did that internally. I'm just recently too right took cut costs. So That's there something examples. And you guys all know how it works. Right? Like, it's the same thing from a get income statement planner. I won't go into that. Just for the second time, but Is this new Canvas we have?
+
+Host 1: Template.
+
+Client 6: Yeah. We built Maximus and I built this just up as the default. I know Maximus is trying to get it with the Cs, but to get incorporated to them. Was like template library?
+
+Host 1: That'd be pretty cool.
+
+Client 6: Yeah. I mean, the flow is like, you can... I think that have it in the shared. Space. So you can just grab this and copy it personal. The same one. And what's cool about it is like, after you're done planning, say you pitch it this way. And then You're done planning, you make some inputs. You can come in here and show up like budget purchase actual by vendor level. And measure the forecast versus natural. And then you can say, oh, cool. We just updated sales and marketing. Gonna come in here, and now filter by just sales the marketing. So this case, I'm add this filter. And then I can track now and hold accountable Denisha on all his expensive this a a small question, but we changed the visual of the heat mapping.
+
+Client 3: It looks just like cleaner almost like like three dimensions in spread.
+
+Client 7: Yeah.
+
+Client 3: I was gonna see like is that keep mapping at the top looks really good.
+
+Client 4: I was gonna exactly.
+
+Client 4: Yeah. It does.
+
+Client 4: Is it just the quantities that are here?
+
+Client 3: Or like, what is it?
+
+Client 6: Oh, i nice feeling.
+
+Client 6: I Sweet choose to...
+
+Client 6: Okay. I'll clear. Yeah. I've been I... What I've done is a I did a lot of cleanup up on the canvas and used our our coloring scheme that Casey. Created.
+
+Client 3: I feel like like if we get... I don't know if cs is doing for our customers, it's like I guess it's kind of like a, you know, Nuance, but this is, like, I don't know. Just looks like.
+
+Client 6: Yeah Let's good be feedback now. Maybe that's a. Because we're we're now starting to collaborate more Cs go clean up to match... The the template library. Maybe that have could be like a the b two of it. Cleanup.
+
+Client 6: Cool weeks That's vendor forecasting. You wanna pull that slide up on top down.
+
+Client 4: Yep And as Brian pulling that up.
+
+Client 6: I need just, like, top of my questions on top down, how's it different, one of the use cases you know, positioning it.
+
+Client 4: So no signs did you guys are good.
+
+Client 8: I guess not I get not so much from from the positioning standpoint, but from, like, discovery standpoint, like how do we How do we say like, well this is how you're doing things today, Like, how do we get two like painting the picture of, like, Well, are you not doing it this way, because it's just too hard, like, hey, here's how easy it is Mosaic. Here's the efficiencies that if or the acc. To the forecast if you're able to do it this way, like, more interested on, like, the discovery questions on how to qualify ask what they're doing today and then to, like, how to relay that to pain Yeah.
+
+Client 4: I I could take that one first style. Actually thoughts on that one. So the way that it's typically done. And when you were doing head count planning as you're doing it like, either employee by employee or, like, a single role single position by single So it's like one line at a time. And so if you're making like, wholesale changes to your reports, that can take a lot of time. A lot of clicks lot of time lot of effort. Like if you're if you have to hire twenty or thirty people, or if you unfortunately have to let, like, up your workforce go, Right, which is you happening across the industry right now. Right? So it's like, once you get into that territory of needing to make both changes. That's where this value really starts to click in. Right? So in terms of discovery questions, you know, you could ask things like, hey, you know, in any given forecasting cycle. Right? Or as you looking at to twenty twenty three and you have... This is a little delicate when it comes to, like, departures or, like, reps or things like that, but the use case may. Right Funny. Has to deal with those things. Yeah. You could say like, hey, Are are you looking to change your workforce and kind of small incremental ways next year or are you expecting, like, big wholesale cell changes? You know, and invite big wholesale changes, I mean, you're gonna be adding twenty thirty plus employees are you know, reducing force by twenty or thirty plus. Right? And it's like, hey, would it be helpful for you to have a way to do that in bulk rather than to go through all thirty one by one mine by line. And I think that's that's really where a light bulb moments gonna go off. Another thing too with this is I... I've been into space a while. I've seen and worked a lot of different software tools. You planning tools I've never seen a top down head count planning module like this. Ever before. It's certainly not anything out of the box. Right? Like, I've seen some tools build a top down approach like this, but it's very, like custom configuration. Know, a four, six, eight week long implementation kind of a thing. That consultants have to build it for you. The fact that we offer this just out of the box point and click, is unlike anything I've ever i've ever seen in the space before. So can absolutely position this as a differentiator. From a competitive standpoint as well. Thanks.
+
+Client 6: Yeah. It's just like an added field with a fire on turbo charging your top planning. So you get best of both worlds now. You short term short term detailed planning, and then you have that more dynamic driver based, head account planning from like a long range perspective. Or to Brian's point when you're going through a ref or like a high growth stage and you just need to put in head counts, so you're not gonna go and do like, one to one to one and creating like these very detail plans just him to work fast. And then the other point as well is right now, a lot of offerings out there. Focused online department role, like what does that person's role behind for hiring for? Like a rec Id and this is gonna allow you to look at more of profile so like the salary band. And start, like, forecasting by, like level So, like, when you walk into the business, you're like, engineering is a perfect example. I need go higher. Some entry level engineers, to help support the day day. So that's like an l one. Let's go create that band. And like, let's go assess what the engineering team and planned those across the year. We also need managers to support those. So those are, like m one. That bag may be, you know, higher salary. So it just makes it easier and scalable for that sense. Maybe not so relevant from, like, zero to two hundred. Once you grab start, one point two to seven hundred to a thousand. It gets very complicated in manual fast. So that this essentially allows for that as well. Makes sense.
+
+Client 4: You wanna show it?
+
+Client 6: Yeah. You guys wanna see it or you wanna move on mesh builder.
+
+Client 3: See it.
+
+Client 6: See it Right By the way, well while I'll pulls this up one other thing that just came in my mind is like, this has a huge location for what if scenario planning So we're really likely way, you know, something like you know, a rift might play out.
+
+Client 4: Right? Is that, like, the Ceo would go to the Cfo and say, hey run me a scenario where you know, where we have to reduce our head count by fifteen people. You know, if Cfo has to say... Sure. I can do that, but gonna take me three days. Like, that's kind of a bad look for the cfo. But like, to cfo wants to be able to take sure. I'll get answer in, you know, thirty minutes. This is gonna change that time frame from three days to to thirty minutes. Or something order magnitude, that's significant. Right? The to be to come back with those answers like, super super fast has a ton of value for our finance persona.
+
+Client 6: Like second. So just do it as you're speaking. Right?
+
+Client 4: And then so you start playing right assumptions on different teams and profiles and I come in here there's my rift like already, like, in real time.
+
+Client 6: Happening. So come very quick. From what scenario. So, basically, the the flow I like to to kinda describe this is Look, you have, like, a short term plan alongside this for now You have a short term plan that's merging your existing and your bottoms up higher forecast. And then over time, you're using, let's say, like, a model. A driver based model. To calculate, like, your future forecast after like I said period of time. So using, like, something like this where you're driving revenue changing growth assumptions an impact amount of head account that's being required like in the future outer of. And so, like, starting in June on top of my existing forecast. Based off my salary... Or my revenue growth projections, And need able hire one person every month for the rest of the year. So then now I can incorporate that into my forecast here. Let me get rid of this. So basic coming here in take this now. Create this new forecast within a matter of seconds. Just like Maximus showed, In is video he out. And then I'm basically done. And then the or state of this, so like, b two of this. They're thinking about where it's gonna be more dynamic. And actually in this pool like, seamlessly from, like, the model of itself. Or vice versa? So that way, like i seamless... like, driver based. That's very dynamic. And this point, a lot of competitors in the space don't even have this capability and or they're building it from scratch. So I wouldn't be hesitant to call it dynamic because it really is is really dynamic teaming though. Amazing manual to a certain extent. Just know that a lot of the offerings out there don't even have this. And just to show this, and then pull this up and then show how it's already detailed plan. I think it's a while moment.
+
+Client 2: Just as part of the demo flow you think would be good to kinda like, maybe, like, go into them, like the scenario modeling and say like, hey, like, like this is how this has impacted your Ash and runway, So that just a little bit more, like easy to see visually from, like a total and then Yeah.
+
+Client 4: I love those those charts on the bottom, by the way.
+
+Client 6: Yeah. I mean, this is a this is what I would do first is like assuming, like, existing blazer playing pull us up. Right? Show it as like, nothing. And then, like, come to the model, like make some tweaks like growth rate, and then already have it already you know, built out showing zero and then just doing whatever that count shows up here and pull this up. And then just do the pitch Selwyn like, Cool. I does get the head count but that's just also an impact, your change to your cash balance the day. Right? The three financial statements.
+
+Host 1: Is there any way that in the charts you can look at what's the bottoms up forecast versus top sound Yeah.
+
+Client 6: I'm pretty sure. Is it? Is it? That's type. I don't know actually.
+
+Client 6: We were. Let me display. Yeah. I guess, No. Ish I got it. Should No worries I mean, it should.
+
+Client 6: Because then customers I already can see customers getting confused. I'm like, well how do I tell what is my short term versus my long term plan. What are my top down? Another use case for me as well as you may have this as like approve versus una approved, Right? By each individual department. Or just working with your recruiting team. And so like this would just be like your toggle between approve versus is approved. So you wanna see the a bunch of uber not pretty Any other questions on on this we have one more before we get to metric builder.
+
+Client 4: Okay. Just sit on the based security real quick.
+
+Client 4: Okay In probably, like a good chunk of this is probably self evident to you guys, right? Like in terms of user security, Obviously, we deal with some pretty sensitive financial data, whether it's like, salary data. That's like the top use case in terms of, like, what finance really needs to have butter lock key. Their wrong people see salary data that would be really bad. But obviously, there are, like, lots some other kinds of financial data that tend to be under lock key at a company. Right? Even like revenue and most companies very few people are allowed to see the official revenue numbers cash balances. Right So anyway, Finance works with some pretty sensitive financial information. And so if they're gonna let people into a tool eight months, they wanna have a lot of control on what those users can do and see. Within the platform. And so that's exactly what this does. This is kind of our first not first. But, like, our next big step as it relates to user security, this is one step on a on a bigger journey. So you're gonna see even more and more user security access coming the the platform over time. But this is definitely a really big step that enables us to control what individual users can do and see in Mosaic and way, that they never could before. This applies to the financial modeling inside of the platform as well as to the reporting and analytics side of it. You can segment out access by product area. So that would be things like analytics, modeling, platform administration, etcetera, you can segment it out security by the datasets that they can see the model components that they can see what they can see and do with Canvas. Right? So just a lot more gray security control. To give give the finance team kind of that that extra control over what those users are doing and seeing. So super super important. Does... I mean, it's not sure you guys have seen your deals. Right? Like, if we don't if we can't support the right security requirements, that can just be a. Right? Because these are the kind of things that are like, non negotiable finance, if if they can't protect their data. It's just it's a non uncertain. Right? Like sorry. I can't protect that particular thing. Like, I can't can't go with you guys can't use to tool, because it's just two too much of a risk. So this is our a really important development. For us for sure.
+
+Host 1: I guess, I'm not understanding what was not there before because I always assume that we could do this.
+
+Client 6: Yeah. I'll I'll share my screen, I'll show you. You could to make time Yeah.
+
+Client 4: We weren't we're at zero before. But how people can call it yeah so The first was we didn't have a roles period.
+
+Client 6: And so, like, when you come into someone's profile. Not myself.
+
+Host 1: Oh, so know you can just bucket people into rows instead of individually giving everyone Yeah.
+
+Client 6: Like, onesie z Twos is, like, the first call out. And then so then now you can apply like, whatever role you create, to, like, a bulk of users.
+
+Client 6: So I've create like an external stakeholder ron applied all the and the due diligence tasks right from general clients? When you go and create them as well, before For example, on analysis, you just get everything so, like, issues with this would be like, someone could share something. They could take it save to their personal space. When start like, rearranging data, like, and that's like, a big note now, So now like, for example, we have more granular detail on, like, what they can see just like on the canvas fashion analysis stage. You also then have the ability to turn off like, like let's say data management, So it gets granular anywhere from like day power user, you may have, like, say a finance person who owns the system and then a finance team. Shouldn't be like, messing around, like data integration or stuff like that. This has always been there. Right? But again, individual Right, The individual coming in here. And then this is a cool one where it just automatically will take away any salary related metrics in our data, across the application. Yeah and I believe this is like the precursor to, like, hiding salaries right, on top line.
+
+Client 6: The heck on there.
+
+Host 1: I think I've been positioning that we've had this whole time. So it's good that now it's out.
+
+Client 6: Alright. I mean, in in a In a sense, it is is... Like, because you're giving granular by like individual metrics. Right? Just adding more scalability too it. That's all So, like, white. I would say. No. And then the v three of this is gonna be it mentioned all security. So, like, this is setting us up for in the future. To then say, you know, this role would be only for marketing intersection of data. And what does that mean that allows us to just create one canvas let's say a budget versus actual, share it out with the the business, a hundred people, that one canvas, and when they step into that camera, the only see marketing data versus x sales data. But this had to happen first. We worry back to that. B three. And then implication from a input a modeling perspective for also then be available. So that way, when they come into the Income statement planner, it'll be like, marketing only expense items so they can make inputs into. Go into the top head planner and only give marketing departments they're seeing head count. with the ability to toggle on salaries. Any other questions?
+
+Client 8: No. This is this is a works really well and when people bring up permissions, just already in the past couple months. So Yeah.
+
+Client 6: It's it's like, you basically just be like, yeah. We have permissions and then permissions about role. When just saying that they they it just sounds scalable. Right? And by for ten users. And if you just show the screen, this always is like the one that gets them there, that makes sense very granular anyway.
+
+Client 4: You wanna just jump right into metric builder.
+
+Client 4: I yeah I could show it's but I think you probably right in enough at this point.
+
+Client 6: Yeah. So question to back you guys like, what? What questions do you have on builder because there's a lot... There's a lot to unpack just a met brother alone. So I think for demo purposes, We don't necessarily need to show it it's more just saying, yeah, we can create any custom metric.
+
+Client 6: Right. Like, confidently to speak to it. Like, if someone asks. Like, oh, can you do custom. Right? Yeah.
+
+Host 1: Yeah. So I guess, just knowing, honestly, like, the limitations of what we can't do, is more helpful seeing what it can do because when we think custom metrics, it's like, yeah, we can do anything with it. What can we not do with it?
+
+Client 3: Yeah. Yeah. I was gonna plus one that, like, limitations. Like I heard, like, change reporting. Something that's like, not really possible and create older. Like more advanced... visualizations like that that aren't possible on top of if you guys have any update on, like, some of the incremental timeline of release, because I know that we're still kinda dragging people through really intense scoping for some of these when I the idea was it was hopefully customer by now. So of those two points would be. Awesome.
+
+Client 10: I think an important distinction too, honestly, I'm trying to get a better sense of this as well, but Like, metric builder is basically limited to filtering and then addition subtraction multiplication. So, like, any logic that requires more than that is actually still not something like we got a metro builder, like Arr, is it is a an example. That requires, like additional logic like, stop date start dates all sorts of thing that like, venture builder can't do. So be curious like, maybe double click on that. It's, like, Okay. Is a good example of what it can do. What are some other things that were thought of that category that are there limitations I'll show you what.
+
+Client 6: George is talking about too. So Some of this logic that's being built. You have to know some of, like, the Json logic. Like the sequel behind it to, like, filter data by. Because this is a perfect big example where you will have specific Mosaic logic that's built in to cancel Arr, And so you need to know what those specific mosaic attributes are to come in and filter data by so you're showing the right value. Let's see. I think this is a g. Let me see if I can find one that Okay. Cool. Yeah. Like, for example, there's, like, There are already built for you. So you can actually pull this in and take it. But there has to be some filtering done all the back in here. In order for it to show correctly. So, like, there is some complexity there. That you'll probably still have to reach out to your Cs to understand. I mean, I struggle with it. Because I'm trying to do... Like I try to build Mr r. And it was wrong and trying to figure out what like M status one greater than zero. Otherwise, it just like walking stuff. And then to George's point, their stuff that we just like just can't do yet. A perfect example, it's like I wanna take are our one or run my And right now it's a three months. Average. And I wanna now put that as like, a six month. Just getting run right a is a bitch, and I was trying to do it. You can kind of get there, but then I'm like, loss of, like, did I filter the data correctly here. Is it even right? And so there's, like, those little nuance, things like that where it's like, it it's very formula, heavy like, well, I wanna change it to look back and stuff. That's definitely more of like depends on what the metric is specifically.
+
+Host 1: Is a good use case, like, if they have a Bi tool for, like, usage j or something. They just export out of their Bi tool have it be able to be visualizing mosaic then they can use in their top line planner?
+
+Client 6: Yeah. Like, when you're going down that conversational route, right about, like goes, like, crazy metric like if you're like well how do you calculate it and it's like sounds complex. They can always just calculate it offline and load that data and then just... You can just visualize the results. And model off of it as well And I'm sure there... Oh I can just build that in, like, two seconds load it. You know daily don't want to whatever. So that's gonna... I would definitely default to that. If it like starts going down that out hole. But at the same time, like, I think anyone has a great answer. I don't think Cs yet No as well.
+
+Client 6: Exactly you might and pick up using his more.
+
+Host 1: Makes sense.
+
+Client 6: Okay.
+
+Client 10: What about marketing data like, I know for us we could actually, like, now can actually do most of our weekly reporting a marketing perspective. But it's obviously like a very high level view of it. But I guess, are other. What are, like do you see be asking for certain views of marketing data either they're just like reporting out, whatever how many new leads or kills like happened in a quarter like are people because that does that scratch the itch for most of our customers or most people trying to do more detailed like cohort analysis campaign analysis. I guess i'm I know when we save marketing data. Mean a lot of things and that's like, one area this could open up, but probably a very small view of it.
+
+Client 6: The way to think about it is like this and it's kind of similar to just like our data in general is there are from marketing or attribution engines out there in the marketplace, like the more kiddo, right? They have, like, just amounts of data like down to like that clicked on facebook ads network demo and software where we consolidated across all channels. And just like No. A lot of heavy transactions. We are not that. What we are, is what I would consider is, like, lack a better or like marketing performance management. We gonna go create forecasting and budgets for market marketers go. Execute on that budget. How they go do that, it's not gonna be in mosaic. But they're gonna have all this data. When they go execute to it? And I wanna understand like at the channel level, did our money that every dollar we spent for marketing, which which channel was the most had the most bang for about the biggest Part roi. And so I wanna bring in higher level of that, you know, execution data. And run like, profitability and our metrics off. Because then I can challenge the Cmo to say, like, we gave you a million bucks you spent. You know, half a million on Facebook ads but really what's driving conversions is Google ads. on search. So we're gonna slash your budget right and put more money into that. Because it's just providing bigger dividends from, like, m to. Sql conversion. That's okay. Like, that sentence alone, we'll like, tell you kind of, I think that the extent a how should be thinking about marketing. Data. You need some sort of marketing metrics, like clip conversions, things like that. To to tell like a good story of, like, where to spend money essentially. Or to pull back Cool.
+
+Client 10: Yeah. Thanks that's helpful.
+
+Client 6: And you could just be honest with them, especially if you start talking to marketers, and have that definitive like, like, can't response. Like, we are not engine. But we make sense of that to the leadership team. To the Cmo. To ensure... We're driving, like, operational from like a spend perspective.
+
+Client 2: Is is there a way that we could get that granular marketing detail because it does come up a lot. As far as like, how people are building their funnels and building their models, I was just curious if this gives us the capability for them to, like be able to model by that or is or is like, that go back to what you were saying is that kind of like a step too far from what we're doing?
+
+Client 6: So, like, give me an example.
+
+Client 2: So, like, Honeycomb is a good example. You know, they build their top line forecast, starting from, like, marketing leads generated then they'll go like, leads generated, leads converted leads converted into opportunities and then that's where it enters like Mosaic world. But there's that whole world where We currently aren't capturing and it's a manual process. Of that like kind of lead to up where it's kind of a blind spot for us.
+
+Client 6: Yeah. No. Totally. That is a perfect use case. You don't need it to to be too granular? I mean, you can have be off of it, but really they probably want to understand what are those conversion rates. Or, like, twelve to conversion, based off of, like, a product a region our channel. Like that to them it's like, well enough value. Right. I know that in pipeline, know if for my conversion from Mt Sql, and I can build essentially like a model that looks like this But it'll have some mark more granularity to it.
+
+Client 10: Yeah. I think the one nuance there. It's depends on how they're getting to their conversion rates. Like, if they're just doing like a period over period conversion rate. We could for sure do it. Sometimes people will wanna look at it from like, a an actual basis. And then I cath, I mean, honestly, it kinda just depends on Their Csv file that they're importing. Yeah. But it would be pretty cool to see start with spend. And then go like, whenever a hundred thousand dollars and google, two hundred thousand dollars in Facebook. Go through leads and then all write down the funnel. That'd probably be a really cool model that we could support that. I think we're hopefully answer a lot of what Selwyn is talking about.
+
+Client 6: For sure. Yeah. So, like, you bringing in your spend, you may have some, like, already unit economics. This could be, like, Google Facebook whatever. And then you have, like, M l's, any point of the funnel Right? The data will probably have each stage of the marketing funnel. By at the end of the day, it's like what is the last hashtag second converts. Right? It's really what the key metric is. And then from here, you're just providing, like basic of that Web ops team source. Or biz option now.
+
+Client 2: And and in this demo instance, if we click Sql, is that a plug or is that referring to something, like, in the database we uploaded? Please. Mh This could be...
+
+Client 6: Yeah. The data. Essentially. That's coming from... But you mean, like, from your Crm.
+
+Client 2: I just been in the in this specific model because what I was thinking was it would be great to have one of these where we had an example of like someone that uploaded marketing data, and then we're able to, like, pull and reference marketing data and do the same like drill down where we're in opportunities and we're different like product lines. So I was just curious if, like, if this particular model had that or if that, like, s wells was more of just like a manual like hard code plug.
+
+Client 6: Right now, everything manual, we haven't done anything from builder building up models. But this would be essentially coming from the dataset set. As well as we're gonna do like, a product usage model. Marketing model, customer support model.
+
+Client 2: Okay. Sweet. Yeah. That'll that'll be awesome. I think that will, like, bridge a lot of gaps. You know, because like, if we can show it, it's you know, pretty pretty much real.
+
+Client 6: Oh, they totally. Yeah. Yeah. And, like, just so you know too, like, We've had all this data But right now, was residing in dev. And as you know, Dev data gets wiped out every two weeks.
+
+Client 2: Oh, gotcha.
+
+Client 6: So we don't wanna, like, build it and then it gets wiped out build and we couldn't do it but they just not released in production. So not everything we build in here stays that's sweet.
+
+Client 6: Yeah. This is like where I was mentioning in the video last time, like, there's just so cool. There's so much to unpack here. And there's so much opportunity as well as a lot of risk. Like to to George's point, You could do a lot with it, but you also can't do a lot with that. Right? As long as we're setting the expectations upfront, It it all goes back to you like, pitching in as like again, we're not execution engine. We're not gonna bring in a ton of data. It's just like the the data warehouse, you don't, bi b to c type of pitch. But we'll bring it enough to do. Models like this. And there are some examples to you, Like, don't want you to be scared of like, oh, well we can't do any like logic, that's more than like a numerator and denominator in a division or more application. There depending on what metric you're doing? Like, for example, creating a net dollar retention that I showed you I think in the video yesterday. Is somewhat complex, but it it's just using basic offset. Off of an existing metric such as, like, Mr r. And so, like this alone, is like very Not complicated, but Okay basically, create three recreate net dollar retention, and then our default as a rolling, you know, hold my foot back and now my user can go build this and do, like, a six month back if you want to. But then again, you know, it's gonna be handheld yes because I don't expect someone to. The first six months, understand this how you should be doing everything. Are some capabilities there. I think what else?
+
+Host 1: Is there anything large coming down the pipe for, like, new features, as far as like, I think we've all been kind of aware of these ones that have been out. And or selling them were necessary. So it'd be super helpful to know what is imminent gonna be released next.
+
+Client 4: Yeah. I can I can speak to a few things. The big ones for t one, In addition to metric builder is gonna be the snowflake integration and the sage and tech integration. I'm sure you guys are aware of that. Another thing that's gonna be coming at some point in q one, I believe is new income statement planner flexibility in terms of your ability to add departments and subsidiaries directly like on the primary screen of the income statement planner rather than having to you know, segment by those elements within that little like, pop up drawer. So that'll just make the income statement planner much more versatile flexible easier to use. Faster fewer clicks. All that good stuff.
+
+Host 1: The question on that. Is that something that's been ask for from our customers, I think Like. For us there's a lot of features that are great for existing customers. There's features that are great for new customers. And, like, stage tax, snowflake snowflakes are great for new customers, but like, things like that. I feel like are definitely, like existing customer. Benefits, that like, a big ask or or I guess, just like, would love to understand how our development team is split between you know, new product for, like, growth versus just like, improvements to the platform.
+
+Client 4: Yeah. It's... I I mean, the real answer is it's both really, what that with that flexible display is doing, it's paving in the way for for more planning dimensional. So to be able to build plans and forecast by multiple dimensions. Right? So today, you know, you could forecast my account department now vendor and subsidiary. What we're gonna have in the product in the next six months is the ability to plan by a whole bunch more dimensions beyond that. And that requirement it's super important to our persona. And it's also it's also something that, like, a lot of our competitors can do. So we need to make sure we have those capabilities to be competitive on that front. Right. So it's... Yeah. It's it's important cross the board. It's just like usability and functionality like we need to have as we continue to road scale. The product in his dimensional so set for q one It's gonna it's gonna be rolled out and phases over the course of twenty twenty three.
+
+Client 4: My understanding is that the end of q one, we will have few more dimensions in the product that can't tell you exactly how many but a few more than we have today by the end of q two, I think we should have up to eight, I think is the plan? So, yeah. By mid year, you'll have you'll have much more we have right now.
+
+Host 1: Cool.
+
+Client 6: Taking you a step back. Some of the two big things I think that are immediate. Is custom attributes on the dimension. I sent a loom. Yes. Yesterday night about it. Which will help customize their demos and speak to, like, product in different rec categorization of, let's say, like Quickbooks basic, like, mental roll ups. And now you can have I many levels of roll ups as you want. And different roll ups. Departments one, but it could be like, vendor give me a bunch and that's coming really soon. And the another one is we've they... The... And the problem that they d prioritize certain things on integrations and rep things and I think I'm actually excited about it. You know, Brian mentioned, they're gonna finalize snowflake like I think internally the day like sometime in February. As well as sage, and then they're gonna move directly into open Apis. And so that meeting is gonna be slated for sometime in q two to be released. Now that's up to debate if that's gonna happen, because open Apis is huge I think left. But what that is what they're trying to bathroom from idea aviation is like, how do we create open Apis, that like, and a Or Leaandra can just like, pop in and be like... I don't wanna go the note I can pull data. Like, just a quick book you log in is stuff like you show them at the table And then, like, it writes like an Sdk in the background and it pulls in stuff like instantaneously. And they're trying to figure out like how to do that the right way.
+
+Host 1: Do we know how our competitors say the integration like and maybe they don't actually, but, like, I know a lot of them posted on their integration page. Just to know like the... How we differentiate from their integrations. This might be a question for another day because I also have a call in a minute, but Yeah.
+
+Client 6: That's that it's a big question, but I have some thoughts around him. It's Exactly.
+
+Client 6: Cool helpful, guys, With.
+
+Client 5: So.
+
+Client 6: Right. Cheers.
+
+Client 4: Thanks, everybody.

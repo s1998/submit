@@ -1,0 +1,229 @@
+Host 1: Hi, Lena. Hi. How's it going. Good. How are you?
+
+Client 2: I'm good.
+
+Client 2: Just back back meetings. Thanks for making time. The short notice.
+
+Host 1: Oh, of course. It's literally my job, so you don't have to thank me. Thank you.
+
+Client 2: A problem. Well, we just we have a hard stop at two o'clock.
+
+Host 1: Cool. No worries. Well, super essential learn a little bit more about Drag day. So we won't get into the demo. But we'll we will just wanna really understand as the use case. You guys are definitely, you know, on the larger side of what I would call startups. So one understanding the complexities you guys have and thank you for sending over your tech stack, super helpful to know and we do integrate with all the system. So a great starting point there. But, yeah. I have to open up to you. I think from what I saw in the market, I'm not always a best at is that we reaching out to you and you guys weren't actively searching or found us online. Is that accurate or sometimes it's a mix of the two.
+
+Client 2: So we were actively looking last year and then I went on maternity leave.
+
+Client 2: But then, yeah thanks. So then like, we kinda had to put a pause on that and then Brian, thanks for joining. So Brian was kinda trying to drive that. And then someone did reach out to me from your company, It was funny because we had... We threw name out there and all of a sudden I'm actually got email from your company.
+
+Client 2: About delivery some kinda like, package to me and I thought it was spam. But I emailed that guy back. He never responded So I reached out through your site and then, you know, you were very prompt so thank you again.
+
+Host 1: Oh, wow, nice. I think probably good to know that he didn't respond. I think it was probably our marketing person and not the salesperson and well, looks like Greg is also driving so perfect. We, I think we have the whole... finance aside from your Cfo. Is that right?
+
+Client 2: Those a F a team.
+
+Host 1: Yeah. Yes. Cool. Awesome. We'll love to see it. So I guess wanna open up to you guys and just understand a little bit more about what challenges you're facing a today and, like, really what you're looking for a like, mosaic or any other tools you guys are looking at in the market to solve for.
+
+Client 2: And before we go, just quick... Just wanna answer your question. It was Matt Roberts.
+
+Host 1: Is no i ...yeah.
+
+Client 3: Great.
+
+Client 4: So thanks for... I have the call. So right now we do everything in excel. Right? So all of our budgeting forecasting, all of the reporting is you know, done excel. So our... I think your Erp is nets week. We use Salesforce or Crm, Ekg our Hr. So which try you know, right now, we just download data from all those places. And, you know, couple things we do our budget model we sent out the of the part pack to the our Vps and may put stuff in incorrectly, and then we fix it and then try to make it present and rolling everything together. So run what challenges right now always run version thirty of our budget model. And we we have to slack each other see make sure we're all out of it because we have version control issues and what syncing issues on our on sharepoint.
+
+Client 4: So, that's the first part is just, you know, somewhere to create budget? So we can actually have folks go and input their information and roll correctly. All the second is for reporting. You like to have, you know, some you know, simple reporting, like an excel adding to your your system or we can just you know, now all stuff we can send the folks right away. When you do analysis. One the there are big challenges the greg actually worked on now. He's trying to figure out our Arr arr.
+
+Client 4: So trying to figure out... And right now, like our business is unique. And that your Typical Saas business you know, customer signs up, you sign a contract. You send a key and they're off and running. With us a challenge is with our software, it requires hardware to be implement... You know, however has to be you put in and then, you know, deployed And then once is deployed that we can start this the the process the software and whatnot. Revenue recognition starts on invoice and we invoice upon deployment know the hardware. So we could sell something in December. And might not deploy so that that we can start... So i'll contact in December So subscription date would be December through November. By a long deploy until May, So we have a mismatch of, you know, the revenue recognition versus subscription.
+
+Client 4: Yeah. Yeah yeah. And that's not for you guys to figure out that's all. It's our problem. You know, one i think we... That our team does or we produce a dashboard weekly. To all of our executive team. Right? With something that right now, we we all put together in Excel. And then we put stuff on one page in Excel and we create Pdf and we send that out every week. So just here a wait for you look download stop themselves or somebody they to make that process easier. And you know, running reporting that sort thing. So, you know, dashboards budgeting reporting and spent a while ago why had one these calls. You know what else we greg? You are all my spiel for those calls. Well, I'm listening.
+
+Client 2: Like the you do you touch on like the like, the version control per, like, the budget stuff?
+
+Client 4: Yeah. That's that's a huge top line for right now.
+
+Client 3: We definitely need but, you know, bunch the actual could we do that pretty manually monthly as well.
+
+Client 3: So I that information will be good.
+
+Host 1: Yep. Definitely. And so one question I have, are you guys budgeting for op on any dimension to besides department. Are you guys doing anything like by product line or Hardware versus software or anything like that.
+
+Client 4: We we're get an account little detail. We do have different subsidiaries which we don't really pay that much attention to. It might have to at some point. And then eventually, we wanna get to point we're doing product level P and Ls. Were We're lucky to get a regular P l for now.
+
+Client 4: But we do wanna eventually our reporting by product. So our platform you know, margin by platform on H our Intel product, doing all that. So we potentially wanna get to that and then, like, ratios, of you know, customer ratio. So one of the things is we have neighborhood a keeper program. How many of our platform customers how many have get deeper product, you know? Just way just to pull that stuff. Active customer would be a great thing to have, which we don't have, you know, so It is not information.
+
+Host 1: Do you guys not have it in Salesforce or why that you guys don't have your active customer account Again, it's telling a, the when Salesforce was implemented and you know, we had a bunch of turnover within our company and things just weren't.
+
+Client 4: required to put in So know, one of things like I said, we have and they have like what do we churn the customer. Right? We have a renewal is open, but if it doesn't close at the certain time we combat that churn. There's some ambiguity with regard to you know, when account that is churn. And then the other question, they'll probably have is on our revenue the process was such that either the person is not only here, we're just kinda grouping all of our revenue for a customer in online. And sending invoice where the customer may have a platform subscription an it's response retainer so else, all that was being bucket on online, so really can it's impossible for us to look at like, pull salesforce report four eight given customer product and see if there we're still a recognizing revenue on we don't track things at that level.
+
+Client 3: I think I I think all that's kind of a component of Arr recording. You you have Arr, you know what customers are, you know, having recurring revenue then then you know you're your active customer base.
+
+Client 3: I think I think I had that right now Brian. It's probably a little lower than we expect it to be. But it would be a product we kind of get to our active customer base. I think the other thing we were gonna need is, we have multiple currencies as well. So I sent most as well.
+
+Client 3: But we have a lot of different ob subsidiaries going into different countries with different currencies but we'll need the flexibility with that, which I'm sure you guys.
+
+Host 1: So, okay. A couple things that I... Am gonna be very transparent with you guys. They might be blockers here. So let me know. One being local currencies. So because we're pulling in the way that we create our budget, we have a fully integrated through statement model and it creates the cash an indirect method. So because it needs to balance, we can't flip it flop through currencies on the model. We can pull in all the currencies. You guys can actually see on the reporting end. But when you're actually modeling, we can't just like, look at it in Usd and then flip it over to let's say, like, bridge pound or something like that.
+
+Client 4: Yeah as long as we can input the data in local currency. So, like, for head. Right? All we gonna have?
+
+Host 1: Yeah.
+
+Client 4: That's fine. Blue gb rev. And we we... Yeah. We only would look at things in Usd. All connect the on the currencies.
+
+Host 1: Yeah. Okay. Yeah. Count is different store we can definitely do that. So that's good to hear. And then so as far... Do you guys have, like, It are all of your sources that you're pulling from, Are they the three mentioned, like Ekg nets sweet and Salesforce or is there like a data warehouse is there anything else involved there.
+
+Client 4: Evans the we are eye on the but our top of needs was post stuff. You know right I've guessing you have replaced up from all three of those.
+
+Host 1: Okay. Awesome. Yeah. That's that's what we saw for.
+
+Client 2: Goal is for it to eventually, but we not right now, Got it.
+
+Host 1: And then another piece, so on your guys is inventory component how big of a... heart does that play as far as, like, in your your budget. Is it? Because typically, Mosaic is able to support b saas companies really, really well. But the inventory component just because it does have some nuance around like, inventory tracking and things like that. We don't do that. I know nets. We does that. So if you guys are fine keeping in there and that's great.
+
+Client 2: But even using a nets, I that's even cross any of our minds.
+
+Host 1: Which part? The inventory tracking? Yeah Okay.
+
+Client 4: It's it's a big deal. So I mean, we wanna be able to... I I don't know that we'd necessarily need this tool.
+
+Client 4: Yeah. We don't necessarily need the tool to do it. If there's a way to integrate what we have in nets week out. To be honest, I have no idea i'll tracked It's done our separate team does that. And example, we about twenty nine dollars of inventory this past year because of those supply chain issues.
+
+Client 4: Right? So we have a bunch of infer on our balance sheet. As long as we can you know, run it through the balance sheet. Okay. With we go. Here's or assets and here's, you know, what we've got rid of that's what they all we attracted the balance sheet. I think that would be okay.
+
+Host 1: Okay. Cool. Yeah. We can definitely do the depreciation and whatnot on. It's just not the inventory tracking itself. Nice. And then so Greg, would love sam, like, when you're finding your arr number, what's your starting source truth like, is that nets or is that Salesforce? And then what kind of manipulation you doing to get to that phone number?
+
+Client 3: Oh, wow, Going through that right now like today.
+
+Client 4: Why this answer actually like think on this yet course truth and what we're trying to make our through to salesforce.
+
+Client 3: So point point sales course did all time booking and then doing an air waterfall based on contract dates. To pick them up with our. And then it's not it's not clean. Contract issues we submitted Cpu, I think in October of last year. So there's some... That don't have contract dates. So lot... There's a lot of manual stuff that needs to take place time the scene for me to get there? I mean been working on just November Arr for the last two days just is we're to try to well we we we we my way through it and I've done it. I think. But We mean really over time clean up, I think in Salesforce, but right now, it's a little bit messy. But, yeah, I just pull all the all time booking data. Link that to, you know, the the contract or quote objects in sales and then and kind of water pull it out. That's how we would get to our active customer base. It's just a little bit tedious and manual at this point in time, but in the long run, it's gonna be our our Crm salesforce gonna be our source of truth.
+
+Host 1: Awesome. And so you're not doing any, like any changes that you make to clean things up are done in the source system and not, like, in your your spreadsheet.
+
+Client 3: It's being done right now in my spreadsheet.
+
+Client 3: It's not all the contracts aren't in there there's there's a lot of different bob just within salesforce that we need to talk to each other. Right now it's pretty manual. It's not x straightforward four. We want it. We're gonna get there, I think. But is this gonna take some time for this old expiring contract to expire and then data should be clear over time.
+
+Host 1: Gotcha. Okay. Cool. Yeah. That's actually not an issue for us. So we could actually use your stretchy source as historical. And then going forward, have you guys set up fields and you are like, looking to clean things up, eventually, get a dynamic build, but that sounds actually pretty good on that end. So I guess, a couple other questions for you guys. What other tools are you looking at? And like, what's your timeline for hopefully making a decision and and starting to implement.
+
+Client 4: We looked at... you know, Everything from like Cube all the way up to one stream. Right? So i know evaluating what where we think we are. From a... you know, an I lunch room too big for us. Right Let they go ready for that. Queue, I'm not sure, you know, they had all the functionality we need. So kind of run the gamut of... you know, I don't know what was it it's in on that ladder? Where do you guys position yourself or where are you guys?
+
+Host 1: Yeah. It's a really good question. So I would say prior to the last like, I don't know, four years, it was pretty much a barbell in the get where there's, you know, some lightweight for two plug or still are a lot of them and then there's, like, the Hyper, you know, the active and plan. We're kind of... And this is on purpose, I think. It's just like a gold loss perfect middle round where you do get the flexibility and everything you guys aren't gonna need when you're growing your company, but then you're not having to, like, you know, have this implementation where once you set it up, it's very rigid and you have to have like someone to manage it. I think we definitely have more fun functionality in queue. We are gonna get you guys out of spreadsheets in much of an issue. I think the issues that we see with those more spreadsheet based tools is that a lot of the issues with spreadsheets while they are a little bit better. They're not gone and that you guys are gonna have to continuously build with that. Also, q does have, like, an eight dimension limit limitation which with larger companies like your own is really common that we see that that's a a pretty big limiting factor. But I think you'll you'll quickly see that our approach is very different. From all the other ones in the market.
+
+Client 4: The... bear.
+
+Host 1: Sure.
+
+Client 4: The... The ones we've done demos for where... I think we did a cube demo Yeah.
+
+Host 1: Plan for Yeah.
+
+Client 4: Viable have adaptive cube one stream And, you know, so, we kinda run the gamut of everywhere there.
+
+Host 1: So... Got it. Yeah. Plate adaptive one stream, definitely more like legacy players. I I am curious from your eyes perspective, because you guys are larger as far as like head count and funding size and everything like that. How often are you guys changing the way that you're doing things? Like, are you guys often adding departments adding, you know, potentially looking at training pricing product lines, are you guys acting more as up or is it more enterprise?
+
+Client 4: More startup up, but accounting won't add more more department.
+
+Host 1: Okay. I'll many reverse you guys have.
+
+Client 2: Twenty three twenty, something twice.
+
+Client 4: Okay. That's but it's it's it's changing though.
+
+Client 2: I mean, like, we're trying to, like, consolidate then add in in another areas. We would want some flexibility because it's not to be locked. Like, forever for...
+
+Host 1: Yeah. Totally. And so I think that that the reason I asked that question is the adaptive plan full. Those are definitely very robust tools, but pretty much once you go through that really long implementation time. Anytime you wanna change something, it becomes a whole, you know, scoping and consultant type of situation. So that's what Mosaic is meant to avoid is we are meant to be flat for you guys we're if you do need change things or teams like calculation, it's really easy to do that.
+
+Client 4: If we talk did you mentioned adaptive Brian was going through my calendar last year we did adapt too.
+
+Client 4: Yeah yeah. So... Yeah. I again basically, we we definitely wanna get a place where we can model out using the model for, you know, obviously, your actual for a current year for forecast for current year. And then put in our five year plan there as well. Right? A five year growth plan, we want the flexibility to to possibly integrate an acquisition or, you know, acquisition or two during that time frame. So we had like made two sets of books so we you can eventually integrate. What else, like I said, just ways to automate the Reporting, And what the reason we didn't... So we went do this process last year. And the the main reason we didn't do an implementation was because we don't didn't at the time think our data was good. I still don't think it's great. So... And the reason, we'd we'd like to try and look at tell you soon or how to you know, other vendors have reached out again to try to give us, you know, year end pricing. And I I don't wanna rush through the decision to get good pricing.
+
+Client 4: To my.
+
+Host 1: Be into two... If you making decision in two weeks i you guys side that be pre shocked. So We've we analyze all the tools before.
+
+Client 4: And we thought We we're We designed to put just decision off until we had better data.
+
+Client 4: Right? So I I still don't think we'd be ready you know, February... Our fiscal years February to January. I don't think we'd be ready February one for implementation anyway. I do got... We've got a lot of clean we have to do on our end both from a Salesforce ai perspective, and the upgrades is working on and get that. Data in the Salesforce and get a clean, and also from a next perspective we've got a ton of stuff is not in the right, You know, there need to be rec class. The things are that lot of turnover accounting and things aren't coded to the right department. So you know, it'd be the the classic of garbage garbage out. If we actually, you know, it went today so definitely why I take the time to do the data cleanup knob and and whatnot. Yeah. Like, like I said, the the vendors that we looked at last year are kinda, hey, what do you think? And, you know, one of them offered us, you know, a very good deal and we could push the implementation after for three months. Right? So I kinda wanna I wasn't planning on looking at this this quickly. But if... you know, and then our Cfo in some Cfo group. And someone said mosaic jose was a good tool so he wants us to to at least look at mosaic before we make that type of decision.
+
+Host 1: Cool. Yeah. I think probably the f suite. That's a popular one our name gets thrown around in. So that's pretty cool that we got in the mix. So That's good to know. So i... Realistically, do you think you're thinking about implementing q two? Or I I I would hope i...
+
+Client 4: you know, so again, our our fiscal years end of We'll go to the budget process now, so we're not gonna, you know, caught you of rotation until you after February?
+
+Client 4: And then, you know, I'd like to do something and, you know, start like, the March April time frame?
+
+Client 4: Just get us good budget of process, get through the board meeting. And then hopefully, you know, we'll we'll maybe each of us rest after the the budget process. And then then I think we'll great to to focus on something like that. So I say, like a marked april time frame.
+
+Host 1: Yeah. No. That that works out well. Cool. So we'll go through, like, obviously the high level on the tool on our next call, and then we'll definitely wanna scope everything out. As well. So typically we do demo. We do copay, that we like, really dive into any other piece that you guys wanna learn more about. And then happy to to really make this timing work for eyes timing, and and when you guys wanna implement, we do the same thing where it's like, If you guys are ready to make the decision, but you wanna implement later. Start day. It doesn't really matter to us. But that sounds good. So I guess, are there any other... So guys have a little bit of than Nuance in that, you have a large part of your expense being hardware and not all head count based. There anything else that's just a little bit different for your guys's pricing. Like, are you... How do you guys and package product.
+
+Client 4: It depends. So our main product is, you know, our Saas product is our platform. Right? That's our our saas software product. And then with that, know, we've got some add ons. We got a, ot watch intel worldview view is one of our products. And we have a professional service organization. So... And the nuance there is we've got incident intuit response retainer. Which is a customer will buy three hundred hours of subscription for three hundred hours for a year. And then we can that to be Arr. Because somebody like... you know, it's... if they don't use it, they lose it. Right? But we do burn hours against those. That aren't Necessarily is responses. So it's kind of a one thing we're finding is, you know, we're salespeople get comm on Arr. So they're booking things aren't really retainer or retainer because they get paid for it. Right. Just that's what telling people do. Right?
+
+Client 4: And but we also have proactive engagements where more of your typical, like, L more fixed price, professional services model. to a professional services team that rock they have a regular normal... You would think consider professional services product. Then they have an Arr component well an Arr offering also. We also have training credits, which I priced out, but we're probably gonna give a lot of those way free with the platform. Right? So some of them are paid for. We have, like, instructor led training, which we where we or charge credits for. Mh. And then we have some on demand training, which are stuff already out there that we may away for free.
+
+Client 4: So just have a... Yeah it's not your typical just one product saas that you know, it's... You turn switch off and subscription kind of nuance each of the offerings we have.
+
+Host 1: Got it. And so with the services component, do you guys have to look at like, capacity planning, Okay. Cool. And then So for our service professional service group, know, greg building and capacity models.
+
+Client 4: We wanna have that part, you know, that end in there. We have an another group called Ot Watch, which similar but different. The way their metrics are that certain and you'll great price more certain metrics that we track to, you know, for different utilization components. And then a training team, you know, right now we only have. We have two and a half training. The two trains one part time person And then if we were to blow up the training model, you know, we have ratios of classes to know, people class, and that's right in how often classes kinda want something to build all those, you know, all that nuance in as well. So organization component. Right now, the the model built is revenue based. So, you know, we take the, you know, amount of revenue we plan deliver what utilization is, what the rate is and come out with what we think our capacity is. And then anything where she going short, we, you know, we need more people. I think we wanna change that in all respects to an hour's base thing. Just because like I said, with the the retainer model, we don't necessarily have to burn the revenue. The revenue is going to be recognized evenly across the the subscription. Right? So that the model won't work for that. We wanna kind of look at the hours and hours different our capacity.
+
+Host 1: Gotcha. Okay. What percentage of your revenue would you say is coming from this transcription or the service part.
+
+Client 4: Like, it's it's it's becoming less And so we're we're focusing on selling the platform, So I I don't know offhand hand what the opportunities is.
+
+Client 4: Twenty five percent so, but or set around there.
+
+Client 4: Is the the the the dollar of business is to hopefully service guy doesn't hear this Get out the service business. Knock off. But And the the thing that makes us unique as a company. So there's three companies in the world you want to do what we do. Go to do a lot of their intelligence work based on our part intelligence. Ours actually requires people. So that's what's our differentiator in the marketplace. Is that we actually have very high level high security fire former Nsa folks. Actually going out there and looking for threats. Annual looking at where what our our potential, you know, customers deal threat... you know, threats are that's sort of thing. That's the differentiator with our business model as well. So it's very important that we that that people because on Bye.
+
+Host 1: So just gonna be smaller, but it's never gonna entirely go away because you do have that component to.
+
+Client 4: It's not the group not gonna shrink they'll probably grow, but as a percentage of revenue we're hoping that the platform, you, we're hoping at the the services offering will lead to platform sales.
+
+Host 1: Know. Okay. Makes sense. Well, I'm definitely gonna have a couple people in my team, just watch over this because there is mean, as a big company, obviously, there's a lot of complexity here. And I wanna make sure that when we're showing guys the product, we can tell you what we do well and then also tell you like, hey, here are things that, you know, you guys made still doing spreadsheets. So I wanna i set up the demo, but if I find anything out before that, but you know, there might be some shortcomings from the conversation. I'll let you guys know and that if if it's a deal breaker, know, we can cancel. And if it's not then we'll, you know, Our luxury the tool, because it is super powerful and it is gonna be a lot quicker or time to value than like, you're adaptive. That you're looking at, but I definitely from this conversation think that cube at least is a little bit to lightweight whatever tool just given the complexity guys are mentioning saying.
+
+Client 4: We'll do as far as customers employees revenue, where where are do you guys typically fall?
+
+Host 1: Yeah. You guys actually do fall within. I think it's more the the business model that makes it lot more complex So our sweet spot is... I mean, we do serve series seed customers, but we go up to, like, D e. And then our largest customers like over a thousand employees, but it really... Well depends on how you guys are run in your business rather than, like, you know, the size because it could be more simple and we could serve a lot larger.
+
+Client 4: How can you guys grow with us?
+
+Host 1: Totally, I mean, that's the really a whole goal. We're kinda constantly like, innovating on our product and that really is why we're gaining so much market share so quickly is because we started with just give me Sas now we're opening up for our Into a lot more areas. Meant, you like, help you guys get to that you know, Ipo or wherever you guys are are landing.
+
+Client 4: Yeah. So that... Sorry, our goal is have actually Ipo. What's your... I guess, the implementation road What's a time frame, you how much take... What's what? Or requirements you have on our team with the implementation, like Do we do it a lot of ourselves? Do you have people here? What's what's the plan there?
+
+Host 1: Yeah. So we actually do everything in house. The heavy lifting is on most our part, but definitely is gonna require like, meetings from you guys, a lot of validating a lot of, like, understanding your as data logic. Our typical timeline out is four to six weeks, but for you guys, I'm thinking it honestly might be around double that just given the complexity. So I don't know, eight to eight twelve weeks something like that. Yeah. So it... It's something that we'll scope out further in scoping. But that is our our average.
+
+Client 4: Okay. Anything else greg... I gotcha I have my spiel a lot down because we went through this with a bunch of...
+
+Client 2: I think is I mean, there's just like, our intro. I'm I'm gonna have a little bit more thought and plus my brain is like not working right now after all the meetings today. So I we could probably like, go more deep dive we'll actually go into the tool questions. I guess, like, next steps were schedule. We have two minutes left for our next call.
+
+Client 2: Yeah.
+
+Client 2: In out to me, and I'll I'll let you know, like, what availability Sure.
+
+Host 1: Yeah. I actually have a a scheduling link that i'll just send over to you for me and my solutions engineer and then can find.
+
+Client 2: Yep. And then I'll look at Brian Greg, like we we all three of us definitely be on it.
+
+Client 4: So... Yeah Question for you. Before we before drop. What's your pressure for your on pricing? Do you think that we could do a demo and get pricing all the same time just to look at, you know, look at your end thing.
+
+Client 4: Fred graves out the week before Christmas New Year, twenty Christmas from years, later was down. Friday. So probably have to tell me next week. Again, I'm not gonna get... You, i I don't don't put new forecast because you know, i I don't know that we're gonna make a decision that quickly. But yeah. I just like to have some we can compare the other vendor.
+
+Client 4: Yeah. Because you're kind of pressuring us for a year end thing.
+
+Host 1: And yeah.
+
+Host 1: So Yeah. We'll definitely get pricing on the next call. That shouldn't be an issue. We also technically do close our office between Christmas and New Years. But if you need to take call, it's like totally fine. But we'll... I mean, I have some availability on Monday. So if you guys do that probably best. That way we can get a couple calls in before, Greg goes out of office.
+
+Client 4: That's our Mother's.
+
+Client 2: Through what for now till it starts filling up. So yeah, You send that link over Yeah.
+
+Host 1: As then.
+
+Client 2: I'll get something.
+
+Host 1: Cool. Awesome. Well, thanks you guys for meeting. I'll this actually in the chat right now, and then I'll send an email, and then we'll get something set up for early next week.
+
+Client 4: Okay. Alright thanks guys.
+
+Host 1: Talk.
+
+Client 3: Thank

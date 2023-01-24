@@ -1,0 +1,115 @@
+Host 2: Right turn off the, like, the host feature thing.
+
+Host 3: Everyone's meeting recorder coming into.
+
+Host 4: Except for my no I never joined.
+
+Host 3: Oh, reactions here.
+
+Client 5: And we can get Zoom fatigue or whatever it's called can you imagine not have liability performance issues anymore.
+
+Host 4: That'll be up.
+
+Host 4: But it's t flow? I close a team floor by still open. Oh, it stays in tree. Alright. Can we stop?
+
+Host 2: This idiot.
+
+Host 4: I'm a sure.
+
+Host 4: Alright. How we Alright.
+
+Host 6: It's pretty. Loud over here. So I'll just start they're not banging enough. Basically, yeah, I did a bunch of work to get all of this shit ready for you guys to be a longer right now. Have a bunch of tickets. I still have more tickets to try to figure out hitting me and Enrique can probably just sync up to this I paying that out and make everybody's next week. More more scheduled then. No. That's good.
+
+Host 6: A bunch of other meetings today too. We have a couple sales Ai meetings like actual sound people. We're trying to sell. And then... Yeah.
+
+Host 4: Jebediah. You're on these next?
+
+Host 2: Alright. Let's see. This week I've been working on workflows. There's some exploration there. We sort of simplified the idea to be more like just Slack integrations where you know, you can you can have all your meetings posted to Slack and then we're working on some ideas around how you could have, like, some sort of conditional like, statements set up so that if a meeting meets certain criteria, it would post in a certain channel. So still working on that. I think we're moving the the sink until Monday.
+
+Host 4: But it sounds Yeah.
+
+Host 2: Yeah. It's gonna be kinda cool. So, like, all meetings that have, like, the longest monologue, for example, like... Or maybe a a long model log stands out. Would be added, like, filtered out and then added like posted in Slack or you could you can configure anything. Like if if it mentions a competitor or I guess the the sky's is the limit. You could ask the question. And, you know, if the query response is a certain thing, I don't I don't know how we'd set that up. But yeah. It'll be pretty cool. So so... Yeah. Look for that on Monday. And let's go with Her Thanks.
+
+Client 7: I've be working on creating a new option app to deploy the topic protection? That's working. And then I'm gonna be working on the spa integration. Whiskey. We And next? Jonathan. You next.
+
+Host 4: Thank you. I've have been working on the comment back. Issues we had and I had to pass it for a while because I was onboarding Jack. And I'll answer you some questions for officer. About the process that we we going to start next week. And I have been working locally on trying to get century session he played to work. And... Yeah, that's it. Then I'll be out of the house next week. So all other the tickets that I don't finish for the comments I'll I'll I'll assign them to Yeah.
+
+Host 4: And basically, right now it's a big issue if it's just some boxes. So I just not, like, check the ones that I finished it so we can sign the other ones the people.
+
+Host 4: Can you send me that? Usually Yeah. For sure. And they they like super simple. Most of the has simple, so we can just like... It's a good first issue for most people.
+
+Host 6: Awesome. Yeah. Just send me the mega, and I can get call up how Yep.
+
+Host 4: I'll sent to you at the end of the day after I tried to finish some extra.
+
+Host 6: Sounds good.
+
+Host 4: And the next is going be beyond.
+
+Host 8: Nice. Thank you. I've working on the hubspot is looking pretty good. I completed by bunch of endpoints. And today, I'll continue working on that. And I think are gonna be done with that today. So, yeah. That's it for me. So next one ian. You can go next.
+
+Host 1: Thank you. So yeah. Hope working on out what going on with those multiple calendars and stuff. So I did I did some tooling help with that, but then a lot of that seems to be beyond calls in. So issue with flows Calendar is a bug on there end like I look to his preferences and they were like totally wrong. So the point times out. I'm trying to update them so they're looking into that for us. The other account should be deleted. And they're gonna redo how that stuff works on their end, so it's better. Was a v too. And apart from that, I did a couple of small tickets sorry. I can't remember what they are. And I'm looking into the... Sorry the start on the danger chair. Oh, sorry. Jebediah I already went.
+
+Host 2: So I'll nominate Enrique.
+
+Host 3: So similar to Brandon said, just working to finish off the planet for the next couple sprints? And then also starting from research on the Rpa category just robot process automation. Rabindranath, You're gonna?
+
+Client 5: Yeah. So just getting the repo working locally. I'm just getting familiarize with that I think that's it for me. I nominate idiot next. I'm just I think it is actually a bot Yeah.
+
+Host 6: Anyway. Let's just get a go vincent.
+
+Client 5: I heard him he's just very quiet I barely hear.
+
+Host 4: It's it's so... Yeah. Super low.
+
+Host 6: It's just messing with this. Stand up. Let's let's do. Let's get the original people out of the way too because I'm answer So Vincent and Jimmy.
+
+Host 9: Alright. Alright. Alright. I'll go next. So working on just do some code cleanup on Jimmy as service we managed to with with help from and then, we were able to get that deployed nicely. I think we have a good what do you call it the action now, we just have a click one button again that deployed. So that's really helpful. And then I'm back on insects. We I have a few tickets for insights I'm I'm probably not gonna finish all of them today and might did a couple days next week finished those. And also, looking at developing a technical interview for Ml engineers. So Hopefully, I can do some of that today too. And we could jump to U.
+
+Client 10: Yeah. Well, next few weeks, I'll be busy with hiring, actually looking through all the residents we received, which is hundreds and then reaching people So there... The status will be the same pretty much. Let's there's any other things. Jimmy How many people are we hiring?
+
+Host 4: Sorry.
+
+Client 10: We start with two I think and then slowly ramp up the way how we can onboard them We also want hire really good people. So... And there's another station you guys probably heard that there's is a lot of layoffs recently and companies like Salesforce, Amazon meta. So amount of resonance is insane. They the shutdown now job was in Linkedin within a few hours because we reached I think a few hundreds of cap, Really?
+
+Client 10: Patients. Yeah. It's insane. Jimmy.
+
+Client 11: Yeah. Yes. I'm updating the api service port many different functions. Will include the boss the gp Gt p three and a model, and also pull one additional parameter will connect which model you want to use when you call the Api. So that lymph gather a out, you know, different versions or the model and so we can compare the results. And another thing I'm working on is to put no. They could debt no. The general Ai, I build a tool types and I'm building doctors and put me the Google call the computing platforms. Yeah.
+
+Host 6: Awesome.
+
+Client 11: Do have a next I think the only one I a Gun should come.
+
+Host 6: Or Abraham like red only content fan non taker.
+
+Host 12: Here is. Yeah. I'll I'll go next. So I'll I set right cases and uploaded this case And I am very very in mindful riding or test cases. Our office had about forty percent kind repeat kind steps and So I'm trying to be more efficient, so we'll have list cases but those test cases are gonna be more comprehensive having automation in mind. And I'm also looking into learning a little bit more more like about Ai and see how we can... Because I'm assuming, you know, like, to be efficient or qa ways this correctly I will need to know a little more about machine learning. So I am opening out my skills so that I'm searching courses. And I first for today, I am going to continue running these cases I getting ready for Monday and I'll give this to should can't. Next.
+
+Client 5: Gonna saw your check.
+
+Client 10: Yeah. We can hear you but very, very low, super low. Like you in a different room.
+
+Host 4: He he actually posted in the chat while he did. He got the app running and... Yeah. And deleted everything.
+
+Host 3: Right. I think we're good.
+
+Host 8: Awesome I'll see later hands.
+
+Client 5: So in sales or bought account is now unblock.
+
+Host 8: So you can log I thank you everybody see.
+
+Host 4: By the way, we like have the hands on Zoom.
+
+Host 6: No. I'll hands. Well, let's go back to teams. Find out.
+
+Host 1: Brenda, do you have access access to team floating bob?
+
+Host 8: Alright. What is that?
+
+Host 8: Good the.
+
+Host 6: Team flow bot.
+
+Host 1: The github account.
+
+Host 6: I don't.

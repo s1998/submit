@@ -1,0 +1,219 @@
+Host 1: i think that's ease showing up in the conversation, Or is that something that you like kind of mean immediately.
+
+Client 2: Right I... Yes.
+
+Host 1: No. No No It's great. So basically, we're gonna open like a small window during your meetings. That like, lets you easily update your pipeline during your meetings. Some of this I hate you can it don't try to fill them. So, like, that's what I'm gonna do for that field. Seven of the fields we're gonna tell the Ai like summary, like that summary Ai nails that. Gonna be price the Ai does have a really good job.
+
+Client 2: Got it.
+
+Host 1: What's what's that?
+
+Client 2: This is, like, current challenges or pain or anything that I hear in a call put into the pain section.
+
+Host 1: What kind of questions do you ask during the call that and google field.
+
+Client 2: It depends on the call, but usually, whenever I have, like, an introductory discovery call. A lot of it is about Time spent managing current infrastructure, how much time in your day. You spent rain, partitioning vacuuming, planning, around data. Versus how much time is spent. With revenue generating activities like running models or clearing. Or self serving analytics? So that will won't cover a lot of pain there's a you know, a kind of a breath of different of questions. Depending on Yeah. Depending on kinda of where we are in the conversation how much money How much capital is being spent and allocated towards maintaining infrastructure.
+
+Host 1: Got it.
+
+Host 1: Yeah.
+
+Client 2: Okay. Things of that nature.
+
+Host 1: That's that's it. Okay. So you ask how much time do you spend doing is? This is that? And that's and that's the kind of thing that done the pinpoint.
+
+Client 2: Yeah. If I can tie it back to time, energy or resources, Right.
+
+Client 2: Great. So I try to ask questions. Around that. How much time is spent? Who who, you know, how many human labor hours per week How does that affect the business? How long has that gone on? What have you done to resolve it? How would this impacted this, you know, the business if this wasn't here today, etcetera, etcetera.
+
+Host 1: Right. Right. Right. Awesome But...
+
+Client 2: yeah. Moving on, I would say, yeah, these are I definitely try to understand what are they using today? What cloud are they on or what region?
+
+Host 1: Then you what kind of questions you. Yeah. Is that like, the actual business what are you using what Cloud on?
+
+Client 2: Yeah. This is these are boring questions. This is just like, hey, what do you what are you using today? Redshift big query, etcetera. That's for the data platform. And then I can kind of infer what cloud their on depending on the technology they use. It's always good just to to double check here. You just in Aws. Sometimes we'll say no. We some instances emphasis in Google or Microsoft. So I always ask that question I i i I do ask science I'll put that right now.
+
+Host 1: What what what what kind of question do you ask? By the way, we don't extract the cushion wheels for we or anything, but we can can train the Ai using it.
+
+Client 2: What are you doing for data science today?
+
+Client 2: Yeah. What tools are you using? Pretty much it.
+
+Host 1: Yeah.
+
+Client 2: How much data I'm interested that do you have or something like that?
+
+Client 2: Yeah. How much data are you dealing with today?
+
+Host 1: Right... Yeah. Yeah.
+
+Client 2: What what are your data sources? Where is it deriving from?
+
+Host 1: Right. I can see are been kind of technical to deal job. Like how it's gonna be a bank to train you guys.
+
+Host 1: Yeah. Yeah.
+
+Client 2: It I would see... Yeah. It is a more technical. Product, I would say relatively. So it might take a little bit more time front to to understand. I would say that's what separates maybe reps that can contribute value a little bit more so than others that you know, I love understanding what it is that I'm preaching chain. Right? So it's Right.
+
+Client 2: He hoo me to understand these questions in A mass and why they even matter and the more I can do that the more, I can the more evaluate. I I would say? But it was a mess when I first time. I didn't understand any of this.
+
+Host 1: Long could be that snowflake again?
+
+Client 2: Two years.
+
+Client 2: Alright.
+
+Host 1: Yeah. was just chatting with david schneider.
+
+Client 2: That sounds familiar.
+
+Host 1: I don't think he was snowflake because he's worked his praying for at long time. It was he was with him at domain and sort this down and all that Got it.
+
+Client 2: He is he answer snowflake like or no?
+
+Host 1: No. No. No. He was like, head revenue at at the at these companies.
+
+Host 1: Wow? He I think you didn't wanna send up a new round of duty. We... I mean, he loves right with like... It says text at tone you to work with a guy, like, he's right on. I a huge train us with by the way.
+
+Client 2: Yeah. Yeah. Awesome. Is a good guy. I honestly think that's kind of it.
+
+Host 1: Alright. So about the fields right here.
+
+Client 2: Flow are these the things that salesforce this tells you is what our Crm generates as like, fields.
+
+Host 1: Right? Yeah. Yep.
+
+Client 2: Yep. This is this more or less? Relatively t.
+
+Host 1: Or not. It's a lot of field.
+
+Client 2: Yeah. That's what I think there's so much It's too.
+
+Host 1: It is too much. I I'm be syncing for me, like the p at the bottom of the rainbow. I think there's no both needed to, like, rebuild the Crm which did with Ai at the center. All of these fields exist because there's no other way to track information on organizations that could in field. Like imagine if you had, like a meeting recorder, and then you can ask any questions against your copies of meetings. Right? So you don't need to like, freeze your data in fields. You can just at any point you gonna ray right me ask questions and like, and create fields and fill up fields. Proactively.
+
+Client 2: Like that.
+
+Host 1: Yeah.
+
+Client 2: You have a strong vision with this. This is... I'm... I'm like excited to see where this thing here.
+
+Host 1: Yeah. There's a beautiful man. Like, Ai is crazy. What's happening now is just that's Yeah.
+
+Host 1: Yep. Yeah. And you'll be able to change that data, but like, you're done? You can, like, click on my save tuned here.
+
+Host 1: And I'm I'm surprised they love down you'll Can't deal with the sales.
+
+Client 2: Right Alright.
+
+Host 1: And and Slack is, so we don't yet have that, like, side. We know hope you're have, like the wiggle two? Okay. In the meantime, we notify you when Crm suggestions ready for you to on that. We never touch Crm always in the loop. So you receive the slack message like, hey, This is what when understood from your call, do you wanna Got it.
+
+Client 2: Do I have to request is albert saying?
+
+Host 1: Yeah. It's gonna request. It's gonna request cool It again. So that's probably something. Ticket mentioned that Got it.
+
+Host 1: Got it. You can say, like, well just asking for pretty basic permissions, I think.
+
+Client 2: How does that more to this I would say Looking to get access to Like, you can you can check at at sells ai dot com I mean, that's the founder or something.
+
+Host 1: Thank you, sir.
+
+Host 1: Can you Hopefully. Oh, that's fine.
+
+Host 1: Alright. Oh, That's fine. Can you click on the back button?
+
+Client 2: Up here. Yep.
+
+Host 1: And that look long click on it.
+
+Client 2: Along click.
+
+Host 1: And click on sales ai to social one. Yeah. Alright. Then you can do help with this later. Case that you may email just that as convenient.
+
+Client 2: Okay.
+
+Host 1: Can you try again? Do this later. Doesn't work. Oh, there. You can you can also do all this fade up here. Yeah. It's have to do that now. You have anyone else you'll keep you wanna like, invite to this. You can type the emails here.
+
+Client 2: How do I come back to it later and I just go to com Yeah.
+
+Host 1: At l dot com.
+
+Client 2: Okay. I'll do that.
+
+Host 1: Yep.
+
+Client 2: My team would definitely wanna do this.
+
+Host 1: Okay. So this is the thing I told you about. So like, we call this the sidecar. It's like a little system that itself automatically when you all in a sales meeting. It be fully ready in, like, a week but you can all talk to the.
+
+Client 2: Download here.
+
+Host 1: Yep. That is one of the areas where we'll visibly beta. It's like, six hundred megs right now. I mean, lucky to have a good connection. Is gonna be like, fifteen megs soon.
+
+Client 2: Okay.
+
+Host 1: I'll guide you through the install. And yeah, I mean that's it otherwise, like, that, once you're connected is your calendar, the your meetings will... Like, we'll we'll have a bad that joins two meetings. And then your meetings is look get here. And you'll receive notifications with these Crm suggestions.
+
+Client 2: Nice. I like that.
+
+Host 1: Yeah. It's pretty simple.
+
+Client 2: Yeah. And... Okay. If I don't, have the calendar enabled, will I still be able to use sales Ai during conversations?
+
+Host 1: Yes. What you will have to do though start a experience. If you click on you have it down the top right, No. No in intel Ai.
+
+Client 2: No. In the number right here.
+
+Host 1: Like okay and you do settings? Or meetings, I think Nope. Click on settings, actually. Yeah. Actually, that doesn't even work if you have I'll make sure to fix that. We're gonna add a field here in which you can paste is Zoom link.
+
+Client 2: Oh, okay.
+
+Host 1: Yep. There you go. Field That is it so you don't know the the thing can you open there you go. So it's in out. Yeah. And then what kind of mac do you have?
+
+Client 2: It is a Okay.
+
+Host 1: Alright. So you can open The one that goes uni universal soul Like no. No. No. The the one above above... Yeah. This one.
+
+Host 1: Yep. Just could be paste. And then open it and log in again with the account to just created.
+
+Client 2: K. And then I go here, kicked getting sub clients too so when the time comes.
+
+Host 1: Alright. That's it. All set. Well, no. You not. Because when you like that, calendar commission.
+
+Host 1: Yeah. Seventeen did the ticket yet?
+
+Client 2: No. I have to go into let's here and Open one see. It usually takes a day anyway. So I I would be surprised if they go back to me. When they do give back to me, let's say best case they approve it, then I can just go in and connect it to the calendar. Right?
+
+Host 1: So exactly right. So you will click on your profile picture. You do settings and then you connect your calendar there.
+
+Client 2: Okay. Worst case they say no, manually I'll have to come in... Or actually there'll will be a widget that you add breaking add as zoom meeting link.
+
+Host 1: That's right.
+
+Host 1: Okay. Yeah. It'll be told about there, I can click on it paste to minute link.
+
+Client 2: Okay. Cool. I guess that's the only blocker then is I've submit this ticket And then I will wait to hear back from them and then I will connect. And then do you want me to submit you feedback as I go and Please.
+
+Host 1: Absolutely. Oh you not Slack... Like, what's the best way for us to communicate slack email.
+
+Client 2: Either or, Slack him quicker I would say.
+
+Host 1: Yeah. Same here. Okay. So i hesitate team to Slack. And... Yeah. I mean, also, like, repeat the feedback below ribbon here, that goes like reached to me of the team in slack And, yeah, I mean, we'd love to help from you And again, once it's rolling and I am also curious, we are building a Gong have a shot at building a bit of gold. But let's see. I'm curious to heal your yourselves on that.
+
+Client 2: Yeah. Yeah. Yeah. I mean, I'm happy to help.
+
+Host 1: Alright? Awesome. Super appreciate you man I'm really great for poll time and and your help. Tell you and help you.
+
+Client 2: Up.
+
+Client 2: This is easy helpful.
+
+Host 1: Once I regarding and I'm excited.
+
+Host 1: Alright. So let's go that then.
+
+Client 2: Let's do it. Thank you.
+
+Host 1: I appreciate time.
+
+Client 2: Yeah.

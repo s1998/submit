@@ -1,0 +1,317 @@
+Host 1: If we talked about it at all, then I'll summarize before you join and if not, then we can just start the conversation then.
+
+Host 2: Sorry. What was that?
+
+Host 1: Hi. Hear me.
+
+Host 2: Okay.
+
+Host 1: I'm so calm down. Alright, Colombo, were you there? You look festive.
+
+Host 2: Festive.
+
+Host 1: Yeah. You know that color often. Oh, wow. You don't have that much going anymore. Rest. A couple meetings.
+
+Host 2: Yeah. See demos works. Then Just gotta get this guy on the line. To the Poc style second slack and make sure you since Oh, they set up, so wins spot now Yeah.
+
+Host 2: In the Cs channel.
+
+Host 1: But yeah. That's cool. Automation. Where Colombo? Nice. Year's was little to Monday. Alright. He's twenty.
+
+Host 1: You. Colombo How are you?
+
+Client 3: Hey. I'm good. Thanks. How you?
+
+Host 1: Good. Thanks for being flexible with, you know, high on self emailing.
+
+Client 3: That's so trying to squeeze all it. I I used to live in the states. So I know what sort of text given week is, like, most people are So yeah. Time zones are not easy to manage the best of times.
+
+Host 1: Yeah.
+
+Client 3: So no. No problem. And so few minutes late, I will just so you know, I am leaving to get a taxi in fifteen minutes bike continue but be via. At headphones.
+
+Host 1: That's totally fine. Yep. Awesome. So I guess I want to bring on markets just to one address any questions that we could about like that deep dive thinks, because honestly, tomorrow's demo is probably gonna be pretty high level.
+
+Host 1: One i... Maximus was gonna be there. And also executives like typically, like, look at the outputs of what they're getting. But I also was curious, like, what the rules of other people who are joining are as well.
+
+Client 3: Yes. Yeah. Well, let's start with that. So tomorrow, Yes. Tristan Ceo, very burn, savvy. And as I mentioned, all of earlier calls just a lot of forecasting previously. We've got Sand who's... That's manager join my team and Lilly who's up assistant. So it's just to them that not. They've not part on the forecast processed. Process before. So I'm just keen for them to see what sort tools will and over time, if we go with it, then that'll be something that they will get skilled and developing on. So it's just a bit a flavor for them and an interesting. So for tristan. Yeah. I think definitely some of the board reporting for some of the how we can consolidate... And see to notes sort very basic how we can get some nice support ground air. So of the south side. What else maybe just to up on my high valve and how they had count great. We haven't spent a time to free of us. But again, he's very focused on Salesforce. So you sort of our Salesforce export. Expert. So what what call features we can get from linked from Salesforce into Mosaic. From an opportunity perspective ready modeling Yeah. That's a few things. I I'm not sure we'll have an hour or thirty minutes again. So It might be just giving it flavor. And I think give a bit as well, which we talking about Meeting him talking about which is the collaboration pieces. So let's say we wanted to give our head of sales information. Or ahead of us services multi two business. Some financial say, you know, what ports in the how can we make that start because they don't see a lot of inflation right now. Outside of mean him. Rest of the whole management team So... Yeah.
+
+Client 3: I suppose a flavor yeah. A good flavor, which obviously clearly in thirty minutes so an hour we not gonna have lot Give yeah. Give him a sense.
+
+Host 1: Gotcha. Okay. Yeah. So it sounds like just like pretty much touching on everything, but we'll just have to condense it a little bit to make sure that Yes.
+
+Client 3: Yeah.
+
+Host 1: Quick question on that also is So is he confirmed for tomorrow, just he hasn't accepted the invite yet?
+
+Client 3: He is... I have another meeting moving him at that time that I'm gonna move so he's he will. He just okay. Been a mountains posted day today. So yeah.
+
+Host 1: He will join it.
+
+Client 3: Pretty.
+
+Host 1: I will try.
+
+Client 3: Yeah. I'll I'll make sure you telling be getting early to join that.
+
+Host 1: Okay.
+
+Client 3: I noted it he goes different ways. Sometimes it actually have to would be better, but was due to be new york a week but he's not, and he's got how many commitments in afternoon do? This week. So hence why the morning been the standard time there Gotcha.
+
+Host 1: Okay. That makes sense.
+
+Host 1: Yep. And so guess Any need questions that we should have Maximus Labrador on. You have the like, thirty month thing and then... But, like, anything else as far as tool itself for areas want deep dive into.
+
+Client 3: I think the bit where I'd the like and maybe we set up in another half hour maybe early next week if than everyone at that time this week. But the salesforce, piece I still... Jonas I haven't watched a bit any the videos and sent through in that time. So I'm hope I'll get a bit time back into this week. So maybe that'll answer some of some of those questions. One thing that I'd do a lot when I forecasted is four that, like the supplier level. So I assume there's ability to do that. Right? So who got then Slack Zoom, whatever it may be. Can you forecast your cost base an individual supplier mh Yeah.
+
+Host 2: That's right. On the expense side.
+
+Client 3: Yeah. And does that linked to the zero? How how does it pick up the supplier cost? Is it picking up contact there's a supplier of from zero and then pulls it in exactly.
+
+Host 2: Yeah. So as long as your vendors are tagged, to your Gl accounts? And and or departments. Then you just click into that respective account or department. And actually pull up, and then we'll pull it through.
+
+Client 3: For you.
+
+Client 3: Yeah. Yeah.
+
+Host 1: Colombo, I was like to say, I mean, I can send you a video on how it works. Right off this because we actually just just got this functionality like no.
+
+Host 1: me.
+
+Host 1: Yeah Guessing, and we're having like, I think, a big announcement after the holiday week, that way, it's just like more.
+
+Host 1: But it is, like, it was a big product lift and put it's out now. So it's pretty exciting.
+
+Client 3: Yeah. Okay. No. Sounds good. Because the one thing is we're just in three specify by or credit card reporting. We've just. Thing we train a lot of our software goes on credit who's occurring, etcetera. I'm not sure if how that would work, because a lot of that cheap doesn't Yeah.
+
+Client 3: We had the experience we're expensive zero.
+
+Host 2: It's it's a comic pain point, I think most of the finance teams that we work with is just like hey, we're using B.
+
+Host 2: Right? We're using expensive. We're using ramp. For most of our vendor payments just so we can, you know, one up tighter controls and then to get nothing sort of points for it. If those aren't broken out, unfortunately, then those costs just come through at the right like credit card or expensive yeah.
+
+Client 3: Okay Yeah. Well that's the limitation number matter what?
+
+Host 2: Yeah. Yeah. Yeah. You're not alone there. We actually had, like an office hour session where we were walking through something completely different with ten of our existing customers and that was actually the topic that was brought up.
+
+Client 3: Okay.
+
+Client 3: For twenty minutes but...
+
+Host 2: Yeah. It's definitely top of mind.
+
+Client 3: Did you get a solution in the end or not really stage Yeah.
+
+Host 2: I think it was just more so if you are using know, tools like a bra ramp You're able to pull that data through. As long as like, your accounting team is doing a very detailed tagging job. Yeah. Or how that process set up. So it was I think only one or two people actually had a good process for it. But that's because they. A ton of kind man manpower. The county side.
+
+Client 3: Yeah. So getting the inputs cleaner. Suppose.
+
+Client 3: Yeah. And I think you talked about this. So in terms of like Google sheets and excel. You can do data uploads and down Yep.
+
+Client 3: We need you can do upload like like, let's say we wanted to lock mobile revenue offline. Not that's the picture at all but it's just as example. You could upload that info So you can upload datasets that you wanna visualize the build metrics on.
+
+Host 1: If you're modeling outside of the tool, like, if you have a full revenue model, we, like, and you wanted to can like, not use the tool, then it wouldn't be transferable because the whole point of the tools i you're pulling in the integrations. So it wouldn't really Yeah.
+
+Host 1: Yeah. Yeah. If you're not gonna use Mosaic, like, roll forward and to, like, utilize integrations, then That's like the value prop so you might as always do.
+
+Client 3: Point. But the is we regardless this is uploaded down okay.
+
+Host 1: Yes. Exactly Yeah. You can only download it from the tool onto spreadsheet, but upload is more for datasets it one pure on the sales side so something we struggle is that we have our projects in different.
+
+Client 3: He's not many like, three or four different currency and we in Salesforce, is not great reporting and what you couldn't see. So what I'd like the ability to do is like bring in... Let's say we got ten hotels of in dollar ten hotels. Ten hotel at euros both actual revenue and pipeline, revenue New. Revenue plans in salesforce also. Could I do that and then flip it between local currency seal consolidate that dollar could like deli so there's two recognize the base currency of the sales opportunity Yeah And we have consolidate on that basis.
+
+Host 2: Do you you have all the currencies and the conversion rates in Salesforce.
+
+Client 3: Well, that's i we've got we do, but it's not great at the moment. So we just have one rates and it mistakes the hold. Yeah. Essentially. All history. So for something we need to build improving our Salesforce config. Having monthly Fx rates. So Yep.
+
+Host 2: So we... Yeah. We can we can use those salesforce rates we can also use the rates we have in Mosaic. Which are month to month.
+
+Host 2: Yeah. Think we're limited to one reporting currency today? Meaning you can't. Flip flop you're reporting out, like, pipeline and Arr, between reporting currency and then, like, different local currencies. Unfortunately.
+
+Client 3: So say again. So if I've got a project in dollars Yeah. And put in pounds when him over poor, what can I I can sort what report what current sequencing i see?
+
+Host 2: Either one, but only one of them.
+
+Client 3: Yeah. Yeah. Yeah. So you'd you you can just flip by two and dollars or sale in pounds.
+
+Host 2: No. So we set up the conversion tables in Mosaic, and you tell us, hey, I wanna be able to report out in pounds. I wanna be able to report out in Us dollars, but you're you're limited today. To one or the other.
+
+Client 3: Meaning, you can't flip between the two.
+
+Host 2: You have to pick one.
+
+Client 3: And that is that the all financial information and Yeah.
+
+Host 2: That's only limited to Salesforce and and non Gaap data. So any of your Salesforce or or Kpi level. Information Irr arr.
+
+Client 3: So profit loss. Accounts. I could click that. Pounds in which is my local print zero two dollars. No problem.
+
+Host 2: Or whatever.
+
+Client 3: It's just I would set. Sales linked salesforce. Okay. And they some of the Ar dashboards and so i just one couldn't.
+
+Host 2: That's right.
+
+Client 3: Even Okay. So I couldn't... So even though I couldn't flip some of those Ar dashboards the dollars then it has to be pounds. Most likely they could most of our okay. Obviously for us as we grow and think about investment and so on, yeah, we'd like report some of that out in dollars. You know, something be think in the road map.
+
+Host 1: And that is just how it is today.
+
+Client 3: I mean, we're yeah.
+
+Host 1: I think we're tackling like full on currency conversion end of next year, like or, like, q three q four next year, because it actually has a couple times where people want to, like, do their op in, like multiple currencies. But right now, it's it's aside from head count. It's all in one currency. So it is on the road map as long as you don't think gonna be a limitation within the next year, I would say that's where we're definitely going with it.
+
+Client 3: Yeah. I mean, it's it'd be nice. I suppose but not critical. I mean, as long as we can changed about gp P and L and cash flow across dollars and pounds, which sounds like we can. This just some of the forecast metrics. So... But but that on Salesforce when the date comes in, you can... It does acknowledge that this by the currency. When it consolidate some reports out, it just renders us in.
+
+Host 2: That's right here.
+
+Client 3: Okay. Okay. I think they were some of the main questions I had at this point. And I think that's to see what comes up. I'll try much of view we did than then in the next few days as as well.
+
+Host 1: One thing that I'm just gonna propose here, just case.
+
+Host 1: Based on what you want to see, I thought it was gonna be more of like a high level reporting demo, but then you did mention that your Ceo created like, all the financial forecasting, I'm kinda... It might be more beneficial like, I don't wanna, like, have it all the way to finish side and then, like, I just didn't have markers on the call, and then, you know, You see does not as impressed. Is it... Do you think we could potentially move the demo to sometime next week, Possibly we could do next Monday.
+
+Host 1: I just wanna make sure we're putting our best foot forward for.
+
+Host 1: Yeah. Yeah. Yeah.
+
+Client 3: I I would say how much. I would say let's have thirty minutes. And then and I'll caveat out in the path to Yeah Maximus wasn't able to to make it. And if we wanna go deeper on any of the solution and any... If you ask go deep anything else, we can schedule a follow call on monday.
+
+Host 1: Okay.
+
+Client 3: I cool. It good give them a flavor now. And so get he's brain thinking about it. And then Yeah. We can we can go deeper or go specific next week.
+
+Host 1: Okay.
+
+Client 3: Perfect. You you will do better a job to me.
+
+Client 3: So we should start with that.
+
+Host 1: Yeah. It's my job. So Yeah.
+
+Host 1: Yeah. Cool. So I know you to flip over, which is totally fine. But I guess, okay. Last thing, I I guess on pricing. So.
+
+Host 1: Yes. And I do... Denisha is gonna be joining about ten minutes here, but I can obviously summarize for him and and get him to speed once he does join, But we really can't do a whole lot more price, but we can get creative with certain things. So a couple things that we want to understand is like what's two as far as, like if we Like, getting to a fifteen k over the like, on average for the two years, brings us down to fifteen k to really for both years and that's below our floors. Like, sixteen k is like, the lowest we can go. And so a couple of things that we could potentially do here to make it work. One, looking at dropping the second year and just doing, like, a straight up sixteen k one year deal and, like, going up a rene negotiation at that one year mark. It does like don't know if you wanted the security of three years.
+
+Client 3: Oh. Just give me one second.
+
+Client 3: Yeah. Yeah time. Sorry yeah.
+
+Client 3: Possibly, but... Yeah. I think probably I i've rather secure the price now I think for the two years.
+
+Host 1: Not yet.
+
+Host 1: So it's and it's not that Colombo we would increase the price on you so dramatically. It actually would just give you a little bit more flexibility as far as, like, whatever your situation is at that point, if you guys you know, are in a similar situation, then you could work that out with your Cs. That that's one option. The other thing that we want to understand with... From you is would like because we can't get down to that, like, sixty or fifteen k number, potentially, we could do, like, a free month at sixteen k for the first year.
+
+Host 1: And then because we are doing the free month we would have to lock in a second year, but that would still be, like, around that eighteen k number.
+
+Client 3: Mostly, then yeah. I mean, we could I mean, if you set me tristan. If you can do a three month and we obviously get access from the first of December. We then go through the implementation over December Don't know if that falls into January depending go how long it states. And then we did sixteen k so if can do it also do sixteen cases second here. Then be it. That'd. Yeah. I'd be happy to pay. To do that.
+
+Host 1: We can't do flat renewal, but we could do, like, ten percent is seventeen six. So we could do like, sixteen k with a free month want year one and then seventeen six for year two. That way, it's ten percent So we get our natural all time today.
+
+Host 1: Yeah.
+
+Client 3: Yeah. yeah. I think pete yeah. Definitely I understand that. Yeah. I'll I'll take it right let's see how we get on tomorrow. And then upsell feedback after the call. And then maybe if we need to go on a quick chat tomorrow afternoon, condition.
+
+Host 1: Okay. Yeah cool. Yeah. Because I think That is really below.
+
+Host 1: Like, we don't ever do six free month was sixteen k, but we're just like, hey, you know, what can we do here? We don't miss out on, like, a thousand dollars.
+
+Client 3: So...
+
+Host 1: Yeah. Yeah. You are getting, like, the best deal like you can possibly squeeze.
+
+Client 3: So I to yeah.
+
+Host 1: No. You definitely you definitely are. Because I mean, so it's a fit. So as far as like, business model. Oh, and it looks like Denisha is joining right now.
+
+Client 3: Let me... Oh, I do have to go. I can dial back in on the headphones in a sec.
+
+Host 1: Okay.
+
+Client 3: I think... Yeah. Just...
+
+Host 1: Yeah. If you wanna dial back in, that way I can just get dealer to speed here and then...
+
+Host 1: Okay.
+
+Client 3: Yeah give me two minutes. So that.
+
+Host 1: Hey, Denisha.
+
+Host 1: Okay. So he is dialing on his because he has dropped jumped to the train, but We just... I kinda of like asked him, like, what's the most important to you. He wanted I, like, offer, like, hey. Here's the things that we can do and he was like, I think we can do sixteen k free month and then sixteen k or two. I was like, we can't do that, but we can do like, ten percent step up which would be sixteen k with three month year one. So k. Seventeen point six year two? He said that that would work. He didn't like the idea getting rid of the second year just doing the sixteen k because it was like I want that security of knowing what's gonna be coming. So I know we saw.
+
+Host 1: So we're good. Right. I...
+
+Client 4: Yeah.
+
+Host 1: But yeah our approval from Frodo.
+
+Client 4: I mean, we still do tomorrow.
+
+Host 1: Sixteen k really mine.
+
+Client 4: Seventeen point.
+
+Client 4: Seventeen kit, seventeen point six years two.
+
+Client 4: Yeah. And that does equate to ten percent right? Just to make sure I'm checking this right. Yep. Yeah. Yeah. This should be fine. I mean, we'll kinda wanna get this run up the chain, but Yeah. I I do think that's healthy though. But let me let me try to slack Cool.
+
+Host 1: And then for tomorrow's demo, does one like a pretty... he wants to kinda sounds like you wants to see it all. So but you said you might only have thirty minutes. So I suggested maybe let's reschedule two next week and we can get more on, but he was like, let's just see thirty minute high fly by demo. Yeah.
+
+Host 1: If we I can do that list.
+
+Host 1: Yeah. I that.
+
+Client 4: Cool.
+
+Client 4: And what what I'll do too is I'll I'll just tell him the truth, which is that And again, this is Non center. You got a works for you. We'll run it up. Like, we we just gonna get the screen one. I don't wanna I don't wanna rush that necessarily it is a little bit non standard, but seems healthy to me.
+
+Client 4: Cool. Okay.
+
+Host 1: Mean effectively last standpoint taking them from fifteen four or whatever the seventeen six and...
+
+Client 4: Yeah. Really small org out. I'm good with that. But... Yeah. We'll we'll I'll I'll dress it up, but make it sound likely, but we'll have to run it up. Yeah.
+
+Host 1: Okay. Cool. I guess I'll just day on in case he when he rejoin, But I think we got it all taken care of.
+
+Client 4: So... Okay. Okay. Cool. Yeah. So for let know that you and I chatted, it's looking positive, but we start to go up and and service it.
+
+Client 4: I'm available.
+
+Host 1: Yeah. I'll tell him that we'll... After the demo tomorrow, then we'll get it for approval, but it's looking like, it's gonna be fine. That way, he's just knows that It is... I don't know. I don't know.
+
+Client 4: Whatever I'm...
+
+Host 1: Yeah Think got is good.
+
+Client 4: Okay. Well, yeah. Just feel if for let to know that, and then trying to think if there's anything else here at live nuance. Yeah. Just problems available. I'm down get up early for. I know he's in a different times zone. And We're can very my demos from as a. Consists. So Cool.
+
+Host 1: Alright. Perfect.
+
+Client 4: Cool.
+
+Host 1: I'll.
+
+Client 4: I guess, I'll jump is that that much?
+
+Host 1: Yeah. No. That's that's good. Then we have anchor in hour and a half, so we'll be you'll do that.
+
+Client 4: Awesome.
+
+Client 4: Do they confirm email or they she actually confirmed.
+
+Client 4: My Awesome.
+
+Client 4: Cool. Thanks, guys.
+
+Host 1: Bye Let me just email him.
+
+Host 2: Cool i jumped here.
+
+Host 1: I mean, up to you, I'm just gonna wait. I don't wanna be like, hey what the heck. Oh, out Andrew from Beyond got back to me. We have an unfortunate update our our to go through the twenty point three budgeting cycle due to cost cutting efforts We're gonna have to put our decision on F offered q three q to say every dollar right now, which means cutting back on software, unfortunately. Keep us on major news. Or next quarter to, get top list, cool don't care. Nope. Climate club is likely not happening. Unfortunately, Yeah.
+
+Host 2: That's we reset. He said the signal is not great in the taxi sequence.
+
+Host 1: Let's january. Okay Cool.
+
+Host 1: Alright. Thank you. Alright. Talk later. Bye.

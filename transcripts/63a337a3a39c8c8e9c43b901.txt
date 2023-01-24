@@ -1,0 +1,229 @@
+Client 2: Hey, Harrison How's it going?
+
+Client 2: Can you hear me okay?
+
+Host 1: Yeah. Okay. I I I used fathom to join this meeting I'm like, I should not bring my okay. Around this meeting.
+
+Client 2: Welcome to.
+
+Host 1: Looks like get added it anyway. Strange. I... I'm using the desktop app and then I like, uncheck the a recording button.
+
+Client 2: Gotcha. Yeah. This this... Is that... Do you have any other recording app downloaded by chance because this looks a little bit different than fathom actually But typically we leads by the note taker.
+
+Host 1: Yeah. Maybe I having another one we're testing. All the team flow.
+
+Client 2: Okay. Awesome. I'm actually not familiar with that. I'll have to check them out. But thanks so much for taking the time to jump on. I know that you had some interest in Fathom edition. So that's goal for today, Would love to get the upgraded feature set in front of you. Anything else top of mind for you or any questions as you and the team have Been been started to use more.
+
+Host 1: We just started using it again yesterday. As we got connected let the team plug guys, and then I was they said that they don't integrate with hubspot.
+
+Host 1: I was like that we should check out by and then saw that. You, integrate to the hubspot... Yeah. I mean, I think the main thing we're looking for is to just be able to communicate with the Crm better, like, salespeople are not taking their... They're not recording every demo call and then they're definitely not getting it linked up in the hubspot. So just have like, a bunch of recordings all over the place. I can never really see what's going on demo calls. So Yeah. If it's should be something where, like, yeah, they can just hop on the call it auto report, and then it syncs it back to the deal, and they don't really have to think about anything.
+
+Client 2: Perfect. Okay. Awesome. Yeah. Well, I'm I'm excited show you this. We do have a native integration with health hubspot that does exactly that. So W is recording transcribing your calls in its entirety. With our Hubspot integration, we're gonna automatically think your meeting notes to those records in Have hubspot. So I can definitely show you that today too. And and you mentioned you just started using or jumping back in the of Are you familiar yourself with how it works or or, like, have you gotten to payroll with it a little bit.
+
+Host 1: Okay. Have used I've used a Yeah. Same thing's cool. So you guys are raising money and actually talking to richard white later today?
+
+Client 2: Oh, awesome. Yeah. That's our founder.
+
+Host 1: I I invest in tech companies and stuff. So I'm talking him.
+
+Client 2: Nice. Okay. Awesome. Yeah. Glad y'all getting that intro. Well then I... If it sounds okay with you I'm just gonna share my screen and dive into the feature set. And I'm actually gonna show you in real time. So Like I said, fathom is recording transcribing your meeting it's an in its entirety and as well as gives you the option to annotate and take notes on those meetings. So with the individual version of Fathom, everything's gonna filter into your library. But with our team edition, it is gonna be that centralized library. So anybody recording with Fathom, will have their meetings jump into to... Or push directly into this view. So for example, I have my colleague Mary recorded a call this morning. I could easily go into that call. I can see the recording, I can see the full transcript as well as any meeting notes that she took on the call. So just a really great and easy way to have that central location in central library without having to manually share those calls with one another.
+
+Host 1: One thing I'll add historically, like, the the people that have already recorded with adam. We switch to the team, is it gonna pull in their historical calls?
+
+Client 2: It will. Yeah. So when we turn on that, and even when we turn on trial for you, you'll have the option to opt in and automatically have all those calls that were previously recorded thrown into the the t library.
+
+Host 1: Okay. And then happens automatically it does.
+
+Client 2: Yes.
+
+Host 1: Cool.
+
+Client 2: With it as well, you can collaborate so forever, any reason you wanna jump in, you add you wanna add notes on each other's calls. You can do stuff from this view as well.
+
+Host 1: Can you tag another problem user?
+
+Client 2: So that is a feature that's gonna be rolling out at the end of December. You'll be able to mention other fat users in in recordings as well.
+
+Client 2: Awesome. One thing with this team called view, you're also able to do is a full transcript search. So say you work looking for mentions out the Hubspot integration across all those calls. Just simply type it in the transcript. We're gonna... I mean, the search bar, we're gonna search transcript across every existing call, and we're gonna filter exactly where they were mentioned in what calls you can easily jump into this.
+
+Host 1: Right. And Very cool.
+
+Client 2: Awesome. So... And then jumping into now the fun stuff, our Hubspot integration, and I'm actually gonna pull my hubspot up for you so I can show you what this think looks like in real time. Like I said, it is going to automatically push a link back to the as well as any meeting notes directly into the hubspot record. It might work with me. So sorry. I didn't already have my hubspot pulled up. So it's gonna push it directly into that hubspot record. And here we go. Okay. And it's gonna attach it to the zoom meeting. So I have the account here. If I were to go onto the meetings tab on the contact, It's gonna have a nice organized view of any of your notes a link back to that recording itself as well as links back to the specific clip. So if you were just wanting to look at this onboarding feedback, you could just look at that specific clip itself.
+
+Host 1: Got it. Cool.
+
+Client 2: Yep. And are you using the action items or like, the task and and have hubspot by chance I don't know.
+
+Host 1: Let's. You guys us have spot?
+
+Client 2: We do. Yes. We we Love it.
+
+Host 1: What is task? For?
+
+Client 2: So it basically is just any tasks or action at of you have to do or that you have in the system. So like you had any follow ups or anything that we're associated with like an opportunity.
+
+Host 1: You could sync them in hubspot.
+
+Client 2: The reason I ask is we have an action item button in adam and any anytime you use that, we're will automatically create a task for you in Hubspot. So If you... So we have... We have test thinking if that's relevant for all.
+
+Host 1: And we're not right now, but we have a very basic bigger you're like, I literally installer hogs had to start and added some swim lanes and customized couple of basic things and that. Like, tweak it out yet too much probably shouldn't look at that.
+
+Client 2: Awesome. Perfect. And any other questions about the Hubspot integration itself or does this kinda look like what you were looking for sync wise?
+
+Host 1: Yeah. As long as I can watch a video and it's Yeah. The next is alcohol. Kind para things. And and the deal I'm assuming it's ticked up automatically if anyone on the call is matching contact and i'm slots associated with the deal or whatever.
+
+Client 2: Yep. If I were to go into the deal into the meetings tab, it's gonna be the exact same. So any meetings I've had with the specific account, it have the records from va in there.
+
+Host 1: And you don't have to have a meeting in Hubspot schedule or a link necessarily. Right? Like, it it would... Because since you're on a Zoom call, it knows, and then I like, links them up.
+
+Client 2: Exactly. So we we automatically pull it from Zoom based on their step calendar events and your user meetings.
+
+Host 1: Right.
+
+Client 2: Person. So a few other things with our hubs are with our edition is we also have a slack integration. Are y'all using slack by chance?
+
+Host 1: Yeah.
+
+Client 2: Awesome So with our slack integration, you're able to actually designate specific highlights to six slack channels. So the buttons that you can use while you're on fathom. Anytime you use a highlight, it'll push the clip in the note directly into Slack. So for example, I have a bug... A highlight that I customized to be titled bug, And anytime I use that, it'll go into our engineering Slack channel so they can see the... Whatever the bug in real time.
+
+Host 1: And does this So would this kinda push the same data that's pushing to the Crm to Slack and show, like, the teams calls that they're having.
+
+Client 2: It's similar except for it's just gonna be the clip itself. So in fathom, you have what we call the highlights, which are the buttons that you can use to actually take notes on a call. So if I were to use this bug highlight, it's just gonna catch sure, you know, you're if you were telling me about a bug you ran into, It's just gonna capture the clip of that dialogue. And that's the clip gonna push into Slack.
+
+Host 1: Yes. You can link... And is there a way to just share the whole recording and slack too or it has to be, like, action item.
+
+Client 2: So not yet. We can't automatically you can always share the share link Slack and we'll embed embed the clip in that way, but we don't have an automatic sync for the whole call yet.
+
+Host 1: Okay. Like, after demo is completed, it just sends a slack. It's like, hey, know, they completed a demo. Here's the and Perfect.
+
+Client 2: Yeah. I will... I'm gonna add that as a feature request on your behalf. Awesome So a few other features in our competition, you have your tradition admin setting, so as an admin where you'll kind manage your team invite and remove team members, you're can stop much permissions as well. So if you want some people to have read only access and some people to actually have that edit collaboration access. As well as you can standardize settings across your team. So if you wanna make sure everybody on your team is recording calls so that they are automatically going into your Crm and go into your team library. You can establish standardized side here.
+
+Host 1: That's say as a roll and then separately there's permissions or or what they do?
+
+Client 2: Okay.
+
+Client 2: We also have talk time and call metrics. So there is a feature in fathom today that while you're on a call and pop up, like, you're mono your percentage of talk time, You can pull all of this on the back end. So on an individual route basis, many calls you had over the course of six weeks and what that percentage of talk time is as well as a team average.
+
+Host 1: Does it the anything like Gong where it shows the like, patients need, Like if you're talking to and then So it will...
+
+Client 2: Will it'll it'll pop up in in a monologue, essentially, so it'll say that you're model if you have been talking, i I think it's like longer than a ninety second threshold.
+
+Host 1: When they're on the call, at the if you've been talking longer than ninety seconds then it top something that bottom automatically?
+
+Client 2: Mh. Yes. It'll automatically pop up. While you're on a call? And you can see all that on the back end too. So number of monologue, that you've had over the course of six weeks.
+
+Host 1: Justin. Yeah. As well as I feel like We're just talking to people too long, and I'm like, wait, you gotta You may more interactive?
+
+Client 2: Oh, yeah. I I actually had to turn mine off when I was demoing because it kept the yelling at me. I'm like, I swear I'm supposed to be talking this much right now, but yeah. For that exact reason to kind of help us talker shut up some games.
+
+Client 2: Awesome. So in our edition, we also had a feature that's playlist and folders. Essentially being able to add highlights from multiple calls to a shareable playlist, or organize calls in their entirety in folders. So what they're specific trends you were looking for, whether it was like an onboarding folder, you wanted to give someone that they're ramping wide variety of use cases that you can use this for.
+
+Host 1: Yeah. That's cool. For yeah for training. Calls that calls are converted.
+
+Client 2: Yeah. Definitely.
+
+Client 2: What are you?
+
+Host 1: Also using the demo and by or the Just like Powerpoint, or Go old nifty Powerpoint.
+
+Host 1: Okay. Yeah. Like the... How you click the pretty sure.
+
+Client 2: We back forth, like, how do we jump into the actual tool for a long time and show noticed some of these companies like, really show you the tool for quite a while, but having screenshots a little bit more controlled obviously this.
+
+Host 1: So Or.
+
+Client 2: Yeah. We... That's we've learned that too especially because so many people have different like, interactive and learning ways. So we I Try to jump back and forth to kinda give you a little bit of real time, but Powerpoint Right dark founder actually made this. So we... It's just... It's really easy to manage in Powerpoint.
+
+Host 1: Yeah. Cool. Yeah. I talk to them later to that.
+
+Client 2: So seven.
+
+Host 1: So we are customer called you.
+
+Client 2: Mh. So this is gonna be just a a customer called you in Fathom. If ever you're wanting to look at any recordings with a specific client or account in one easy view. Will automatically group them together for you based on email domain. With this we'll also pull an analytics. So how much time you start with that account, who you've spoken to and any hubspot data will pull in so you can easily jump back into it.
+
+Host 1: So this is all... Yeah. One customer. And pull in all their recordings related to that one got.
+
+Host 1: Exactly.
+
+Client 2: Yep. In the last two, I don't have Mock up for, the team working on them now and they'll be rolling out probably in the next week or two. I'm that first being the one you asked about That mentions, being able to mention colleagues and specific parts of a call. They'll get notified. It can jump into wherever you're at mentioning and commenting.
+
+Client 2: And then finally, keyword alert. So actually being able to configure and fathom of any specific key phrase topic you may be looking for in conversation will automatically recognize that's been spoken about. We'll grab it, how many times it spoken about, so you have a nice organized view of all those mentions. They can and check those out as well.
+
+Host 1: Got it. Okay.
+
+Host 1: Anything gonna... This is gonna automatically sync to your hubspot when we're done?
+
+Client 2: It will. Yes.
+
+Host 1: It'll out automatically hubspot.
+
+Host 1: Do you guys have any automation set up so that when you're there's a fathom like an item that it doesn't need to type a automation, like reminder or?
+
+Client 2: What do you mean? Tell me a little more?
+
+Host 1: Like, if one of the action items is to that they requested some more information about something something and you forget to do it. Does it, like, remind you? Like, hey, you have a pending action item?
+
+Client 2: So not in Fathom. If I were to think and hubspot it would, but we're not doing that today in Fathom. Is that something you'd like it to do?
+
+Host 1: Or that you see? I... Oh sorry About didn't have hubspot.
+
+Client 2: Oh, yeah. So if I were to use my item a button if I were to click this here and was, like, done recording. It would notify me in Can you send me a in by?
+
+Client 2: Yeah. Definitely.
+
+Client 2: And bring my order unfortunately.
+
+Client 2: It'll it'll remind me in or remind me and how spots. So I'll send that to you.
+
+Host 1: Cool, okay. Yeah I wanna share it with the Topper and some of the team.
+
+Host 1: Any other questions Yeah.
+
+Client 2: I'll get that turn on for you. Ey do have to subscription prices live if you want me to get that in front you as well.
+
+Host 1: Okay.
+
+Client 2: So with our team edition, it is based on kind of what makes most sense for you. So individual version of Fathom as you're using it today is gonna stay free, then we have starter in Pro. Pro is the full feature set with the full Crm sync. We have early access pricing after your thirty day trial ends of forty five dollar per user per month or forty on an annual basis, starters lower entry point, twenty seven dollars per user or twenty seven... Or I'm sorry, Twenty four on the annual basis main difference between the two is starter is the basic feature set all the value of the team view, the transcript search. Playlist and folders, slack and app mentions. Does have a limit on the Crm sync though. So Pro has the full Crm saying the call coaching metrics customer called view and keyword alerts as well as all the features included in starter.
+
+Host 1: Seriously. Yeah. I mean, I'm we probably need the That's on.
+
+Client 2: Awesome. And I also i'll send the recording over to you. I will send by deck you so you have that as well. And then I will turn on a thirty day trial for you and the teams you can start playing around with it checking it out and See how it works for you guys.
+
+Host 1: Also, it's gonna be the t edition pro trial.
+
+Client 2: Yes. It will still have a limit on the crm sync right now. So that doesn't get lifted unless you subscribe, but it will have all the features in.
+
+Host 1: What's the limit on the crm side.
+
+Client 2: Right now it's three connected up to to help hubspot.
+
+Host 1: three people can Connected?
+
+Client 2: Connected. I think Yeah. It looks like you have three connected right now, actually.
+
+Host 1: Right. And it myself.
+
+Host 1: Mh we haven't we haven't gotten... Because we have three aes then we have Topper, and I Yeah.
+
+Client 2: It looks like you are connected. Let me I can tell you who else is actually. Malik web is connected and matthew left Oh, yeah.
+
+Host 1: He's he's actually no longer with the company so we can play.
+
+Host 1: Okay. Disconnect.
+
+Client 2: Okay. See. I'll see if our team can get that disconnected for you.
+
+Client 2: Okay. Awesome so if they can if they can increase the number of people, I think that's may affect as we have Like I said, I think we have like, at least five people that we wanna hour one.
+
+Client 2: Okay. Unfortunately, I don't know if there's a way that we can increase it because it's all in the system until a subscription is, like, locked in, but let me check with team and see if there's anything we can do for you.
+
+Host 1: Okay. Yeah. I mean, if I need to add a card or something that's sign, Okay.
+
+Client 2: Awesome Well, anything else that I can send over to you to help as you're evaluating No.
+
+Host 1: I think that's the main thing. But but, yeah, I've being able to, like, get everyone connected it's definitely Importance. Let me know about that. Like if some people have it and some people don't. It's not it's useful.
+
+Client 2: Okay. Awesome. Well, Harrison, I'll get all this over to you. I will check on that for you. And then if you have any other questions, as you're checking everything out, let me know, and I'm happy help in any way, I can awesome Next Awesome.
+
+Client 2: You're you're so welcome

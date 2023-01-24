@@ -1,0 +1,235 @@
+Client 1: Yep. Doing all right.
+
+Host 2: Thanks for taking the time. What? Where are you coming from.
+
+Client 1: I'm from Rexburg, Idaho.
+
+Host 2: Rightsfield Idaho can't pretend I know where that is.
+
+Client 1: you're idle falls Oh Yes.
+
+Client 1: We're just about 30 minutes north. Vital Falls.
+
+Host 2: Okay. Great. Well, thanks again for taking the time and Happy Friday.
+
+Client 1: Thanks.
+
+Host 2: For contact the team of a company called Teamflows. We'll like to start building tooling for remote teams, and now we're actually looking into. Salespeople and Sales tooling. And particularly we're doing a research around daily like daily. The context around this resource is like transferring the wheel, going to build our own Dieter. And so we're trying to wrap the heads around. The markets industry, the players who's doing what you know, and all that stuff. So perhaps we can kick it off with can you tell us a little bit more about you? What do you do? And what does your company do?
+
+Client 1: Yeah. So my director of the news development. So I lead our business development team comprise of BDRs or SDRs, right? That. Are, you know, Prospecting Emailing and Calling contacts to schedule. Sell demos for new business.
+
+Host 2: Got it. And what is this?
+
+Client 1: Go ahead. The Company itself. We create. Online resources. We create a two different types. It's called Courseware, which is like an online digital textbook with a turnkey resources for a professor or teacher. So you know all the materials they need to teach the class, lesson plans, the syllabus, the sample schedule, tests, quizzes, teaching notes, all that right. Lecture slides. And then simulations as well. To simulate you know. Marketing. Functions primarily. And we're moving into the business and other spaces as well.
+
+Host 2: Okay. And how big is your team? And how big is the company?
+
+Client 1: Yeah. So the company has let me just look on Slack here and see how many are. At the company here. So looks like we have about 145 people on the team, okay.
+
+Host 2: And how big is your team of videos and deals?
+
+Client 1: So my team of BDRs. We have a headcount of 16 right now.
+
+Host 2: Okay. And by the way, for context. I forgot what I found your name. I think it was on G Two or something. I think you will talk about air cold. There. How did you find out about S gold in the first place, and how do you use it.
+
+Client 1: Yeah. So the. You know, the use case for Enrique all for us is previously, employees were just using their own cell phones, right? To call contacts, which if an employee leaves the company or just keeping that, you know, company communications through a company system, right. As a somewhat of a security risk in some ways for that. So we decided to that we needed to have. A dialing system. So people were just using their own phones. For that. And we could have a consistent number and get calls back. You know, voicemails, text back whatever directed to the right person. So that was the use case of why we wanted to implement Air Call rather than having people use their personal phones for that. There are also some complaints of people that, you know, you're always gonna have those complainers. Oh, they expect me to use my personal phone for this obohu and doesn't cost them anything to do. It really right. It's just something to complain about. So air call. I know we looked at a few. I was somewhat involved with the selection of that. But we had someone who was our director of customer success kind of my counterpart for a customer success team that had come from another company that had experience with Enrique Hall previously. And so it was just. A. Oh, I've used this before. It was good, and we looked into and beside ultimately go with that.
+
+Host 2: 's how another processing decision decisions go. And what kind of calls is your teammaking or resilient?
+
+Client 1: Yeah. So our BDR team does a lot of outbound calling. Towards you know, teachers and professors. Either as their, you know, researching them and identifying where there's a need in a place that we can help. Or, you know, following up on a lead. We also have our account executives calling to follow up on deals and coordination of some things there. And our customer success team as well uses that, too.
+
+Host 2: And do you use a full personality.
+
+Client 1: To an extent, Yes.
+
+Client 1: What if it I jump in and cold call with the team on occasion, right. I genuinely actually enjoy cold calling. Don't get to do it very frequently, but, you know, a handful of times a month, once or twice a week or so, I'll jump on and call with the team side by side and kind of lead from the front.
+
+Host 2: I feel I feel like merrigue, but I hate school calling.
+
+Client 1: You just gotta have enough practice.
+
+Host 2: All right. Yeah. It's a super power when I see the folks all good at it's. Amazing. What do you think of that.
+
+Client 1: I think it works pretty well, right. There's some things that might be a little. Could be could be different, right there's. I mean as of any product or service, right. They have their different tiers and. Something's cost more or less and so. I think we have the right one for us, but I'm happy to comment. I mean, I come from. I've got other sales companies previous to this, to other companies. We had other dialers or I'm some other features that I see is beneficial or that would be beneficial in a dialer if you're looking at developing one.
+
+Host 2: Do you do you use the Mobile Web Experience for Apple?
+
+Client 1: I most often use the mobile.
+
+Client 1: That combined with like the integration into so I use the mobile that way I will though. So in my day to day I use Aircall professionally as like my business number. So when I when I'm recruiting. And that right. I use our call for my number that way, not my personal phone number. However, when I'm cold calling side by side with a team, I use the Web experience with the integration and HubSpot right, and the click to dial.
+
+Host 2: Oh, that Web Integration to call from HubSpot.
+
+Client 1: Yes. They have an integration into HubSpot.
+
+Host 2: Intros Angel, how does that work.
+
+Client 1: There's certain, like, API keys that you put in. I believe I don't manage it, right. We've got a guy that manages that for us on the team, but being able to say, go into the CRM, and there's a phone number. And because Erica is enabled in that you can click that phone number and it dials. Very, very simple, intuitive takes, you know, minimal amount of time to do. So.
+
+Host 2: Be that integration you pull into.
+
+Client 1: Yes, it is. I mean if you imagine you know a team of you know 24 BDRs. Having to manually type in each phone number, make sure it's correct and make that call. How many calls they make a day? Magnified times 24 people times you know, 21 business days of the month and how much time that actually takes them away. From their ability to sell right when they just have to go through that process. So whatever you can do to cut out any sort of process that takes time like that, I think has value.
+
+Host 2: What are your favorite things about alcohol.
+
+Client 1: I like how it is both on my phone, with the app and on the browser. So if I'm not at work. If you know someone has cold calling or you know, following up on a lead on or you know someone I'm recruiting calls me back. I can take that column, my phone. But being able to call from the browser is faster, right. So that's why I find that efficiency there.
+
+Host 2: What else? What else do you like about it.
+
+Client 1: Let's see. I'm gonna just log into my error call account right now actually to kind of just look at some things. It'll help me just remember some things if that's alright.
+
+Client 1: Please. One thing I do like about it is the ability to add, like, local numbers, right. So we could call from a whatever number and a shared number and have everyone have the same number. That's stupid. Or we could call from a local number. So if I'm calling someone in Kansas, I can enable it to show my phone number as a Kansas phone number that we own. Right. And so it might be more likely to pick up the phone if they're getting a call from someone in the same state. What I don't like about that is what I've noticed is with our air call. It can be a little bit obscure when setting up those local numbers. A very very like, for example, we're in Idaho, right. So it might show up as some very, very small, obscure town in Idaho. That's calling. Rather than a more known, you know, area, right. So, for example, like the difference of calling from Rexberg, Idaho versus Boise, Idaho. You guys didn't know Ricksburg was let's you know, and that's anyone in Idaho would know Rexwork. But if we go to, you know, some weird small town of a, you know, a thousand or. 2000 people that's that's most often what we're seeing associate with those local numbers. So that would be an area that could be improved on to.
+
+Host 2: What else do you dislike.
+
+Client 1: The the integration HubSpot isn't as great as it could be. So it's it's really interesting the method that someone uses to call because they can call from their phone. They can click to dial. They can also click and dial through an Air call window on the computer right. Depending on their method. If they're using one of the three, it doesn't actually report and track their calls correctly in HubSpot. It double counts their calls. So the way that that's set up is it shows as an inbound call. For most. And it's not even every single phone call. It's it's it's very subjective. Right. So there's no way to actually measure how many calls someone's making if they're doing it that way. I know it's somewhere. Probably between. 50% to 75% of what that number actually shows.
+
+Client 1: Oh, wow. And they all try Guys Connection. So it's really hard to track the connections rates when looking at HubSpot in the dashboard we have. That's probably one of my biggest frustrations as director actually. Is as I'm coaching my team and going over that the things that are right. When I it's hard to coach them when I have bad data.
+
+Host 2: What does your team think of.
+
+Client 1: Most people like it. They see it as an improvement from, you know, using their own phone, they like to be able to have that Air call number. It is nice on air call when we're getting a call if you have it on the phone. That it shows up that you're getting a call from Air Call and not just a regular phone call. So that way you might know how to answer the phone. That's another pro you could put down right. But there are some people that you know there's. Depending on how you're calling, if you know you're calling to the web browser and the internet's not great. The call quality might not be good, so call quality, I think, is probably the biggest concern of anyone on my team.
+
+Host 2: Interesting. Have you have you looking to power diligence.
+
+Client 1: As you can't know we have not. We've not looked into power dialers. Personally, I have. So what I mean by that is, is that's not a direction we're gonna take personally? I guess I think it's. Because this is we're not a call center, right person. I think it's a. An interesting concept. I use power dialers before at both my previous sales jobs prior to stupid. One of them at a call center, another one at a small startup where we were working with a lot of leads and contacts, right. I mean, I remember I made 400 calls in a day, once on a power dialer. I remember because it just an insane amount of phone calls. So I see that the efficiency there, like I mentioned, how fast it is to dial. I see the efficiency two of the the dialers that will do the parallel dialing where you can dial multiple numbers at once. Right. Between. Two and five or two in ten contacts at once that you can dial those numbers all at one time. And the moment someone picks up, then the other call, then. So I definitely see the value of those. It depends on your approach and strategy. We like to take a very personalized approach to a collaborative salad. So that's not something we use. But that is the reality of it.
+
+Host 2: What do you mean by your personalized approach, and how does a Polio dial stand in the way of it.
+
+Client 1: So. I like to, you know, not so much cold call, but warm call.
+
+Client 1: Right. So I will. I'll have my pre call planning. Then I preach that to my team to know who they're contacting, be able to have a personalized. Conversation and value proposition to them. And it might sure be a scripted one that they've created, but they tailor it to that individual, right. If you have a power dialer. You can move too fast or parallel dialing. You can absolutely move too fast to be able to have that conversation with someone on a very personal level where you can actually connect with them. And have a collaborative cell. We're able to help them and talk with them in terms of them rather than a pushy cell where it's just sheer, you know, volume of dials and calls and spray and pray.
+
+Host 2: I see. And so in your mind like the extract kind of conceals and that you get from that does not produce with having ledge volume.
+
+Client 1: I believe so. I'm a believer in quality before quantity. My team's. A young team, right? My team. The people on my team. It might be their first sales job, or they might have done summer cells beforehand. It's often the first professional job people have had there's often in school. In College. Right. We're next, right next to local College. So that's why we're at here. We recruit heavily from it. And. For some people, it's their first job, you know, Bar, none. Or their first job outside of fast food.
+
+Client 1: Yeah. So they're not, you know, able to, you know, for me. Yeah. I can dial anyone. And I can pull up their screen, see if she notes and have that conversation. But I've done it for ten years.
+
+Client 1: That's a little more difficult.
+
+Host 2: Yep, totally. Great. What Azil Day deals. Do you know, like.
+
+Client 1: So the other ones I use that the previous roles I were in I was in were Ring Central and Corby SA Cloud. I remember those names very simply, right. If you asked me to tell you anything about them, I couldn't really tell you too much. I will mention. I think it was Corbyza Cloud had the most annoying hold music with some kind of guitar music. That once you hear you can't get out of your head.
+
+Client 1: I see some nods. I don't know if you guys are familiar with that, but that was painful. That was painful. So being able to customize that, like a really, really cool thing you could do. Because, like for me, for example, when I'm zeroing in and calling and prospecting and researching, I'll have, like, Spotify up on my phone, for example. Right. I'll listen to music, but I'll be making calls, and so it goes back and forth between my music and the phone call while it's ringing. If you could find a way to. Implement some sort of way to customize the. Playlist or the music that is playing while it's dialing and while you're on hold. Oh, my gosh, you guys would have raving fans. People had flocked to you guys. There's your there's your billion dollar idea. And I just want, like a little small royalty.
+
+Host 2: When you guys do that. We'll do. You do you currently use that Echo? Although records the conversation.
+
+Client 1: Yes, yes, it does record the conversations.
+
+Host 2: And do you use that.
+
+Client 1: We do we use the recording. Feature. Yes.
+
+Host 2: What do you use? It. Cool.
+
+Client 1: For call training and coaching, right. I'll review calls with team members. So for example if we determine that. Why they're not booking demos over the phone isn't a matter of how many calls they're making, you know, and their connections, but more so the quality of their calls, their pitches, based on the metrics I have. I'll go ahead and look into that. And we'll listen to their phone calls together. One on one and we'll listen and give, you know, all coach around that and how we could do that better next time. Yeah. It's their opinion on it. And then coach around that. Or we'll use them for training and highlight really good calls that people have. So another another great feature would be to have a call library of sorts that you can save internally in the system, that team members can go and that you can. Okay. This is a call library of really good calls and examples of this specific thing. And you can label those and put folders and put however many calls in those.
+
+Client 1: Not that I know of or not that we're utilizing.
+
+Host 2: And. Do you know about the solutions that have something like that.
+
+Client 1: I mean, I know I can pull the links right to the calls, but again, then we're in Erica, where in this platform with, you know, a Google Doc or Google Drive somewhere. Right. A file with all these links to the calls. And you get to where you're using all the different platforms every which way. If it's centralized, then that makes that simple.
+
+Host 2: Interesting. Can you walk us through. When you coach and when you consume this call recordings, do you do that on the web interface or the mobile entities.
+
+Client 1: On the Web interface.
+
+Host 2: Can you would you be comfortable sharing your screen and showing us what that looks like.
+
+Client 1: Yeah. I'm not able to share that.
+
+Host 2: Sorry. Oh, it's so good. Absolutely. I don't want to. I don't want to. Yeah, totally. Trying to think of other questions here. I think that's pretty much it. Oh, well, generally. So beyond like the whole dialogue conversation. Like, what are your stuff? Problems at your job right now.
+
+Client 1: I mean the the big things I think is. Just. The biggest problem is two counts a growing company. And so there's frequent changes. And so with that it's you know, the people on my team, it's it's hard to see. The long term effects and benefits of a change than a change again in four months on this other topic in that right. So I would say that's probably the biggest obstacle that we have right now. Is trying to help the people on my team have a good perspective on change and change management.
+
+Host 2: What kind of changes do you have in mind.
+
+Client 1: So I mean, we've changed up some territories. We've changed up. We've added a new role that kind of helps us some other roles. And so a little bit of the role has evolved into, you know, some other things. And so it's it's just a matter of helping people catch the vision of that. We also, you know, the BDR team is intended to drive demos in business. And. Ironically. Half half the you know, however many other group says, oh, well, we're working hardbooking demos. And our account executive just sits and takes the demos and does the demo and that's it. And they just have to wait for them. Right? They just sit there on their hands and wait when they don't have any. Well, now we have an expectation for our account executives that they should also be booking their own demos. Which is good, healthy.
+
+Client 1: But we have people on our team saying, oh, well, now they're doing my job. What the heck. Telling them. Well, what do you want. So it's that change management dealing with people that are early on in a careers helping them, you know, catch the vision. Be inspired.
+
+Host 2: I know. Yeah, it's funny because we recently made the same change now, eight years. Or like, stacked a years. And like. They was and you know.
+
+Host 2: Yes. And every time every time you change something, you know, five of the people. And there are people complaining. So yeah. Another feel. Great. How could we help you with that.
+
+Client 1: If at all. There is not. We're doing a pretty good job of it. I've got a good manager, you know, leader myself in our chief revenue officer.
+
+Host 2: So. Got it. Yeah, it's really multic. Multicillotic right now.
+
+Client 1: I would say that's the biggest one. The other problems is. There's one of me and we have 16 people on a team, and we're trying to get 24 people. I've got. You know, six more people or so being hired early December, and however many in January, and I anticipate, there's going to be some change. There's only some people promoted out of the team. There'll probably be some people that quit. It's very common around the end of the year and in the end of a semester for our employee based. So. It's just a matter. Hey, there's. There's one of me and 24 of them. So if you can, if you can find a way to clone myself, that would be great.
+
+Host 2: You know, maybe Demi mole. Like, what do you do? Day to day? Like what's your what's the bulk of your thigh and used up.
+
+Client 1: Used up in. So the bulk of my time is. Probably it's used up in training. You know, you know, I prepare a weekly team training that's on a topic. I try and keep it around the fundamentals and. Remember that I've been here ten or five years and ten years of experience in sales that as people might have a year or so in sales experience, if that here. So team training, you know, training individuals are on certain topics. Coaching, looking at the data and reports. You know, training brand new people. We have a new group start, right? I'm spending two weeks of almost my full attention training them so.
+
+Host 2: Did you mention earlier you know about solutions like Gong, right?
+
+Client 1: Yes.
+
+Host 2: Why are you?
+
+Client 1: We use gong for our AES. We don't have gone for our SDR team.
+
+Host 2: Do you know you've gone? Exists for the audience.
+
+Client 1: We we do. Yes. It's the determination that the cost for value may not be as. They're what we want, so. Just note with stupid. Is, you know, we're kind of like a tech company. We're growing, you know, this and that. But our average dill size is. You know, depending on the market, anywhere from like 900 to one $700.
+
+Host 2: Oh, Wow.
+
+Client 1: So our average Zill size isn't isn't massive or anything like that, right.
+
+Host 2: That's actually surprising to me that you can have, like a sales model with that kind of CV. Yeah. So. Okay. That makes sense. Like you have, like, thin margins. And so every best method is for you.
+
+Client 1: Yeah.
+
+Client 1: It is. It is software, right? It's it's online simulations, online courses. But yeah, in the end the deal size is. Smaller than what you might think, right.
+
+Host 2: Yeah. Do you have a sense of how cheap would go need to be for it to be worth it for you.
+
+Client 1: I don't even know. I know. When we looked into it, I wasn't, you know, we've been using it for about two years. I was not a part of the decision. I literally jumped in as we're all just after the decision was made to adopt and implement gong.
+
+Client 1: So. I was an individual contributor. I was an Ae previous to this role. Right about when we adopted and implemented that. And as we're learning and gearing up on that, I moved into this role. So I don't I don't frankly know the cost, but that's that's what I've essentially been told is that, hey, it's yeah.
+
+Host 2: Gong is super pricey.
+
+Host 2: And the reason I'm asking is because. Actually all the working. So we're working on a day on a day or end on a gong competitor.
+
+Host 2: And. I'm wondering how to go about it right now. One of all is in hypothesis is like, yeah, calling super expensive. And like we could actually eat one server as expensive until. Making good money.
+
+Client 1: Along that line. If I may, I understand the value there. Right. Like. You guys have probably heard of Zoom info.
+
+Client 1: Yeah. Leading. You know, you know, data information. That way, the Data intelligence platform. We try to pilot of it and we try to pilot of another tool. Rocket Reach. I don't know if you're familiar with rocket. And Rocket Reach showed better results for US and was leaps and bounds cheaper.
+
+Host 2: All right.
+
+Client 1: If we could get, you know, even some results and have something less expensive that could be something worthwhile to.
+
+Host 2: All right, well, let me keep you posted once we have something up. Because. That would be a way for you to code yourself. Like if you're spending, like, a bunch of your time pushing people, there are solutions out there that help you do that. Great deal.
+
+Client 1: Yeah. No, I understand that. I understand that. Yeah.
+
+Host 3: If you could clone your SDRs.
+
+Host 3: What's that? What about if you could clone your SDRs, same same thing.
+
+Client 1: Yeah. We take the best of the best. And yeah, clone them. That's that's what I try and do, right? And those that are doing well. Coaching has been around like, oh, hey, what's your goal? It's like, hey, how are you? Doubling your quota. Consistently. What are you doing? What are those processes? How can we identify that and then share that with the rest of the team. But yes, great question.
+
+Host 2: Great. Any other questions? Enrique and Jebediah. Paul Rice, Brief.
+
+Host 3: I'm actually I'm curious. How does when someone calls you back on air call. And you mentioned it rings on your phone. Is it ringing through your phone application or through the Air Call app?
+
+Client 1: It rings through the Air Call app.
+
+Host 3: Okay. And then when you open that up, it has all the information about that user.
+
+Host 3: Yeah. Okay. Great.
+
+Client 1: Another thing on the desktop app, for example, if you have the desktop app Open and not the mobile version, even if. You're getting a call back from someone, and it's a number. It will show who the contact is if the contacts in the CRM. But that is another spot that's hit or miss with air call. So instead of, you know, oh, Hello, How's it going, Zack? Right. You're calling me back instead. I'm gonna call from some random number I'm like, oh, man, who's this calling me back? I don't know which person of the 30 people I just called in the last hour. Here we go. Throw the dice. Right. Instead. If you're able to know who they are immediately, you have such a big advantage. Outcome. From that conversation. When someone calls you back, you know who they are, right from the get go.
+
+Host 3: Yeah, that makes sense.
+
+Host 2: Great, awesome. Any other question.
+
+Host 2: All right. Thanks.

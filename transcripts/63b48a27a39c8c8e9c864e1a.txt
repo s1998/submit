@@ -1,0 +1,211 @@
+Host 2: At the over gonna maybe to that Yeah.
+
+Host 1: Happened last time with kim too.
+
+Host 2: I think i it twice in a row.
+
+Host 3: Welcome my meeting recorder never joins.
+
+Host 1: Supposed to.
+
+Host 2: Yeah. No. Real.
+
+Host 3: I have to reconfigure it Hey, Enrique, can we can we create a desk Cell ai doesn't handle well the case where you reuse the same zoom link between your Meetings.
+
+Host 2: Right.
+
+Host 1: So supposed to separate them out.
+
+Host 2: Right? Yeah. If I have it had back to back meetings, it's it's bug here right down.
+
+Host 2: Think let me know what happens. But I I know it doesn't handle it gracefully.
+
+Host 1: Yeah.
+
+Host 2: That's the kind of thing. You can ask a digital assistant. I which you could use I could ask cell ai to do that. Validating that's the values and, like, ping brendan at.
+
+Host 2: Yeah. Like, this is straightforward. Like this is this is not like a result an engineering problem to build the third.
+
+Host 3: Does that mean though that the virtual assistant would be like, doing that on your computer, though? Like, you would see the windows popping up and things happening.
+
+Host 2: Not necessarily. I think a it feels a bit. Depends how we build it So it would have, like, a virtual machine that it's running on and it just has all your credentials and stuff.
+
+Host 2: That's if it goes through the front door. But if it go screw the Api is that it does even need that, right? Just Actually linear has an Api. Otherwise is yeah. I think. Think calculation is actually It's funny because it's it's simultaneously it again and very happy.
+
+Host 2: Right? Like literally hosting in a day just that like, hey, I can click instead of using Apis.
+
+Host 3: Like brilliant But with the Api route means you have to like, hook up every tool that you ever wanna use. If if we're just doing this on their small computer. It's like those tools are already hooked up. You don't have to do anything.
+
+Host 2: All the loved.
+
+Host 3: Yeah.
+
+Host 2: Maybe if you could even do it in the background using your browser. Right? So, like, that way it doesn't I I do do about, like, failure recovery. Like, what if it starts to do something that you really don't technology to do.
+
+Host 3: I mean, it tiffany me so fast, and it'll just done it already, I guess. And we just need the undo button Oh, what if it explain to you what is best do before it doesn't hey.
+
+Host 2: I'm gonna i go here and who to create the Yeah.
+
+Host 1: That'd be pretty cool. If you and trick man shows that the directions. Instructions. They're gonna execute?
+
+Host 2: I think there's a will like we could like, have like, a mid of production on the Ai that's like, hey, like, you'll bet to do something scary, like need have this full information. Because, like, finding the task of year say the to brain like not a big deal.
+
+Host 1: Yeah. I know, I love the Ui for the for things. That, like, control spacing?
+
+Host 3: Yeah. Yeah.
+
+Host 3: It's... I think these just sick way have the Ai come up.
+
+Host 1: Yeah.
+
+Host 3: Imagine if he just freddie to command hit enter and it just happens.
+
+Host 2: Yeah.
+
+Host 3: Be. Think that's the concept behind the app. Right? Like, they're probably gonna have No way. No. Actually, they're a browser plug. Right?
+
+Host 2: So the browser is really like the first collision, but like, they'll Your brother is also because the pure browser picking, you've got to the dove like you've got like a cement description of what you looking at.
+
+Host 2: Right.
+
+Host 3: That's true. I wonder how much they need that. In order to do whatever they're trying to do.
+
+Host 2: I I suspect, like, I'm sure it helps you, but I don't think you super immediate because, like, An ai. I mean, like, image description is very straightforward wheels. So like, you could only have a screenshot in Ai pride the image.
+
+Host 3: Right. I just wonder if it's more like, processor intensive.
+
+Host 2: I think it's fine. But i I guess you have colleagues that like Ai is not going to be kind on your Cpu. I don't know that's making it run don't makes a ton sense though. I don't think it does. I think that stuff needs to run into cloud.
+
+Host 3: Yeah.
+
+Host 2: Yeah. Because the model is gonna be huge, man. Cp three of two people you define second huge. You don't want, like, stop posting that we computers those. I think Fifty three like four hundred gigabytes or something.
+
+Host 3: Four hundred gigabytes Yeah.
+
+Host 2: There's the model is for hundred gigabytes. And then running it takes like an army and Gpus so you running look at person.
+
+Host 3: Yeah. Wow.
+
+Host 2: In case, it's start taking notes of like the kind of stuff with action assistance.
+
+Host 3: Sure.
+
+Host 2: Like, through... As a good day and you do stuff, there's, like cumbersome Well, just now would meeting Jebediah will The guy... It it was a weird meeting Like, the guy has, like, three business and it's not k you And and one of them is like a recruiting business, and he's got a team that like generates leads. And so his customers describe the profile of the kind of candidate that they're looking for longer. And then, like, he he basically he's got like, people like bouncing back and forth between two, so they generate leads tool for him right? I I actually think that, like, did generation and like did I trees is like a huge use case And I was like, my country you read to pay for... That's so you're they are, like a thousand dollars in involved guess. But right that's that's like for.
+
+Host 3: What how use ai?
+
+Host 2: I'm not sure about the specific, but basically, it's got folks bounce around between multiple tools to find candidates for the position. And then once he's late he entails them it like, that tracking system Right.
+
+Host 2: I think we're gonna have it doesn't work to do to scope as the problem space, like scope, the kind of tasks that exist. I think that I entries the huge but sure. And then basically, it's pretty dialed. Right? Like, we do all the tasks and then we we look at, like, size of market and Can we can we solve it? It's like a little, like, all light that it is Yeah.
+
+Host 3: That was one of the demos. Right? For Ai? They did like a you could edit a spreadsheet Yeah.
+
+Host 3: You just tell like kinda like, oh, change this column.
+
+Host 2: Which is what I'm saying like it'll it'll take us months to figure all of these like, this is... I don't want sales.
+
+Host 3: Yeah that is a pretty crazy problem. I, like without using the dom, figure out how to use Google's Like, sheets Like because there's so many like, buttons that are just icons only. Soogrim.
+
+Host 2: I guess but Yeah It's like really that they can use even bullshit think the will wasn't using the damage that's was using a Canvas Api.
+
+Host 3: Oh, okay. Then. I guess, maybe I not idea.
+
+Host 2: Let me let me look. Yeah. I think to give Yeah. It's good.
+
+Host 3: Oh wow. Okay.
+
+Host 2: I guess it's just looking at people's details. I wonder Like, it there's like some interesting in thailand there is a self driving here. Right? I wonder to if like The solution isn't... And actually think that's what ui last did and have another friend who's building called If or something like that, and not, like, nine hundred people or something. Is i that that's kind of what they do. It's like, they they stop by the meetings humans. Like, which is basically they told to make asked humans minutes to to work for you. It's just like me know, they could philippines like five bucks an hour.
+
+Host 2: And and then little medical the ultimate. To work with the humans. You'll... Kind of like a hybrid, you could, like sell this business and like, a do.
+
+Host 3: That was that agency company. Right? Agency that they? Okay.
+
+Host 2: No.
+
+Host 3: Look at exactly.
+
+Host 2: Right. It's e m d l y dot ai. I do feel like eventually these things. I mean, this is right down the the alley of like, Siri and the Google assistant, Like, Right.
+
+Host 1: Those Google assistant. Who released this feature not too long by reserving tables at a restaurant?
+
+Host 1: Yeah.
+
+Host 2: Command. They debate is discontinued or i haven't included.
+
+Host 1: Not sure. I've never used it, but I know that i was something used to do.
+
+Host 3: I thought they added it to So, like, nest or or whatever their home assistant is, can't remember word is. But you could say, like, hey, Google, get me a reservation that this restaurant, and it'll call them. And like, the Ai will talk to the person.
+
+Host 1: Yeah.
+
+Host 3: I I thought it was already out. I saw someone do it.
+
+Host 2: Hawke services anymore the google is simple call the for you and request a reservation. That is that insane. That does. Yeah.
+
+Host 3: See, we need to dial it my understanding of how this is it is assistance work today is like it's not d Ai.
+
+Host 2: Like, there is some i on like, the voice revolution and like the voice this. But, like, everything else in then day nudge is like down like a bunch of like else like these healthy statements. Like they have built simple but, like, making appointments. So it's that's pretty general. You guys Maybe just like like the ninety percent the paying doesn't a request and that's Oh, I'm guessing mister Keith does not show up.
+
+Host 2: Yeah. Enrique can we find a little time for the comments go probably for review Mean, a train at the time. Actually, I obviously if she could Early, We scheduled tomorrow.
+
+Host 1: Yeah. So that i'm not work either there?
+
+Host 2: Maybe yeah it doesn't work. I have a a flight of a train Where are you headed to on the trains?
+
+Host 2: Going up to paris i have an Ai leader.
+
+Host 3: Oh nice.
+
+Host 2: Then I'm I'm saying one, nineteen da that I'm going to finish sales holding there.
+
+Host 3: Nice.
+
+Host 1: I dinner. So with May. Was it with a person?
+
+Host 2: A bunch of a Ai refill feels varies Awesome.
+
+Host 1: So I'm to find a new time? Mark i can just do it my own.
+
+Host 2: Fine yeah. Alright.
+
+Host 1: How are you from Paris or now?
+
+Host 2: All those train. No has light, but train if that because, like let me know in the city, I should you don't think you can just show up, like, five minutes people.
+
+Host 1: Yeah.
+
+Host 3: Think I left my airpods. In Santa barbara road. Somewhere.
+
+Host 3: That's a bummer.
+
+Host 2: What what generation was in? Was that?
+
+Host 3: Not the newest one, so it's a great reason to buy the best the the latest and greatest.
+
+Host 3: I was actually, like, kind a hesitant of like, man like, is it really two times better and, like, i fifty bucks, but now, you know if you lost them, make get the choice, you know?
+
+Host 3: Yeah.
+
+Host 2: I I think to put at the day two weeks better. The seven that they sold my help max because I don't use label anymore.
+
+Host 3: It's like Yeah.
+
+Host 2: So Okay.
+
+Host 3: Alright.
+
+Host 1: So that's my... That was my Christmas gifts from Corey.
+
+Host 1: Oh, like three minutes.
+
+Host 2: Yeah. Least so good. I mean, it's. And if you go, it's kind hidden the settings. So like, in the accessibility these settings also a new modem. But it's like It it fades a away it's like a noise installation or everything but human voice.
+
+Host 2: Wow. Yeah. So you can like, put it on and you'll tell me some of real life and like you just hoops the background noise just get the voice awesome.
+
+Host 3: As wild.
+
+Host 2: Yeah.
+
+Host 1: My first pair of airpods, so even the how fast pairs? Was something that's super surprising to me.
+
+Host 3: Yeah. For some that the one thing we have not figured out is, like, if you're like, using them with your computer and then you receive a phone call and you to the phone call. Like, I don't know why but the ones I had would never transfer to the phone call. You know, as being this like weird state where like You answer the phone expected and it shows that you connected via your head headphones, but it looks like not actually connected. Hi, man. I'm gonna head back to the virtual office see there.

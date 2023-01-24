@@ -1,0 +1,181 @@
+Client 2: Good morning.
+
+Client 3: Sorry.
+
+Client 2: I was like, I'm gonna be wearing this for the rest of the week and then I think I wanna put it away for a week. I think when it's Christmas, and want them off. I want it off.
+
+Client 3: My. What is sweet holy balm? Holly bum?
+
+Client 2: Oh, is that your elf name?
+
+Client 3: You my elf name?
+
+Client 3: We It's in... Now it's in the waiting room.
+
+Client 2: Oh Wait I'm done.
+
+Client 2: Okay.
+
+Client 3: So you everybody everybody for the for the team meeting has to elf their name, but Merry, did you know your name has already been else?
+
+Client 4: No. How how?
+
+Client 2: Galadriel was like, one is sweet something Holly, Sweet.
+
+Client 3: It's in the waiting room.
+
+Client 4: Really?
+
+Client 3: This if is it a meeting recording?
+
+Client 2: No. No. It's basically... I asked everyone. You haven't caught up on like it obviously. But... Yeah, for tomorrow, everybody will have to elf their name and join the celebration with their elf names, I would imagine Merry was following instructions and it's stayed somewhere in they're waiting room, but it's not saved here I don't think that was me.
+
+Client 4: That might have been somebody else.
+
+Client 2: Really?
+
+Client 4: Yeah. And last Zoom got me in the Krishna spirit early and just just made an update for me.
+
+Client 2: Okay. Interesting.
+
+Client 4: I don't believe I changed anything. Yeah.
+
+Host 1: Okay. The in orbit general that.
+
+Client 2: Yes. There's an action for everyone. Oh. That is the channel. If there is an app channel should be read pretty promptly. There's a vote. It's it's time i need everyone's contributions for tomorrow.
+
+Host 1: Yeah the type form.
+
+Client 2: Yes. And your twenty twenty two highlights. Well, orbit related. So but of a a shorter stretch for you about but I'm sure we'll Hopefully, there will be something.
+
+Client 3: I did see the end of your emails go out. That was really exciting.
+
+Client 2: Yay good.
+
+Client 3: Look great.
+
+Client 2: Did we have any responses in addition to Christina, I know know duke is running two minutes behind.
+
+Client 3: I didn't see any. I did clean on my inbox. And San, did you see any Merry?
+
+Client 4: I did not. Know.
+
+Ben Ten: Hello, everybody.
+
+Client 3: Hey, luke.
+
+Ben Ten: I am very sorry for the message I put in the channel earlier. I was in meetings all day and it was literally a running list of things that we like i up I've just rewritten it. So please have a look. Open questions from my side. I'm trying to get caught up on everything, and I had a couple piece of feedback from the engineering team after the... We did did like a big engineering team end of year reflection and took two hours. So like i'm a bit Jade after this meeting. But... Yeah. These are just like some of the open items on my list. But we'd love for everyone to obviously add to it. In terms of Any questions, you have any but first and foremost, wait I also a message from Penelope saying she got kicked out of this.
+
+Client 2: Oh god. Penelope was the happy house.
+
+Client 2: Okay. So how I got of course party.
+
+Ben Ten: Yeah. She literally messaged me like, I get Kicked town of Zoom. What's happening.
+
+Client 2: Galadriel everybody was like, who is like someone in else i'm elf name and I'm like, Oh, and I I I was like, are you open your name and she's like, no, something like it's trying to join, and I'm like, then Merry Jericho, and I was like, oh, maybe Merry updated somewhere else and zoom, but it was cardi you she... She's already elf her name. I love it.
+
+Ben Ten: So let's... I I told her Join again. Who okay. So did the Galadriel did you kick her out like what is this thing?
+
+Client 2: Yeah.
+
+Ben Ten: Oh, she can no longer join because she's been removed by the hosts.
+
+Client 3: No.
+
+Ben Ten: She cannot, like, join this meeting anymore. Can we do can you give her Let me see.
+
+Client 2: Wow. How many times did you remove her? That's an interesting thing to know if you kick out this one, I just didn't let her in.
+
+Ben Ten: Maybe it's like a...
+
+Client 3: Oh here.
+
+Ben Ten: Shadow band. We go.
+
+Client 3: I just invited her I send her an invite link as well.
+
+Ben Ten: So let's see Helps getting Anyways, how did the last two weeks ago, you know there were some issues in communications back and forth with the engineering team around, like, prioritization of bugs. So we just caught up on that. With the engineers. I know there's like, the horrible authentication issue that happened that is now fixed, but that must have been very impactful for clients. So, yeah, we'd love we'd love a little bit of a download. Like how things are going and where things are.
+
+Client 3: I I mean, I think that everything was resolved when you are out. We did come into we did run into a bunch of bugs. And we d prioritized some of the features that we do prioritize sending out scheduling. The scheduling timeline as soon as we could so that we could resolve some bugs. But, yep, I think we're happy like, once they got resolved and we all got the same page about them.
+
+Ben Ten: Cool. And I need to catch up on scheduling timeline line because Jacob said change some of the requirements. So like, some of the logic has, like change slightly. Right? No.
+
+Client 3: Shouldn't... No. It shouldn't have. I thought he and he released it. Looks great.
+
+Ben Ten: Yeah. If I've played around with it, it looks really good.
+
+Ben Ten: Most nicely.
+
+Client 3: Yeah. It it feels so smooth and then just the removal of some of those limitations, like now customers can schedule same day. They can... And they can close on a Friday, like, honestly, it makes the world a difference when you're going through that process. It is so smooth and so nice. It's like Cloud nine.
+
+Ben Ten: That's cool. I'm tell jacob for me. Make sure to touch base with him Galadriel also told him that it feels like cutting butter with a warm knife that was a very nice expression.
+
+Ben Ten: We go, there we go. Yeah And in in addition to that, like, what's the status of the self scheduling. Have we rolled that out to any clients? Are we still the the primary user of this?
+
+Client 3: We're still a primary user of that. And then there is one issue that is still happening that Jacob said you needed to fix in your back think might be related to that. Where customers are not seeing to submit button. So they're still emailing us whenever they need to submit and engagement.
+
+Ben Ten: But submit for review.
+
+Client 3: Right. Yep.
+
+Ben Ten: Okay.
+
+Client 3: That's... Yeah.
+
+Ben Ten: That is weird.
+
+Client 3: Jacobs says behind a feature flag, and he can't understand why it was ever put behind the feature flying, so he was hesitant to remove that feature flag because he felt like it must be intentional. But he knows why... He knows why customers aren't seeing it.
+
+Ben Ten: And we haven't added the feature flag to every workspace.
+
+Client 3: Correct. Like, he didn't wanna add work case because he thought maybe you put it on there for self scheduling or they're was a reason for it because we couldn't think of any reason that anyone would put it on there otherwise.
+
+Ben Ten: This is a very good reason for it. Yeah. That was two years ago. Yeah. I'll have a look and I'll assign to old workspaces.
+
+Client 3: Okay. Great. Yeah. I mean, we'd we stopped doing myself scheduling because customers were not seeing the button. Is that right? Luke Or Yeah.
+
+Client 3: I think because this happened, like, right before you went on holiday. We had released it. Then there were some challenges with making engagements so if you couldn't see the buttons.
+
+Client 3: So we moved it back to air table.
+
+Ben Ten: No. So this is the first time I hear about this. Submit button not being there. I wasn't aware of this. This takes you the first time. The issue we encountered which was very much to certain extent self inflicted is we had the scheduling and canceling behind the feature flag. Which means that it's only accessible to internal admins like all the internal admins and I removed Penelope and Merry from thirty five work spaces where you were admins is like you shouldn't see it because you're an admin looking internal happened.
+
+Ben Ten: We may change the name of this to, like, super user or something else to, like, avoid the confusion But it seems like what was perceived to be a bug was actually like intended use. And like, it it was working as expected. So So let's make sure But Merry and I...
+
+Client 3: Merry and, I never saw those buttons as internal admins.
+
+Client 4: Yeah. And then I know Penelope was having issues with it as well.
+
+Client 2: Other otherwise Penny is still joining? We just jump on a different link?
+
+Ben Ten: I'll have a look at, like, what's going on because i jacob kinda replicated We see the exact behavior we expect. And the only explanation would have been, like, I removed Merry yesterday from all the works spaces If you're an admin, you're not gonna see it. And So the role would be the the big reason, but I a look at it tomorrow In that admin roll, that's the same role there we reassign clients.
+
+Client 4: Right? The admin role, that's the the same features that we're signing wire time.
+
+Ben Ten: Right. Yes. Yeah. Yeah. You would see what the client would see. That's essentially check. Impersonating a client. What... So I'll make sure that, like, the It's working as intended. And then should we start like a new year by rolling it out to like, essential clients first? Because the functionality seems to be working as expected, like, as we wanted to work, apart from not staying at certain rules.
+
+Client 4: Well, And also, I I noticed something funky two. I noticed that there seemed to be, like a date parameter on it when I was in Admin meant, like And my words to scheduled the open date to be, let's, say, tomorrow. It wouldn't appear, but I would assume.
+
+Ben Ten: That makes sense.
+
+Client 4: That's all. Right?
+
+Ben Ten: Okay. Okay. No. No. That's not. That's not alright. That's this just part of the scheduling timeline. They should have been yours we're just scheduling timeline line.
+
+Client 4: Okay.
+
+Ben Ten: As in like that that parameter should be the same one as we had prevent like, that's a constraint we had with the old scheduling timeline. With a new one that should be going.
+
+Client 4: Okay.
+
+Ben Ten: So that's Let me let me make sure to check that scheduling timeline Okay.
+
+Client 2: Assuming Penelope is not able to join this meeting room, should we just switch for thirty seconds in another one?
+
+Client 3: It is chad Wait I don't let me see if she can't con join the link that I shared with her.
+
+Ben Ten: I think like, if she can't get into this one, she wouldn't be able to like, get into this like, I think there's a you must have put, like a some kind of a block from if I think if we want to, we need to change to a different.
+
+Client 2: One second.
+
+Ben Ten: Yes, sure. Okay.

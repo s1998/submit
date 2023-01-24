@@ -1,0 +1,449 @@
+Client 2: Hello?
+
+Host 1: Hey, Erica. How are you doing?
+
+Client 2: Yeah. Thanks. Sorry. I'm a a couple minutes late there. Can you hear me okay?
+
+Host 1: Yeah. I can hear you.
+
+Client 2: No worries. Thanks so much for meeting with me.
+
+Host 1: Yeah. Know. Thank you for setting up a chad. I know you were previously in talks with Orbit, but good to reconnect.
+
+Client 2: Yeah, Totally. Just to give you... Do you want me to give you a little bit text to how I'm revisiting That'll be great.
+
+Client 2: Yeah. Awesome. Cool. Yeah. So essentially, I i had an initial chat and understanding of what where it was went through kind of like, you know, my pain pinpoint when it comes to these digital community that I'm manager for our start app. And went over, like, how... Or we could help with that, But then I know there was a lot of things that were in the work of being released and coming out and we're sort of at the point in our where we're slightly shifting things and we're wanting to invest a bit more in terms of our we've we really understood that our community... So it's an emotional wellness app. And so our community essentially consists of our super users within that space. So the people that are most engaged that are consuming most of the content. And I created the Slack community where we come to together. However, there's a lot... Like, there's very little activity that happens within that community. And in trying to understand why. I realized that there was really just wanting to be Let's say I'm going through breakup or let's say I'm going through Heartache for some reason. I think people want to come together with those who are also going through the same thing. And on a in a digital space, it can be tricky to, like, be the one to reach out or be the one to sort of initiate if you will. And so I'm realizing more and more the opportunity space of getting those people connected more. So whether it be us hosting company events as we have a couple town halls and sort of wellness coach lead sessions for them. And then also having them connect to one another, and it's more relevant than ever right now in the direction we're going, and I'm going to next week be meeting with our our founder. And so it's an opportunity for me to kind of align with him when it of the direction and give him some solutions that will help him understand the value of community because I think you I don't know you have probably talked to enough people, but it's hard to get budget and investment in community when it's not a direct driver to revenue. So being able to say, well, like, if our if our folks wanna come closer together, let's use orbit to give them an opportunity and see how it goes. And I guess, also just so that I don't forget to ask you, I'm interested in knowing a little bit about api and just kind of the capabilities when it comes to if we're were to use orbit in this digital community and we really like it, and we wanted to make use of it in our sort of overall app world as well as an offering if that would be possible to do sort of through Api calls or whatnot. So Yeah.
+
+Host 1: Okay. Really good for edit context Okay.
+
+Client 2: Cool We do have an Api and it it takes a bit of do you have a developer there or someone working on product?
+
+Host 1: Were like it just like, really quick you know, set up with the with the key and you could start sending data and utilizing orbit in that way. So I can even invite someone from our side to chat with someone with your side. What the Api looks like but that's that's ready to go in and that is something that you can use.
+
+Host 1: Do you have any, like, specific questions on the Api?
+
+Client 2: No I think I... I'm a bit more limited when it comes to knowledge about it. I just I have like a a sort of grand understanding, but it's more to understand if we were to dry orbit, and it works really well. We would like to start adding more offerings to our current customers to sort of get them as to, you know, upgrades or what have you. And additions, add ons. And so if we could have an add on that was a match making with people who are on your same relational journey. That would be really beneficial for us, but we obviously wanted to look as part of the app and as part of the service possible, not to disregard like you guys having branding and being known as being able to provide that service, but more so that it doesn't seem like we are using a third party tool.
+
+Host 1: Totally. Yeah. So we did develop... We have just developed Api already being tested and used. So if that's something you'd want to offer later on for your clients. Yeah. That would be available. And no matter what, the Api has this but even with you if you came on using it as a client for your own community, It's your branding it's your color as your logo. It's not it's not orbit communicating with them. That's another big criteria that we...
+
+Client 2: Cool Because when I recall, and this is again was along... It was back in August, but what I recalled was the branding does exist though when it comes to emails, I believe.
+
+Client 2: Yes. Some sort of emails. Okay.
+
+Host 1: Would it make sense to walk through any like, refresh your memory was like a product demo from a member for perspective or are you from familiar with without Well, I mean, if we were to do a walk through, are there new things that potentially, I wouldn't have seen that might be helpful as well.
+
+Client 2: or is it more that the new things aren't necessarily integrated into that aspect?
+
+Host 1: Yes. Tough to know what were talking with Samantha last time And it was back in August.
+
+Host 1: Back okay back in August I'm sure what she walked you through from, like, a member perspective, like, the email, the opt in, Does Her no was June.
+
+Client 2: Sorry.
+
+Host 1: Okay Yep. Let me just quick share. You can tell me if maybe you've seen this Sure So this is what it's like from a member perspective.
+
+Host 1: The opt email, the reminder, It's all customizable. This is one of our clients, but it's your logo.
+
+Host 1: In opt form. Was this something that you've seen before if she walked you through?
+
+Client 2: Not this slide presentation exactly. So like, this isn't hurting. If that's what we're get.
+
+Host 1: Okay. Yeah. Let me let me walk you through that and I can, like, refresh your memory with everything? What else was are gonna ask you wrote things down here. Yeah. Based on interest, you wanna automate scheduling match making is obviously an important part of it, Api. Things that I mentioned to you in the email, like, what's specifically new and probably what I... I'm not gonna show here. Like, our Crm integrations, like, our improvements with match making, like, the member like, the tags, not the profiles, because we have no profiles. You can use your existing data, top recommended matches, I can add a bit of context for you on these things. These are all things that you get.
+
+Client 2: I think to be honest with you, those things didn't really stand out to me too much is increasing the value of this service. If we were to pursue it. So I think, like, I don't necessarily think it necessarily warrants a breakdown. I think one thing I was interested in was I... You know, I should go back in my notes here and just double check. But things like small groups, I don't know if groups were as much of a thing at that point.
+
+Host 1: K. Yeah. Groups are something new that we'd added.
+
+Client 2: So in terms of groups or us what that would look like is you know, hey, you've done this kind of match making, or maybe you aren't really comfortable one on one, and you'd prefer a small group and just essentially, again, bringing those people together on that same relation journey just in a small space where there's maybe about five people. So that kind of thing.
+
+Host 1: Okay. So one do one of interest specifically, or and also small groups is something that you're interested scoring in in addition or instead of one to one.
+
+Client 2: I would say offering it as a side option, Like, offering the two options at the same time depending on the person that's being involved, but also, you know, we we would like to start doing more events that makes sense with the community and not just sort of product forward, you know, like, town halls are very app focused, but we'd like to start having more events led by wellness coaches. So if we were able to throw a coach into that match making mix, and give them a small group of people that they were to meet with as well. That would I think the interest. And, you know, we could do that already using, you know, Zoom for example, but to have them making element might be interesting thing.
+
+Host 1: So interestingly enough, we just started working with a wellness community with wellness coaches and they do cohorts of like... like, a course in February.
+
+Client 2: The cohort would be super interesting And then we'll matching them up like, in groups with, like, specific wellness coaches.
+
+Host 1: So that is something that we are currently doing interesting use case I'll do. I think the best scenario is I know that's the value kind of your you're searching for, at least in terms of, like, a benefit. Share you the demo walk through questions that you have about groups. In terms of, like, other things that maybe you and Samantha to discuss what initially brought you to orbit. Like, what's the value of these match making in connections. Like, are you seeing it as a way to drive revenue? Or you just wanting an engaged community is a good community. Like, what what's what's your capability?
+
+Client 2: Well, I mean, you know, all of the above in a sense, in my case, I am trying too. So I originally was a user of the app and I created my job, I reach out to our cofounder and was like, hey, you have enough people here that are of the same mindset, they're gonna want a sense some like connection beyond what we have currently. Currently, our limitation is that in our coaching sessions. They have, like, a live chat where they can chat with one another. Nobody gets to see each other. Nobody has to have after conversations afterwards and stuff like that. So we're trying to use our community as sort of like, an expansion of those sessions. So because people will talk to each other in those sessions and they'll be like, you know, supportive or say, I'm also going through the same thing. But then it just kinda drops off. So my mind coming forward was to our founders to say, like, there's an opportunity here to bring these people closer together. And so it's almost like we want it to be an extension of that. And I initially thought creating a slack space would be great. We have a lots of different channels. People can engage more. Truth be told and not much is happening in that space because I think a lot of these Mostly women of the age of, like, I say most of our audiences between you know, low thirties to, like, low sixties they just don't want to spend a lot of time in a digital space necessarily kind of chatting and posting. And so I think their sense of community or connection might just come from the like, quality of quantity in terms of, like, actually meeting people and getting that facetime and having the back and forth conversation. And then getting a bit more closeness to our wellness coaches as well. So if we were able to do that k.
+
+Client 2: That is revenue driving in terms of retention right, engaging with our most loyal users. Would like to be able to have some sort of ambassador program and so that has those engaged community members feeling closer to us through that. And then also, if we were to for example, use the Api and integrate it we could use it as an add on and offering that would help generate more revenue for us too because it's... Yeah, an upgrade to our normal sort of plan.
+
+Host 1: Definitely. Okay. So revenue generating reducing drop offs with these cohorts sound like a a good initial specific use case where we can measure results.
+
+Client 2: Okay. And then complimentary to cohorts, it's funny you mentioned that because that's sort of like a and we're shifting to. We were very much focused on app monthly sort of subscriptions and then offering a yearly as sort of, like, an incentive. Now we're going to be more so focusing on only annual, memberships, and having cohorts throughout the year that they can join according to where they're at in their wellness journey. So if you're dating and single and you're having difficulties or you're going through, like a big grief for loss in your life, having a wellness coach attached that cohort and going through and then being able to have community moments where people can come together while they're going through that cohort Got it.
+
+Host 1: Lot of good information there. So I just i just some notes in that. I'll I'll send stuff to you out with this updated little product demo just so you have it But I think I think we're are in a good place and I'll specifically I won't show you... I'll I'll show you the one to one, but the same thing happens with to group. So once one, we can do How big is your community? By the way?
+
+Client 2: So right now, we're, like, less than a hundred people. And we want to... Because we're doing this sort of shift in terms of what our sort of product is or service that we're offering. The idea would be to set up this community space and up this match making and try it with our smaller group. And then essentially, once we announced that full shift in that new vision and even potentially brand that's when we start to invite people into the community on a regular basis.
+
+Host 1: Okay. Okay. Gotcha.
+
+Client 2: Is so great... Now whoever's in there is kinda in there.
+
+Host 1: And so those hundred are are paid subscribers.
+
+Client 2: Everyone is paid.
+
+Host 1: Paid. And so you wouldn't want to offer this to somebody that's not paid essentially We could.
+
+Client 2: So what we have like, a sort of freemium if you will, where you can access three of our three videos from our wellness coaches. Every month. But, like, there's very limited things you can do in if anything beyond that, So it is really just to give somebody a little taste. So I would say more so, it would be an incentive to join rather than something we would offer them before joining.
+
+Host 1: Exactly. That makes sense. How big is that wider community of non paid not very at all because we just shifted over to offering that.
+
+Client 2: So like, we went... There were... There were some people that had been part of third in from when we first and announced that we're paying at all even. And so we now have essentially, everyone paying, and then people can kinda, like, come in don't know what the freemium numbers are right now, but k. Yeah. We have a couple thousand users in general.
+
+Host 1: Got it. Alright. Let me show you what this is about? And if you have seen any of this stuff from previous that I'm about show you just let me know. I can...
+
+Client 2: Yeah.
+
+Host 1: get over it. But just so you have some added context for everything that I was previously talking about. You can see my screen. Right? Okay. So we're all about match making and an automated scheduling. So maybe Samantha went over this, but Three big things that we're doing for match making one to one group connections scale first, we have this matching criteria. So you were mentioning specific connecting people around areas of interest whether it's grief, laws or you just wanna kick with the wellness coach to discover What they're interested in. There's a quick fifteen, thirty second opt form. And we set these criteria and that's it's really the basis for these connections. This... And it's all customizable the second thing that we do is that frictionless opt? So there's no logins. There's no profiles. We're not a management form. It's your branding. It's all in your messaging. Everything is complete from you. We just wanna make that as seamless as possible. The third thing is automated scheduling. So once they opt in, within twenty four hours, they get that match introduction and we're all about. Fostering the right connections. So you also mentioned they want that quality over quantity. And so that's a big reason we're connecting people. So our N s score is eighty seven. I love to share that with people it's quite high.
+
+Client 2: Yeah.
+
+Host 1: It is the average rating is a four point three out to five. And so this is where that quality comes into place So after every match. We're gonna get feedback from them. We're gonna say, can you rank this conversation one out of five? Our average is a four point three. So we're all about that quality. Connection because that's what gets coming back Okay.
+
+Client 2: I love it.
+
+Host 1: Couple companies were working with and I'll just i'll quickly share. We just started working with it last in, really large developer community.
+
+Client 2: Of it. Yeah. I'm part of like... I don't know if you've ever heard of C hub, but it's a a hub community managers and lastly comes up all the time.
+
+Host 1: Okay. Great. Yeah. Definitely familiar with C x, know a lot like people that went there.
+
+Host 1: Mh. Yeah. So Atlas, Vc portfolios we started working with, but we're expanding into just larger communities to connect them, Nikita is uni for demand generation. So they have paid members they're for non paid in the were them a value add. So maybe an interesting use case there for you all Okay.
+
+Client 2: Cool.
+
+Host 1: Okay So I'm gonna use Cfo Connects from Span. This is a paid membership of four thousand Cfo. And they've said we could use them as an example. So first thing that your members are gonna receive again, stop me if if you seen this before, the first thing is an email invitation.
+
+Host 1: So as you're branding, your logo, your colors, everything is coming from you we want them engaging with with you not with Orbit. We give them a bit of information about what this engagement or this matching round about... And there's an opt date. It's So often by Thursday the sixteenth and to get matched the next day. They don't opt in in this first email to get a reminder. And all of this is, you know, in your dashboard to customize before sending it out there. Once they do click that opt button? They're be take to this form and it's gonna ask name, email because we put that invite right their calendar We asking for the role, the company size, areas of interest, We can ask, you know, times that they wanna actually meetup up and a lot of other things that just get them matching up the correct people.
+
+Client 2: Okay Any questions on on that part of things?
+
+Client 2: No. But it's funny because I'm I'm going back to, like, when Samantha Was talking to me, and I think the demo she gave us based on a medical instance of bringing women together who had gone through I don't know if it was miscarriage or something like that, and it was a bit just being frank, It was a bit easier to follow in terms of the same direction that we would be taking with our users like, because they're coming together. Sort of like a more of a a health focus if you will. So in this case, what we're looking at now Like, we would I would be curious to know if Like, we would likely want to set people up in terms of the reason that they're interested ahead of time. To then bring them together and give them that option to meet versus say what are you interested in? However, if this is a way that we can ask them what they're interested in in terms of that relational journey and then based on their answer match them with certain people. That's... I guess, also an option too. I just haven't considered it.
+
+Host 1: That is usually the main way we're connecting people. So it's an opt in... If we run an engagement let's say, next week, Here's an email efficient to to opt in to this next engagement. If they don't opt in they happen to the next one, but they're gonna update their areas of interest that times they can connect if they're okay change.
+
+Host 1: So it is way to keep data updated.
+
+Client 2: Yeah. So every time that they want to opt into one of these sessions, they would be shown this I'm interested in discussing, and then they would have an option.
+
+Host 1: They would show... They would only get the opt email. So if they don't wanna logged into this one, they don't opt in. But if you wanna opt into the next one, then they opt in and then they receive this form so they don't wanna opt they don't fill this out.
+
+Client 2: Right. And by often, you mean more so, like, here's a period of time where this is available. So if they don't choose if they say during this period, I'm interested in breakups but then let's say, in the next period, they opt in... and then they can say I'm interested in single and dating.
+
+Client 2: Exactly. Okay. Cool.
+
+Host 1: So this this... opt in date for this engagement is the sixteenth. If they don't opt in by that date, to wait for the next one. and... Yeah. Exactly.
+
+Client 2: Exactly Right okay cool.
+
+Host 1: And if they fill this out in a previous engagement all of this will be pre filled for them. So they can they only have to change it if they need to, so it's meant to go quick as possible. We can also do like you said anu pro here, if you have all this information from everyone already, upload it into the workspace then through a Cs we can match them up without the opt form.
+
+Client 2: Okay. Cool.
+
+Host 1: Okay Yeah. Fifteen seconds they get some Confetti and they go to the next So within twenty four hours, our Ai kinda does this thing to match of the right people based on these answers, and then get a match introduction. To the person that they're gonna be meeting, we also send them an invitation right in their calendar And again information about that person that's showing up here, like, you know, at Zapier that's information that's asked in the opt in.
+
+Client 2: It is Okay. Cool. So we would essentially just have to sort of set some sort of like, ground rules to be like, you know, you don't have to share this kind of information if you wanna say it anonymous, but it it will ask you and then it's just we can leave it as an optional field or we we don't have to put it in the email.
+
+Host 1: But when we match people up we don't want them to be anonymous. Right? We want them to know.
+
+Client 2: Yeah... I mean, names and But in terms of, like, you know, personal live details, I don't know how much people want to offer because there is this kind of like need for safe space if you will.
+
+Host 1: Certainly we can customize this and and add subtracting Yep.
+
+Client 2: Cool Thank you.
+
+Host 1: And then we also put in a Linkedin Url if that's something that we ask him for in that calendar invite and then a conversation guide, Again, some use it somehow. Cool. Okay. Once that date comes up for them to actually meet up and their match is ready. They click on that link and they're sent to a branded video platform. So we built this in house as a part of that seamless experience, there's nothing to download you can open in your browser mobile or desktop. If they wanna use their own Zoom link or their Google, they they can also do that. They don't have to use this platform, but it's there if they too. Couple of our Cs teammates put this together. Once that's done, they're gonna get a feedback form in their email. It's gonna ask him did the check happen did it not happen? Does a bit of a sequence for some no shows? Sure. And ask Him that match rating, how strong was that match one out of five? It's gonna ask, what are some future topics or areas of interest that you wanted to us going forward, a lot of good intel for you to feed your programs get your coaches, then also how often you wanna be matched up going forward. And that's it. That's all... Just total experience from the member perspective. Cool That's awesome mean...
+
+Client 2: I mean, it's super simple. Right?
+
+Host 1: Yeah. Very simple, really frictionless for them. And it's really easy to set up. So I can show you a bit in the back end of you, like, what is like from a community manager perspective to set these things up Awesome.
+
+Client 2: Yeah.
+
+Host 1: So everything is from this dashboard here, you can import audiences, you can you maybe import your paid members or your total users or segment your coaches and this sorry through Cs.
+
+Host 1: Through Csv.
+
+Client 2: Okay yep.
+
+Host 1: Yep You can manage all of your member data here. It's kinda like a subscriber list don't have to do anything with it. You can put tags on there. So this email bound. So it's no longer in your your database or we can look super users, a lot of stuff we can do there.
+
+Client 2: Can we import tags as well?
+
+Host 1: You can.
+
+Client 2: And then there, like, a template to work off of in order to know the proper columns?
+
+Host 1: Yes. So we're gonna have a... Once you import that Csv, we'll do a match scenario. You match right things. It's kind of this kinda like a mailchimp essentially.
+
+Client 2: Okay. Cool.
+
+Host 1: Or are you guys using a Csv? I'm sorry, Crm.
+
+Client 2: For marketing initiatives, yes, but not currently for our community for our community, we're using an app called our service called T, which allows you to do, like, work low automations in Slack and and community spaces and they currently certainly they have... Like, this... That's where most of our member information engagements and tags if you will exists.
+
+Host 1: Okay. Makes sense. So in the case in the future you start using the crm that we integrate with all option. But Csv fees work perfectly well. Sure I just wanna check it on time as well. I'll go through our earn engagements. Do you have an extra five minutes in case we happen to go over?
+
+Client 2: Oh, yeah Don't worry. I don't have anything until after two, so we're good.
+
+Host 1: Okay. Alright good. I just wanted to make sure.
+
+Client 2: Yeah. As long as you are thinking Yeah.
+
+Host 1: Okay. So setting up that engagement once we have that audience in there, and we know you wanna next. We set up the time for that next engagement. So, yeah, what is that opt in date or that registration date gonna be? Mh. and what's the reminder gonna be... So all of that is just set up here. And then you're gonna choose your audience. You just import the audience that you wanna connect with. And then you set up the topic. So the topic is where we can go into and we can edit that invitation email all template out for you. So you can you there you can modify anything down to the button that they used to register with? The reminder email, same thing. All of... This is in there, so you can have a high version rate, but edit anything that you need to Awesome The conversation guide here is gonna be based off a library of topics that you choose. It could be, you know, more mentor. Could be more just pure networking. But all of this is gonna be in that calendar invitation that you can edit as well. Really good have there a lot...
+
+Client 2: I think that's awesome because even if we pair people up in a cohort for sample without a coach present. The coach could always come up with these questions, for example.
+
+Host 1: Yeah. We can import questions that coaches wanna ask in these sessions as well. And then the sign form So this is the last piece of setup that you would have to do to run an engagement. Again, very simple.
+
+Client 2: Where is this showing up?
+
+Host 1: So this is the first thing that they're gonna see in this opt form So if I go, This is.
+
+Host 1: Thing. Yeah. So once they click opt in, they're taken to this form, Okay.
+
+Client 2: So this is after they see the email after they click the button, this is what they see that.
+
+Client 2: Yes.
+
+Host 1: So this is editing that first welcome text gonna be logo your colors. Then they're gonna start asking for in the form member information. So role company name. Linkedin url if we wanna toggle this stuff on, we can, really good ways to match people up. And then we get into the areas of interest. So we can add up to seven here and modify the way that we want to. We can ask him years of experience company size with a lot of Vcs and portfolio. So, you know, company stage, they love to match up seed the seed. Series they was series a. We can toggle the stuff off we don't want to. But typically, this is what is resulting in a very high n Ps score for all company size b for us, Like, just to understand what that means.
+
+Host 1: This could be, like years of experience. So if you're gonna connect like, coaches with this question, like, how many Yeah. You're is a professional experience. Do you have or many...
+
+Client 2: Like, if it was just users, sorry.
+
+Host 1: That's here's of experience. We don't have to use company size If that doesn't make sense, this is community says could be company size or you could reframe this has Yeah. Users, clients, how many people do you manage? It's not something that we have to ask, but that question can be reframe Right.
+
+Client 2: Because I... Like, I see this more of it in terms of a network and but in this case, it's more of, like, let's say you're match making friends or something like that. Right?
+
+Host 1: in which case specifically.
+
+Client 2: Well, so I'm trying to understand. So like, this... You would ask a question of, like, what's your company size, if it was a networking opportunity where people from different companies were coming together.
+
+Client 2: But in this case, it's two people coming together to talk about life stuff. Right?
+
+Host 1: Yeah. So we would likely not use that company size one. We just toggle that one off. So company stage size, leave those off, but let's leave it on years of experience and you use that as a mentioned criteria.
+
+Client 2: Pretty sure. Yep Yeah.
+
+Host 1: Sorry for that confusion there.
+
+Client 2: It's okay. I'm just trying to, like, pivot it to, like, in this case, what would we say? You know?
+
+Host 1: Yeah. Yeah. Definitely. And if you wanted to add areas of interest here, like, can you like some things that made sense as a base Like, you know, let's talk about, you know, a recent trees grief or loss or anything else?
+
+Host 1: This is probably the best place for that. And if you also wanna add a custom question, like, I don't know. Industry or additional areas of interest that is where we can have another match question. You can add that in here. Instead.
+
+Client 2: Yeah. I would say maybe what we could ask something like that would be like, you know, how comfortable are you... But I don't know if this is possible in terms of making, but like, how comfortable are you at speaking versus listening or something like that, like, you know, being able to pair somebody who's better we're talking with somebody who's not great at talking would be kinda neat. To see if that could be helpful in encouragement and not kind thing versus paired to people together that are, like, not the most comfortable.
+
+Host 1: Yeah. It could be an additional set of criteria that we use to match them up.
+
+Client 2: Would that make sense with the sort of if flow? If then flow of the match making.
+
+Host 1: It would. It would be mh extra thing to get information on. And if we don't wanna use it for first time to match people up just get... What are people answering to this question.
+
+Host 1: You have to use it for matching, but then was say, okay. This actually would make sense to match up for next engagement. Click that on and actually match people up for that in the next round.
+
+Client 2: And then match for like like for unlike would be a perfect case in that sense Right? Because you're saying let's match somebody who has this answer with somebody who doesn't have that answer?
+
+Client 2: Exactly.
+
+Client 2: Okay.
+
+Host 1: Perfect. But someone who says there a coach versus Someone who's not a coach Not wanna.
+
+Client 2: Yeah.
+
+Host 1: Perfect. Yep. Exactly. And then some time zones, you can add in just for scheduling purposes, but the next feedback form is the last piece of setup up. So there's some standard questions that we ask them. You know, how how good was the fit? You know, leave a testimonial. You can add in optional questions. So how often... do you wanna be matched? Weekly, monthly, every other week. So really good just get a cadence going based on the feedback that they give you.
+
+Client 2: And this is an action... Like, depending on their answer is not actionable in terms of triggering something.
+
+Host 1: It's just yeah.
+
+Client 2: Us finding it.
+
+Host 1: You you can use this if... You can maybe do two rounds and if the average of those is monthly, then you manually set that next round as a monthly.
+
+Host 1: Awesome. Automated. Perfect. In essence sense. We can also go toggle on discussion topics. So what are some future topics that you didn't discuss now but that you want So this could feed events or programming or your newsletter anything like that, but it could also feed what type of topics you wanna serve up in the future.
+
+Client 2: Okay so that does completely it from a setup standpoint.
+
+Host 1: I'll share with you next just to to wrap up here?
+
+Host 1: Sure. Is the dashboard. So this is a completed engagement. And so every member that has opted in for a match you can look at their Mps score, the date of match, any qualitative feedback they've given or a testimonial. So a lot of good insights are gonna receive, you're gonna get a flooded with good tesla testimonials and good reviews on, hey, this was really good. Or if someone didn't have the best experience like this seven out ten. You know, maybe you can reach out to them in and you know, just keep feedback for next engagement. Awesome. Dashboard per engagement, So this engagement had about five hundred people in it. You can look at the opt rate the Mps score on an average, the average man rating, four point four average, for dis engagement care.
+
+Host 1: You can look at who exactly in the community was meeting up. The topics that we're discussing time zones, obviously, and then future topics. So what topics they wanna discuss in the future how often Obviously, this group likes be connected monthly probably set up another engagement next month with specific topics that they know they're gonna be match based on.
+
+Client 2: Yeah. Okay. Cool. And so for example, if we see the people who are going through break would rather meet more frequently than somebody who's who's dating. We can tie those two together and say the people that are Yes.
+
+Host 1: You... If if that so... If that audience wants to meet up every other week instead of every month, you can create another asynchronous matching around for that group condition to the ongoing monthly, let's say, Cool.
+
+Client 2: And Just a simple question. What happens when there's even numbers?
+
+Host 1: When there's numbers, that's where this question comes in. So are you open to being matched twice?
+
+Host 1: So evening one says yes. It's gonna fill in that one extra person. So no one's gonna be left on the open And if there isn't anybody who says yesterday.
+
+Host 1: We will come up with the solution internally. It'll be flagged and we'll make that they they did.
+
+Client 2: Yep Amazing our product seems to super hands on.
+
+Host 1: So like, we doing every every kind of match that's happening. You can even look at the matches before the scheduling and edit them in some way if you want to Perfect. Okay. Cool that is the run through for you How about when it comes to cohorts?
+
+Client 2: You were telling me that there's a of cohort example that you already have existing with the wellness company, How how would that work? I need from what you showed me Yeah.
+
+Host 1: So with the small groups, specifically. So we are starting to do a lot more learning platforms is with the cohorts of of courses and students for accountability. And so that something we're starting to do a lot more the scheduling scenario in the cohorts, but we're we're essentially built for cohorts. So you're gonna run a cohort session for engagements for every group of people.
+
+Client 2: Right. So it's a matter of, like, adding a tag for each person and that's a part of a cohort and then starting a match making opportunity for them based on their tag something like Yes.
+
+Host 1: Yes. Exactly. One you can invite everybody in your community and everyone that Opt in will be part of the new cohort this one, or you only wanna invite a certain audience of of your total, and then they can opt into this next engagement. That is That's how you do that. That's for one to one. the same scenario happens for a small group. So we're ideal for groups of four to nine people. And so if you have a hundred people gonna do what ten groups of nine, let's say are eleven groups of nine. They're all gonna get matched up with people based on interest and you can have, like, one coach in their per group. If you want to. It's the same scenario. We just toggle one to one to group coaching.
+
+Client 2: And so how how is that set up differently?
+
+Host 1: There's no difference in how you set that up. Besides in in this setup scenario, You would just change the number from, like, two to deep You we could decide if you wanna match up four versus eight versus nine.
+
+Host 1: Yeah. So you said that. I don't have the group pulled up here at this point, but you just tell the say. I wanna match up Yeah by groups of five. And so we're automatically gonna separate your hundred people into groups of five and make sure that everyone is gonna match up with the best script. There's a bit of a weighted to scoring going on there Can we decide though...
+
+Client 2: Can we have it so that, like, ideally, our cohort would meet with our coach And so we would have to make sure that there was only ever one group with the coach happening at a time Yep. And that our coach would rotate throughout those. So how does that set up work we doing up with one group already where they're all getting matched up with a specific coach or we're gonna do a small group of people matching up with one instructor or...
+
+Host 1: Or a coaching in your case. So we could just make sure when people opt in Let's say you have let's see five coaches. Or or ten coaches. You wanna probably do one group per coach. So you wanna do ten So in in one cohort for us, we would have one coach leading one cohort.
+
+Host 1: Yep. So how many coaches would you have? Let's say per month?
+
+Client 2: So, like, hard to explain, but essentially, we have a list of coaches that work with us, and they each have their own sort of specialty.
+
+Client 2: So at one time, there would be one coach that's doing like, a relationships one zero one cohort. And then another coach that's doing, like, a money, or financial sort of cohort. And so you'd wanna make sure that if you're in this relationships, one and one cohort, you get matched up with that coach, but that coach appears a few different times in this sort of schedule so that they can meet with everybody in that cohort. Does that make sense?
+
+Host 1: So that that coach would be meeting up with multiple people per month Yeah.
+
+Client 2: So, like, for example, if we have a cohort that runs for two months. That's led by one coach. We would wanna make sure that Everyone in that cohort gets the chance to meet with that coach let's say twice in that two months. So we wouldn't wanna make sure that we have we don't have overlaps of groups meeting because there's only one coach. And that we don't have overlaps of people that have already been a part of one of those management sessions. Does that make sense?
+
+Host 1: Yeah. It makes sense. So what we'd wanna my question back is, would we invite every coach and then that coach would Opt in, or is every coach gonna be a part of it every month.
+
+Client 2: No. You'd have one coach one cohort with one relational journey.
+
+Host 1: Sure like one.
+
+Host 1: How many cohorts per month?
+
+Client 2: So we would have for example, one group of people that would sign up for this Maybe I'm not using the word cohorts properly. But, like, we would essentially have So for example, Mark Mark one of our c cofounder. Right? He is all about the relationships. So you would sign up In our service, to be a part of his next relationships package if you will. So for two months, Mark would give you sessions that you would be able to attend give you coaching, maybe there'd be Q and A at some point, And within that two months, we'd also say you're gonna have opportunity to meet with mark in a small group of people twice.
+
+Host 1: Okay.
+
+Client 2: With the same... And we wanna make sure that each per every person in that two months period whose part of that package with Mark gets that facetime time with him, but they don't need to meet with the same people. Other than him. Right? It's just sort of twice in a month or in two months. So they get to meet with him in a smoker group.
+
+Host 1: Everyone meets twice to per two months or per month.
+
+Client 2: This is just like, there's no format yet. But imagine or imagine a package is like for two months. And then we say near the beginning, you're gonna meet with him and then near to the end you're gonna meet with him and it'll be focused around sharing and accountability if you will.
+
+Host 1: Okay. And then in the meantime, there's other coaches that can meet up as well Yeah.
+
+Client 2: With other packages at in on other topics.
+
+Host 1: Yep So what would happen is you would get let's say by everybody in the community, including your coaches to opt in, and then every coach that ups in we're gonna rec recalculate the the size of the cohort based on if there's ten versus five coaches or something just per s that opt in. It's gonna modify the number of people that we're gonna match up based on areas of interest. To that particular coach in areas is that he wants to coach on. And that that can be dynamic for every single opt group per month.
+
+Client 2: When you say we, do you mean orbit?
+
+Host 1: Let me orbit it Okay.
+
+Client 2: So be something that have to be modified in the background or set up in the background at back end at some point, and then it would exist as sort of like a template if you will going forward.
+
+Host 1: Yes. So there's probably a little bit of work we'll left to do like, specifically customized to your works workspace to make sure that that's happening. We're already doing it with, like, another wellness group in it maybe a similar way. That's not just a standard, you know, go at by yourself. But once it's set up, it'll just be... template it out for you.
+
+Client 2: Yep. Cool. And so the reason I asked about this off and is because that's where we're headed, but we're not there yet. So what I'd like to do is try this out within our small community as we have now on, like a one on one basis or a smaller group basis. And then essentially make a case for why we should open it up to our sort of bigger user base. And then have those... Have those coaches come in and do those cohorts. So that's sort of like a later thing. But just so you know that is sort of where I think ideally we'd like to go. But at the beginning, we'd wanna just kinda try things out first in this moment.
+
+Host 1: Definitely. One to one makes it like makes sense as as a first matching validate that this works value with the tool a little bit and then just grow from there and then, of course, Let's talk about Api where when get to it. What is your timeline I'm looking like for wanting two utilize this with Orbit?
+
+Client 2: I mean, so I was gonna ask you because I met with our operations person Recently the yes today, and I told her that I wanted to explore this opportunity more. And I'm meeting with our cofounder next week, So I would say, like, if he's thumbs up to try it out, then we would wanna do it I don't know by the end of the year.
+
+Host 1: Okay Like, we probably would want...
+
+Client 2: Mh. That's a good question. Okay. So actually she... I mean, she wanted me to get pricing from y'all. So, like, do you have a trial period where we could have some sessions and see if it's something that makes sense for us.
+
+Client 2: And then does that trial period start as soon as we try to set things up or do that... Does it start as soon as we start hosting those sessions because I don't know that people would necessarily have time to attend those sessions by the end of the year.
+
+Client 2: Yep. But it would be something I'd like to have set up for the new year so that strike... Like, right at the beginning of the year, we could be like, freshman new year. Let's do this. You know?
+
+Host 1: Totally. I would recommend let's start first thing in January, people are break probably more engagement, a a better way to value the tool come anyway, but I can do something to you And you said you're meeting with your founder or next week so you have. And if you can say, hey, is something we wanna get started with in January let's just agree on it before end up year, and we can get kicked off with onboarding. Typically, how it goes. We have we have various tiers. We have three tiers in there annual contracts. Our just from five k and we to fifteen k. I'd recommend you get started probably five k essential tier, And we can do a paid trial for the first thirty days. And if everything goes well, you can decide to upgrade or renew into the annual contracts, but you can opt out before then, so nothing's guaranteed. The only thing that we would do is a thirty day i'm onboarding period with you, we'd set you up on the platform. We've run a couple of engagements in that first thirty days, get some data some feedback I can do some training in that that pay trial is ten percent. Of the annual. So it'd be a five hundred dollar paid trial essentially.
+
+Client 2: Okay. Cool. And And sorry, during that thirty days, you would... Sorry, What was You return this setup?
+
+Host 1: Yep. So thirty days, it's it's a pretty hands on onboarding you get a dedicated onboarding manager. And once you renew, you get a dedicated Cs manager, so you're never doing this on your own. So We're gonna set up the engagements. We're gonna get your branding your logo, your colors, Your templates all set up the matching criteria. Correct and then we're gonna run at least one engagement in the first two weeks, maybe a second engagement in that thirty days. So you can really test this out with, you know, a couple segment for cohorts of people get some good data and say, okay. This is working let's now renew into an annual contract on February.
+
+Client 2: Okay. So there isn't really an opportunity to do the setup portion ahead of time. Like, it has to be all kind of done within that thirty day period.
+
+Host 1: It's really quick. It it's a weak or a couple days set up time. And the reason that we do is because you can run that first engagement by the end of the first week of setup, and you're gonna have more than enough time evaluate in that first thirty days. That's why it's typically included. Okay.
+
+Client 2: And we must say, Yeah. I think that makes sense. I think what I could do then five the new Year is essentially breakdown some sort of, like, do some sort of journey mapping or some sort of, like plan if you will as to how we would use this and evolve it over time. So maybe I can do that before the New Year so that it's sort of... That's it's clear for our company, but it's also make sense with what y'all offered to so that I could put it in front of you and be, like, Is this is this possible, you know and does it look like this? Does that make sense? Some sort of, like, mirror board, if you will?
+
+Host 1: Yep. No. Makes Me complete sense. Let's sense over. Let me know how we can help you out that with your phone so can at least five hundred dollars should be, like a pretty, you know, low cost no here just to get into a trial out. So let me help you get to that point. I'll send over this demo deck. As the next step and Not kinda recap our conversation. Then, yeah, send over anything that you need and help build this use case.
+
+Client 2: Cool. And then in terms of, like, the plans available, you mentioned the five case. So what are the limitations if you will in terms of what you've heard we need we would want to do with this that wouldn't fall under that So you can upgrade at any anytime.
+
+Host 1: So what...
+
+Client 2: But what I mean is, like, knowing how we would use this for match making, small groups and cohorts is can that all be done under that plan?
+
+Host 1: So you have up to ten thousand member invites per month in that, and I know you're only inviting maybe a hundred paid members. Well, you have three matching rounds available per month under that essentials tier. So if you invited everybody three times you should fall within, you know, enough engagements. You get one some question that you can add in there. If you absolutely need one extra custom question, I can probably just give that to you that essential tier. So that is why you said you wanna start up with one to one you wanna do group that is on like, a a bigger tier at some point. But...
+
+Client 2: Yeah. That's a small group. That's a different tier.
+
+Host 1: It's it's on the approach here or it's on the pre here more specifically it more matched rounds more engagement. It's more criteria, more ways to edit your data. But I I think starting up know, this essential tier might be a good way to go. If you take a look at it, I'll send these tiers over to you, if you think, hey, actually, approach here is probably more where we want to. Let's let's see if that that works out. But no matter. I think this first three days.
+
+Client 2: Yeah. I mean, it sounds like at this first here, we'd be able to use it how I'm be looking to do a for the community and then the next here is when we would say we would wanted to integrate more with we're doing with our service that we're offering when it comes to things like cohorts with our coaches. And is the Api aspect involved then as well or the even.
+
+Client 2: You of the Api at those back plan level two or Api is probably gonna be slated for something like on a on a pro tier The second tier is what I'm talking about.
+
+Host 1: Yeah Yeah. So that that would be available for you to use in any way that you want to with some of our product team support because there's definitely need some support on that. Yep. At that pro here.
+
+Client 2: Okay. Cool. And that's ten k.
+
+Host 1: That's ten k. Yep. So our pricing is five ten fifteen and our pricing is gonna go up in twenty twenty three. But if you guys were just get in... Well I'll just lock you in there. You if you're were to upgrade, later on, you'll be logged in pricing.
+
+Client 2: Appreciate that.
+
+Client 2: Because yeah. It's like this is a this is I think that when you're... I don't know. I think when you're when you're in a startup world, it seems like you only wanna use third party tooling until you can make it yourself. However, Now I think more and more tools are being created so that you don't have to do that. You know, that they can be blended in the product that you're creating because we really can't do it all. And why should we have to do it all if there are people that are experts in different areas make use of that. And so I think that's what I'm trying to do. But the community is use the community as like, a testing ground. For what we could then incorporate into our sort of overall service. And so I think this is like, a really good opportunity and I have a question for you that you may... That's a bit spicy.
+
+Host 1: Okay.
+
+Client 2: Cool. How do you feel that you guys did out from competition. So the only one I know of to be honest is donut. But, like, there's other kind of match making services and I'm wondering what your view is.
+
+Host 1: Yeah. I think the biggest thing is that we know in terms of where we're at Our our matching algorithm is, like, much more robust So we have way higher quality, average match ratings and Mps scores. But beyond that, like you said, we're getting a lot more demands in community or, like, other industries where we don't want another platform to manage our members And our members gonna ask for that either. So the fact that we don't have member profiles or logins just a one off opt every single time that's been communicated. by you, not by orbit. It's it's very seamless integration into your current report We're not another place like Slack, which engagement is gonna fall off time. We're just something that you could do Yeah.
+
+Client 2: Turn turn technical Thank you for that. I'm just curious because I know it will be a question that comes up. On the other end of things. Being able to sort be prepared I think is is important for me too because, like, I don't see things like that. I don't see competition. I just see different people existing in a similar space. But not really the view of a a lot of people in the start of world.
+
+Host 1: So Yeah. In in, you know, we use Donut internally as well. You'll mostly to Yeah.
+
+Client 2: That's funny.
+
+Host 1: It is cool. I do like it. I mean, it in no way doing the same thing that orbit is doing its especially at scale, but yeah. Also also a good tool.
+
+Client 2: Nothing about... I mean, I I told my my coworker who mentioned Donut. I said like, it seems like a tool that's really meant for internal, and it's really meant for, like, pairing coworkers workers and collaborators and getting people working together better.
+
+Host 1: So Yeah.
+
+Client 2: So... Exactly. Right? And I think your your product offering is much more outwards focused. Which I think is awesome. And I really hope to attend they keep coming up in my email, but I really hope to attend or community.
+
+Client 2: Should. Thing too. Like, it's... Honestly, like, I just don't have time in the day to do all the things I wanna do. It's like part of my Adhd if you will. But also I work currently for the start on a contract based I'm not a full time employee with them. And that's just because wants to spend money on community when you can spend in other areas So I'm really trying to, like, insert and make a case for why community should be a big part of the overall thing too, and something like this will be helpful.
+
+Host 1: Community led growth is a big initiative. Common are familiar with common room? Come out reports on like, why community is like, a big thing. I'll share it with you since you know?
+
+Client 2: That would be amazing.
+
+Host 1: Thank you. I'll I'll share with you. Maybe there's like some good tidbits in there that will help sell community as a as a witch founder.
+
+Client 2: Well, it's funny because I don't know if you've noticed this, but there's been a lot more articles that I read that to say like, ads and spending marketing money on getting people in through ads has become less effective and what is more effective having that community option available to say, hey, if you If you buy into this, we also wanna give you a space that you can connect with other people. Tends to be a bit more about it, like, more of an incentive now and it's kinda like If we already here seeing that let's proactively put more into community and listen to ads then, you know.
+
+Host 1: Yeah. That's why inbound is is super beneficial. That's why it's last and it's started to use us. Like that this millions of developers and full stack people in their community, but they upsell them into products. So Yeah. Good use case.
+
+Client 2: Sweet. What a great conversation? Thank you. Awesome.
+
+Host 1: Erica, us to send over but let me know if anything else as it goes, but really good connect.
+
+Client 2: Appreciate it. Awesome. Alright. I'll get you email.
+
+Host 1: Talk to you soon.

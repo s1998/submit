@@ -1,0 +1,175 @@
+Host 1: Hey there.
+
+Client 2: Can go you about.
+
+Host 1: I'm sorry you can call and make the big That's.
+
+Host 1: Big Big.
+
+Client 2: Alright. Cool.
+
+Host 1: Hopefully is gonna alright.
+
+Client 2: Doing great for me. And It's been wonderful for me just. Well, Just a sec. Okay. Just getting some internal internet fluctuations. So I turned off my.
+
+Host 1: Cool. So I I schedule this chat to trevor about. Like, we're a customer fire flies but I'm I'm trying to see if there's more things that we can do with there. Right? So hopefully, hopefully, yes.
+
+Client 2: Yeah. Sure. Just sec give me one quick moment Let me go look at your information. What we dot. Right? Okay. On have you been using Fire? So sure? I don't know. Couple months Okay. I think you've you have five different users in here account. Right? I believe so. Okay. Great. So we just leave him just let me know How can Help you.
+
+Host 1: Yeah. And I think I sent you give any information that I sent over for the I I sent an email what I wanna do and then I say in the calendar invite Yeah. Some things that would make sense to chat about. So I said I'm looking for topics like per call that that i close those deals versus calls that I don't So I'm looking to analyze topics on my calls.
+
+Host 1: And wanna see if that's a capability of fire. Right? If it makes sense if we have to upgrade to upgrade or if I should look for, like, a different solution, for that.
+
+Client 2: Currently when you sit fix the that helps you close Can you please be more specific about it, Like, when you sit not over here have something called in analytics. We have something called topic insights. Okay. Currently today this gives you an information about topics that they used get.
+
+Host 1: That you used on your calls.
+
+Client 2: Okay? But the underlying data is not available with fire. The underlying data cannot be this displayed for now. It's a right. So say you've used So icons it's. Over here and used help hubspot and five conversations. I mentioned thirty one times. Just click on this file. It should show me all the fine meetings that i've used this. You what right but don't stuff right. So currently, that's not available currently. Our team is working to towards it to get it. Enabled on the line.
+
+Host 1: You said to get enabled... So, like, no matter what subscription I have. This is currently not.
+
+Client 2: This is currently not available leave.
+
+Host 1: Got it. So what is available?
+
+Client 2: So currently these are the only reports that are available for to take a look at just gives you, like, the total number of conversations and where you wanted to see a topic, you can see what are the topics you've used here. Mh. The total number of topics that he used here. For now. And you can group it by channels based on Crm integration. What does this crm use?
+
+Host 1: With use Salesforce you can integrate the salesforce So in terms of in terms of these analytics though what you're showing me is not available.
+
+Host 1: Right?
+
+Client 2: This is available for you.
+
+Host 1: Oh, as we said it wasn't available.
+
+Client 2: No. This is available for. You look you're the business plan. So you have the. Sorry. You the program. This... For you to get this, you have to be in the business.
+
+Host 1: Okay. Sorry. I thought you said it it wasn't... What what isn't available then? Sorry.
+
+Client 2: Okay. See, it's pretty simple. I i don't wanna confuse you not. Okay. So go from starting. Okay? You see It's a topic inside. And here, It says Crm as a topic name. And I've used hubspot. A key where I used five times in the conversation. And you would time have mention in all those claims. Right? So Some of the customer. What you're expecting is, like, out of this number five how many got converted? On how many? How many did not get converted? Right.
+
+Host 1: I can I can check that data from my Salesforce. Right? So... But But if I can look at, okay, how many... So it says five conversations use Hubs you can click and say what five conversations used tub hubspot. So okay. Of those, I know my Salesforce sells me you know, all five of those got closed. So, you know, it is good to have homes hubspot as a conversation topic for closed deals, basically.
+
+Client 2: Okay.
+
+Host 1: So so when you when you click on it, because have like, When you click on it, it should show me the five conversations.
+
+Client 2: Right? Yeah. Right? Currently, that's that's a feature which is not available. You cannot click on it. This is just a number.
+
+Host 1: Okay. You cannot click on it to see the five conversations.
+
+Host 1: I see. So So that is... I'm not gonna be all to... Okay. I found this on the web sale. Check it out.
+
+Client 2: Great popping in here.
+
+Host 1: I think they're pretty great too. I no. Okay. So where could a like, other way, determine which five calls Like, I I said that on what was another way?
+
+Client 2: Other ways to go into the calls and take a look at them. If you used Crm topic. I you just.
+
+Host 1: Okay. And so that's Of two hundred five calls, So currently, we have under business plan.
+
+Client 2: This is available on the business plan. But when you click on the number, and did you show the All the calls. For all the forty four calls here. Right? So that is something our team is currently working do want.
+
+Host 1: Mh. Mh. And if I go into the... You said you went notebook, Right? To look at that right.
+
+Host 1: And then you can see the topics it looks like in my plan, on the pro I don't have that available. Is that right?
+
+Client 2: The topic tracking is available under the problem.
+
+Host 1: Have you set up some of the companies?
+
+Host 1: I haven't set up any topics. No. Now you have to set up your topic.
+
+Client 2: That's where I'm coming into next Oh, I thought it.
+
+Host 1: It doesn't track just topics I have in conversation then. No.
+
+Client 2: You have to go to topic tracker and create your one set of like so how you have my Crm topic here and a list of keywords that are were tracked.
+
+Host 1: So I'd love to do that, but I'd first love to know you know, all the conversations I've already have, what are some topics we're discussing you know, so then I can go set up proper topics to track. So is there any way can look at based on the transcript by the default, to what fire gives you the fire place gives you the questions metric that you discussed on the call, task and dates and times that you discussed on the call.
+
+Client 2: Not the topics.
+
+Host 1: Okay.
+
+Client 2: So currently, you know what most official topics that you're gonna talk about. So you'll be the right person and the three.
+
+Host 1: Yeah. It's kinda true. I mean, I'd I like to discover topics more than me I mean, because if I set my topics, It's great that I have you know, tracking them, but if I don't know what topics are helpful. It's not gonna track those. You get me?
+
+Client 2: Got it. But for now, that's the only option.
+
+Host 1: Right. Right. Right. And that looks like it is available So the only thing that's not available are the insights Yes.
+
+Client 2: The.
+
+Host 1: So I'm just gonna have to go set up some topics. That's basically my next step If I set up topics to track will it, like, go back into old conversations.
+
+Host 1: Okay, nice. That's a huge win So if I set up like topic name, and then type...
+
+Client 2: Give you an example, look okay. I'll show an example.
+
+Host 1: Sure.
+
+Client 2: So i'll just go one of my conversation. Okay. I'll take the particular keyword apology. Okay. To this as a keyword. I just taking this keyword go to. Apologize. Okay? To It just got it don't. I create a I'll asking i Okay. Learn testing. That's that's week. Okay. And i just had his word. Apologize. Okay? And I can keep on adding Whatever key what I wanted. I can Apologize to make grades.
+
+Client 2: Or sorry. I can keep on woods. Okay. I I'm just saving it for now. And the topic is saved, set successfully. Not going back to the meeting. K. So here, it should say important testing. Interesting see here testing. Gotcha.
+
+Host 1: Okay. I think that is a clear next step for me then have to go back and add some topics and then analyze, you know, my my previous phone calls So that that's helpful.
+
+Client 2: It it's well, I don't know if that's the case.
+
+Host 1: Yeah. Demo Interesting. Alright. I think I think that's my main question. I don't I don't think i have more questions at this point. Sure. Just, you know, maybe one question, actually. What would be the the added benefit of upgrading to business from Pro.
+
+Client 2: Okay. So you'll be getting unlimited storage. In the business plan. Better in the problem, you are limited to a storage of eight thousand minutes per user. Proceed.
+
+Host 1: Proceed. Okay. Is the new way to look at that right now, like, what what is our current What is our current Okay. I so I got thirty three thousand minutes to your meetings So it seems like what it bit, I guess, Alright.
+
+Host 1: So we can track that Sorry you're no you're on a monthly plan.
+
+Client 2: So so instead of monthly, if you go for yearly, you would be saying saving a line. So it's really it's pretty simple here. So here, you can just take a look at here You're the monthly plan, paying eighteen dollars per month per user. Whether if we go to handle subscription? You'll be paying nineteen dollars per month per user. On a business plan. So we'll get in than what we're paying now on annual.
+
+Host 1: Or end print.
+
+Client 2: You're paying you'll be paying that lunch. Let's like upfront. Right.
+
+Host 1: But we'll be paying a dollar more per month and will upgrade because he's been eighteen per month now.
+
+Client 2: Yes. You you at eighteen per month right now. You can see here.
+
+Host 1: Yeah. Okay.
+
+Client 2: You're paying ninety dollars a month. Imagine nineteen dollar, ninety dollars a month and you're using fire for a year for five users. And you'd be ending up with thousand eighty dollars. One zero eight zero dollars altogether for the year. But if you if you upgrade to business plan for five users for yearly subscription, you'll be getting at the same cost. From the pro to a business plan. It's a available lake one fifty dollars.
+
+Host 1: What would the what would the in Ai? Be... What what what was that entail? Okay. So this is a call.
+
+Client 2: Okay. You can see here this is a summary that was generated by ai automatically So you asked about keywords. Right? So here it gives you the list of keywords that were used on the call. In ai summary. So instead of taking a look at the one hour call, you can just take a look at this Ai summary to get you Yep. Okay. Makes sense.
+
+Host 1: So that summary and those keywords that it pulls out, those are in addition to the keyword the the topic trackers.
+
+Client 2: Exactly.
+
+Host 1: They're by.
+
+Client 2: Is it is addition.
+
+Host 1: Got it. Okay. I have to spend some time Sure. Creating topics first, but this summary. It's helpful to know what that is... So it sounds like fire can do what I'm looking for, I just need to go back and analyze so Thanks for showing me that.
+
+Client 2: Sure. Shirley. And I think tomorrow is here renewal. You're gonna go for a yearly plan, you would see a lot of time. Money. See.
+
+Host 1: Okay.
+
+Client 2: I think if you spend another than ninety dollars, and then decided the upgrade for five users then be florida. That case. That's it Okay.
+
+Host 1: Sounds good. I mean, our Coo o would basically be the one to have that discussion Only one of the five users on it, but it's helpful to know that, you know, we get those summaries.
+
+Client 2: Sure.
+
+Host 1: Cool. I don't I don't have anything else actually.
+
+Client 2: If you have any other questions that we'd like to assist you on very time. Can provide an email or proper message to our support team. Are supporting was available. Okay Perfect.
+
+Host 1: Alright. Thanks, Doug. Appreciate it.
+
+Client 2: Thank you. Have great day.
+
+Host 1: You too

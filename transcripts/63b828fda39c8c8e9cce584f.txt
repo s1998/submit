@@ -1,0 +1,363 @@
+Client 2: Hey.
+
+Host 1: Galadriel.
+
+Client 2: Yeah. How are you?
+
+Host 1: I'm good. I'm my here. Hey. How's it going?
+
+Client 2: I got this I got this new. It's like a it's a ring light goes right above your camera, to improve lighting during Zoom calls.
+
+Host 1: Yeah.
+
+Client 2: It can be bright.
+
+Host 1: Is it working?
+
+Client 2: It's so good.
+
+Host 1: It's so interesting. I I got one of those for... It's like a square though. Got one of those for Christmas, and it goes above like my laptop. I haven't used it yet. My wife still it for me. She's using it. But if it works, I'm gonna start using it.
+
+Client 2: It's such a good gift. Yeah. It really... It works really well, especially nice.
+
+Host 1: It does.
+
+Client 2: The lighting, like, this is a self facing window, so light changes so during the day. So... Yeah, it's like... It has different so it can say. This is the blue light.
+
+Host 1: Oh, yeah. I can tell.
+
+Client 2: This is really good for why you're working to eliminate your workspace.
+
+Client 2: Might Like.
+
+Client 3: That sun is really strong.
+
+Host 1: Yeah. Maybe Merry, Could That's.
+
+Client 3: That sound is really strong driving through that.
+
+Client 2: How are you been doing?
+
+Host 1: Good I've been... Have you guys have wrong with the chad Gp. I've been round that all morning and, like, my god. It is like, amazing. It's gonna do something crazy this year.
+
+Client 2: I know. It's interesting insane. I mean, It's not strange.
+
+Client 2: Like, how much technology Yeah. It's like, going so fast to the the rate in which they're advancing the technology. It's incredible. It's really exciting.
+
+Host 1: I've have you listened to Jordan... I don't know if you like Jordan Peterson, like, you know, whatever. But I I listen to him talk on it. And you know his book twelve rules for for life for some playing?
+
+Client 2: No. I never heard of it.
+
+Host 1: Yeah. Jordan Peterson your Roach Rules left a up other ones, but he's like you know, I asked Chad Gp to write me a thirteenth rule through my book and take into consideration of my other published books. And then also write it in, like, a tau philosophy, And then he's like, this is really difficult. And then chad Gp did it. And then he ready, like, I would wrote this. Like, so this is insane.
+
+Client 2: That's crazy.
+
+Host 1: Yeah.
+
+Host 1: That's crazy. Just gonna put like, fiber and upwork out of business soon because it's free.
+
+Client 2: Yeah.
+
+Host 1: Anyways.
+
+Client 2: Oh never heard fiber. What's fiber?
+
+Host 1: Like, fiber, like, where you can pay someone in five dollars to do a job for you.
+
+Client 2: Yeah.
+
+Host 1: Or like, upwork. I mean, it's it's like hiring a freelancer that like, the same amount of experiences as you do. Like it's as smart as you.
+
+Client 2: Mh. Yeah. It's incredible. I'm excited about it. But I think they're still like I mean there's gonna be so much opportunity that opens up because of it. I think I think it's gonna get band or something You think so?
+
+Host 1: Well, a bunch of universities already banned it, And then I think it's gonna do something where it gets banned or case be so expensive that you can't use it. Like, some for I'm gonna use as much as possible I feel like that's gonna happen.
+
+Client 2: Yeah.
+
+Client 4: Hi. Good morning. Wait. What are you gonna use? As much as possible.
+
+Host 1: We're we're talking about chat Gp.
+
+Client 4: Okay. I thought you're... I thought you're gonna say it's on bike. Galadriel mentioned you have a Peloton bike. Like, a, okay.
+
+Host 1: Okay. I've I been tried.
+
+Client 2: Even Treadmill. Right?
+
+Host 1: Yeah.
+
+Client 4: Cool.
+
+Client 2: Yeah. Yeah. Use that as much as possible too.
+
+Host 1: Yeah. Zachary.
+
+Client 2: Alright. Happy Friday everybody. I hope that you have like a big of coffee or a breakfast or something with you. So that we can have fun with this. And also it's like get on the same page about stuff, but Thank you Pen jumping jacks to get in the mood for this.
+
+Client 2: Well number.
+
+Client 4: But very nice.
+
+Client 2: Maybe every fifteen minutes we get up for a jumping jack or something.
+
+Client 2: But Okay. So today and I think there's gonna be multiple series of this, but we're gonna go over some sales for tie just so like we said, we'll log get on the same page and we're all like, clear on how we're reporting why it's important what is feeding into how we're using this information And then we can all say consistent as a team. Larger sales or larger organizations will have a lot is automated. Right? Like, it'll make it more fool proof so that as you're going through the workflows and Salesforce or whatever Crm that you're using, you can't proceed without completing these fields or we're not, like, making this category available on Salesforce, but until we hire a salesforce engineer we're all just get out just day. Locks about these things. And I know that it's really possible because I really whittled it down to, like, a few key fields that we definitely need to fill in at each stayed in the pipeline so that we can stay on the same page together. But also, like, open your feedback. So, like, if you are like, questions. Like, what are your what like hard for you what struck where you struggling on? What's not clicking what's not making sense. And then let's like work through it together. And go through some examples so that we can practice together.
+
+Client 2: Sounds good Sounds great.
+
+Client 2: Okay. So I created some documentation, and I actually attached it to You could find it in two places. It's it's attached to the calendar invite. And it's also saved in the shared drive on the Sop folder. So if you ever need to access it or if you wanna open it up in follow along as we're going through it now, you can click into the calendar invite and then find the resources. So One thing that we put together and every we can see my screen now.
+
+Client 3: Yes.
+
+Client 4: Okay.
+
+Client 2: I should say today, so for today, just the purpose of today, we're gonna focus on two areas of the pipeline specifically, that's gonna be like, the pilot area. And then the closed one area and like, what the motions are to do at each at each of those two points and what's the difference between the two of those points because I know that we all talk about it a little bit differently. But just like how we should be thinking about it within they on sales. So Actually, let me go to Okay. So this is what I start putting together just for our week one of Salesforce reporting. Really high level like, why is this important? The number one reason why this is important is because we use Salesforce for our revenue reporting. So at the end of the month, when our investors us in the investor letter. What's the Arr and how much did it grow month over month? We calculate that by going to the beginning month arr. Or that's always the Arr that we reported to them the previous month. And then we add Any sales that Liam bi have made, we add that to that number we add or I guess it's be. We subtract. From that number. And then we add or subtract any upsell and down sales that we had. During the month, and then that is our end of month That we were report out in the Investor letter. So that's, like the biggest purpose for this be honest with you is that so that we can have really tight good reporting and be consistent with it for those those updates. But there's a lot of other uses that we use these fields for. So for example, Lee if you wanna understand, like, how much outreach we did last year on or how many things got the pipeline last year that were private paid communities. And you wanna see how they flow through the pipeline, what conversion ratios were. What were the steps taken? We can run reports to see did that look like last year versus what are we doing now? So there's a lot of internal purposes that these are good for. Or if we wanna do an analysis of many Vc customers do we have? How many customers do we have in New York? How many do we have in Europe? Just so that we can have a better understanding of our business and how it's been changing over the last couple of years. That consistency is really important. So that we have we're comparing apples to apples. Sure you already know this. Sure. This is... I I know you guys both have a lot of experience with Sierra around but just wanted to share, like, a high level like, what we're using it. At Orbit before Is important to us.
+
+Client 3: Yeah. Absolutely that does totally make sense. Cool.
+
+Client 2: I made a Salesforce, Cheat sheet. I'm particularly proud of this. This is my legacy.
+
+Client 2: I think this is my legacy. Is this a Salesforce blueprint? But this is every field that we need to fill in at every point in the sales process and the customer success journey.
+
+Client 2: That's important to us. So when you first get illegally, and it first enters into you first entered into Salesforce you reach out to them You put them into a sequence we really don't need that much information in Salesforce at that point. Right? It's really minimal It's just name company, email, phone number if you have it. She actually put asterisk there. Because I know you don't always have it at that point. What their title is. You probably look them up on linkedin and find that. Probably important to you. What lead source is. So of course, you would understand like, if it out found as a inbound was it a warm intro. This or this feel is really important so that we understand as we're closing deals Which ones are most likely close. Obviously, we know as inbound, inbound always easiest to close. But if we're trying to specifically stimulate more outbound sales, we wanna analyze how we're doing with that, then we can use a sleep source. Field to then report on many sales are we making? From outbound, how are they following with their pipeline? Where are they stalling? Do they sell it pilot proposal, like, try and dig into it more so that we can understand how we can improve. For that lead resource. So That's it for lead. It's pretty minimal. I think that Salesforce auto populates a few of these for you and you're creating it. But then if they respond and they want a meeting, you're really nurturing them and they become more of a prospect or a warm prospect too. These are the the fields that we expect to be filled out or to be able to be filled out at each stage as that relationship is progressing. So Again, really pretty minimal here opportunity name, lead source, you have it at this point, close date, if you think it's gonna move fast, you think it's getting move slow. And then the type of deal. So if that's a new one or renewal think that's what that will is. Yeah. Newer renewal. Then you keep filling in these fields as you go along. At the end. And this might like, this is just a guide. Like, if you get to If you don't have the close date, at the prospecting stage, for example, and you really are gonna have that providing value then can fill it in then. If you're not gonna to know the community type until providing value, you can fill it in that. But this is just a guide of, like, understanding where you should be collecting this information each point in the sales process. But of course, each one is gonna be a little bit different and might not follow this exactly.
+
+Client 2: I a lot of these are car filled in.
+
+Host 1: Are is there anything that you're finding that is consistently not filled in. Like, I I I think maybe the contact roles is one that Neglect quite a bit.
+
+Client 4: Yeah.
+
+Client 2: Yeah. The contacts is really big. I actually forgot you to do that yesterday when when my and I were playing with some. But yeah, contacts are really big. The reason why that one is big is because we're not assigning contacts the opportunities then sometimes the meetings are tracked. And the emails aren't always dropped. If it's not... If it's not associated with the contact. So that's the only one Honestly, no. I haven't... Sometimes pricing tier sometimes payment terms, Yeah.
+
+Host 1: What are... Do you know the fields, like, because I'm trying to find the contact roles if fields Is that what is actually called? Or is it just called like roles?
+
+Client 2: That one is Actually, that's a really good question. We should go over that one more because there's a few different roles that you can assign a contact. Okay. So if we go into an opportunity, because I've also seen a couple examples.
+
+Host 1: Like, I think there was, like, an shooter maybe there's, like, certain things you want.
+
+Host 1: In there.
+
+Client 2: It's really I don't really care. Honestly. Like, it doesn't really matter what the roles are. I think that the titles are really important. That you're filling in because if we have return on Seo we ever do lead gen again, titles are what that is that whole strategy is based on. So like, if we wanna do a title search, then, yeah, we need to add titles, but, like, the roles within Salesforce. I don't think matter that much.
+
+Host 1: So contact rules It's just that just means adding the contact to the opportunity, essentially. It's not like a champion versus decision maker. That's not what you're referring to.
+
+Client 2: Right. Now. No it is important to add a primary contact. Have at least one that's a primary That's the only important thing. Other than that just adding contacts. Sometimes it's hard because our are, like, the roles that Salesforce gives you. Are sometimes that reflective of what our customer actually represents. So it's difficult to, like, box them into one of those titles or one of those roles.
+
+Client 2: So just do the best you can. If they are the agree, if they are the decision maker Great. But the important thing is just to make sure they're added and then add add the primary contact if you if you can.
+
+Host 1: Okay.
+
+Client 2: I think I put primary contact twice. There. Yeah. That's why I put, like, con... Add roles all contacts. Maybe that's clearer. And then and who the primary contact is.
+
+Host 1: Makes sense. Okay.
+
+Client 2: And then But no. Other than that now. There's nothing that's, like, consist missing. I just see sometimes as pricing tiers different or payment terms is not filled in or That's really it. Yeah. It's more about to, like, when we... Like, how we consider these So we talked a little bit about this in the sales meeting on Monday, but we're considering pilots Anything in pilot stage is non recurring revenue. So if they pay you an onboarding fee or they pay you a monthly fee, to run a pilot, or they pay no fee to run a pilot. Then That's a pilot. If it's anticipated to be more of a reoccurring revenue where they're signing an annual contract tracked They we have every intention that they're going to renew or or they're going to continue through the date we really believe that that's... We had... We really that's gonna continue after that. Like, thirty day period, then that's closed one. So that's the real differentiator differentiation. Different chair there.
+
+Client 4: So what about someone like stage two that has every intention to work with us. We are going to invoice them the full five k, but they do have an up out That's Okay.
+
+Client 2: What we've been considering as close one.
+
+Client 4: Okay. But o ventures will be more of a strict pilot.
+
+Client 2: Right? Yeah. Exactly. Because they didn't really... I don't... It was an unpaid pilot. Right? There was no on track. It was a free pilot it's a...
+
+Client 4: Well, initially it was a free pilot, but then we did send them an So now it's a paid pilot. But yeah, yeah. More of more pilot. Yeah.
+
+Client 2: Yeah. Yeah. This is the pilot stage is really for, like, anything we're not really sure about. Anything we have like, insecurity about or Like, we couldn't get them onto to that annual contract. That's what the pilot as far. We're still putting them through all worrying it's still go through the same onboarding process. But it's just that we're not we're not reporting that revenue as close one revenue.
+
+Client 4: Okay. So O Ventures is not currently counted in the Arr.
+
+Client 2: No. It's not.
+
+Host 1: With some like, radical Vc, who technically signed, like an an annual, but they didn't anything and it was a thirty day opt. Would that been closed one?
+
+Client 2: I didn't put it in close when. I put it in... I put it in pilot because the language was so soft in the contract. It was like, ninety days opt out, don't have to pay until data side. Like, that that to me. Like, especially if they don't... They choose they ask not to pay until they've decided to move forward or not. Indicates that they're not that I don't think they're not serious about the contract to be honest with you. I think it's think if they and when we do the opt out, right, they're usually on on the hook for the monthly revenue the Mr r that they accrued during their time with onboarding and during their time with their subscription an orbit. So we're still getting paid for something. Even in those instances, but with radical like, it we really weren't getting paid for anything. So I can't I kept that one in pilot. And then didn't report the revenue. Contract status actually I know that I'm looking at this contract status is sometimes not always moved or changed. So when it's going through the pipeline, it's contract review. But once you move it to close one, then it's contract is active. And I tried to build out a definitions tab here for each of these. These are the names of the fields as they are in Salesforce. But the definitions tab goes into a little bit more about, like, how we were completing these. So, like, for in per use case number particular on I filled out how I know if Adi and Sammy were doing it.
+
+Client 2: But hopefully, that's helpful to you. There's nothing that's in their that is confusing or you think we should add word to it let's just keep adding to that so that we have it for our records.
+
+Host 1: The only question I have is on payment terms And when we put that in there, because the reason like I don't put it in there is because it's in the cs It's in the C section of when I closed one. So that something want Merry to add or or me to go down there and add before I toss it over time onboarding?
+
+Client 2: You can add it. Like, as soon as the contract is sign, whatever is in the contract for the annual... Whoever they're agreed to in the contract add it. Then the big thing wish I had a better reason for you for this, But, like, The number one thing is once we move into close one, never ever ever ever ever remove it from close one. I'll show you why. It doesn't make sense logically, but it's the way that salesforce works. Just that's the only... That's like the one rule we need to remember is like, if it's in close one, it's there forever. And we can take it out. Do report it as turned in a different way. Since we're already reported as revenue, we have to keep a record of it. And we need to keep in close ones so that we maintain that record. If we move to back to pilot, then it looks like we didn't we didn't we didn't receive any revenue from that account. We just have to keep it into close one once once it's already been closed on. Hopefully, this really easy. Hopefully, this kind makes it clear like what needs to be filled out when or around one. These two areas in particular of this area in pilot and close one. Our feeding into these two reports, which makes this is what makes them so important and this would is what makes that transition between proposal to pilot pilot to close one so important. It's the total air r report that we look at, and it's also the added arr month over month. So I'm actually gonna go into the reports and, like, show you how they're created and built. And why they're pulling what they're pulling so that that blueprint makes a little bit more sense in context of the reports.
+
+Host 1: When a pilot doesn't convert, is get a close the loss that?
+
+Client 2: Yeah. You can do that. Okay. Current times in the total air. So this current client's average Ac and total number of paying clients They're all actually the same salesforce report. They're just visualize differently. Three different ways in these tiles on the dashboard. So it's all pulling from the same source, but the visualization is different.
+
+Client 2: So see we go into this report. You can see total number of records total air r and then it'll actually pull the average from this report too. But c reports is just getting pulled from. Here. And we go I used to see the little loom icon and I can't see it anymore.
+
+Client 4: It's still being recorded.
+
+Client 2: Oh, no. I wasn't recording it. Sorry I forgot.
+
+Client 4: Okay. Let can we go back from literally this tab and start with recording from now.
+
+Client 2: Yeah. It's we have sort a loom thing.
+
+Client 4: But Yeah. Isn't that a that that little Oh, it's giving you the opportunity, but not... Okay.
+
+Client 2: Yeah. Right. Yeah. Okay.
+
+Client 4: While we're on now.
+
+Client 2: Okay. Now for the purpose of the recording, I'm gonna repeat a little bit of what I just said. But the that transition between proposal to pilot it and pilot to close one, and the timing of those transitions feed into these two really important reports for our revenue reporting, which are... The the first one is total Arr, and the second one is arr added month over month. So I'm gonna go through each of these reports right now in detail so that you can see how the filters are set why they're pulling what they're pulling and when they pull what they pull. Okay. So This is the report That total error r pulls from. In the Bd dashboard. Home based dashboard. So total Right here, getting pulled in. And this is a list of all of the active contracts that we currently have. So if we go into one of these, Sorry. Actually, Let me Yeah. I'm gonna open one of these opportunities in a new tab. So that we can review the fields that are filled in for this this opportunity and why it's showing up on this report. And I'm gonna show you how these filters are set. On the report itself. I think Salesforce is slower to load when you're screen tearing. Is anybody else there is that? Or is it, like, watching catalog.
+
+Client 4: Everything is always lower when the recording or presenting.
+
+Client 3: Is hit jive.
+
+Client 4: Mar Long.
+
+Client 2: I alright. Okay. So That... Okay. So now we're loaded on the I I clicked edit in the report so that we can look at the fields of this report is pulling. So on the outline, you can see It is grouping this report by community type, which is here in this field. So that looks good. So we understand how many customers that we have in each community type. And then the columns that it's pulling in, and these are just the records that you want to show on the report itself in Salesforce. All of that is is filled in here. So we have got account name account name here, opportunity name, opportunity here. These are just the fields in the opportunity that the report itself is gonna show on here. Right. So if we wanted to add another one, let's say we wanna add, like, contact, Add contact, refresh it. That feels, although it's not filled in for just example. It should be filled in, but that's... That column is now gonna appear here if you would ever add that to a report. The filters and and this is kind the most important reason for the Salesforce blueprint, but the filters will actually determine what is pulled into the report, which opportunities are pulled into the report, or which opportunities are excluded from the report.
+
+Client 3: Okay. Okay Right?
+
+Client 2: So this this filter is telling Salesforce it's saying, show me all opportunities, all opportunities we've ever had all close dates of all time ever, with opportunity status of any probability of all stage, and then this is where we start excluding deal. So, like, obviously, if we remove if we deleted this, close one if we deleted non equals contract expired. This would be thousands of opportunities. Right? So now we're Actually, I would love a report of every opportunity that was that was ever long.
+
+Client 4: High alpha are offering us a free analysis, like, And also they're doing a product market fit project. So it was on my to do list. So this is perfect.
+
+Client 2: Great.
+
+Client 4: It would actually deleting is not equal to expire and it's gonna pull everything, all time, all opportunities that were one. Okay. Yeah.
+
+Client 2: Yeah. Exactly. Exactly. Yes. You're getting it. So yeah. So exactly you just go and clone this report. Then you can do that. You can delete it, delete this this field, and then it'll say, all opportunities all time that have ever gone through pipeline. That will close one.
+
+Client 4: Okay. But not... So that's important. You have to clone it and then tinker with it.
+
+Client 2: Yeah. So that you're not actually tinkering with this report that we do our recording on.
+
+Client 2: Okay. But you could Yeah. Clone the report rename it to all reports, plus one all time. That has a different title and then run it and save it.
+
+Client 4: Okay. Yeah.
+
+Client 2: But, yeah. This funnel is literally in the shape of funnel. So you start off high. All opportunities and you start narrowing down the requirements or the restraints. So that you get a more focus view of what you're looking for. So this one is saying we just... We wanna see opportunities, but we only wanna see the ones that ever hit closed one. And we only wanna hear... We only wanna see the ones that are currently not contract expired.
+
+Client 4: Mh.
+
+Client 2: And so that just giving us that view. And that's why Like the contract status is important to change when you move it over to close one. And also that stage moving the stages is is as is important of that. Good on this report. Oh wait. Here. Let me show you. Actually, I was gonna show you an example. I forgot why I had said the time to pull up the opportunity. So let's edit the opportunity. Right? And let's change that status. To contract expired.
+
+Client 4: So that gets manually marked, for example, if someone doesn't renew I manually yeah.
+
+Client 2: I manually doing that. If if it's not renewed, then I go into the original opportunity. I keep it as close one. Right? Because he never... It has closed one, then we never move it. Say Keep it as close one, I just update that field. To contract expired.
+
+Client 4: And then you don't you don't touch anything. There's no save button no. Nothing.
+
+Client 4: There was... Gotten change close state is very misleading. We should hide it if possible. One day. When we have a sales engineer, Is it Yeah.
+
+Client 2: I guess there's no... Is there no save button.
+
+Client 3: Well, auto.
+
+Client 4: Yeah. Sorry here.
+
+Client 4: Yeah. There's a save here, but...
+
+Host 1: You.
+
+Client 3: Yeah. It looks like it's like a master safe for every change you do.
+
+Client 2: Yeah. So I'm gonna move this in a contract expired again just for Let's save it. And then if we go into this report, Let me refresh it. Miners not there. Mh. Because that one field doesn't filled in. So it's not showing up on our cuddle. So is it makes sense how it filters work now? Or not that I don't think it was not clear before, but I just wanna show you like, how the filters are pulling these things so you can see where we're using it.
+
+Client 3: Yeah.
+
+Client 3: Okay. Yeah. So the contract status is really what's dictating after they move through closed one where where they stand is that that's like the the kind of how we would how to remove it from from the their current clients. Yep.
+
+Client 2: Exactly.
+
+Client 3: And never never remove closed one.
+
+Client 2: Right. K. Okay. So there's that report. And then Wanna jump into The other one, The month over month added arr Okay. So this report, This is what we look at to see how much new revenue or how many sales we booked each month looking back. So if an investor calls and says, what was your I don't know why I keep using the investors in philly calls. The billy called says, Galadriel, what was our revenue? One twenty twenty two, how many sales did we make? We really wanna be at this year. I would go to this report and find it. Exactly where I go. Or, if you were to see how we did January last year, this is where we go. Look here. So this will tell you exactly what we booked. And who it was and what tier they they booked on. So January last year, it looks like we brought in third team thousand eight hundred dollars, and then we had a big spike in January, and February. A lot of that was because we had pretty dry pipeline. Coming out of the holidays, people were so of get... Started again but we really hustle in January rebuilt the pipeline and we had a really great February March. So this report really allows us to, like, give that context. Around what happened last year or why. And then it also helps us explain, like, how our Arr overall Arr has moved. Over the last year. So If I click into this report, Let's go and see like what what feels this point and what how is being filtered? Okay. So this one is It's grouping by month because we wanted to see this month over month he asked the report to group it. By calendar month. And then it's also grouped by pricing tier. So you can see of that month's revenue, how much was allocated to each of the pricing tiers month over month. So that's a grouping, and you can see that like, gets really thick bar here separating it from the the right or the rest of the report. What the grouping are, and that was what's showing visually on the chart. The columns, again, everything from the opportunity itself that is being displayed on the report here are included in these columns. And then the filters our all opportunities of all time. All close one. So again, this is that's why the close one is really worried. If we move it at close one that it disappears from this report altogether. And then does not contain renewal. So this is just all new sales that are coming in for the first time. Is what this report is pulling. So I'm gonna give you an example of if we remove close one from the binder opportunity. For example, What month was binder? Eleven twenty twenty two. Let's move this back to pilot. Okay. And now this should not be Oh, sorry. This is a va example because this is the renewal. Right? So this shouldn't be on the report at all. Did anybody them before I did? I'm shrinking myself. Okay. Yeah. This is a bad example because it's a renewal remembered towards is already saying to include or don't include opportunities like this. Like so this one shouldn't have ever been on that report anyway. So I'm gonna move this back to close one and and find a better example.
+
+Client 3: So it it can't be yes. So like stage two if it can. Be a renewal in that sense.
+
+Client 2: Yeah.
+
+Client 4: Let's refresh this.
+
+Client 2: So states two should have been January we're gonna look for it. It's not there. Because we moved it back to pilot. So this is particularly important. For renewal actually. So, like, when we do renewal and we how we do renewal is we have the original opportunity from the original sale that Billy and Lee has sold in and then we clone that and make a second opportunity for the renewal Merry and I went over this yesterday one one. We actually clone it korean nay, new upper to need for the renewal if that renewal goes through and in the client agrees to continue for another year. We still keep that original renewal enclosed one. Right? We never we never change it so that we can still see on this report. So we can still see it as new revenue that came in in January of twenty twenty two or January twenty twenty three. Whatever it is. That way, we have record of all the new influx that we had historically. But we keep even renewal, there the original opportunity is silk cap At closed one. So that is included in this report. We just change the contract status to contract expired. And then it's not included in that overall Report, but it's still included in this report.
+
+Client 4: Okay. So in A case Sv assuming that they renew now, all them.
+
+Client 4: It's still live and open. Days date they're renewing do I... Or... Well, I guess, Yeah. Since at the moment, it will be Cs that will go in and update expired contract contractor to the existing one, clone, and enter whatever new details Okay.
+
+Client 2: Right. Exactly. Actually, do you wanna do that? We could do that right now as you can see how that impacts that report. Let's go to opportunities. We've got all of our upcoming renewal here. So these are the renewal opportunities, not the original opportunity. But to open up the renewal opportunity for. So here, and then define the original opportunity I'm gonna go open up the account as well. The renewal closed one. The contract I'll say is signed And I see. And if we just stop here, If we just stopped here, then Sv sp would show up two times on current clients. There would be a duplicate entry to it because we have the renewal opportunity that we just marked close one contract active. And then we also have the original opportunity that is still in close one contract acted. So it'll show up on total Air double counted. So make sure that doesn't happen make sure it's only showing up once, we had to go into the original opportunity Wow those emails?
+
+Client 2: That hold the record for number emails needed to renew a client.
+
+Client 4: And C does that right? Because I Yeah.
+
+Client 3: I'm working on q three Penelope got us all the way up to q two before she left. And so I'm starting to work on all the opportunities for q three. Yeah.
+
+Client 4: Wow.
+
+Client 2: Yes does it, and then I keep a really close eye on it because anytime we have these revenue movements, there's an invoice that has to be updated or changed or sent out. So If whether not nature if they churn, We need to go into stripe and make sure they're not getting billed again. If they renew, then we have to go ahead and make sure that in stripe, they're getting build again So it's important that, like, Now. I just one person does it and just makes a change, but, like, make the change then it's communicated that it was done so that then invoicing or billing can proceed that. Original opportunity, I was gonna move this to gonna keep it on close one. But move this to contract expired.
+
+Client 4: And actually just as as an update you can I think on that. So don't I have an answer for them will try to do an enough upsell. And promise them the commit to providing them with enterprise login by mid feb.
+
+Client 2: Great. Right.
+
+Client 4: Crossed.
+
+Client 2: Okay. So let's go to our dashboard and see So that original Sc report should still be on the month over month. Added one So that should've been December twenty twenty one. Or no. They were November twenty twenty one, I think.
+
+Client 4: Mh.
+
+Client 2: Yeah. So see they're still there.
+
+Client 4: Mh.
+
+Client 2: Because we kept them on close one. So jumped ahead. I was gonna do renewal next week. You gonna get next week.
+
+Client 4: Yes. Please do it again.
+
+Client 2: Okay. I'll do it again next week. I don't know. I think there's everything It's things are the year with these hygiene sessions.
+
+Client 4: That's super super helpful.
+
+Client 3: Yeah hit this together Galadriel.
+
+Client 4: Are the you're right.
+
+Client 2: I like like tinkering with these things. And I'm gonna give you each homework assignments this week. Or quizzes. I'm gonna trying to off so hard. I'm gonna go into liver mess and metal with these reports, and I'm gonna ask you to figure out why it's wrong.
+
+Client 4: U. Okay. Well, and my homework is which has been online to do this to pull that report of opportunities closed on. I will I'd love you to double check Yeah.
+
+Client 2: Definitely. Absolutely. Yeah. This is fun. But hopefully it's also interesting for you to hear is.
+
+Client 2: We're doing like, how we're doing the revenue reporting?
+
+Client 4: Yeah. Yeah. Yeah. Definitely get to and closed Yeah.
+
+Client 2: It's really, like, everybody contributes to it.
+
+Client 2: What they're not do before you did.
+
+Client 4: So for example, I when I was looking at something like December revenue twenty k, Was that was that added in December? Was that when you logged in to do the investor update, was everything correct? Or and how did you make sure that everything is correct. You to double check individually when mainly on the deals, like how Yeah. How how do you double check things? Do you like sync with people?
+
+Client 2: Yeah. So I knew that Well no. Actually, I opened up Arr arr this week. And I knew that it was lower. So I'm I'm checking it every everyday. Like, every time I I process a renewal in Salesforce before I do it, I look at the Arr, so if it's six fifty, then I know that after I process that renewal, it should also be six fifty. I go and make these changes, and then I go back to that Arr report and I make sure it's still at six fifty. Otherwise, I did something wrong. And I make sure that the original deal is already showing is still showing up on that month over month. So I know I did something right when I'm updating these things. And so with these are these steps in the in the document?
+
+Client 2: Not yet. That's stuff too. That's week too.
+
+Client 4: Okay. Cool Cool. If it makes sense, the recording is here, but just to like, have Yeah.
+
+Client 2: Yeah. That's week too. But Honestly, I look at our total several times a day. So if if something is changed, I know pretty quickly. And I know that is one of two things. Something got moved out of close one to prop to another stage. For that contract status. Field was changed. For some reason. And so it was either an opportunity that we thought was one that we lost or it was a renewal that we process and didn't correct the contract status stage correctly. We process... We process an churn and didn't do it properly in the in the So I think just like having a good pulse on, like, where we are and what the movements are on a daily basis helps me really One if discrepancies is what they are.
+
+Client 2: So I know what to expect they to be on a daily basis this yeah.
+
+Client 2: And then I know, oh, if there is a ten thousand dollar sure that was processed, then I should go and expect it to be six forty now.
+
+Client 2: But... Yeah. It's just like And then and then from there, I know, like... Or sometimes it my feel. It might be higher, Right? Than I expect. And then I just know automatically that's because there's to opportunities in there for Sc seb, for example that are being double recorded.
+
+Client 4: Yeah. Okay. Cool. Thanks, thanks for putting that session. We would definitely should be having more frequent refresher and make sure that we all understand the core workflows.
+
+Client 2: Yeah.
+
+Client 4: Very helpful. Do not look forward to the homework, but bring it on.
+
+Client 2: Maybe I should call it a new year's challenge.
+
+Client 4: Called something else.
+
+Client 2: Okay.
+
+Client 4: Sorry. Well Alright. Thank you so much. Enjoy the rest your day have a friday.
+
+Client 2: Bye.

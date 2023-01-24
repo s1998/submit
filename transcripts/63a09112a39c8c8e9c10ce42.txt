@@ -1,0 +1,153 @@
+Client 2: Abraham, how you?
+
+Host 1: Great. How are you?
+
+Client 2: Well. Thank you Awesome.
+
+Host 1: Thanks for... Well, one thinking of us when you join this company and also reaching out. And you it's scheduling some time.
+
+Client 2: Yeah, For sure It was eager to learn a little bit more about the about the details of the offering and see whether it could be could be fit for us Cool.
+
+Host 1: Nice. Well, super excited chat with you, you guys are definitely more of a an niche use case just given the the business. So we'll definitely have a lot of chat about thank you for sending over your tech side. Always super helpful us to know beforehand, but there is a lot to dig into there. But, yeah. Cool. So I guess, first things... So obviously, you are Vp business development, but I'm assuming that you encompass the whole finance function. I didn't see anyone else, in Finance and the company. Is that correct?
+
+Client 2: That's right. That's right. Yeah. We have... We have an accountant know who's a consultant to us? But i know I kind of drive all the finance activities.
+
+Host 1: Okay. Perfect. So the first thing that I wanted to ask you about just your tech Jebediah is with coin. So you might on our website. I'm not sure actually how familiar you are with Mosaic. Can you I know you you know Frodo, but have you do you know anything about the platform or anything like that, or pretty much sorry from scratch I mean, I know, you know, I I knew enough to to to be to be interested in know, in the idea of the platform, you know, kind of a, you know, strategic finance platform integrating different things helping with, you know, kind of streamlining some of the, you know, the reporting and monitoring and, you know, scenario analysis, all that kind of stuff.
+
+Client 2: But that's... you know, that's the extent. I haven't used the platform directly, I haven't dug into the details before.
+
+Host 1: Cool. Okay. No worries. So we do inherit with Quickbooks which is great to see you guys are using it. A couple questions that I have on that. Is that can we get everything we need out of Quickbooks or know with Coin, sometimes with web through or cryptocurrencies, they can make a journal entry into Quickbooks, But we can't get the Coin information. So that is my first question to make sure that we can, like, fully support you guys. Walk me through what we need out of point and if we can get it through Quickbooks.
+
+Client 2: Got it. Yeah. The mean, so basically, we're using... We're using coin books so that our to to kind of help with our you know, accountant and consultants who know, put together all of the, you know, the other the journal entries around those transactions. And so you know, to be honest, I haven't seen the exact use of of that. Tool myself. You know, it ends up in Quickbooks. So I think from that perspective is probably probably fine Okay.
+
+Host 1: Perfect. That is Anti to hear. And then the other point that's a little bit nuances. I know that Quickbooks is moving out of India in April of next year and a lot of the companies that we're talking to that are on Quickbooks having to mute like a z books something like that. Have you guys Heard about that. Are you planning for that at all?
+
+Client 2: You know, we have a... We have a separate firm in India that takes care of you know, that tech that takes care of the the financial statements for Indian, you know, affiliate.
+
+Client 2: So I think that So so they I mean, they don't actually... It doesn't like, you know, necessarily plug. Contractually, but I will I'll take a look at that. It's good to have a heads so.
+
+Host 1: Okay. Cool. So the the Quickbooks instance is all for the Us based operations that.
+
+Client 2: That's right.
+
+Host 1: Okay. And Is is it correct to say that so Coin is is accounting for India or where is the... Because I saw you guys have, like, eighty percent of your employees in India. So where is all those transactions and expense and related indian expenses going or like, where they stored?
+
+Client 2: Yeah. So we have... So there's an... That we have we have an indian firm that takes care of that. And then they send us the financials, know every month. That then our Us accountant know, integrates with with the Us numbers. For for overall statements.
+
+Host 1: Okay. Cool. And so when you say it's... It's an indian firm, is it a completely company or is it like another, like is a of of or give you accounting.
+
+Client 2: We, like, Indian accounting firm that puts together everything.
+
+Host 1: Okay. Cool. Okay. So those are both the two big questions that I had and it sounds like we're okay on both ends there. So that is awesome.
+
+Client 2: So I think we should be. Think it should be.
+
+Host 1: Perfect. So I guess I would love to understand like one what metrics matter you guys just because you guys... From what I see online, it's... You guys create games. Is there any B to b component because I saw that it it said, you can help developers create games or is it just you guys games and there obviously, like, B consumer three two.
+
+Client 2: Yeah. So basically, so we have you know, we're basically game's publisher within a you know, a the the platform for helping other developers who want to know, who would want to publish games you know, through us to build there to build their offerings. So we have... We have an S sdk. We have we have tools for developers to do baby testing, live ops, analytics, you know, run their leader boards their medic. All of that. Which is then accessible. You know, accessible to to external developers. And then we also have internal game studios that are developing things we have a mix of internal studios, and then your external studios can use that. Offering to publish through us.
+
+Host 1: Cool. Okay. Perfect. So it's like a mix of b to like F b or b b and then also just the direct offering.
+
+Client 2: That's right. That's right fine.
+
+Host 1: And then I guess... So two parts of this, when you guys are looking at metrics and reporting, are you completely separating those two business segments? Or how are you guys pouring out to investors or to ever you know your exact sort whoever some information.
+
+Client 2: So, basically, if we publish someone's game, we are, you know, there's to, like, rev share structure. Know so what we're reporting is the with respect to those, like, know, the share it that comes from us. And then we have, you know, subscriptions that consumers can can can purchase to, you know, for additional functionality through the, you know, through the games. There is there are N t sales that we've done some drops for Ferrari. We kind of an Rpg style studio developing kind of a higher end game. And have done done a sale of character Avatars for that. And basically what we report is the kind of the revenue across you know, you know, our direct activities and then our share of any you know, rev share on things that we're publishing that other folks have developed.
+
+Host 1: Cool. Okay. Perfect. So, yeah, I would love to dig into one. I know you've been there I know Linkedin also in places, but like, it's up three months on Linkedin. But they like to add, you know, the first last month.
+
+Client 2: Enjoy October.
+
+Host 1: So it's... Yeah. Okay. So two months around. So, yeah, relatively new, but I mean, it sounds like you have your feet what. So would love to understand, like, from what you've seen, what challenges you looking to solve or if you're just kinda curious see what most I can do, but then also, like, the metrics that matter to you guys and where they source the truth are for them.
+
+Client 2: I mean, I think the main the the the thing that the ins factor why we out is There's just... There's a lot of of of manual work that I find know myself doing to kind of pull for pulled... Like, if especially I i do something on the interim basis, You know, like I like to look at on a weekly basis what are our numbers, and what are the kind of operational drivers in them. So I find myself going into all these diff... You know, going into the actual consoles going into Aws going into Google Cloud. You're pulling our marketing our marketing spend. I aggregating all this up into a you know, know, Google sheets model.
+
+Client 2: Mh. That I then use to, you know, to see what, you know, what things look like. And they're. I love to do some scenario planning, like, you know, what is it based on these things, what is it going to look like in, you know, two months, three months, six months a year. Etcetera with different different things. And I end up just seeing creating all these four new models, you know, that that just... I'd like to go back and say, okay, if I was projecting things, well now I can put in actual here instead of the assumptions that I had So it's basically just this pain around a lot of manual work of continuously updating you know, different different models pulling new data replacing other data. And, you know, we don't have I mean, it's basically you know, I I just I just do all this stuff myself. And so I was like, there's software tool that could help me do, you know, more more efficiently and productively, that'd be that'll be useful.
+
+Host 1: Awesome. Okay. That's exactly what we solve for. So I'm super excited to to get you tool which would be another call. But you kinda mentioned scenario planning, or you mentioned that it'd be helpful. So what kind of scenarios are you running today? Is it on like, active users, is it on expenses, head count. Just hoping understand like, what you are doing today and you don't have the time to do everything that you wanna do, what you would like to be doing as well.
+
+Client 2: Yeah. I mean, it's you know, I'd say especially, I'd say, I mean, all the above and the scenarios like what you described you know, of you know, I'd like to to to model out the expenses. You know, we have several game launches that are, you know, one that's happening probably this month, a couple that will happen in January. You know, so we'll be doing there'll be potentially some marketing you know, ramp up associated with those, it'll be there'll be increases in the cloud expenses love to gonna do some testing of you know, of what you know, what would what would those things look like you're under various conditions, I'd love to see you know, I mean, I'm I was, you know, also looking looking you know, cash and fundraising and clients and this kind of stuff and I'd like to, see in these different areas like, we what would if what would our... What would our cash balance be I'd love to see you know, we're doing head account planning. To be able to... I mean, that was one of the reasons why I built out a lot of the stuff that we have, but then ended up kind of making all of these you know, variations of the both the reports. as we're looking at what is our you know, which our head account be what does that mean for for burn, etcetera.
+
+Host 1: Got it. Okay. Then kind of switching gears here, but because I remember that you guys said that you do have that or the bd need component. Do you guys also the Crm or how you keeping track of the people who are utilizing the platform?
+
+Client 2: Yeah. So we have mean, so from a b to b deals perspective, we have, like we have a air table database that I put together just for like, partnerships.
+
+Host 1: Okay.
+
+Client 2: And and I use that to you know to track those those deals and where they are in the funnel. Mean, from a customer perspective, the money, you know, the the more meaningful thing is the is the consumers. You know, because we have like, five million consumers who are, you know, users of the users of the games. And obviously, that looks very different from you know the the Crm. On the other side.
+
+Host 1: Totally. And so I know you mentioned that big query houses all your data and then goes into Tableau. So kinda of getting back to my last question, just love to know what metrics matter to you. And the reason I ask is because Mosaic, has like over a hundred fifty out of the box metrics. A lot of them are targeted towards like more b b, but there are a lot that so would make a lot of sense for you guys. And then anything else that's side of that. That's, like more like to revenue metrics, we can definitely create for you or ingest. Love to understand like, hey, what can we provide for you out of box versus what is gonna be custom metrics that we, or you build yourself.
+
+Client 2: Got it. Yeah. I mean, the I in terms of you like, usage metrics. Those are some of like are the main ones that we look at so like, you know, user retention. So, you know, what's what's you know, days... What's the... like, the magnitude of, like, day zero activity like you they have installed the app. How many games people playing? What are those types of gains? Etcetera. Then, like, what's day one retention day seven retention, they fourteen retention. You know, day thirty retention. And then like, just like you, we're looking at kind of daily active usage, then from a like weekly perspective, you know, week one week two weeks three week four. You of those... you know, those retention figures, we look at Lt you know, you could look at on a thirty day basis or sixty to day basis. You know, kind of the, the the contribution margin for per per user. And what is our cost to, you know, to service these these players versus, you know, the Lt that then forms our you know, marketing spend. What do we do in terms of user acquisition? On Facebook, Google. You know, etcetera. So from, like a operational perspective, I'd say those are the most important those the most important things that be that we look at outside of the you know, is it just the, you know, financial numbers.
+
+Host 1: Got it. And and everything, all those metrics right now are being tracked in tableau today.
+
+Client 2: That's where we... That's where we we have, like the reporting on it in, like, a series of dashboards there.
+
+Host 1: Perfect. So so all of as far as like, what Mosaic would handle, all those are being in in tableau, Is there any other metrics? Like, let's say ones it Well, how do I... So all those metrics you guys have in Tableau today, and they're flowing in somehow into... Not just like you're reporting pat, but also are they flowing into your forecasting revenue, model? Or they more, like, just for knowing how to, I guess market and move forward the business.
+
+Client 2: Yeah. I mean, it's a... I I would I would like you to to to flow more directly into a into a into revenue projection. You know, right now that that's kind of a clunky a clunky manual process. Whereas, like, if there's a specific question that I want to to to ask about. Thank you. What do we you know, what what do we think our our revenue will be based on certain customer assumptions and then in cost. Like, that's something I would just, like build out as a bespoke analysis. I would like that to flow through. So we say, okay. Watching this game here, you know, we expect you know, based on, you know, these other games we expect to Lt of x and we expect contribution margin of of of why we're going... We expect to do some magnitude of of Ua activities, what would that imply for know for Go P and l. Like, that would be, you know, that'd helpful analysis to be able to you know, to to do in a straightforward forward way.
+
+Host 1: Got it. Okay. And then are you guys segmenting out your P and L or your revenue forecast by game or buy product line or anything even like that.
+
+Client 2: Yeah. We are. So we have kind of two game studios you know, the one is we call like a mobile casual studio. That's games like you know, solitaire trip shop for bingo blackjack. These are kind of like, you know, kind of basic games. And then there is our our champs studio, which is kind of, you know, Rpg style gameplay play our first game in that in that studio is a tenant themed. Again, we have character avatars the tennis they have like storylines and characters in their have. Like, Tiktok channels of their own in you know back, all this kind of stuff. Those are kind of the two the two categories, and it is helpful to be to break them out because different owners for for for the for the for the management of those of those games different different Pms and we'd like people to be looking at their their studio and their teams. You know with the right with the right metrics to drive their decision making and goals and such. So yes, so it's helpful to be able to break those out.
+
+Host 1: Okay. Got it. And then... Sorry. I just... There's a lot of questions. So I'm just kinda like skipping around here. But as far as like, revenue. Are you guys considered to be recurring? Is there any like subscription component or is it all just like on a usage basis.
+
+Client 2: Now we have subscriptions. We we rolled out. It's it's it's it's a fairly nascent thing for us. We rolled it out about a month ago. As a a subscription for for consumers. So they can do that and unlock. Additional functionality in the games. Cool not expect that to grow you know, It's like I said, justin just newly launched Yes. So so that will be our our recurring piece.
+
+Host 1: Cool. Then... Okay. So another point on this just because it is something that you guys... I'm assuming don't have right now. It's just like better visibility into Quickbooks and, like, getting mortgage visualizations in real time sounds like you are downloading a lot of that right now. Manually, how much benefit would it be for you to just like, have an automated like just everything from Quickbooks flowing in and marrying that data together with your bamboo and your rip data. And kind of a a follow question on that. I know don't normally see using Bamboo Amber because they both are like, global Hr where they can handle both. So kinda curious why you guys are doing that. And if the bamboo data lives in the gate or vice versa at all. If we just had to pull from one.
+
+Client 2: No. It does it. It doesn't. So rip we for the Us. And then Bamboo is is what the India team. Users. And they I I I agree... It could be it couldn't thirty one. Like, I've, you know, like, I've I've I've used Bamboo globally you before. Had looked at rip playing you know, globally before. But as of now, just given the in some of the know, just just the... Just the way that the operation is set up with with the Indian affiliate. It is they have their own system.
+
+Host 1: Got it. Okay. No worries. We can still ingest at all. It's just a matter of append the data versus just, like getting it all in together, so that is totally fine. But kind of to my my last question, would it be... So... And the reason I'm asking this is because you guys definitely are like, a more niche case which is why I'm asking all these like, really specific questions to understand like, hey, where can We board. And, like, I wanna also let you be aware of, like all the areas where it just maybe will be a little more spoken custom. But how much value would you get us from like, be able to see, like, expense real time look at expenses per head and more like, traditional finance related metrics relating to, like, your head count data and your Quickbooks data, just knowing that a lot of the other data is living in a big inquiry or already visualize by Tableau, what we can, pull in that data have it all in one system. For the time being, just being completely Transparent, it will be a little bit more manual, meaning that you'll have to download data and upload to mosaic. Because our big query integration isn't coming out until q of next year. Not too far away, but we're starting in Q of next year with red and snowflake lake, and then we're going to big que. So eventually, you will get all the data into the tool. In an automated fashion, but it will be a little bit of know, in between time where it will be a Csv upload.
+
+Client 2: Got it. Yeah. I mean, the things that You the the the things that, you know, I end up taking from from Tableau from a a metrics perspective or really you know, driven by like say, what was our zero what were sales in these, like, different categories in the past. In the past seven days, something like that. That'll be taken from from the from a will say like, you know, in game transactions. And know what was the what was the piece of these different types? What was the like amount of your credit that we see into users to encourage. This will be, you know, real outflow of a valuable valuable currency, but, like, the the closest to real time source that we have was that. These, you know, custom those tableau reports. Before it gets, you know, into into Quickbooks. That's such. So that's that's really the use case that I have there. Is you wanna when look at when I you know, put together the a weekly financial view that I like to but I like to see.
+
+Host 1: Okay. So I I guess, is I'm assuming Tableau is not pulling from Quickbooks.
+
+Client 2: So what's the gap that you guys don't have right now.
+
+Host 1: That you would like to see from that Quickbooks data or any more, like, less user related but more like expense related, and anything else that could flow through Quickbooks.
+
+Client 2: It would really be, you know, like, you know, incentives in prizes like provided to to players of the of the games. In you know in the in recent periods. So, you know, let's say someone love, you know, gets a level up reward because they feel achieved certain you know, activity milestones in a game. They may get, you know, in they get a get a bonus. Yeah know, that's a cost to us. And that's something that would like to get to look at. As I think about, you know, the just, like, you know, contribution margin for for that game studio. A contribution margin per user. Same thing with you know, what is the what do the, you know, the magnitude of, you know, in game transactions and in payments that we would be, you know, monetizing.
+
+Client 2: Got. Okay. I'll take from there.
+
+Host 1: That's that's good to know. And so When you guys do segment out your business into the two different games studios, how are you keeping track Like, does Quickbooks have those business units keep kept track of? Or or where is that segmentation live.
+
+Client 2: Right now, it doesn't really matter because we haven't launched the you know we we've like, we're, like, a private private data with our genesis set of, you know, of of character F holders. For the you, for the tennis game for our super champs studio. So you know, we get you know, and there's, like, you know, there's revenue coming in on secondary N sales, but that's it. From from the perspective of that studio for the moment until we launch will be in probably Q one of of next year. You know, the broader broader public release of that game. So right now, it's pretty simple.
+
+Host 1: Okay. So right now, you necessarily need that segmentation, but you well like in in q one.
+
+Client 2: Rental.
+
+Host 1: Got I think cool.
+
+Client 2: Very easy to segment out because there's only one line item that i need... That we need to remove on a revenue basis.
+
+Host 1: Got it. Okay. So that's on the revenue side. Have about on the expensive side?
+
+Client 2: An expensive side there different different folks who are, you know, you're working on different things. And allocated across the two studios. So that is a real that is a real element.
+
+Client 2: Okay. But i'd say, like, the most important thing that we look at there is just the kind of, like, the the contribution margin analysis of the for for the studio.
+
+Host 1: Got it. Okay. Cool. And where do you keep some Every time you say something I'm like, okay. Well, how about this. So where do you keep track of how your engineers and your part people are allocated.
+
+Client 2: Yeah. That is like, I mean, like, largely driven by the just like the engineering leadership has their kind of project plan and there's, like a, you know, a a a project manager who you know, has, you know, this the the team and this is what the folks are focused. I it's a spreadsheet a google sheets spreadsheet that says like, this is who's working on what this week and next week etcetera.
+
+Host 1: Got it. Okay. So it's it and then they share that with you and that's how you're able to segment everything out. Got it. Okay. So I'm gonna be honest with you. This might potentially not be a fit. I know we really wanna work with you because, like, you know, have a relationship with Frodo and Frodo loves web three and everything. Crypto out key, But I am gonna run this past my solution engineer just to make sure that it is something that you know, if we can't support, we let you know exactly where and if we can't like, hey, here the areas where not able to do this. And like, is that okay with you or not? So I would still like to set up the demo. That way if we it something that we can do. We have that time set. And if not, then I'll let you know beforehand. And if you're still Curious about mosaic. Can still show you demo like, I don't like, that's totally fine. But looking at the calendar for this week, I know, you know, it's right the holidays, but we are working. So I actually am pretty available. Not what your schedule looks like, but Tuesday, Wednesday, Thursday, Friday. Do have some time. So let me know what times work for you. And we can find one hour slot to get into it.
+
+Client 2: Nice yet. Let's see. Know Wednesday, morning might be the best bet if that if that works.
+
+Host 1: Yeah. So I and you're in Nashville, so actually same time zone. So I have... Oh, actually, Maximus is pacific time, but we can do a nine thirty a ten a twelve all in central time, or two or three.
+
+Client 2: Yeah. Why don't we do when we do nine thirty?
+
+Host 1: Cool. Let's do that. So I'm just gonna send over a one hour invite And then on include markets, he's my solutions engineer also was the first sales up Mosaic, but prior time was he was a Vp of finance. So why everyone have a domain expertise. So we definitely can get into the integrated with him. And then we'll run this by him beforehand. And then if there is anything we can't I'll send you an email and then if it is Deal Breaker, just let me know. But if it's not, then we'll get into the tool.
+
+Client 2: Okay. That sounds great. That sounds great. Cool. I'm glad we could sync up and, you know, eager to see if it know, if if it may be a fit. Not recognizing that you guys are little bit more on the b. On the B b side at the moment.
+
+Host 1: Definitely. Yeah. I hope it is... So we'll we really sad show you the tool. But, yeah, we'll keep in touch and talk very soon. Nice.
+
+Client 2: That great. Thank you, Leaandra.

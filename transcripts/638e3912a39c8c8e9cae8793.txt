@@ -1,0 +1,251 @@
+Client 2: Well, actually, no. I don't speak french. I just Well, if a you few phrases.
+
+Client 2: How are you?
+
+Client 2: you sir.
+
+Host 1: No No.
+
+Client 2: Oh, okay.
+
+Host 1: Can only say that Can say, you have a view. My my grandmother was referencing. So I.
+
+Client 2: Yeah. I spent, like a semester in France long ago in grand. So but they for go to everything that Okay.
+
+Host 1: What what were are you doing called?
+
+Client 2: Physics, I was a physics researcher. So it was my there. Just semester Oh, wow.
+
+Host 1: Nice. That's pretty so. We're all you're going from now.
+
+Client 2: Palo alto. Okay. Look forward now. And where are you?
+
+Host 1: I am in miami Florida. I just moved out here, I used to be in the bay area nine.
+
+Host 1: Does deal last year.
+
+Client 2: Cool.
+
+Host 1: Do a friend.
+
+Host 1: Got it.
+
+Host 1: Same friend.
+
+Host 1: There a small wheel.
+
+Client 2: Yeah.
+
+Host 1: Great. Well, perhaps it be for to to kick it up with a quick round of in collection. I'd love to tell all by myself and and what I'm doing and i'd have to heal all bit you and and Goody. How does that sound?
+
+Client 2: Yes, please. Go ahead. Police So my name my name is Kevin as as you know I am prince been living in the Us background is I used to be software engineer and then a product manager at Uber.
+
+Host 1: For few years. And i have been working on Team through rolled out who yields in the half now. Two years field have. And What we started doing initially was we we we did the build phone office this to help remote the teams, but Collaborate. And and now we're going through a little bit of a pivot because we found that the built lot is actually worked particularly well for sales teams. Because, you know, they're missing like, we like get the the real sales So like, now missing is the of the velcro sales flow, the ability to coach each other and so on forth. And so we've been focusing all and more salespeople people. And as we've been doing that, sales have been putting us in his direction of also building a meeting assistant. So, you know, the meeting goal that you can find in this meeting. The one that's literally called meeting colder is is is the one we've built. And so Yeah. You know, it your meetings transcribe them and and then it lets you what's the recordings and it exposes inside about the conversation to you. In order to to help you become better sales. So that is... Right now, those all the the kind of, like, two product that we're working on. So one is again, the built of Sales, and the one is is is the sales making assistance. And i I was catching up with, I think that's the put us touch with. He was telling me that you were working on the on the Product. At at. So yeah. We'd have to him that you and and credit.
+
+Host 1: Yeah.
+
+Client 2: So we Delivery is speech recognition and real time conversation intelligence platform And also we have a certain of pivot, so we started with generic note taker similar to fire that you already using now?
+
+Client 2: Yeah. Alright So we we started with that over a year ago and We have a plug for the Zoom. So yet if you can see, there is no Note on the screen, but there is this life And This is how we connect to zooms through the Apis we don't need to put you know, additional participant fake participant But anyway, we were a launch partner for the Zoom marketplace. And we are one of the most popular zoom note take a note transcription. Transcription apps we are currently featured on Zoom marketplace from page would what but was like six different apps and one one of them is us So yes, this original product the kind of competition to fire after You name it.
+
+Client 2: If we have... We have our own specialty recognition engine. Well, it's been on top of built on top of of open source of course, but we took What piece of this piece of death acoustic model from here language model for from there And edit a load of stuff. So now it's kind of our own. Specialty recognition engine That looks like it is the most accurate on the market now. It's more accurate than fire more accurate than otter. I'm Google and Deepgram everybody. So Best how would we have started. But then, we also have a a pivot to word of sales So speed air.
+
+Client 2: Yes. So the new product it's for the sales and it's actually Ai driven tele for salespeople. I think in french called isn't it.
+
+Client 2: So?
+
+Host 1: Yes.
+
+Client 2: Yes.
+
+Host 1: That's that's. Yeah. Yeah. Yeah.
+
+Client 2: So Actually international the same what it is used. The russian russian adopted french Anyway, So I sent you a in chat just a minute ago if you open up, Or if you want, I can share screen whatever you prefer.
+
+Client 2: Oh, wow this Yeah.
+
+Client 2: Yes. So it is real time life transcription. And the For the salespeople, what we have ease A couple of things. So one, Do you see it for sales time guidance sales to prompt So this is the plan of the call for the sales.
+
+Client 2: This is the bullet points of things He has to say during the call the questions he has to ask, don't know it.
+
+Host 1: I don't see that. I don't see the bullet points.
+
+Client 2: Okay. Let me left Zoom sharing is as always. Let me share it. Let me do the screen share. Forget about it. Screen share Okay. So do you see it now?
+
+Host 1: This. I think yeah.
+
+Host 1: Absolutely.
+
+Client 2: So you can see that the right side it's right inside your Zoom app It's plug into Zoom. And this is the Checklist.
+
+Host 1: Forty.
+
+Client 2: Four go the.
+
+Client 2: Oops.
+
+Client 2: Something happened. We got becca. Oh, no. Now. It's suppressed again. Good. So you see this as the the check list the agenda for the meeting for the salespeople. Yep. And our speech recognition follows it.
+
+Client 2: So When the sales says that the product displays talk tracks in the convenient side screen visible only to the graph You can see that it is automatically checked out.
+
+Host 1: Yep.
+
+Client 2: Gives reps best sales pitch points. And So you see that if automatically checks what Bullet points what check items have been completed and we are not. So this is this is one thing. And the other thing is q cards caps. So if you say that your product is too expensive that you can see there is Automatically, there is a competitive battle cards that tells the sales on how to candle objects. And Of course, you figure it you could put just you know, bullet points like here or you could put you know, full text. So or mentioning competitors if the customer asks how are you better than gong You see that also automatically a battle car And in this case, it's, you know, more than elaborate sync. But again, It's sales manager who Alright those cards, our goal is to display them when you know, Something happens. So that's basically leg main things during video time, another important moment that this sink Also, records and transcribe the meeting in same structured form. So because there is the structure to the meeting, So some of them would be qualifying any questions. And so rep is reminded to ask how many people are your company? So he asked the question And after that, of course, you would say how many people are your company? What How many people are at your company?
+
+Host 1: Oh, sorry. Right that we all by.
+
+Client 2: Okay. So you see that your answer will be right here. So it's question answer. Qualifying if question, And next to that goes there where is my answer?
+
+Client 2: It's in the transcript But now we have a forum.
+
+Client 2: You know, with a structure calls. So how many people fifty? What is your operating system? Make noise whatever. So Basically, instead of you know, write in notes Gary just ask the question and normally the prospect answer right after that. And you have this question Answer question answer the question of structure. And it it's good for you know, filling out database crm whatever reports you have. So that's What will happened real time? Does it make any sense to you could it be useful.
+
+Host 1: Yeah. This is this is great.
+
+Client 2: Okay. And so the second part is after the call and Everything is recorded and transcribed. And here's the list Merry.
+
+Client 2: Yeah. And Everything gets search of because, And then here is the transcript that I yellow highlights that were made Manually there is the highlighter button. So this is something that when I quick. I keep points i could click here and that shows me key points. And that's manual highlights, next steps that are identified automatically with machine learning, So can you send that here catalog, for example, you see Sure. We will be happy to give you demo one blah blah blah. The next step for me is just to give it give it to go up So you see that It's something about next steps in your next step Let's schedule you Limiting sent me a price list I will send you a price list. I will send the you catalog look So it's automatically picked up by machine learning. Like likewise to identifies our customer questions, So you see that they do task, what's this data attention policy for the day. Do you guys have an Api? So every question that the customer asked in the call is identified here. And also you put monitor topics key keywords works basically that. Some integration slack.
+
+Client 2: And this is some mansion go here free trial. And pain pinpoint that, you know, that's what time trying to solve. You see that Again, I am trying to solve is our sales team and pre blah blah blah. So yeah tech integrations and also there is sentiment and analysis, so positive and negative in this case only positive. But yes, I'm very happy to build our own user interface. So Basically, that's And if you you know, view them together that you have everything is combined pain pinpoint, questions manual highlights and questions about integrations and. And to configure those things you have the interface for the sales manager You could introduce the names of your competitors product names, integrations, quite often people ask are you integrated with Zoom or samsung like that?
+
+Client 2: So you could put this and some objections like it's through expensive for I have no authority I am wrong guy or I am busy now call next week. And so on. So it's it's configurable by the sales This is amazing.
+
+Host 1: Yeah. What's that it takes feature about?
+
+Host 1: What's the... I see up here.
+
+Client 2: Analytics... It's... Well, not much here because it's just me. But, yes, it shows the Analytics for the teams that it would be let me change based yep.
+
+Client 2: So it takes more That? Yeah. There is you now just me and then as june, but normally it would be your entire sales team, and that shows you how many meetings how many meetings were successful because sometimes you you know, doesn't connect can you put out here, and it's... Remember I show this checklist. So how many items of the checklist have them completed. Talk to listen rachel the longest monologue duration. So if you talk for too long that it's flat and actually there is a There is a warning for the app that are talking for too long. And there are some graphs and whatever. And also for every meeting also that would be analytics for the meeting.
+
+Host 1: So you You have, longest monologue script on here call sentiment how many positive how many negative and neutral Yeah.
+
+Host 1: I mean, this is great. I think it's super well executive product is beautiful. And thank You've you you built a lot of pitch here. You built all of these with only a year. And how many do you have?
+
+Client 2: Eight Wow.
+
+Host 1: Guys, because I've been busy. And what what what's your funding status?
+
+Client 2: Fun Yeah.
+
+Host 1: Like, did you... Did you raise around?
+
+Client 2: Right? Yes. Where is raised the seed and where are actually going into raise another one right now.
+
+Host 1: Alright.
+
+Client 2: So we are beginning to operation investors.
+
+Host 1: Can I... If you if you don't mind by asking, what what kind of valuation do you How you are you going to be looking for you are you generating revenue yet?
+
+Client 2: Not much because this new product, the sales product it's just new. It's just being really.
+
+Client 2: So we don't have any any customers for it yet. Alright. The old the old product have a lot of users but most of their seat on the three plans. So very a few people pay for no taking unfortunately?
+
+Host 1: Alright.
+
+Client 2: So not my. Yeah. But Yeah.
+
+Client 2: But the product is here.
+
+Host 1: Well, I mean, congrats right what your build that's like, mean price this is this is a great product. I'm curious why I'm I'm looking to prioritize my questions because we have seven minutes left. Why did you build the own transcription?
+
+Client 2: Maybe it was kind of a mistake, you know, we are from Google, so we wanted you know, probably over engineer everything.
+
+Client 2: But to certain degree Well, was actually we started with Google transcription, but then we realized that it is starts the quality it is not good. And second, it's it's kind of black box we we need more. So part of the staff here that the system should recognize Jargon Works, because if you want to monitor the names of your competitors the system must be able to recognize those names and that's typically samsung that is not you know, just normal English, people invent who works for the names acronyms And Google and others don't recognize those words.
+
+Client 2: So we decided that we need our Yeah.
+
+Host 1: I mean, we we we continue building our own transcription yet and i'm I've i'm I'm glad to hear it was a mistake because I'm like I am also... Yeah, Right double running on Deepgram and it's fine. It does the job. I think it's good enough. I don't think the marginal improvement we would get in transcription quality would be with the headache of both building and maintaining and hosting our whole and transcription model.
+
+Client 2: Yeah. I agree was that. But for us for us kind of transcription is the main you know, the core technology of our orders So everything girls is you know, next where of the Ui for you what are you it's different? But for rash mostly.
+
+Host 1: You know.
+
+Client 2: Yeah. So if you want to use our transcript we'll be happy to make it available to you where more accurate than fire and order.
+
+Host 1: How much how much you charge per hour transcription?
+
+Client 2: Well, it depends on the volume, but Well you know It's competitive.
+
+Host 1: We we are willing to negotiate.
+
+Client 2: How much volume we do.
+
+Host 1: I mean, right now, nothing we haven't released yet. So it's it's No Oh, okay.
+
+Host 1: We'll we'll we'll roughly at the same stage as you Alright.
+
+Host 1: The thing though is that we we we have a big discount from deepgram. So I think I think Deepgram is going to cost something like twenty cents per hour or something like that. Oh, you... Are you're looking to make a move into that industry like, yield transcription as as the service?
+
+Client 2: Yes. It's it's one of the options. Yes. But again, I think you can see on top of transcription.
+
+Host 1: We have some stop this check lists and compared to battle cards and entity extraction and all the nlp stuff that Deepgram doesn't help as then understand.
+
+Host 1: I think they'll feel a lot of it that we'll we're building a lot of that in houses well, I think that he's actually bought, like, to meet that's like the secret sauce, like, you don't wanna outsource that I'm much more comfortable outsourcing the transcription detail.
+
+Host 1: Then the the detection, the sentiment analysis and forth.
+
+Host 1: Yeah. I'm I'm curious about the the Zoom market placing. Does it does it make a big difference for you in terms of the loads or attraction?
+
+Client 2: Yes. It's actually very, very very efficient. We got a lot of downloads. There is a lot of traction and Yeah. It works great. Unfortunately, as I said most people like the free So but we hope that we will be able to sell this product for sales, you know, you know Sales teams are different but just individual user So currently, people who download this like individuals sort very small businesses you know, like five people consulting shop something like that.
+
+Client 2: Most of them are small. Some are bigger, but the bus majority of customers. Small business. They don't have don't have my name. But as a source of Downloads Yeah. Zoom marketplace marketplaces from fantastic.
+
+Host 1: Yep. Yeah. I I I had is also getting quite a bit traction for me, but further to use like more general purpose note taker And my understanding is that they are also I'm not exactly sure I don't know if you have any in sites on this, but I think there also pivoting to being more focused on sales as well.
+
+Host 1: Yeah.
+
+Host 1: Yep.
+
+Client 2: No.
+
+Client 2: Yeah. And may they ask you why... From your website, I that that does mostly your product is mostly follow for Sdr. Why Is there not normal account executives?
+
+Host 1: Yeah. Because today, that's where we see the most available meeting with our existing product of the built office. Right? Like, aes on like giving demos. And so, like, they they need to already be on zoom. Because that's what the custom mills are using. As deals are like dialing. Right? And so they're going to use the dialogue that will build own dial so that to them as well. And then, you know, the virtual sales rule lets them hang out there and it lets the manager over here the dials and and coach them and so on and. So That's why was starting with these deals, but I think I think we we are going to spend to aes pretty quickly. Especially for the conversation and intelligence side of things. I have it going in one minute.
+
+Host 1: Is no... Is that easy I can do to help queues? Okay?
+
+Client 2: Well, if you are be interested to to try our speech recognition and maybe this extraction as well, we'll be happy to you know, give it to make it available to you. You try it. And if you like it maybe you will start using it.
+
+Host 1: Yeah. Like I said, in full, I mean, right now, it's not a huge priority he just yet. I'm I'm grateful to know that you guys are around. It's always not to know the landscape is good to know the landscape. If you have documentation to send to me any any any, like, the edition especially on like the the performance, you know, the the accuracy of your model at the speed and weather is Deepgram and and got and and, you know, this is deepgram and Ray and Google so so you know, I'd love to take a look, but, you know, I just wanna be transparent that right now, You know, we'll just like any other started the priorities market. And so, you know, like, Deepgram, what we'll using right now kind of does the job at both labeling.
+
+Client 2: Yeah.
+
+Host 1: Okay.
+
+Client 2: Okay. Thank you. Thank. Yeah. And also, you asked about what we are raising capital and whatever on this Why did you ask, do you Can you introduce us to maybe some of your investor store Well, No.
+
+Host 1: Because we're competitive to.
+
+Client 2: Okay.
+
+Host 1: Should have Well, we are depends deep go into that certain prospect saying, but it would be with this strange for.
+
+Host 1: Yeah. I'm always happy to be able to release and help and you. But one, this one I think will be... We be wheel No. I mean, frankly, I'm asking because I'm wondering if... And I... I'm just gonna like people building you, but I'm wonder if doesn't acquisition play here as well.
+
+Host 1: Oh, I see. So what what you built is is is a road map. The next six months. So you know, I'm always, like, more of like a deal versus bike kind of guy, and I I like building something help and, you know, otherwise, like, i I don't even know how we would integrate and all of that stuff and you may not be interested in but Yeah.
+
+Host 1: That that that is what was on my mind when i asked the question.
+
+Client 2: Oh, I see. Okay. Yeah. Well acquisition is always on the table, but I don't know if you know, you have enough money for that and that.
+
+Client 2: No.
+
+Host 1: Yeah. We'll boom look cheap.
+
+Host 1: Yeah. It would be... It would not be it would not be significant. I wouldn't pursue it if i you I wouldn't pursue with if if you think you have a good shot at raising a good day, only close to eighty and your team looking for sub landing, and it would be a little bit more like an we hired a kind of situation.
+
+Client 2: Mh.
+
+Client 2: Yeah. Okay. I'll keep it in mind. Thank you.
+
+Host 1: Alright. Well, I'm glad we met.
+
+Client 2: Okay. Thank you so much.
+
+Client 2: It's very very nice meeting you thanks for your time.
+
+Host 1: Alright.
+
+Client 2: That's. Bye.

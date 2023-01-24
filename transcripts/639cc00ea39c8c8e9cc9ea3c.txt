@@ -1,0 +1,269 @@
+Host 1: How you guys?
+
+Client 2: Hello.
+
+Host 1: How you doing? Both you guys Good.
+
+Host 1: Good cool.
+
+Host 1: Yeah. Alex, Gertude is on my data team. She's actually located it right outside of denver boulder. I forgot which one.
+
+Client 3: Yeah self Denver?
+
+Host 1: Nice. Yeah. Alex is also kind of nearby.
+
+Client 2: Yeah. Westminster, sir.
+
+Client 3: Oh, I'm in Centennial.
+
+Client 2: Oh, awesome.
+
+Client 3: Yeah. Yeah. But I would just go on boulder. So very familiar with questions, sir.
+
+Client 3: Sweet. Yeah. Yeah.
+
+Host 1: Cool. Love it. Yeah. I all I know about Centennial is that I think that there's lifetime fitness there. So is it's massive.
+
+Client 2: I a have a lifetime time in this area too. And it's big, but I don't think it's as Biggest as i want in centennial.
+
+Host 1: Yeah. I you know what I'm like, oh, I gotta go check that one out.
+
+Client 3: It's huge. It's right across the street front my sister also lives in San centennial and it's right across from her, and she's like... I thought about joining it, but it was well. Transferred.
+
+Host 1: That's so funny. Okay. Conversation for another day but Gertude. I don't know if you know, but with our health insurance. We actually get a pretty nice center to go there. So if you want, but yeah. I'm talk you about that later. But anyway, so Brands Luca, I sent it over Gertude like, kind of a cap on our conversation so far, I think the part that we just wanna scope out is the fact that you guys have that non test component and there are different ways You guys are slicing your data and it changes the metric. So gonna let Great see lead this call and I have Maximus just in case there's any need to support here. But, yeah, I think just diving into, like, turn, for example, if you guys look it by monthly, quarterly whatever, it might be a little bit different. And then that service component on top of your your recurring fee.
+
+Client 2: Got it. Yeah.
+
+Client 3: Yeah. So Alex it'd be helpful. Just... I I'm I talk to Leaandra and get gotten a bit of an understanding on on how your revenue is structured and everything, but it's always helpful to kinda hear it from from your mouth too as well. If you don't mind, just kinda the quick and dirty is to make sure that I'm aligned with what you with what you have.
+
+Client 2: Yeah. Definitely. So we we are are working on saas model with the twist. There's something that we see sometimes. So we don't We don't currently have the traditional... Just saas recurring subscriptions, you know, sudden and forget it. Our we operate by through our clients running advertising campaigns through us, which are on demand. We have some clients that that have committed recurring monthly spend. But advertising overall is a seasonal seasonal business, so we have some clients to might spend in four for the holiday season. And that might be it or travel trouble this three clients who might advertise in the spring. Before the summer and and that would be it. So based on that when we are taking a look at at our metrics, we like to review We like to review that information on in a few different ways. One for our business operations, but too because when we we are presenting to investors into our board we want to be able to show the full story and to be able to explain our seasonality. So we look at our metrics definitely on a monthly basis. Month month over month basis.
+
+Client 2: A calendar quarter, like a calendar year. And then on a trailing twelve months. But so, you know, just month every month whatever, whatever has been for the toilet. Trailing twelve months.
+
+Client 3: So Okay. So when you're when you're tracking all this Ed say, I'm an advertiser and I'm doing ex advertising in in December for the holidays. When how what do you consider to be a customer? Like, when you're looking at your customer metrics I haven't done any advertising spend for the last four moments. But now I'm doing advertising spend. Was I'm not a customer for those four months? And now I am. Or how how did that work?
+
+Client 2: Yeah. That's a great question. And that that question is actually why we look at our metrics and so many different buckets. So month over month. We define we define a customer as churn. If in the current period, they did not spend with us Yep. But in the prior period they did. So if last month, I ran campaign, But this month I didn't, this month i'm turned.
+
+Client 2: Right. If it's you know, with last quarter I ran a campaign. And then this quarter, I gonna campaign ping even if it was only in one month out of the quarter. I'm... I'm I've been retained. And same thing for a year. So that's particularly important for our clients who only spend you know, maybe in one season once he's in a year, you know, travel agencies or I don't know. It's unlimited. What people's needs are.
+
+Client 3: Yeah. Okay. That... So that... That's in line with how we calculate our team metrics as well. It's been basically, was their revenue last month? If so, then... Then there's not now then we're we're considering you a charge. And we do it on the period level as well. So we calculate everything monthly quarterly and annually. So you'll be able to do that.
+
+Client 2: Okay. Excellent. Yeah. And then is there is there current functionality for a trailing trailing twelve months or is what that might be something that we would need a customized for our business.
+
+Client 3: Yeah. So for trailing twelve months and Maximus honest here for trailing twelve months, what we would expect to see expect to structure that would be with your Cs in the top line model. Planner. That's when you can do more of that that look back. And then we also have like, net dollar retention does a twelve month look back. Believe it's at large Net gross. Yes. But... Yes. So that's that's where you would see those the twelve months. What backs yeah. It's more in the modeling. I would say, Okay.
+
+Client 3: Is that what Maximus would you agree there?
+
+Host 4: Yeah. Okay.
+
+Client 2: Yeah. That's great.
+
+Client 3: Okay. Great. And so as far as kind of the structure of of where this data lives, how how are you structuring for for example, if I'm a customer that only doesn't in during the holidays, And how how do you structure that data?
+
+Client 2: Structure when you see structure data, do.
+
+Client 3: Like like, where does it where does it live and where would you where would... Look how how would you implement it??
+
+Client 2: Yeah. So what the data that we use for our cost retention metrics. Currently all live in Salesforce.
+
+Client 2: Yes. Lives Salesforce far right now I'm exporting. Those documents into spreadsheets manually and then combining the spreadsheets and...
+
+Client 3: Let's let's get you out of the birds?
+
+Client 2: That's for birds.
+
+Client 3: I know. I I a love it.
+
+Client 2: I was I had a meeting had a meeting with Cuba yesterday, and they they're like, whoa, we can know it's we We work in spreadsheets because it's more powerful we just build in top of like, no. We're trying to get out of spreadsheets. Thank you.
+
+Host 1: Anyway I have your question Alex, when you send that, I don't know if you actually said that we're trying to get as spreadsheet. Like, what did they say?
+
+Client 2: Back. So I did it... I I didn't say it directly in our call that in my follow... Email yesterday letting him know we weren't moving forward. You know, I told him that and I can't I can't remember what he said, I'll have to take a look, But Yeah.
+
+Client 3: I'll I have to pull it up to like...
+
+Host 1: That is their whole business model i'm... Yeah.
+
+Host 1: Yeah. But one other... Thing that I want to just mention because Alex I don't know know that we have this, but we do have a seasonality metric and yeah. So for you guys and probably, really helpful. I'm not I honestly don't know how we got. I've just seen it in in there, But definitely could be helpful for you guys just to see that seasonality and give us slice of my customer.
+
+Client 2: Is it... Yeah. That's incredible.
+
+Client 3: Yeah. I can We have our our metrics gloss that I can drop in chat here, and so it gives you an overview kind of of how all these metrics are calculated.
+
+Client 3: And so there it's that bookings error or seasonality metric and it it talks about kind of how it's calculated and we can we can go through that and more depth in, like, the post sales implementation world. So I can I can kinda give you a little bit of an overview there too. So post sales you would kick off with the Cs. We I sit on the implementation team. And we we under of the customer success umbrella, So we work very closely with the Cs and our Our role is to get get the data in in a good place so that they can help you with modeling and things like that. So you would go through another call similar to this or we would get much more gritty we'd look at your sales we look at how all this data is structured so that we could then build out your your custom integration for top line. And then from there, I didn't know you needed access to get into all.
+
+Client 3: I can send a screenshot of this then.
+
+Host 1: I have a list.
+
+Client 3: I'll send it over.
+
+Client 3: Perfect.
+
+Client 3: Yeah. That's good. Thank you. Yeah. Good know I didn't know you had have access because I mostly work customers who do exactly.
+
+Client 3: But... Yeah. So so we would get much more in the nitty gritty on how Salesforce versus is structured and that out. And and so you work with me or someone else on our team to to really fully understand What you're trying to do in Jose, I can make sure that we could build that for you. But from what I'm hearing, having everything live in Salesforce, thinking of of metrics though in a similar way that we do it's business.
+
+Client 3: Yeah. So that that I don't see in red flags. I think we could definitely be able to support you very well. So I I think it's good to go from my end.
+
+Client 2: Yeah. Cool.
+
+Host 1: I think the one question, Alex that I'm not sure if you ever got an answer from your Ceo just as far as like, how you guys are building up to your top line that she's doing. So it is something that will hold your hand on how you guys build it out, but just know that we can build like the service component separate from the recruiting component and they'll just pull from whatever source it makes sense to pull from. So typically, sounds because we're were having opportunities per service, so we'll also be able to pull that.
+
+Client 2: Okay. Sounds good. Yeah. She she will she'll have to get back to us still and more more tell there, but I do I can share that something they use to to build that is number of demos like, their demo forecast. Cool. Yeah. So that that is something that the use that is tracked in Salesforce and the opportunities and pipeline. Tracked in Salesforce too. So which from what I've what I've seen. I I don't think we would have trouble. Integrating that here.
+
+Host 1: Awesome. Yeah. Definitely can can pull that information in.
+
+Client 2: Yeah.
+
+Host 1: Cool. Yeah, I guess If we don't have other questions. Gertude, Maximus, you guys can feel free to drop alex if if you have me update, I mean, I don't... I'm kinda curious have you Just kelly know, like, I guess, where's Kelly as far as like her head and So we're real quick before you jump there.
+
+Client 2: I wanted to... Since we have our technical folks here. I know snowflake is and more of a beta stage right now. So you might not be able to share too much about what that in integration is gonna look like in the future, but I would love to know what you're able. What you're able to share about that.
+
+Client 3: Yeah. So I I can speak to that a little bit. I'm actually gonna quickly turn the question it right back to you on what data you would be looking to pull in from smith from snowflake. So that it's I can get better that.
+
+Client 2: Yeah. Definitely. So ideally and something restarting. High levels, of report that's missing for us. Currently is being able to have a list of all of our clients and they're remaining credit balance within our brands platform and their product balance are basically just prepaid amounts funds that they've paid us. That are available for them to spend in advertising, but they have an actual met yet. And so that information is what we need to use for a revenue reporting and differing revenue in accordance with As six sex and know how much you hear clients go on about that. But that from from a high level reporting, a list of clients with their un balances is the biggest biggest thing missing. For us on the accounting reporting side. With that I haven't been in our snowflake like database myself that's that's currently maintained by our development team. I know that we we've recently updated our platform. We released our V platform. Earlier this year in rv v one, Rv one platform is being sunset. And so everything is now being hosted on snowflake. I I... It's my understanding that our development team has built in for every single transaction for there to be you know, a time time and date stamp, you know, source amounts where where funds have come from whether that's a credit card payment or, you know, an internal upload. If it's you know, if it's money that went out the door that they spent, whatever that looks like. And so ultimately, I would love the ability to have an integration with Snowflake did that that on the finance end we could kind of create our own, like, little query or a report that links with snowflake without our development team having to build us a custom dash word internally within our platform with custom reports. If that makes sense. I feel like I just word vomit it a lot.
+
+Client 3: So you like No. That was that was for sure. So as far as kind of bringing in that data, what what I... My understanding of of how we are going to structure snowflake, I think it will make most sense to pull things from the view level. When you're working in stuff like you can create a view, that's basically like a saved query. So if your your development team can can pull together a query that will give us the accurate data that we need. Then all they have to do is build the underlying they don't have to build a full dashboard on top of that. And then eventually, we would be able to that data and and create more of a dashboard. Off of that, we can also work with your team if if creating a view is not is not something that there's bandwidth for. We can we can work with the team to figure out if what the logic is, and then we could build the build of view ourselves. But this is further like, much further down the line, So I just wanted set the expectation that that's not gonna be something that you're gonna in the next couple of months.
+
+Client 2: Sure. Yeah. And when we say down the line, are we... Are we thinking, like, q two q three q four next year, or it's just it's in the face that we can't say for sure. And I understand that. That's where we've been the last couple years.
+
+Client 3: So Yeah. I Maximus, I don't know if you have an update on on where that looks like, but there's kind of a couple of different components that that sit here. So not only do we need to the capability to connect to the snowflake data. But then we also have to have the capability create these custom datasets and then create customer metrics off of these custom data So we we just released internally our this new structure of how we're doing our metrics and we're testing... Mostly on the cs cyber testing. How how it can be used, but it's it's still in a very early stage. So as it as it builds then we'll get to the point So I don't know if I have a full on road map timeline for you. I don't know if Maximus maybe you have something more so than I do, but I know it's gonna be later next year.
+
+Host 4: Yeah. Definitely later next year. The team's moving fast. So we're we've been pretty impressed with our releases more recently and We hired a Vp of product from Dom, and he's been like, awesome so far.
+
+Host 4: Mh. So things have definitely been speeding up especially on, like, the visualization data integration side.
+
+Client 2: Yeah. That's awesome.
+
+Client 3: Got.
+
+Client 2: Exciting.
+
+Client 3: Yeah. But everything from, like, the the recurring revenue and and all that, that's more of the... Not necessarily out of the box. It's gonna take a little bit of work with our team to to customize it, but that you will have much quicker than down.
+
+Client 2: Yeah. Perfect. Perfect. Wow. I think that's all of the product and integration questions I had. Today. So Yeah.
+
+Host 1: So I guess from here, I know last we talked Kelly you want make a decision right next week, which is amazing. What is is she looking at other tools? Like, what's where's.
+
+Client 2: Guys. Let's tell about this. So this, after Hmo demo earlier this week, she did. One to look at other pools. You know, like I've mentioned, she does like to explore all of her options before making a final decision on some things. So This week, we have explored cube. I mentioned that that's a no. That's a no go for our needs. Our we've looked at data box, which are sales and marketing team we're already using. So we met with them to see if the finance Yeah. Great to see Maximus. Thank you so much. Yeah. Thank you Gertude. Appreciate it. We looked at data box and met right there to see if if there was ability to customize something that would meet our needs That's a no go for my end too. Of course. I... I haven't found anything else. That would me. That would be my needs. So here where we are with Kelly. I haven't had another call with her this week, we've been playing phone tag today all day actually. But I will I will be sharing with her this afternoon. When we speak that I am. That I will be transitioning out of So we can began to Yeah.
+
+Client 2: I'm gonna tell her. I was talking with... I was talking with my husband. Yeah. One night this week, and I I I told I was like, I would feel so much better in doing my work if I knew that I could do it do it knowing I was setting else that for success, but also being able to just personally and publicly have those conversations with my fellow leaders, to... So that So collectively, we understood the importance of Yeah. you know, don't we need we need to be self sufficient in certain ways. But also, I don't know. I care about my team and I care about.
+
+Host 1: You think wanna, like, you know, have a battery action though, because like I feel like that kind of stuff can be Yeah.
+
+Host 1: I know. I just never know.
+
+Client 2: I know. And I also... And I also... I wanna I wanna leave on good good terms with them whenever that time comes, And so And I I wanted her to... She's She understands something importance of having a tool, and I wanna be able to reinforce to her that We you know, the the work that I do manually we need to automate that to begin with. But we especially need to have a tool in place and get it established while I'm here. So that they have the information that they need when I transition out. And so... Because otherwise, there there are other people who are fully capable and their technical knowledge to to learn the the work that I do. But not on the timeline or bandwidth that they have that have available. And so That being said.
+
+Host 1: Do you think the timeline is gonna be... Like, I guess, us to implement everything. So you wanna stay there with through implementation, And then for at least until, you know, get most implemented at the very least I would assume and then then transition out or So I am...
+
+Client 2: I'm hoping if we can get things like, signed next week that I know, I know your office closes the last week of the month I I'm committed at minimum to staying through I think it's like Friday, the thirteenth or the following Friday at minimum for Brands and so would like to do as much as I can. And then and then in the end of December. I know you're disclosed, but as much as Can during that time, Okay.
+
+Client 2: But I also... I don't I haven't actually add any offers or anything lined up. So I'm beginning this conversation, but I had a great call with mostly today.
+
+Host 1: I... Oh good. Okay. Yeah. I'm gonna ask talking to kate nerdy anyone.
+
+Client 2: Yeah. I I had a call with Leslie. And then Kate and I actually since. Since I already had a call with leslie scheduled and got that process started. We canceled that call and he said, you know, you might end up was speaking with me. That point anyway or one of our other Cs managers. So Yeah. I'll get there. But Yeah. Depending I I don't have offer anything yet. From any anywhere. And so I don't know. I it it could throw a wrench in Merry to get this implemented sooner you know, when I when I tell her today, but I I think honestly, it's gonna light of fire underneath, and then there's also another person on the leadership team who will be turning in his notice on Monday.
+
+Host 1: And you know, she's a no.
+
+Client 2: She should, but she doesn't.
+
+Client 2: Oh, he doesn't realize. So that being said, having efficient having efficient tools for me to help transition them is gonna be even more more important. And I I I think she understands. Where we are now. So Yeah.
+
+Host 1: Alright. Well, no. Great update. I'm glad get this open call because with anything that's on Pure sas is something that we wanna understand and it sounds like it's all good. So... Yeah. We'll keep close cons. I saw your checks. Zoom always that when I used you join before I do, but I buy it fixed and Yeah.
+
+Client 2: And hasn't it happened to me in a really long time, like occasionally like every few months, it'll it'll do that. Internal meaning too. It's like, Okay. Well, I know it's gonna work eventually, but...
+
+Host 1: Okay. Good. Yeah. Because Yeah. Whatever. But... Yeah. Let me know. I guess, is there anything that we needed you or is it just you and Kelly sorting things out or I think it's at this stage, it's it's making sure Kelly's is ready to commit and sign and she understands that there there not currently other viable options in her price range.
+
+Client 2: Got it. Okay. And that being said, you had shared the contract with me previously, is that still the most most up to date one for us was actually just wondering the same thing.
+
+Host 1: Alright. See here. Because I just wanna make sure we are doing There is no way you guys can pay by not credit card. Right? Because we can do... Like, Frodo, my cofounder was like, just tell we can do and we'll figure it out, but it is definitely something that we've never done before. So if there's any way we could do ach or bill out that'd would be better, but if you guys don't have way of doing that's fine.
+
+Client 2: We... It's our policy Tip to play all of our subscriptions by card as much as possible.
+
+Host 1: Got it.
+
+Client 2: If it is not an option or if there is a service fee added on, we will pay by Ach.
+
+Client 2: Okay.
+
+Client 2: It... Our we I will say it will just typically be we we pay all of our annual contracts on quarterly quarterly times.
+
+Host 1: Yeah. Yeah. So we'll...
+
+Host 1: And I think there would be a fee. So Let's.
+
+Client 2: Okay. And we use belle dot com already for our payable bills for Ach so. We can plan on that.
+
+Host 1: Okay. Cool. And then do you was kinda weird question. Do you think there's not gonna be any issue? Like, once you do leave that Kelly is going to potentially be difficult to collect No.
+
+Client 2: I would say sometimes her, especially, we... I'm I'm trying to... I I will be trying to get a job posting up next week. To start looking and hiring. And so once we have what once they have a finance person in place again, they will... I'm confident they will make sure everything goes smoothly. I That being said, during a gap period, their you know, her bandwidth, she might be a little less timely. But it will happen. So with it... I mean, I've had some things like net thirty or something. It'll will probably be totally done whatever, you know, Okay.
+
+Client 2: Sorry.
+
+Host 1: But. Cool. Yeah. So I think this is so good. I will just add in their there's a fee just so she's aware, and then that way we can go with the Ach route. So don't think does it right now. But Yeah. I think it all looks good.
+
+Host 1: Cool.
+
+Host 1: So I'll send you over the updated form we'll just keep close cons and let me know. Yeah. I guess, we have next meeting just in case, or you usually talked to her on Monday Right? So Yeah.
+
+Client 2: So I have... I'm I will have a phone call with her today. And I... Depending how that goes I may just shoot text today. Otherwise, I have another call with her scheduled on Monday morning. So maybe I I'm coordinating moving track for the office on Monday, so I I can't commit to a time. But I might just plug in text.
+
+Client 2: Yeah. Yeah. I can text to be sure we get any updates there.
+
+Client 2: And then when it's when it comes time to sign the contract though will be able to send her a Doc signer something similar. Yep. Okay. Sounds.
+
+Host 1: Cool. Awesome. Yeah. I'll just... I don't hear from you Monday, I'll just texted on Tuesday and then we can go over there.
+
+Client 2: That's perfect. Any last minute advice for knowing what conversation of about to have. With her based on your other clients. Experience?
+
+Host 1: So it's funny because I'm talking to another person right now who's planning on going to business school or something like that. And so she also get their house in order for one, you know, they need to change teams and things like that. Getting out of spreadsheets and getting more of a process is just like part of that. I don't know. I mean, like, I... And it's so hard because like, you you do it with good in tensions, and then someone might just totally not see that.
+
+Client 2: Sure. And I want... I want... I want like, the system for myself so much. And then there's And there there's a possibility, you know, depending. I might you know, it's nothing else worked out in the meantime, you know, that I would continue to be here longer. And, you know, if you telling her that you're starting to look.
+
+Client 2: Mh Yeah.
+
+Client 2: It I don't not giving a date or anything. So just to be able to to plan, like publicly to be able to have those conversations of Okay. Well remember, you know, this this needs to be done. I'll make a list of instructions of how to do this. So we have it. Yeah. It's just a lot easier than like, keeping in my head of all the things I need to be able to hand over with just two weeks notice.
+
+Host 1: Whenever the comes Out don't.
+
+Client 2: I don't like that. I wanna take care of everybody. So And intentions.
+
+Client 2: Yeah.
+
+Host 1: I she'll see that and yeah. It it's it's better than being like, hey. I'm leaving and now you to figure it out.
+
+Client 2: So... Yeah. And I think also just knowing how much I've advocated for Mosaic and for for the company. I also... You know, I wanna... I wanna transition on good terms and I also... I have stock options. So that's in the company too, and we'll continue to have a relationship with her. And I if I were to get hurt us sign a contract and then give notice and say, hey, I'm leaving I don't it would be fine, but I think she would be less What have less of a buy in and less.
+
+Client 2: Onboarding and my relationship with her would not be what I would want it to be at that.
+
+Host 1: Yeah.
+
+Client 2: Yeah.
+
+Host 1: That's that's definitely good. Because at at least then she transparency Yeah.
+
+Host 1: And Sure. Potentially have you as a Cs, maybe I guess I know I thought about my husband said if you if you did transition.
+
+Client 2: If you got a job at Mosaic, could you and Brands you could send up, Could you be a third person and i said, I don't know. But...
+
+Host 1: I would probably be deal for everyone because we know that date of the best I know, yeah.
+
+Client 2: I know all the information already. So if that word come with be, I would be very happy to do that.
+
+Client 2: Cool.
+
+Host 1: Well, Alex, it's always great talking to you. Let me know how to car go take good luck.
+
+Client 2: And...
+
+Host 1: Yeah. Have a great weekend and we'll talk soon.
+
+Client 2: Yeah. Thank you. You too.
+
+Host 1: Take care. You. Talk soon.
+
+Client 2:

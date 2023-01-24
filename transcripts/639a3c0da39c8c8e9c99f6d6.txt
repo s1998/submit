@@ -1,0 +1,119 @@
+Client 2: four. I don't know the.
+
+Host 3: Single maybe to that Yeah.
+
+Host 1: But his bot joined this meeting.
+
+Host 3: Oh, that's funny. So that means that technically, he can listen to this meeting up there Hey, keith?
+
+Host 1: Yeah. That's said interesting the use case I never thought about. Like, you could potentially not join a meeting. And have your bot. You you're sending a steward in your in your instead, basically. Will be recording this meeting from the afar.
+
+Host 3: Well, That's right. You know, I was I was just turning about this with the every company in Jebediah, like, I And More wondering about, like, the horizontal use here of of this product. Right? Because, like, I mean, I... As a manager, I love this idea of, like, have this like, bio host channel well. You imagine I had like a summary of every meeting in like that removes every single bottleneck, like communication and collaboration gold bottleneck inside the company. Right. Well, I can I can just like. In ten minutes day, I can catch up on, like, everything that's happening inside my company and, like, Josh and me all this deciding to do this and I again like, wait a minute I'm not line i out about it. That that could be huge. And then, I mean, again, like all of the knowledge of the company happens inside meetings. So like, technically, like, to me like, the wiki... Like, the job to be done of a wiki to, like, like a creates, but, like it's it's a it's it's obsolete to the moment you've created it. Right? You don't need a wiki if you've got a batch that sits on every single meeting and understands the content. You literally don't need a anymore. Like, you can just ask questions to that but. So, hey, like, how do we do that around here? Or whatever.
+
+Host 1: I mean, I think it's really like, each day, you know. You basically I don't know. It's like the meeting repository is more of, like a live overview of your company at any given in time.
+
+Host 3: Yeah.
+
+Host 1: Which is press mean, actually like, I didn't thought about that. But like, as a Ceo or just higher up. Like, imagine you're just like, kind of like, each the end of the day, you get, like a thing and then you can respond. Be like, all all these people are trying to make all these options. Right? Tomorrow, we're gonna do things a little different change it up. And then it's just, like cascade out, and then you don't have to attend all the meetings, you can focus us on stuff.
+
+Host 3: Yes. And also I mean... And I I think it been only one that category, but. I would like to coach i report on, like, no meetings. Like, I would love to be able to have like that. Like, if like, look at the one in one, between like, Eugene and their reboots. Like, maybe be wheeled but like be able to recommend like, hey, man, like, yeah. I think he handle that differently, like, right I think that's valuable as well. Like why should salespeople be the only one's receiving coaching?
+
+Host 1: Yeah. you do get into this weird big brother.
+
+Host 3: I. It's even multi big brother than though.
+
+Host 3: But I I feel I feel like you make it used to it. Have you heard I think a all of it right.
+
+Host 1: Yeah.
+
+Host 3: They do that. Every meeting is recorded, they have like, it it's a bit of a crazy system that they have, but Companies would probably be like, look, it's you know, these meetings are everything is open by default.
+
+Host 3: I I love the idea.
+
+Host 3: And and yep.
+
+Host 1: Fuck. I mean, I wanna I want... Like, you can't have Hr meetings or whatever. You know at other. You have to have a permission system that was pretty tight. I think got.
+
+Host 3: Yeah. You can always opt out. Right? Like, I only concern the budget is like, I mean, when we talk about like that. They love it, but then there is no horizontal original meeting management because I need assessment.
+
+Host 1: Not one. Has people tried to do it.
+
+Host 3: Yeah. There's been lot people who try to do it and other other people who seated. Let me show you something.
+
+Host 1: Have they tried to do it with, like, the way we're doing it? Like, you take all Zoom meetings and then you're just able to No there has been no company that plugs it into Ai, Right?
+
+Host 3: And that does all of that like Ai magic stuff.
+
+Host 1: Right.
+
+Host 3: But then I also wondering do it's one of these things where it's like, you know, when you talk about it like get excited and then, like, in practice health often and do you have a question that you would ask to that Ai? Yeah.
+
+Host 3: Not very often.
+
+Host 1: I guess I was thinking about this as like, my own little, like, just novel idea of chat G three. It's like, what if you ingested all Slacks things and then you can ask questions across Slack, basically. Like your slack your company. Because, like, slack. Sucks.
+
+Host 3: You see the gist?
+
+Host 1: There is a No.
+
+Host 3: Let me show you. Can you see my screen github hung gist?
+
+Host 1: Or what?
+
+Host 3: No. No. No. It's can say this. Sure. Yeah.
+
+Host 1: He it is basically this.
+
+Host 3: It is.
+
+Host 3: Yeah.
+
+Host 3: So right now some reason.
+
+Host 3: Interesting. Day It's gold. It's something awesome.
+
+Host 3: Click morning steve, but the possible scam Yeah Hey.
+
+Host 1: That's that's but, like, you can ask it, like questions. Like that that was like, I had a an idea for that. Like, it would be like then everybody I to, like just... You have to adjust, like, literally everything from your Slack and then be able to answer, like, intelligent questions based on.
+
+Host 3: Yep.
+
+Host 1: It wouldn't be... It'd would be pretty good. I think that would be a pretty good business. If you could do that with Slack if you do that meetings, like, i'll, you know, like you said, all your communications email, Slack Zoom. And then you just ask it holistic questions about. If it chat Gp three based on all that data. It has all that contacts.
+
+Host 3: Yeah. Again, I... Like intellectually, i get exciting about practice I won't do pizza. Because like, there is that company that's called gl, No eight eight That's basically what I'm talking about.
+
+Host 3: Yeah. It's exactly that. And I don't know how successful deal. I I have a friend who works there I could ask yeah. Well.
+
+Host 1: Yeah. It's novel idea but like, yeah, it's it's also one of the things that's like technically lot of work to get to a a decent spot. And then, you know, you've done all this giant out of technical work and then, like, you know, does anybody even really Yeah.
+
+Host 3: Exactly. It's... I mean, it is work, but doable. Floor.
+
+Host 1: Well, I've just said, like, this is literally just like, god. It's like integration hell basically.
+
+Host 3: Like...
+
+Host 1: Yeah. You're like, try to stitch together all these, like, slack the way that they air Api works and this Api and then all these things putting them all together into one like basically model and search you know, elastic surgeon index and trying to search across that.
+
+Host 3: Yeah. Doesn't look like a very opening a product. I feel like that's the thing, like, haven't found yet a very unity product in that category. Oh, no. Still not here. Yeah. Yeah. So I mean, if you look at the tracker like these two categories here. So session intelligence is like sales and then meeting manager is like horizontal meeting managers. I don't know what he's doing here, but whatever, all of those actually like meeting managers.
+
+Host 3: This is employee account, which is about good as like a possible success as you can think. Look at the difference. Gong is huge and growing basically, you see the omni category that's growing right now. Look at the average down there. Right Three hundred three seventeen, three forty five. Well like, look at the average right here it's shrinking. Right. Right Right. Right. Like, this is... That category is not successful right now. Yeah. Interesting. So I mean, maybe the this is like Ai changes all of that but Yeah.
+
+Host 1: Don't so. I mean, like, out the Ai thing Right? Is gonna spawn a bunch of other competitors I can do stuff. But, like, people were doing this type of stuff without the Ai, they just had their own models and stuff before and But it kind of sucks.
+
+Host 3: If you look at like fire, Sure.
+
+Host 1: But like, you could say that it was being done like with algorithms in Ai beforehand. You were just doing it, like, but the magic...
+
+Host 3: The magic is in the details. Right? Like, if it's sucks is something that'd be good and I couldn't find right now, but, like, bio does this dispute thing where it's like meeting recap. Pc is a research. He's wanting to think he's good. No. Maybe it's not fire applies, which one it? Other, maybe it's other.
+
+Host 1: So No.
+
+Host 3: It's not battle. It's other. Nobody what do. So like, they show you like, these questions here. And that kind of sucks like I don't care about this. I do care about the summary. I do care about the action items. I don't care the discussions.
+
+Host 1: Yeah. I like to leave to this timestamp.
+
+Host 3: Yeah. The product is also on that I feel.
+
+Host 1: Think we would probably like them. Also, we probably jump off this call because Keith is gonna get all of nice just.
+
+Host 3: Yeah. If if he... If he's listening to inquiries what he thinks about this camp Look at this. This not ugly. It's like, It's there's no... I can't been watched the recording and just sucks. Yeah. Alright. Cool. Yeah. Let's jump out. Alright. Let me

@@ -1,0 +1,209 @@
+Host 1: Hey.
+
+Client 2: Yeah. How you doing Topper keynote, Nice to meet you.
+
+Host 1: You're like, you know how are you?
+
+Client 2: I'm okay. It's Friday, man.
+
+Client 2: So You know how goes.
+
+Host 1: Sure We can Well, I'm in Atlanta, so Georgia Ls is Saturday at the dome.
+
+Client 2: I have tickets. I'm not that lucky, but I think I might like stop by do some tailgate types type things, but or I might just go sit down i like, who or on and just watch.
+
+Client 2: I know in some fashion I'll be involved in i and in that game. Do you College football at all.
+
+Host 1: Yeah. Yeah. I'm Oregon duck alumni. So I don't I don't care as much as I hoped I would by this point after that lost oregon stay last week does bummer, but Alabama, Georgia should be a a good one. I'm gonna watch that as well.
+
+Client 2: Yeah. For sure. I like the Jersey for in, football team right there. They're unique, they stand out. Or just super code to me, but I appreciate your Topper grabbing some time here. I know you you're put in a request to to chat. So We have thirty minutes one Pm eastern is our is our stop. Is is that still good for you.
+
+Host 1: Yep. Yep. For sure.
+
+Client 2: Cool. I have some notes here from you. So I just wanna clarify and understand your requirements to see if we can help, you know, if we could even solve anything for you. Typically, we would look at your industry company and priorities to to figure that out if could help How can give you overview q and then if it makes sense we can maybe do something like a tailor demo. Sometimes we even have time to do a demo today. So just kinda kinda kinda depends.
+
+Host 1: But big else you were hoping to to gain from the conversation.
+
+Host 1: No. Not really. I mean, I just context on my end and done about you guys for a little bit. I haven't actually used you, but just doing a lot of research right now. Thinking about our, like, tech stack going into twenty twenty three. Right now, we're using Zoom info sales So basically just pulling list from Zoom info running cadences through sales off that kind of thing. Just figuring out I think our biggest challenge right now is just lead quality. So, you know, being able to... I know some of your guys is messaging. It's like all around by the right people at the right time. So I'm I'm curious I I know how the platform works, like, high level I did the free plan got chrome extension. So how it works kinda like prospect leads out in the Salesforce. That kind of thing. What I would love to learn a little bit more about on today's call is more, like, the triggers, like, the sales triggers and things like that and how exactly does work. Ultimately, like, the type of company and buyer that we're targeting or like, the product that we sell is a virtual Sales. So it, like, recreate the benefits of kind of calling and prospecting prospective together in person being able to listen in each other's calls, managers provide, you know, real time coaching feedback that kind of thing, mostly for Sdr teams and and at remote companies. So we're basically looking for Sdr managers, vp of sales, that kind of thing. At at companies who are remote. So I'm curious if we'd offer any functionality to help us kind of more easily identify these types of of buyers and companies. I think that's the number one thing got my mind that I'd like to learn a little bit more about today in terms of you know, help possible would be.
+
+Client 2: Got. Thank you so much there. I'd say let's start. Here I understand the virtual sales floor and the benefits there for sure, especially me. In a remote environment myself. I've got do it times feel somewhat isolated, I can't lie. So I think there's some cool stuff you're doing there. As far as your Crm, I have a note here Salesforce.
+
+Host 1: Mh.
+
+Client 2: Okay. So we're using Salesforce. We're using sales law and we're using Zoom in so.
+
+Host 1: We all see is sales tab. As well.
+
+Client 2: So i now two. Okay. Cool. Explain, I guess that process for me, like, how do you Pe kin is an Sdr manager Are you using... The you start with Linkedin? Or do you start with Zoom info?
+
+Host 1: Both. So our our two workflows are So first, you can, you know, build a list in Zoom info use whatever filters and parameters that they have Can export that to Salesforce and then import that into the sales lock and just run your cadences. The second way would be more of, like, manual Linkedin prospecting and use the Zoom extension to easily just port lead information into Salesforce and then take that into sales logs. So see front workflows there. Each sdr is a little bit different in terms of which they prefer.
+
+Client 2: Okay. And today, it's it's really up to them like, they can choose which one of those routes day they go for.
+
+Host 1: Yeah. Yeah. I'm pretty flexible you know, I think it it really just depends on on the person. And but... yeah, we're flexible.
+
+Client 2: Okay. So how many Yards do do you have one year on your team?
+
+Host 1: Yeah. So we've got myself two account executives and two Sdr currently.
+
+Client 2: Okay. Saw team four. Okay. Cool. And I know you're saying you wanna improve prospecting the motion, kinda see that in some of your notes. And then now I'm here by just titles and data quality. Could you maybe explain to me what you you mean by that, like it's said email, phone numbers, Is it Yeah.
+
+Host 1: So we're big on on the phones. So mobile phones, direct dials are or super important to us. That's something that I think Z info is is decent at. But curious if you guys you know, offer the same kind of thing. And then yeah, business emails So those are the two I guess, highest priority pieces of information that we're trying to grab from an account.
+
+Client 2: Okay. So you have the two Str sdr two aes to the Str sdr do the pipe ae do some of that.
+
+Host 1: Okay.
+
+Client 2: And big on the phones, I get that. So I guess my thought would be how it segmented? Are you selling internationally? Are you Us based, and then do your Str sdr have certain territories? Or is it just wide open?
+
+Host 1: How you it's pretty pretty open in terms of territories right now. We're keeping things within the U. Us. In terms of the outbound that we're doing. So, yeah, Everyone's just kinda prospecting within the Us and no super specific territories. Assigned for now. All basically, we we've gotten to the point where I'm starting to d out leads that's kind of like our lead management territory system, but we don't have like a And geographic Cool. Segment.
+
+Client 2: Pretty well pretty open. Okay.
+
+Host 1: Cool.
+
+Client 2: So Do you have any concerns, or I guess challenges, like, from the prospecting motion, like would you rather everyone use Linkedin. Like, I think you said you were pretty flexible, but I guess a better way to answer would be ask it would be are there any parts of the sales process that are challenging for you?
+
+Host 1: Mike i'll. Just... Yeah. Just lead identification as the toughest thing like the the reason why we're flexible in terms of how people do things because I wanna empower people to figure out the best way. Right? And as we figure out something that's super effective, like, we'll become more standardized in that sense. That's why I'm exploring a lot of different avenues to experiment with this. So the thing that I was hoping we'd like you can help with the most is kind of, you know, finding the right people. Yeah to reach out to. Rather than doing more of like screen pre approach.
+
+Client 2: For sure. Do you have a certain number of calls you you want them to make per day?
+
+Host 1: I we don't have super stringent activity requirements. I mean, we're more so looking just that meetings booked and for specific individuals if they're not hitting that quota, like, we'll set activity targets, but nothing that's, like, set in some. Okay.
+
+Client 2: So I know I've heard calling a few times. Do you do any email outreach?
+
+Host 1: Yeah. Yeah. So we set up multi touch point cadences that span across phone, email, and linkedin that. Maybe And are those like personalized emails or a sequence, like that are on...
+
+Host 1: Yeah. I force the team to personalize everything. So, like, you know, even if we're uploading a list of a hundred people from Zoom info, it's a requirement that they do personalize the first, you know, portion of the first message that they sent.
+
+Client 2: Awesome. I guess I'd start here for you you know, lead iq, I think our our motion is centered around we use Linkedin sales navigator as our source of truth. So that's how we identify the right people and that message messaging that you wrote. Our extension, which can be downloaded. I think you said you knew this as well. From the Google Chrome store. Gonna do a bunch of things in the background, but it syncs to salesforce and sales loft and then you can add directly into a cadence from that extension as well. So there's a product activity factor there where we say it's gonna take x number of time to prospect and a non traditional guess in a traditional format. How most people do it It'll take this long. I'm using this and doing it the way we're presenting it to you. It's faster. Now once it it's faster in. Take as much time, we began to help you write some of the messaging you know, high class, messaging they can book meetings for you. And so I'd be curious, like, what research is involved for the reps today when they're writing the emails. Because I kinda hear... You're saying, hey, can you help me improve my data? Can you help me look more meetings. Curious like, what that looks like for them when they right so yeah.
+
+Host 1: So it's really on the rep to do their own research. So like, they'll find a lead and then they'll know, like, ideally, they're pulling something from their profile that, like, relates to you know, what we're selling. Maybe they made a linkedin post about something that was, like somewhat related or, you know, if they went to the same school or, like, any kind of talking by. Right? I can, like, warm up that relationship, it's it's on them to figure that out as a starting point.
+
+Client 2: For sure. Would you have benchmark this before to say like, hey, This is how long it takes my reps to prospect an account. Move it from Linkedin or zoom to Salesforce, sales law and write one of these personalized messages like, would you know takes, like depending on the rep, I would say thirty to forty five minutes, maybe.
+
+Client 2: Okay. And that would be per contact like, basically once you find a decision maker, Take the majority...
+
+Host 1: The majority of this work goes into a actually finding the right people. Right? So, like, setting parameters on on Linkedin resume zoom info to, like, filter down to people that you think might be interested. And then identifying the right people and then writing that that message. Those are the most time consuming components.
+
+Client 2: I know you said you're looking at a few vendors what would you be looking for from me? How are you comparing lead iq? Like, what's gonna be the Hey.
+
+Host 1: I mean, ideally, like, we're kind of consolidating. Right? So right now, you know, we have a pretty fragmented tech stack. And I think most people do you know, but lead iq is interesting to me because it potentially consolidate a few of the that we're already... We're already using. Like, maybe we don't have to use, you know, Zoom info or something like that. So And then, you know, the personalization is is interesting as well. I saw some videos about how you guys are like data to help with that. So that's something that we don't have currently, but I'm also looking at like there's some... They're handful that are doing, like, generative copyright writing and things like that. So ideally, I'm looking for a platform that incorporates multiple of these things into into one and so on.
+
+Host 1: Do have the most important the most important pieces though again are like the the speed to lead.
+
+Host 1: So just being able to, like, quickly identify someone that's like warm lead. And then being able to, like, quickly write an effective the message to them.
+
+Client 2: There. Okay. I think we can help you there. As far as your timeline, like would you be the person making this decision, and then do you have a a time to to kinda move forward?
+
+Host 1: Well, our Zoom info contract is through, like, beginning of q two. Next year. I believe, maybe we might have, like, four or five months left on that. We could make a move before then just depending on, like, how compelling the solution is. But, you know, at the very latest, that would be around the timeline that I'm looking to, like, reevaluate. Thing. So Yeah. I would say, like, early q two at the latest, we would make a move, but again, if it's super impressive than it could be sooner.
+
+Client 2: Fair. Cool. Let me do this, we do have a few minutes here. Wanna give you, like, a demonstration based on the conversation we've had on how I think you could prospect with Linkedin, find the contacts, sync them over and write some messaging. And I think we wanna look at it from a productivity standpoint as well. If it takes thirty to forty five minutes today, Let's try to get that down to ten to fifteen minutes. How effective is the messaging we're riding today, maybe can look some sales stats and stuff like that and then compare it against this Ai generation tool to see if that increases and it helps get some meetings. So let me share my screen here and you can tell me if this comes through. That come through for you.
+
+Host 1: Mh.
+
+Client 2: Okay. Cool. So I just pulled up Nvidia an account. I was talking to, like, a few days ago. So one of the first ones I had I'd say that this is typically the the Sdr that use Linkedin this is probably their format. They pull up the account. And as you stated hey, they use some filtering here. Mind sharing, maybe some of the titles you guys go after.
+
+Host 1: Yes. Sales development manager. Okay. Yep I think he to me that. That's probably our number one and then Another could be, like, director of sales development. Okay. And then maybe, like Vp of sales.
+
+Client 2: Awesome. So I think you said you are familiar with our extension On the close.
+
+Client 2: Pop open there. I'm integrated with Salesforce and outreach. But obviously, instead of outreach, you can use sales law.
+
+Client 2: Sure bunch of cool things are happening in the background now. Do you Zoom info have a way to verify if you spoken to the contact before like, as you can see here, this says, This is a prospect. So it means I've never reached out to him but we do have other statuses that say working on unresponsive, curious if you have, like, those insights into the accounts, a way to verify if this is a duplicate cable.
+
+Host 1: I mean, Zoom info, tracks. Done against our existing database. So like, when we're exporting new leads, there's button that we can click that says, like, filter out existing companies or contacts. So people will like, build a listen zoom info, and I'll check out to make sure that we're not do anything and even if something is a duplicate, it'll give us the option of, like, adding it as some new lead entirely or updating existing information. We always go with update. Existing information. So we have controls in place for for management.
+
+Client 2: Good there. Okay. Awesome. Sounds like it's more of Alright. Just a comparison or you just see what we offer and I think that's different. So I'll kinda get to that email solution. I know you had all hit it off with it in the beginning of the call. Sounds like that's the major difference, But just to give you, like, a really quick peek here. Obviously you can pull email phone data titles are gonna be accurate because you're using Linkedin to verify that. Our extension uses a mirroring system so we mirror or whatever we see on Linkedin. Won't try to pronounce this name here, but this title is gonna be the same on both sides. Scroll to the bottom here, you'll have marty and at the bottom of your have marty as well. The cool piece here is linkedin shows you twenty five names at a time. You can capture all move all these individuals over to your systems as you can see, my sequences is here. I have email linkedin sequence. I can add everyone to those sequences where that sequence?
+
+Client 2: That sequences inside of hal outreach for me. And... For you it would be inside of sales. Whatever gotcha. Whichever ones you wanna use. Again, the time say, we think, hey, how fast Can we move everyone to these systems a record? The quicker we can do that, then we can spend our time on that next piece. Which is our email writing solution. But now as you can see, I'll give you a quick peak here, you obviously can pull emails, phone numbers, you don't have to do it one at a time. You can do it all at one if you want, totally up to you. You can see this guy here on the do not call registry, so you'll be notified that in real time. Check mark means that the individual already exists inside of your system of record, if you don't see a check mark, then that means be count might be there or that person might be there bunch of different things, but not the exact individual you see here. So that type of situation and that information's is available for you. Pretty quickly. But won't spend a lot of time on that so we can get into the email solution, but let me add someone to a sequence here just to give you idea of how this would work. So I'm gonna go for Vp of sales cache here. So let me capture him. Get his email and get his phone number. And then we move his zoom in full thing away. Did you have any other questions for me before I move to outreach?
+
+Host 1: No all clear. Cool. One moment here.
+
+Client 2: So this is gonna sync over for us I'm just gonna pop open in my outreach And again, you'd use this for sales law it's gonna work the exact same way. Alrighty. One moment, I'll close out the extension now. And then I'll start my task. Our thought here is that your reps would have added it ten, fifteen, twenty, thirty, forty, whatever that number of people are. And then we're gonna work these emails and send out his communication in a list format. So we're just gonna run through them as task. Here's Cash for me, so I would match him the first step of my sequence is to find the individual online match their linkedin profile and then send an invite. I won't do it for this purpose, but how mark is complete And then once I get to the next step, it's going to be the email solution now, let me delete this because these are some notes that we created this won't be on yours here. Moment. Alright. So here's the extension the lead just pop it open here. Now I know you said the reps were doing some research before sending out these emails. Is it linked type research? Is that what they're typically? Typically going through.
+
+Host 1: I would say first step as Linkedin.
+
+Client 2: Yeah. Okay. Cool. So we have a bunch of triggers a bunch of insights. You will provide a value proposition to us currently, we have about seventeen for us whatever that value prop is typically tied to a title, So maybe those titles you share with me on linkedin dan. Once you write those, We have that actual message here built inside of the tool. We will connect that with the insights or triggers that we find for you inside of our solution. So I can look at the meaning of his name if I wanted if he has any current job openings that'll like this guy does, if he's been on the podcast or if anyone in his company's been on a podcast, Linkedin, if he has anything in his bio These are his job. And these are his post on Linkedin. So we have post, it whatever you like, if you've shared something, we also have interest, your education, can spend some time with this if you want workspace, but the idea here is instead of your reps having to spin I don't know, ten minutes going through a bunch of different sources. To compile this research, we'll just pull it for you and serve it. Now So I know this individual went to Uc santa Barbara. Maybe I wanna write a message related to that and generate a meeting. I'll just click get message. And once I do that, then the tool were right. The communication for you. If I didn't talk it through, I think it would have taken maybe one minute so to do this, but just to make sure you were clear on the steps. I think I've talked to a little much about it, But I'll give you a moment to absorb a note here I would say is the trigger obviously, they went to you see Santa Barbara And then here is us trying to somewhat relate that like, hey. I know you went hear, cool is a Vp of sales. I think this might be important to you. The bike ways, we're trying to relate that information. And then here's what we do for you with the boosting of the reply rates. Mean here's is a call to action. Now if you thought or someone on the team thought this is not the way we write. We'd wanna change it. Let's let's fix this. You do have ability to make edits. So instead of saying any interest in learning more, maybe could go in and say work the chat. Whatever changes you like to make you can. But I'll like you to give me some some feedback here like on your initial thoughts, how I pull that information the message that was written the time savings, how do you see that as value for you?
+
+Host 1: I do. Yeah. I just wonder how we can effectively like I'm wondering if this helps us prospects the right people more effectively than we're doing today. Right? Like, because we we use Linkedin sales out to build list and so parameters and and things like that. So it seems like it's kind of the same thing that we're doing there. Does really allow us to, like, narrow our search per s. The personalized messaging is interesting. But I'm wondering you know, how much time this actually saves based on how much edits will have to do. Can you draft me like another example maybe off like a Linkedin post or something like that?
+
+Host 1: Sure. Like a Twitter post Okay.
+
+Client 2: Sure. I'd have to know his Twitter his actual Twitter hammond.
+
+Client 2: Okay. But we can we can do a linkedin post. Though hold on one moment. Thinking you maybe just shared some things you actually do the post. Let me see. On a second here. To join bit Yeah. He's doing a lot of... It looks like like sharing company stuff, but Let's try to see what we can pull just so you can get an idea. A moment.
+
+Host 1: Do you not feel like the... Because I still don't know much about, like, to trigger... like, the sales trigger functionality. Do not think that applies to our use case here.
+
+Client 2: I think it does. The triggers the idea is that it's The triggers that most people tell us they're using are would you reference, like, Linkedin post and we also have four zero one k information like a four zero one ten k. Sorry, financial information. I'm here so you can pull a ten k report. We've had teams come to us and say, hey, power spend ten minutes comb through a ten k or report. Trying to find information. Can you just give this to us now so we can write something or we just wanna know if the company is hiring. So we can send a message and say, noticed you're hiring for sales development reps. Could we maybe position our virtual solution in front of you. So I think for sure some of the use cases are are there. You may need to get more into the tool, which most people tell Us the first time we show them there. This that's what they need to do. Another one we have is recommendations. He just doesn't have any but. You and I work together and you left something on my page about my work ethic or my performance. I can relate a message to that. And get you going. But I agree with you. It's not meant to be Perfect. It's meant to give you like, a ninety percent draft and then your reps will go in and make the edits. Now once you did make those edits, I don't know if I got into that too much. Once you make editing and you decide this what you like. We do have a thumbs up and and that will teach the Ai how to write for your team and the tone and the messaging. So you can just say, hey, This call I like it. Great and our system will know that and it will continue to keep up that in the end and saw over time, we like to believe, i didn't tell you be overnight, but in time, we like to believe that it'll learn you and learn your system and write these messages for you pretty for us.
+
+Host 1: You guys see that that, like, effectiveness of mess for companies is going up over time as a result of, like, training the the Ai.
+
+Client 2: It is. Yeah. For us, individually, we went from a two percent reply rate to a twelve percent reply rate, and it was all based on using this tool. Our Sdr were sending maybe fifty, sixty emails a day. I don't think it all that spray and pray, but it was up it was a pretty fair amount emails. They're now down to, like, twenty twenty five. So it's more focused.
+
+Host 1: It's more... Are you guys mostly just sending emails Or do you guys also they do calls to.
+
+Client 2: So there's sixty calls and twenty five emails a day.
+
+Host 1: Sixty calls in twenty five. Yeah. Okay.
+
+Client 2: Now these messages can also be here on Linkedin to.
+
+Client 2: So wanted you to know if you ever said, hey, wanna pull this over to Linkedin, you can. You got this and then move it over the lincoln.
+
+Host 1: Yeah. Sounds good. Okay. Is there a way that I can control the length of these messages? Because mean, for us, we've seen that just being brief works. Better. So is there... Because these seem a little bit long. Can I say like, keep it to under x lot of characters.
+
+Client 2: It's it's our value props that we've written. So I look at value prop here pretty long.
+
+Host 1: I gotcha you. See you guys Copy that road. It's just kinda love.
+
+Client 2: Okay. So if you change that individual yourself, that'll affect the message.
+
+Host 1: Yeah. Okay. Got you. Okay. Yeah. This is interesting. I mean, just like total honest feedback, like, my biggest priority is helping us like, more quickly identify the right leads at the top of the funnel. I do think this helps a little in terms of, like, speed to lead You looking is like Are you looking the difference from, like, Zoom info in Linkedin from what we're doing today?
+
+Host 1: The personalized messaging is is interesting. But there's still question marks in my head around, you know, the time saved there and, like, increased effectiveness Yeah.
+
+Client 2: I'm with you. Question for you. Are you looking more for intent data? Is that what you mean by Yeah.
+
+Host 1: Like you know, ideally, if there's a way for us to just automatically identify people are talking about you know, maybe keywords that relate to our products online or something like that. Like, that to me is a super hot lead.
+
+Host 1: Yeah. And regardless of the messaging, like, that's gonna influence response rate and conversion more than anything. Right? So that's like the biggest priority. For me Totally fair.
+
+Client 2: I'd say we are moving to intent data. We do have a piece today, we tracked job changes. So all the individuals that we just sync over from Nvidia moved into the database. We're gonna track them for you and tell you if they get promoted or move to a new company. So we have that intent today. Q one q two next year we'll have a physical intent solution available.
+
+Host 1: What is that mean?
+
+Client 2: Intent meaning, these people are in market for your product, and here's time who to reach out to and here's the messaging you should say.
+
+Host 1: It's gonna be how does it... And how does it surface those leads I wish I was privy to that information.
+
+Client 2: It's a product that has not been fully launched it, but there are some people on the on hearing they do something similar today six cents. Is the of company. But you know, I've I've heard some talks about them. And they buying the company's their area market for your product.
+
+Host 1: Yeah. Okay. Yep.
+
+Client 2: What do I think you? I mean, what are your what are your thoughts on next steps and which you may be interesting Yes.
+
+Host 1: I'm I'm looking at a bunch of different solutions. I don't have like, an honest opinion on what's gonna the most sense for us. I think the most interesting piece here, is the personalization And I think it could be really interesting once you guys come out with that intent. Product you. So when did you say that was shipping.
+
+Client 2: Q one q two.
+
+Host 1: Maybe, like, by the time I'm actually ready to, like, make some kind of decision here you guys will have that. Can you just keep me posted on your progress there.
+
+Host 1: If there's anything that I can beta test or anything like that, like, would be would be happy too. But... Yeah. I think that's kind of a crucial component for me. So I'd love to just keep in touch on that. And hopefully, it's, you know, out before I have to make a decision here.
+
+Client 2: And that would be April for you. Is that correct?
+
+Host 1: Yeah. I would peg beginning of April.
+
+Client 2: Okay. Cool. Well, I appreciate the time here. I will keep that on file for you like hey, shoot over a note and make sure you're aware, you know, as far as any changes, I appreciate the the time here. Would you like me to sent over anything for this call or see, Know you.
+
+Host 1: If you have if you have, like, I don't know, maybe like, the recording could help you're able to send that over if anyone's interested, or I need to, like, look back at some stuff. Just so I don't have to bug you. And and any like, case studies or testimonials are always helpful.
+
+Client 2: We'll do that. For sure.
+
+Host 1: Awesome.
+
+Client 2: Well, you have a great day.
+
+Host 1:

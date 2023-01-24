@@ -1,0 +1,333 @@
+Host 2: Feel, sorry. I'm late. How are you doing?
+
+Client 3: Doing well. How's was everybody doing?
+
+Host 2: Good. Good. Good. Sorry again. I'm like, the pretty fitting or burial bill. We have any same the bill cool and you through This is I think it record.
+
+Client 3: Yeah. What's going on there?
+
+Host 2: Well, this for working on. is like I think those back multiplying. So Oh. It's it's good to me you. Where are you calling from?
+
+Client 3: It's great to meet you as well. I'm in the San Francisco bay Area.
+
+Host 2: Where are you? I gave in my, but I used to even in a set nine years, now. I'm gonna move back there in the year.
+
+Client 3: Oh, nice. Miami is Fun too.
+
+Host 2: Nah. Better. We'll about in the very I'm in the east Bay.
+
+Client 3: So outside of the seventh francisco area, Yeah.
+
+Host 2: Willie me.
+
+Host 2: No Where what are you familiar?
+
+Client 3: Where are you familiar with?
+
+Host 2: In the bear. In he's there, I mean, beyond berkeley and no clan gotta be done. Like i it's there.
+
+Client 3: Okay. So put that... To put that in that context, I'm about fifteen twenty minutes berkeley.
+
+Host 2: Okay. Great.
+
+Client 3: Awesome. Yeah. We go there all time.
+
+Host 2: Yeah. It's a little area. Awesome. Well, thanks again taking the time and have a quick introduction. I'm I'm following the thunder this startup called tim flow and was currently building and looking into the sales tooling industry. And so This context for this conversation is we are looking to build the value. Basically, I'm like I'm trying to wrap the head around the main kind of tools in in sales and who are the main players in each of these tools. And I believe I found your name on G two you. We're leaving a radio review carrie. So... Yeah. I mean, just be video to heal that real experience cla what you like, but you've not liked and and so on and so forth. So perhaps you can kick it up for... Can you tell us a little bit more about you do you do and what does your do?
+
+Client 3: Yeah. Happy to. So I'm ken. I lead a sales team at drift Drift is a And there's a lot things that we do, but our our key product is a chatbot that goes on websites to help provide more frictionless experiences for B to b customers.
+
+Host 2: Yeah. Very with brief. You guys are killing it. Right? Like, you raised the big round the recently i think.
+
+Client 3: Yeah. Thank you. It's been it's been a little bit but we we we recently partnered with a Pe firm. So that might be what you're referring to as far as the ground. So really excited about that. Yeah. Things are going well. And obviously a huge huge space that we're in and being a category leader. Super helpful. We use Cla a lot. So I'm really glad that you... you know, you reached out and and happy to chat about that.
+
+Host 2: Yeah. I love more. Like how did you find out about it in the space?
+
+Client 3: Found about Cla?
+
+Host 2: Yeah. How did you on the balance boost?
+
+Client 3: So our our leaders needed a better tool to forecast. So we were using Salesforce previously and it will isn't the most accurate and there's also, like hygiene problems. So team explored a bunch of different tools in Indiana settled on Cla.
+
+Host 2: I see. Were you involved in that the selection?
+
+Client 3: I was not.
+
+Host 2: Do you know what other tools will continue?
+
+Host 2: Say it again? Do you know which other tools were part of the the the like that the consideration?
+
+Client 3: I don't. I don't know which ones i looked at. I just know the end, we we went with Cla.
+
+Host 2: So how how how do you use Gary? What what do you use it for?
+
+Client 3: So First and foremost, we use it as a forecasting tool So the the reps, the individual contributors, they go in there, looking at the pipeline, they go in there and use Cla to forecast the the deals that they have for the quarter for the month they're able to look back at their previous results What Clarity also does a really good job of is being able to for the rep... Like, it has a really good integration, really strong integration with Salesforce. And I think that's an important piece. So that, like, when you update something in cla that information puts us in the into sales Right? Or when do you update something in salesforce that information pushes in cla. So you know, it... Like, in this a day and age, twelve fatigue is really like, important in terms of trying to improve productivity, we don't run reps to have to like do things twice. So, like, that integration is huge. And then as managers, what we do is we then go into query and we really use that as a way to inspect our forecast. Like, are we on pace? Are we off pace and use it as a way to update deals quickly.
+
+Host 2: Yeah. We you feel comfortable sharing your screen and and showing us what that looks like.
+
+Client 3: I can't do that.
+
+Host 2: Yeah. I don't wanna I I was thinking as well the question was gonna be sensitive stuff Tell me more like, the the kind of forecast that you're looking for. And the kind of time window that you're looking at.
+
+Client 3: Yeah. So it it all depends on the business. Right, But, like, a lot of business are month monthly businesses. So they forecast off of a, you know, from on a monthly basis. We are more of a quarterly business. So on top of looking at it from a month to months standpoint, we also roll up to a quarter. And do forecasting through the quarter.
+
+Host 2: And those flower let you decide which kind of time window you look at.
+
+Client 3: Yeah. That's part of that process.
+
+Host 2: And so can you tell me more about the kind of information that it shows to you as you you look at your forecast and How... Yeah.
+
+Client 3: Yeah. So I think there's there's multiple things and there's certain things that like, Cla does really good job off because meaning that they're pretty flexible. So, like, The reps have the ability to go in there and adjust or forecast, and you can either do your put your forecast together through Like, you're all the deals that I'm forecasting for the quarter at the all up. And that's the number. Or Claire also gives you the ability to manually submit a different number. And and I think the value with that is, like, obviously risk mitigation. Right? Just because you think these deals are gonna come in, does Mean, they're all gonna come in, so you wanna build in, like thirty percent haircut from there. Just to just to make sure you're not over forecasting. Right?
+
+Host 2: I see. Do you do that? Do you do you manually override the carry estimates?
+
+Client 3: Yeah. I do. I do as well for my team. Yeah. Just knowing that, like, sometimes just knowing the personality, some people are really on point with their forecasting. Some people are like always overs shooting. Right? So I need to adjust for that just because I know I'm not... I don't wanna forecast a number to my my my director who which I can't hit?
+
+Host 2: Yep.
+
+Client 3: And then also what it does is it allows you to see like, the quota. Right? So that you can see your team's quota, each reps quota so that you can actually measure real time attainment. How close are we to that number and then Also from a forecasting standpoint, the number that we're calling, how close that to the actual quote And does it give you any insights into...
+
+Host 2: If you if you're pulling short example all of your cool. Like does it like you see people d detailing like, what deals do like freeze or anything anything like that?
+
+Client 3: Yeah. Yeah. You can do that. So I think what it does it there's there's a dashboard component with within Cla. So like, we talked a little all about the forecasting component. There's also like, a leadership dashboard component, so you can see like, your reps, how they stack get against each other and then the deals how they stack rank against each other or, like, what deals are progressing nicely, Which ones have not progressed.
+
+Host 2: You use that?
+
+Client 3: Sometimes Yeah.
+
+Host 2: It sounds like that the bulk of your uses of cla is really like, you wanna know how you're gonna do this in this folder also so that you can send that up to two Yeah.
+
+Client 3: So that's... I mean, that's the day to day piece. Right? So that's kinda like what what kinda, like, front my manager does, a big part I I say I use the dashboard sometimes because I'm not in it all the time. I I primarily use that as a way to... like, look at a snapshot. Of of my team at like, you know, usually at the beginning, of a month or at beginning of a quarter.
+
+Host 2: What do you do with that information?
+
+Client 3: I That's a really good question. So I start putting together my hypothesis off of that type of information. So we we as leaders make the best decision we can based on the information we have at hand. Right. So I use that information to look at... So, like, for example, I would say, hey, like, I would say, like, hey so and so like, you were you were like, the top rev out of ten last month. And you know, you won the most deals You also create the most pipeline like, talk to me about like that correlation. And so, like, kinda use that as a way to kinda propel conversations with with my reps.
+
+Host 2: What do you think of cla?
+
+Client 3: I like cla a lot. I don't think you could run a business without it.
+
+Host 2: Wow.
+
+Client 3: Well it's that... It's got important.
+
+Host 2: Why?
+
+Client 3: Just because I think it really gives you at a high level and a really detailed snapshot of where The results are at any given point in time. And so like, it allows you to make it just like, call out way you need to make adjustments. Quickly. And also, like, potential trends that you're seeing. So that you can, like, get in front of problems before they become big problems.
+
+Host 2: Anything you dislike about Carrie?
+
+Client 3: Dislike I wish I had a better integration with Salesforce because I I think, like, sometimes the I think sometimes the, like, the automation rules that applied Salesforce for from a field population standpoint, also gets pulled into cla, so then it becomes annoying when I'm trying to update something really quick. That's gonna ask me, like, a bunch of questions. Like, from a... like, from a field automation standpoint in order for me to you know, finish my updates.
+
+Host 2: But i'm I'm confused. Like, That sounds like a a problem that your sales set up more than was cla. Right?
+
+Client 3: I don't know. I'm not sure. It could be. I'm I'm sure there's probably something that Cla could do that would.
+
+Client 3: Right. You know, maybe some automation rules that they can build within their product.
+
+Host 2: What does... Does your team use Cla as well?
+
+Client 3: Yes. I've forced them too.
+
+Host 2: What what do they what what did the use this pull?
+
+Client 3: They use it as a way to update their opportunities. And then they use it as a way. So they're required to update their forecast. And then we we have you know, it's kinda like the first thing we look at during a deal review is we look at their forecast and say, hey, like, so this is what you're calling. This week is this accurate like, you know, does need to change. If so why where can we find the backfill for it.
+
+Host 2: How Often do they have to delete the forecast?
+
+Client 3: How do they update it? Whenever there's changes, I guess, but I would say, like, so I need to report to So so, like, So Typically, they they update their forecast on Tuesday. We look at it on Wednesday Make any adjustments then I report on my forecast to my direct supervisor on Wednesday because he reports on Thursday, and then the company talks about it. As a whole on Friday. So this kinda like a spiral effect.
+
+Host 2: I see. Right. What what do they think about card?
+
+Client 3: The reps or are my or the executives?
+
+Host 2: I was asking about their rights, but that a little interested in you ticket use actually.
+
+Client 3: I think the reps find it to be helpful. Because they have a more centralized location to to do it. Like, the alternative, right are either other tools or doing it in like like a like, Google's spreadsheet, right, which is not really sustainable for business. But probably a lot of smaller businesses are going to. Do it that way. So I think I and I think they've got and used to it. They understand it. It's it's just part of the process. As far as the executives I think they're kinda in the same boat as me where they feel like it's something that they need like, they look at religiously. And so something that, you know, they they run the business by.
+
+Host 2: The way of describing it it sounds like right for almost trade treating Cla as a little bit of a necessary evil.
+
+Client 3: In a way yes. Prob... Let's probably like, one way to describe it. I I just don't know of any other tools that can like, so far a bit for a business to to function. Right? They need to be able to forecast properly. And be able to, like, look at opportunity and deal execution properly. There's a bunch of manual processes and things you could do, but I think Cla does a good job of aggregated it in in one place. Mh. Because like, the the other things that you can also do, like, we toggle forecasting, right, an opportunity management. But the other things that you can also do in and Cla is you can also manage your renewal. And then you can also manage pipeline creation. So there are other things that, like, the team know, does as well in it, but the primary function is opportunity management, deal management and then forecasting. Here's the other thing too flow. I think it's interesting to to think a about and as you're building out and trying to find product fit and market fit is trying to figure out, like, what type of business you're trying to go after. Too. Right? Like, who who's your product going to? Who are you gonna sell your product too? Like, who's your Personas and what type of businesses? Because I think for mid market business, a cla is really good. But for an enterprise type of company, a carrier might be too simple or for, like, a you know, like an emerging or like small medium sized Smb business, a clarity could potentially be shot and you could do a lot of that in, like, a more simpler tool or even in, like, a Google sheet as well. So it all really depends on like, who's your... Who's your audience that you're marketing to. Right? What are they?
+
+Host 2: Yeah. Yep. I also saw that Carrie acquired wing man, which like, the gong equivalent. Like, do you use that to we use Gong.
+
+Host 2: Interesting.
+
+Client 3: Yep.
+
+Host 2: What the you need?
+
+Client 3: Oh, Gong got... So Gong, for me is another tool that like, is something that we can't live without. So I think if you look at, like, from a sales leader standpoint, Salesforce, Cla Gong. Those are kinda like like, the the top three that we work with. That we use on a regular basis.
+
+Host 2: Why can't dot com Gong.
+
+Client 3: I think Gong is just... There's just more I I I like I'd like a lot of the intelligence that you can pull out of it and they're just the way that they constantly an innovate to provide more, like, Ai driven in sites. So it... It's you know, we tried course before and didn't really, like, see a lot of value, but like, Gong has really been something that been just a really amazing tool for us.
+
+Host 2: Tell me know why why didn't you find value in that you did in gong. What was the difference?
+
+Client 3: Well, I think initially, like, you know, they have some really good things in parallel, which is like, yeah. The call recording. Stuff Right?
+
+Client 3: And I haven't really kept up with how how chorus is now. I know they got acquired by Zoom info. If I remember correctly, like, side, but I haven't really kept up with with how their product has bless you.
+
+Client 3: Has has expanded or improved, but the things that I really like about gong, which course may or may not have is ...in addition to like, the call recording piece, I really like the ability to, like, look at all of our interactions and look at the customer's interactions like, from an email standpoint so, like, what customer is doing what we're doing? Like, are we progressing the deal for because of those things? So tracking what the... What the reps are doing? Within with within gong. I think that's really helpful. The ability to give feedback, like, listen to a call recording and then give feedback and then go back and forth on the feedback? With the rep is really helpful. Just from a coaching standpoint. Inside Gong and then the amount of insights. So, like, every week, I'm looking at reports. Right? So, like, how many calls we on? How many what's the talk time on those calls. And, like, how much time how much little calls were, like, we were rep led and how many of them were were, like, maybe we join another call a Cs team have already set up. So, like, some really, like, really good insights. And then, like, also, like, you can start listening from they've done this amazing thing with Ai where you can actually listen to but you get you could tag. Like, anytime someone said something or the phrases if of something like hot words, for example, like then I can see how many times my reps are actually seeing things that we've been teaching them to say. And, like, like, from a coaching and a guidance standpoint, that's been really, really insightful.
+
+Host 2: Interesting. If you if you had to pick one between Gong and Cla, which would you pick?
+
+Client 3: Such a tough question because I think they do different things. Like they do... They do really different things. It all depends on my role. Right? If I'm, like, if if I'm a if I'm really focused on coaching And development, Gong is actually the right thing. But if I'm like a Cmo or size Cro Vp of sales, director of sales, I think Cla is more important.
+
+Host 2: Yeah. No does. So then in your current position, like like, sales manager, it sounds like on the day to day basis Gong is more useful to you.
+
+Client 3: Yeah. It depends on on the time of the month and what I'm trying to do. But I would say that I am I'm in Gong more, than I'm in Cla.
+
+Host 2: Would you say Gong had an impact on your bottom line?
+
+Client 3: In what way.
+
+Host 2: Has it helped you close deals?
+
+Client 3: Because it made better Yes. It's definitely made the team better. And and... Yeah, To certain extent, I I would say the the coaching that we could do inside Gong and the insights we get pull from Gong. Has accelerated deals and probably help us close more deals.
+
+Host 2: Anything you dislike about gong?
+
+Client 3: Anything I dislike about gong? May if not much, evading maybe maybe the Ui could be better. Like, it make it... Make it easier to find things. So I have to click as many times, but there's... But I'm really nit taking there. If I'm trying to say that. Like gong Dawn is really good. They've done a really good job.
+
+Host 2: Yeah. That's that's the main impression as well. Reason I'm asking is because so Cla is not exactly like what doing, but right now the direction had two wheels like, we all. Going to go heads up against Gong. So let me show you what we'd be those of about. Can you see my sprint?
+
+Host 2: So You see like, I have like this delivery here and then see like the the call details. So like I can watch the recording. And again learn is like sizes and forth. Any any reactions about which is seeing. What what what do you think So this is basically just a transcript.
+
+Client 3: Yeah.
+
+Client 3: Like, the big recording and then the transcript.
+
+Host 2: So they'll angles the transcript does the Ai generated summary. So here are those bags like, it's very long it's supposed to be like a bit this long. And then those like the the conversation metrics. Gonna have like, sentiment analysis, you're gonna have, like, topical analysis disease, objections, questions ask and all of that stuff What is...
+
+Client 3: So so the analysis. That's get generated. Tell me more about that.
+
+Host 2: Tell me well that what you would like they'll to to be in that analysis.
+
+Client 3: I would I would want I would want the key points Ideally, would want it to be in bullet points.
+
+Client 3: I give you scroll up. Right? Like it looks like a really long paragraph.
+
+Client 3: Right? So, like, who's gonna read that paradigm right? But if you put it in key points and bullet points, I think you're gonna get more of like, the cliff notes version.
+
+Client 3: Yeah. And it's gonna get It's gonna get absorbed better.
+
+Host 2: It's a great point. What other kind of insights would you be looking by the way, I don't know if you're following, but there's like something insane that's happening right now in Ai, like, imagine you could speak to, like an human who's watched the recording day. And you can ask anything whatsoever you'd like to the still about that call. What would you like to ask?
+
+Client 3: What's the... So what's the purpose of that Ai?
+
+Host 2: Suppose it's like it's just like a human. It is supposed to suck. Like a good. With, like, watch the recording and you get... It's like hey. I don't have to what's the forty five minutes long recording like, He'll here is me us us one who has what to recording.
+
+Client 3: Yeah. Yeah. I mean, I I love that. Right? Because that's gonna save me time. It's all about, like, increasing productivity Ti At this point, Right? So like, something like that would help me increase productivity for sure. The questions I would ask is if it was a... So like, I I speak with customers all the time. Right? We try to talk to customers. Main things I wanna ask is what is what is the business challenge that the customer is experiencing.
+
+Client 3: What... What are they solving for?
+
+Client 3: Right. And and like... And and then, like, more importantly is the why. Why are they trying to solve for that?
+
+Host 2: Well, will you see this? This is what we had. So in all case, like, we're more interested in is, like, what are your pain pinpoint managing a remote team? And so we extract these using Ai.
+
+Client 3: Yeah.
+
+Host 2: I love So next step like, he like, oh, like, we're gonna schedule the most standard price list I I love that.
+
+Client 3: So what when is this it's under Salesforce tab. So what is that mean?
+
+Host 2: Because so the other idea here is that we wanna help right safe time updating sales.
+
+Host 2: So what we do here is like during the your meeting also have, like, a little resistance that's on the side. And and and the assistant updates your salesforce for you. So that's what it looks like. So it it tracks and sill to your different sales fields for you. And still you're call, you can review them and you can send me them to still.
+
+Client 3: Super cool. Okay. So, like, that you know, so we're talking about, like, improving sales productivity. Right? So that would definitely do something like that. So that's that's pretty cool.
+
+Host 2: Go ahead.
+
+Client 3: I I go gone back to the other screen that you had earlier. Yeah. The sales a, I think. So I I still think that it this was in like, bullet point format Yep.
+
+Client 3: Or some sort of like just just shorter format, it would be it would be even easier to digest.
+
+Host 2: Yeah. One hundred percent. Yeah. You're right. And by the way, again, this is the Ai seven that's, like rewrite this in bullet points. Like, is this this insane? Like This is probably still a be too long. But, yeah. You got the idea. Yeah.
+
+Host 2: It's cool What do you think of this versus gong?
+
+Client 3: I think this is one component of what gong guys what about the... What about the data? The the metrics.
+
+Host 2: What kind of metrics So, like, For example, so this is one call.
+
+Client 3: Right?
+
+Client 3: For one one rep like how so if I was a rep, I wanna know I wanna know how many calls that I do. For the that week. How many calls How many calls did I do? How many of those calls I led versus how many were, like, led by other people on my team? I wanna know, like, If I was a rep, I wanna be able to quickly get to a section that that and and hear myself like, listen back to something that I hurt like I said, or like, give myself coaching for example, Where do I do that?
+
+Host 2: So here can... This is where you can watch the recording also Right? And here you can see the transcript and all of that. We don't yet have a section where you can watch i'd like an aggregated, like, view of your calls, If that's what you're asking. But there is something we'll working on.
+
+Client 3: Yeah.
+
+Client 3: Okay.
+
+Host 2: Okay. By the way, I know we'll actually all time. Do you did you have a few more minutes like one last question.
+
+Client 3: I have a couple minutes. Yeah. That's fine.
+
+Host 2: Thank you. One our question is, like, another thing we're working on is is this like, sentiment analysis feature.
+
+Host 2: So, you know, surfacing facing positive negative moments in the call and stuff like that. What what do you think of that? Would it be useful for you i?
+
+Client 3: What's the What's the What are you trying to do with it? What what do we... Like, what what problem are we solving for?
+
+Host 2: You told me does that's all important for you.
+
+Client 3: I don't know what it does yet, though. Right? So I'm trying to figure out what problems as a solved. Like, why why did you build it? What's the reason behind? Doubling that.
+
+Host 2: Yeah. Is the idea here is, like again, as as a manager, you don't have the time to watch that the recording, you would wanna catch up on, like, the key moments of the call. And so you can be like, oh, at that point the custom feels confused. That point, still details frustrated traded that point to fields delighted. They really like that your said at that moment. Right? And so... And then you can click on it and you can jump to that point of the recording. Right.
+
+Client 3: Yeah. I think that could be helpful.
+
+Host 2: But it doesn't sound like a huge deal for you in any event.
+
+Client 3: I think it's a nice to have. Don't think it's a tab.
+
+Host 2: Any any specific like, need to have that you have in mind that well, like that's screen. I like the meeting details.
+
+Client 3: So Gong. So with... With a gong recording, you have the ability to like, be able to look at topics. So, like, Like, for example from the minute first minute did fifth minute, you guys... We talked about like business pain. Right? So then be able to, like, just go to that and code listen to that section. From, like, minute twenty four to twenty seven, we there it was a commercial discussion So like, they talked about pricing. So you to go to that I see.
+
+Host 2: That makes sense.
+
+Client 3: And and the reason that's important right flow, and I'll tell you the why. I think the reason that's important is because from a coaching standpoint, I think like, I wanna listen certain things are I wanna play back certain things to the rep and figure out how we can improve upon that. So I think, like, having that being was set... Segmented out will allow me as manager to stream my my process, but then also quickly get to with with with a rep.
+
+Host 2: Yep. What kind of topics are you would you be looking for?
+
+Client 3: Yeah. Good question. So let me see if I could pull out a few topics that Give me a sec Let me pull up a call. Recently some that we might have had some topics Sorry for the delay.
+
+Host 2: Is this saying not recorded.
+
+Client 3: Okay. Alright. So Certain topics could be... Like, obviously pricing would be a big one. Integrations onboarding report building, potential objection handling, Discovery. Those are those are some that comes those... Those are top of mind And so does Gong lasers those out in, like, a timeline for you?
+
+Client 3: Yeah.
+
+Host 2: Is the timeline is itself important to you or just the vista of topics is is is what you killed about.
+
+Client 3: I don't care about the timeline like when happened on the call, I care about I wanna get to the section and be able to, like, Right.
+
+Host 2: Yeah. Great. Awesome. These I'll pretty much all my questions about gong with clarity did do you have anything else that Enrique?
+
+Host 1: No. That it. This is super helpful.
+
+Host 2: I'll wait the comment. Can you guys can you get?
+
+Host 1: Yeah. Yep.
+
+Host 2: Yeah. I don't know why those are back. Awesome them. Great. Well, I guess, last question for you, ken like your point of view is gong this at early like is there anything that we get your competitive but like yeah will teaching in gong and we're going for this instead.
+
+Client 3: So I Say that one more time.
+
+Host 2: There is there anything that would get your company to did to say yeah, we're gonna teach gong and and go for this instead. Is is Gong replaceable in any new way.
+
+Client 3: I would say not at this moment. I don't think we have any significant points with it to a point where it would be, now, obviously, product consolidation, is, you know, a huge thing for a lot of people right now right in this is type of an economic landscape. So, like, if there is a product that does multiple things. Like, for example, if there's a product that does what Gong, and Cla can do and it's one product. Yeah. Companies will be inclined to look at that.
+
+Client 3: And we like... And and say, like, can I save some money doing this, but also like, it'd be easier if we have one product instead of two... We're managing one vendor instead of two vendors. So I think it would be happy to be that. But like, for our current state, like, I don't think we're in a position to there there's no reason to to explore other options at this point.
+
+Host 2: Makes sense? Great. Well, thank you so much ken for your time. This has been awesome I appreciate it.
+
+Client 3: Yeah. Absolutely. It great to connect and thanks for showing me a little bit about the product. Super cool. Guys will things over there. So keep it up.
+
+Host 2: Thank you.
+
+Host 2: Thank you so. Bye.

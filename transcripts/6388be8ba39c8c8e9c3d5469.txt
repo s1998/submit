@@ -1,0 +1,261 @@
+Host 1: You back?
+
+Client 2: Morning.
+
+Host 1: Morning how are you?
+
+Client 2: Good. You had a bunch of media recorders. This meeting.
+
+Host 1: That's my we're building. So we... This is all another, like, test cool deals. Yeah. Have more people. How are you doing? Have you happy but would they always building, Yeah.
+
+Client 2: Thanks. Good Thursday so far. Close the month last month. Are you guys doing?
+
+Host 1: Pretty good. Pretty good here. I will correct it's team upside. So it's it's always good. The team is getting together. Otherwise, we'll fully remote you know.
+
+Client 2: Yeah.
+
+Host 1: No I hear you.
+
+Host 1: I can think that gonna be the only one from the team showing up today. On the recovering from you site or something. So my way of of quick information flow and in ceo over this start called and we'll also now, like, looking into building sales and, you know, that that's the context for all of these meeting deals that the joining this meeting. And I mean, I'm just looking to catch up basically on the sales student in this free and i understand understand what's up there with all the value products, what people like what people dislike. And I think I found your name on g two as you are leaving a review cla.
+
+Client 2: Yeah.
+
+Host 1: That's right. So yeah. Just just generally ideal to hear all about your experience due to what you like, what you don't like Perhaps we can kick it up okay can you come you a order before about your do you do and whether is your?
+
+Client 2: Yeah. Sure. So when I left, the review is working for a company called term. And term is an account based marketing. Platform, which specializes in being able to by when accounts are in market and help you start your marketing campaigns and run plays against them. To kinda scale Since.
+
+Host 1: So this is it like electronic swimming info?
+
+Client 2: So okay Zoom info has a solution for that's very similar called marketing Os. But I got laid off in June. And decided to make hit it. So I'm no longer, like, account based marketing and went to Zoom info and now I focus on data access, which is a little bit closer to my background and and what I'm more passionate about.
+
+Host 1: Got it. Yeah. But I'm sorry to hear the delay. So with a lot of that. That's pretty it's pretty awful.
+
+Client 2: it was the best ever happened. Like got.
+
+Host 1: Why is that you will gonna happy at demo.
+
+Client 2: It wasn't that I wasn't unhappy. It's just that the selling environment was very difficult in where now, it's it's much better.
+
+Host 1: That's good. Zoom... Are you are you and there?
+
+Client 2: I'm an account manager. So I shifted it from me an account executive to account manager.
+
+Host 1: Got it. And so the camp manager is my ignorance of of the here. Is it a little bit like Cs?
+
+Client 2: It depends on the company you go to. At Zoom info, it is a full selling rule. Where, you know, we're not handling inbound shoes from customers like Cs that do.
+
+Host 1: So what... So is it I'm confused? What's what do you do? With difference with the Ae?
+
+Client 2: So typically in a kind executive is gonna focus on new business only like customer or prospects that are not customers yet.
+
+Client 2: Account managers called to existing customers and try to expand the relationship.
+
+Host 1: That makes sense. Okay. Totally. Great. And tell me about a cla. How did you find out about it in the pills space?
+
+Client 2: I use Cla at Adobe, and then I also used it at term.
+
+Host 1: And so I used assume both of this companies will using adobe be basically when you arrived.
+
+Client 2: Adobe and term were using Cla. Yes.
+
+Host 1: And and what did they use them?
+
+Client 2: It was all for keeping records up to date. You know, like Salesforce up to date, and it was all for forecasting. Sales forecasting.
+
+Host 1: How does Larry help you these these two things?
+
+Client 2: So Cla has forecasting capabilities where a requires buyers each sales rep to go in and update what they think their number is gonna be for the week. Right? So it looks at all of your open opportunities and looks at my stage and by date, And asks you to essentially justify and rationalize why you've selected certain dates for in certain amounts for your open opportunities and speak to whether or not they're on on track. Right? Like, so, like, let's say that I had four Open that we're twenty five thousand dollars each. I forecasted. They were gonna close you know, next month. But... So each week, I would go up, and it would say, okay. What's your forecast for next month. And in Salesforce, you have a hundred k is that on track or is it not?
+
+Host 1: That's our pricing. So I I when when carrie say that says that you're, I said the we're doing magic like machine learning, whatever to do forecasting but at apparently they'll just basically be asking right to do the own forecasting?
+
+Host 1: Well, there's a there's a Sorry.
+
+Client 2: Waiting in some latency here. There's a bit of the the Ai piece. That's that was just, like, from a sales rep perspective, that's how you interact with Cla cast But Cla also provides a lot of additional signals two sales leaders, and they provide, like a Crm score. Of how likely is it that deals are gonna close. Right? So they look at the interaction and the of that interaction between the sales rep and their prospects it looks at, you know, it has the sales rep back actually, you know, asked for, you know, the deal you know, what's the health of the relationship? And it can assign, like, an index that lets you know, like, how likely is the deal gonna close. That's probably where the coming in.
+
+Host 1: I'm sorry?
+
+Client 2: That's probably where the Ai piece comes in or at least what they market as Ai.
+
+Host 1: So if if they do that, then while or they still asking reps school for their own estimates.
+
+Client 2: So the the... That's part of, like, the health of any sales org like you need to do a bottoms up forecast, like every rep needs to commit and speak to the number that they need to deliver. You know, just as you know, quality control. Right? Because reps tend to lead record.
+
+Client 2: Go out yeah.
+
+Client 2: You know, accuracy. And unless they have someone, unless they have to speak to it, they don't have that impetus to go and clean up all the the data that they're responsible for.
+
+Host 1: That makes sense. You also mentioned it it helps keep your Crm up to date you do that through the same mean, like, just by asking right like, hey, If i like me?
+
+Client 2: So the software is not actually doing the the maintenance or the cleanup. It's prompting the sales team do the maintenance and the cleanup.
+
+Host 1: An interesting business right here. Okay. Does Zoom phonemes Canary as well?
+
+Host 1: Not to my knowledge. They use anything like it.
+
+Host 1: Salesforce. What you're you of cla?
+
+Client 2: I think it's a great tool. I think this whole space revenue operations is interest interesting. You know, I think technology companies have figured out that sell to sales teams and the sales teams buy in that it's a lot easier sale. Than, you know, selling to, like, marketing or It.
+
+Host 1: And how do you feel when as a right you have to go to Cla and and fill up this information? That system you to fill up Oh, it's great.
+
+Client 2: Like, clear is a a very easy tool to use. Right? We could get these dashboards to pull up all of your opportunities.
+
+Client 2: You can see, you know, like, where certain deals are, you can go in and update them really quickly it close back to, you know, those changes back to Salesforce. And clearly solves a fundamental problem, which is Salesforce is pretty difficult to use.
+
+Client 2: For forecasting and and sales management.
+
+Host 1: Got it. So it sounds like or you like, it it it it also provides that video. Like, it it makes easier for you to update salesforce and to see your pipeline your?
+
+Client 2: Yeah. For sure. Like, cla is cost is, like purpose built for a sales team to easily understand where they're deals are like how well they're trending to their forecast. And, you know, how on track they are to actually hitting the goal.
+
+Host 1: Interesting. So that that's interesting to me because I I would have assumed for you to build a a little bit of a chore to a update crm. That cla bugging you would actually be negative, but but somehow already, you don't seem to mind it.
+
+Client 2: No. No. No. I prefer it. Like, to update records in Salesforce, you have to like click on the link first off, you you have to keep track your own deals like separately. Right? It's kinda difficult to you know, you might have a... One of the problem of Salesforce, you might have a deal that you've defined as being one... Like, you have to kinda define, like, what's your universe of the deals that I'm gonna focus on. And how do I make sure that I keep those in view? Right? Like, you can't rely on like Salesforce queries and reports to do that for you. Because what happens is there's a lot of influence to record management that you can't control Right? So all of a sudden, your ten deals that you're just focused on. Becomes thirty deals. You know, like, what what the hell just happened, you know, in your report or whatever? And so you kinda have to keep track of your deals separately. Outside of Salesforce. And then every time you wanna go update, Mean to open up paid wait for the page to load. Click into, like, the right editing interface. And.
+
+Client 2: Right? So I tend to use excel. To key... Or a spreadsheet to keep track of all the deals that I'm monitoring. And so what Cla does is clearly provides, like a summary of all of the opportunities that you're working on, and you can just go Bang bang bang bang. Three minutes you've done.
+
+Host 1: Wow. Have you heard a solutions like yield scratch.
+
+Client 2: Yeah. I like Du a lot. Dewey really, really strong because it does a very similar thing. To Cla. It does... From what I can see, and I haven't you really used Petunia. In the outside of the last, like, three months. But they're also trying to compete with Cla a bit. Duly is more involved in, like, the early side of the sales cycle. Where, you know, you're keep... You're keeping track of, like, notes in calls as they happen. Right? Cla is more of like, what's our next step? Dual is more of a, you know, like, let's keep the detailed notes Right? So Petunia lets you set up like, templates. It's great for training in learning, especially for newer reps because you can use templates that are set up by sales managers, you can create your own templates. You know, it's a large part of sales is ongoing self enable. Right? So you have to continually to modify your process and do delete for being flexible in helping you structure your calls using the the template feature that they offer.
+
+Host 1: Yeah. What else it frozen... But by the way in what context, did you use Duty?
+
+Client 2: I used to do as that in call like note taking.
+
+Host 1: Right.
+
+Host 1: I would also usually to update Salesforce opportunities.
+
+Host 1: And then andy what?
+
+Client 2: Oh, it was at term. I used it here at A info. For a little bit.
+
+Host 1: But like trial.
+
+Host 1: Why did you use both duty and and current Cla is what sales managers really care about.
+
+Client 2: Right? It lets sales managers have an easy dashboard that they can use to understand the business? I think the sales managers I had it term were not very strong. And so they can use Cla as a way to kind of make their job easier for them. But any sales managers worth their way you know, they can say f this, like, I'll just create my dashboard. I know what my number is. I know what deals are gonna hit and what are not gonna hit. And, you know, like they don't necessarily need Cla to do that. But It's more of like you know, when you have a developing sales team, I think that those forecasting dashboards gonna be really, really useful. And then on the other end is if you have like a really huge Like at Adobe, we use Cla because I mean, we're rolling up like, three thousand sales reps. How does the the head of sales understand how to do that? You know and and spreadsheets are not gonna work in that use case.
+
+Host 1: Right. Okay. So it sounds like The similar products, but do is really more but like, making you like these arrive to, like, a update loads and take notes during on your call. And Cla is is a bit focused on, like, the manager and I like, buying, like, forecasting to manager is that is that the idea?
+
+Client 2: Yeah. There's definitely convergence happening though. This whole area of revenue operations. Is a really important area. Even see it with companies like highs spot right for sales enable, and they're trying to tie content creation, and engagement back to close one deals. Right? So they can value evaluate I'll value.
+
+Client 2: Content is on a dollar basis.
+
+Host 1: I stopped.
+
+Client 2: Yeah. Have you heard of him?
+
+Host 1: No. I spot. Most advanced sales enable development who is in software held take bit. Yeah. I feel like I've active keep finding one new like, solutions it were day based.
+
+Client 2: Crazy. A complicated thing. Have you seen... There's usually like industry maps that consultants create like where they they're just trying to illustrate, like, how complex the the the market is.
+
+Client 2: But you'll see high speed in all these companies in the same cloud.
+
+Host 1: Yeah. Yeah. What what did you live best about? Cla.
+
+Client 2: So what's great about Cla? Is that it's it's really, really easy to update your deals and get your sales manager exactly what they one from you so that they leave you alone.
+
+Host 1: What what did you like least about it?
+
+Client 2: I think of that I like the least it didn't really help me in terms of, like, growing as a rep. You know what I mean like, doo was, like, purpose bill, I guess fantastic at helping me structure my own learning and development. Which ultimately is more important to me than, like, whatever number I'm gonna make. Right? Like, because that's investing in the future number. Duly urge Cla is just about, like, making sales managers and sales leaders how I was duty helping you show learning and development.
+
+Client 2: Let's what I was talking about earlier, which is you know, with the templates, I may still have Let's see Petunia. Let me still have a login. It's a fit that's live if it is. I'm gonna try to log in now. If it I'll show you.
+
+Host 1: Know that.
+
+Client 2: Alright. I'm trying to log in. Try signing in a Salesforce continuous Salesforce. Right. Now I gotta login in strategy number too. Multi factor. Again. Alright. Okay. Hit log in. So I'll share my screen here. Alright. So it's it's downloading. I haven't logged in in a while. So it's having to re reload the cache here. But while it's doing that, see there's, like pipeline. Right? So they're trying to compete with and this is all nothing right now because it's loading. So there's pipeline management, which is similar to Cla. What's really useful as calendar. Right? So if I wanted to like, say that this was a customer meeting call, I would go right in here. And I could just start, like, typing. And this note would get would be synced back to the customer record in Salesforce, which is kinda nice. What I was talking about earlier is, like if you look at templates, I can go and, like, here's the discovery template that I'm using. Right? So, like, I've got all the impact questions that I would wanna ask. Right? And this is fantastic. Like, especially for say like, if I was thinking like younger sales teams, right? I was looking at your tool your product a little bit earlier about, like, you know, as our managers wanting to, like, walk the floor and be able to, you know, listen in on calls and kinetics like would wanna use this kind of capability As an Sdr manager to continually adapt and pivot the sales team based on what challenges I saw. Were, you know, across the team. Right? So, like, I might save this as a template and say, hey, guys, I noticed that you guys are gonna act asking enough impact questions, make sure that you are talking about multi master data management or. In your calls. Right? Or here's sort of the the flow of call. Right? Here's the the discovery they need to get to or whatever and then you can change it, and you can also, like, save it as templates. Right. So These are my templates, like, I'll view this, and I can savings. So this is super valuable to me personally.
+
+Client 2: So you get this calendar integration and then you let's see if this pipeline is populated. Yep. So here's the pipeline. But none of this... I mean, this is useful. And I can go in and see like, is this account? See like right there? Overlay. That's not me. So that's a good sign I need to go in audit and, like, make a change so that I get the full credit here. And then usually. So if I click on this. I can see, like, It's looking at last modified date in the last fourteen days. Closed date is today or later amount is not blank. Right? So it's given some like, easy checks but... And then I can add, like, notes or or whatever. As well as the next step here. So it's so it's pretty useful. I can... As our sales rep or a sales team, I could use Dueling and not necessarily need to use Cla, because it does have the forecasting piece in there too.
+
+Host 1: Yeah. It's interesting. What what did you not like if anything about?
+
+Client 2: I don't know. I mean, it's it's I can't really think of anything that I didn't necessarily like about it. You know, you've got all all sort of like, spectrum... You know, spectrum of, like, the season of the maturity of your sales team. And, like, how do you coach the ones that are newer, How do you incentivize and push the ones that are more mature and and been in sales for a while. And so for me in my own development, like, I like duly a ton because I was able to, you know, refine my process and build that out and continue to, you know, make it better and better. I think though in terms of, like, things where like, man, I wish they did x? I done I I don't have anything.
+
+Host 1: Yeah. I I feel actually not doing well from a business standpoint. Which is it's to me. Well, I guess, Do you do you feel like perhaps like the the quality like back to know like that he's not important like forecasting. Very problem.
+
+Client 2: The the quality of life.
+
+Host 1: Yeah. I feel like the any problem is like, we make it easier for you to be Right? Make you for you to update your sales goals and look at your pipeline and Cla does that, but Carrie will let your manager of forecast.
+
+Client 2: Yeah. I think their freemium model is also a problem. Because I'm not paying for doing and I can use pretty much all of it.
+
+Host 1: Interesting. Would menu me personally.
+
+Client 2: It depends on, like what... How much sales team monitoring operating.
+
+Client 2: My I work emerging product, so we're like our support in Zoom info salesforce force instance is still, like, they're still building all of the the functionality. So we operate pretty heavily out of spreadsheets so there's really not a reason for me to go in and make sure that all the opportunities are up to date. Because that's not the way that we necessarily operate in the future when we are integrated probably will.
+
+Host 1: Yeah. How much who you pay for it?
+
+Client 2: I would say as a rep yep. Like, if it were me personally, I would probably pay to three hundred dollars a year for it.
+
+Host 1: I see. And and you... You mean personally the least like, would you be with your break the credit called.
+
+Client 2: I'm talking about my personal one.
+
+Host 1: Yeah. Go wow. Hey Interesting, why wouldn't you pay on your corporate?
+
+Client 2: If they... If if the company was willing to reimburse me for that, sure I would pay a corporate card.
+
+Client 2: U. But we... Like, we don't travel. Like, I'm an i'm I mean, effectively, when it when the pandemic hit everybody became inside sales, So we don't travel, and we don't have, like, expense accounts like we used to.
+
+Host 1: Right. So do you then ever, like, build just software on your corporate account?
+
+Client 2: I did it term for sure.
+
+Host 1: What what kind of?
+
+Client 2: Had a lot of different software. It was a different role. Like I was busy doing a lot of prospecting. I did a lot of like, using bots for social media. Right? So, like, I would have my own sequence to go out and like, linkedin and Like, so much of it is finding those events that matter to your customer. Right? And a big one was when they start a new job. And so, like, what I would do is I would use a bot Albert. What was it something?
+
+Host 1: Yeah.
+
+Client 2: Meet albert or meeting it he rings a bell Alfred.
+
+Client 2: Meet Alfred. That's what it was. And so it's meet a dot com. And so it would automatically pick up when people would change jobs and say, hey, just... And I just reach out like, you I'd get, like, a thirty to forty percent right, like, just blind connect requests like, hey, Saw you... you know, hope everything's doing something like, you know, like, hey, I just wanted to see if you're you're shouldn't connect you're connecting. Congrats on the new gig buck. Right? So it's like, hey, there is context here, which really wasn't. And so then, like, forty five to sixty days later, I come back and as I was thinking about you. I was reading this article on a based marketing, and I was just like, how are you guys approaching that? And, like, I I... That really worked well. I I built a relationship at abbott doing that. In a few other companies, just kind of like cold like that.
+
+Host 1: Meeting file.
+
+Client 2: Another one I I software I got was sales training from what is it Jb sales? Blanking on his name. Let's see. It's j or join jamie sales dot com. Why can I not think of his name? He's the bald guy. His name not even on this. But he runs a podcast called make it happen Mondays. And like the podcast... So the thing about sales is that nobody will like really really train you? You have to kind of, like, take the initiative and train yourself and keep on top of it. Fine or whatever. Just... But nobody really knows the right resources. There's a lot of sales trainers out there, but you know, like, you... Sales training is not like a one and done kind of thing. It's it's every day. And Jericho Barr that's who is. B a r r o w s. And so It's great. You know, all these sales consultants want you to hire them train your sales team, But really what your sellers need to be doing is listen to this podcast podcasts creating process, we're finding the process, testing, like, ab testing everything. And you're just getting better every single day. And so I I use the company card to pay for that training as well, which is like a an annual subscription.
+
+Host 1: I think. Do you use any other, like, training software companies? I I just assume you filled like, Gong and stuff like that.
+
+Client 2: One of the problems was that there's so many opportunities to to try and better.
+
+Client 2: Like with Gong, Gong produces some great, like, blog posts and stuff. But ultimately, it's not necessarily actionable. Right? Like, where I find the.
+
+Client 2: Valuable or value... I mean, like you think it is, like, it's written to be valuable. You know, like, hey, don't start your subject lines with you know, our Roi in the subject line. Okay? Fine, you know, like, well what what do I use? You know, and I'll give you some options. You know. And and it's a great place to start. But if you're looking to, like, optimize and and, you know, grow and and ultimately become better. Those kind of resources are not ultimately gonna get you there. What's really gonna get you there. Is listening to really good sales talk about how they do it. And that's where I listen to thirty minutes to president's Club. It's Spotify podcast. And that's that's the most valuable time that I can spend Alright.
+
+Host 1: I'll take a look at it. So is it like device or do they actually, like, is you like, concrete, like like, cold calls or anything anything like that.
+
+Client 2: Everything. So let me I'll share this podcast that I episode that I listen to. I'm I'm like re listening to. It's episode forty six. Here we go. Share copy episode link. Here we go. Jeff.
+
+Host 1: So This is an amazing sales trainer.
+
+Client 2: And he uses something. I what it's called. It's like the humble something where when you're gonna ask, what could be perceived as like an abrasive question. You use this sort of humble you know, and I wanna say brag, but like, you try to be humble first in you're like you you say say, like, if I gonna ask you something like you how well are you you delivering against your revenue targets that you've committed to your investor.
+
+Host 1: Right? Like.
+
+Client 2: If it's me, it's not set up this call, like, I have to earn that right.
+
+Host 1: Task something like that.
+
+Client 2: Otherwise, you're gonna be like, no way. I'm not gonna tell you. But if you need to kind of ask kind of question in order to move forward. You can say things like hey, I'm I'm still learning, like, how to do everything in the right way and and man, it would just it would be... It would really bother me if I asked you, you know, something that was abrasive. But you know, one of the things I always see is, you know, founders tend to have tend to struggle with, you know, committing to deliver roles that they owe to their investors, while also trying to satisfy customer needs just kinda curious, like, how are you approaching that? What's your take on on that and and, you know, how is, you know, your company, like, responding to that. So, like, I I set it up and a really easy way smile where you don't feel like i be going send process.
+
+Host 1: You're good at it.
+
+Client 2: The thing is, I didn't make that up. That's not a natural talent. I just listened to the way we good salespeople do it.
+
+Client 2: Know. So that's the thing Is you have to go out and have to find the way that people are really good on it or doing it, to take notes and finish in your own process and refine it.
+
+Host 1: Must say that a my personal background is, like in engineering And so it's it's almost like the the opposite at tradition. Right, where it's really bad like pure information back and it's like, hey, like, ask the question. Right? I go right right? So I'm I'm I'm this field. And I'm just noticing the time I wanna be mindful all your time Let me see if there's any last questions that I need to ask. I labeled like No. That's good.
+
+Client 2: Perfect. Well, I encourage you to listen to that podcast episode well shared with you because it covers discovering.
+
+Client 2: It's the best discovery podcast I've ever heard. Actually Gonna go back and, like, write all the stuff down that he talks about. But especially when you are doing your discovery. Right? Like you were asking me several discovery questions. It really gets into like the emotional connections that people feel and it's something that I wish somebody had shared with me when I was first starting to learn how to gather information from people. Not that you're that. But it's clearly glad to have it This kind of recommendation right here.
+
+Host 1: Awesome. Well, thank you so much. I will listen to the podcast. Thank you so much all the recommendation. Alright. Yeah. You have a good... Good rest of your day.
+
+Client 2: Likewise. Good luck with everything.
+
+Client 2:

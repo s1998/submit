@@ -1,0 +1,179 @@
+Host 1: Hey, Jason.
+
+Client 2: Hey, Good morning. How are you list?
+
+Host 1: Good. How are you?
+
+Client 2: I'm same.
+
+Host 1: Awesome. Well, super i'm speaking you today. I know we scheduled this yesterday, and it looks like honestly not the best to the Salesforce hubspot marketing language. But it looks like you found us by looking online. Is that correct?
+
+Client 2: Yeah. That was i everybody was looking for something that you wanna. Just curious get experience me but technically there's something I could use there. So just time now. Entails and Yeah.
+
+Host 1: Makes sense. Your audio is a little bit like spotty, like, a little bit poppy. It's one the most part okay, but hear Perfect.
+
+Host 1: So I guess a first question to that We'll definitely go into what we do, but I'm curious like, what where you look to or hoping that we did or hoping to find online when you're were doing your search.
+
+Client 2: I think I was looking just just for metrics. And then it looks like you guys is aggregate data cross systems. And I'm little interested in kind of, you know, there's pretty model there what what we could... If we or is no it's completely mature across so consistent or agents emails to just kind platform just use members. Sisters. That's why your business is time of time to span kinda in sms.
+
+Host 1: Yeah. Totally. And just I icon seen a little bit more about the business because Typically, it's really easy for me to understand like a and, like, and just, like, where you guys are out with series stage, but you guys are private you back. So it's a little bit more behind the curtain. Would love understand just like, I know you've been there for like nine years, which is, you know, no small thing. But as far as, like, growth and any upcoming changes or I guess a reason you started looking for this now when you have at the company for so long and why it's more a need now.
+
+Client 2: So The challenge with our business is maybe just do see that both permanent international reach. And then on a multiple. Lot of those were for complimentary solutions, which just to look at that independent of with results. And we've formally split our business into two main units. We want to do products And so we need you heard it. Each independently, but then also that's a big challenge. It's do all of that. Is it Mh.
+
+Client 2: Meetings months we had... At one point had built a we some business and and other things in his. If either go refresh that. And using mad again where we just moved we're off the shelf listen Gotcha.
+
+Host 1: And for the different different product lines. Are they all Saas or some of the non saas? Like, what would you say a percentage of saas to non socks.
+
+Client 2: The one is growing quickly as Saas, the others in. Transition phase space to a saas. So somehow now customers. But So all told, I would say in terms of pixel hours but first medicine paste okay Cool.
+
+Host 1: Okay. Perfect. And then last question, then I'll show you, you know, a little bit of little intro slide like I guess you could call it. As far as your tech stack right now, So I know you guys are consulting with sage. With... Is your source of truth for all of your And your revenue metrics, Are they coming from an initial Salesforce number or are they coming from Sage or Well, we we have Salesforce and sales are released.
+
+Client 2: So we after of the renewal in Salesforce. And then that it's a simple contract into search. Stage possible. To traffic science and just Gotcha.
+
+Host 1: Okay. That's good to know. Yeah. And when stage shows are billing, makes sense that that is housing with a lot of the data. So I think you hit the nail on the head as far as like, really what we're doing here. The reason why I asked you, you know, what system do use is because we do pull everything in. A really big pain point that we're hearing from really every single company is that you have all these great, you know, disparate data and no way to really bring them together, no way to communicate across the organization, like here is our source of truth and here's the number that we are using for. Sometimes finance from sales if heard from know other departments. And so it really came out of a place. Mosaic it was founded in a place where r three c cofounder are here on the right, They were among the first finance times a pal. We're dealing with the firsthand where, you know, pal grew from on any employees all the way towards Ipo really really quickly and they had to constantly change we're looking at their business. So because you have been in the space really one time, I'm sure you're with the in a plan? They tried to implement both those solutions at pal quickly realized that they were just not plus low enough once they were set up and they had to, like, have someone managing them. And they're execs were not happy with the reporting output. So they pretty much created the v one of Mosaic at pal. And then we're able to get to answers really quickly We're able to get all their data sets in one spot, including the Crm an Hr system, which previously had to live outside on other spreadsheets even with the tool. And so all of a sudden there exactly like, hey, How are you guys doing this like, way quicker than you were for? And it's because they got this to the solution where they were getting everything in one spot. So So that's what we created in Mosaic and a platform. So really the the focus here is getting you to a place where everything is out of the box. It's all self serve and Mosaic is focused on B Saas companies. So while you definitely can't have services components or other parts of the business, the reason why we focus on b b Saas is because our solution out of the box comes with over a hundred and seventy metrics, where they are all focused on, like, all the metrics that your investors we asking for when you are Sas. So bring together everything, getting you out of spreadsheets for the majority of your workflow and a majority, because while some people definitely are our purchased entirely, there is gonna be, like, ad hoc work that I'm sure is just best for a spreadsheet. We're never gonna say we're gonna replace them entirely. But for all of your basic things, like, for example reporting metrics, all of your Op or head count planning and your revenue forecasting. It will be taken care of. So just a couple decimal minute we'll get back to some questions here, but really wherever you guys are at, I think let me actually just pull my notes back up here because I always look to see you From what I saw, you have, like, around three people in your finance team, So you Vp Finance and Manager of Fp a. Is that correct?
+
+Client 2: Yeah. Small.
+
+Host 1: Gotcha. Yeah. So that really is where we specializes, whether you have, like, you know, a big fight I've seen when and i say big. I mean, like, know, four or five people is typically like the biggest I've spoken with. Or you are just literally one person. Most able is, like, fill that gaps to get you away from being really tactical towards being more strategic, or just maybe it's a bandwidth issue and you just don't like, your time is not best bet, you know, data ring. So that really is the spiel as well as the fact that you're looking at tools, which actually am curious to know if you are looking at others in the space. You'll notice that there there's what we like to... Or what we've live and labeled as, like, the third generation of that Dna tools that have all kind of popped up in the last, like, three to four years. Aside from not, it was just really plan and adaptive. But what you'll still see in this space is that it is like more of a barbell where there are like, the airplanes and adapt and plain polls, more like enterprise legacy tools. And there's a lot of little spreadsheet plugins ins where they don't get you on spreadsheets. They're just kinda, like, help you use spreadsheets, Mosaic fits really well in the middle where we our cell platform, but we're flexible enough that ever changing space, and that's really where we got, you know, highest over on the size section and highs momentum term scores because people wanna have a great they don't wanna be in spreadsheets, but they don't wanna have to go to that full blown print adaptive route.
+
+Client 2: We we were on adaptive in that's that's also hyper stay connected.
+
+Host 1: How long were you guys using them?
+
+Client 2: Figures.
+
+Host 1: Oh, wow.
+
+Client 2: Okay.
+
+Host 1: Just gonna ask what was the reason or like, the impetus for being like, alright. This just isn't working.
+
+Client 2: Lot of lot of overhead ten machines. Know, just require this special still set. We've looked at other planning tools But again, that that's more from a budgeting standpoint. And forecast that's main is really. You know, just. Quickly see an actual measures in analytics use. Our business obviously is is relatively people. So in and it's just. Sales six spheres too. So it's not like we're some lot transactions. They just year kinda sales center gets more performance and applications to next time.
+
+Host 1: That's really good to know. And and also say that you are definitely a minority there. Most people are like, I need a forecasting tool. But that's really good. And so I guess another question, which can go into the differences between like a mosaic versus a a Bi tool, but I guess what's the reason why you're not couldn't go the power Route. If you guys had that tool, Well i don't know we have to decided not to.
+
+Client 2: The only the only difference is, one it's somewhat built, we have to go facebook domestic practical business, choose a few things So, we we still have to go restart jose.
+
+Client 2: We out. We would also have to some mode. Metrics and so what you guys pass that interested in based on this.
+
+Host 1: Yep.
+
+Client 2: Yeah. Two.
+
+Host 1: Cool. And with Power, do you guys also... Do you guys like user x no resources, you guys have like, a data science team that has to builds when you guys metrics?
+
+Client 2: So we we do all of our homework work and Power. We did use actually And he did all the and some of the the measures in Mexico that we needed and the investments is doing of Gotcha.
+
+Host 1: Okay. Perfect.
+
+Client 2: Let's whether we would stay with Power I meeting it gotcha.
+
+Host 1: Okay. Perfect.
+
+Client 2: And We our google partner. So next where we recovered is Awesome And so on that, I I'm curious are the data sources that I mentioned the Erp, the Hr Salesforce, and then obviously pulling billing as well intact, are those all the systems that you would wanna be pulling from four year metrics or are other systems like a big query eventually that you would wanna pull from as well.
+
+Client 2: No. I think those are the the main systems. The their system that it depends on your your system offers. We do currently pull our system calls. Which is management. Tools and then could that we do have a lot of match all support.
+
+Client 2: Okay. I get all that.
+
+Host 1: But did you say the product management tool is called k n Okey.
+
+Host 1: Know okay. Awesome. So two ways that we can get that data set in is one, we can upload any dataset set a Csv upload. So it won't be a dynamic integration but can definitely get it in as often as guys want self serves like weekly if you want to. The they'll alternative to that in the short term, is that we can... If anything does filter or or sort, like, flow into Salesforce any objects or custom field or anything like that from Salesforce, We can bring into the tool. As well. And then the more long term goal this is that next year we coming out on the open Api as well as an integration of bay. So if you guys do move there, really, we're moving towards that full sweet being able to visualize anything for you guys.
+
+Host 1: And a difference between, like a power bi versus Mosaic at that point. And even at this point is that it will be self serve absolutely no code and that we are also gonna be able to... If you guys choose to bring your forecast in, then it's gonna show you, like, past present and feature versus just, like, passive present reporting.
+
+Client 2: And then the other other piece that would we started using recently is for very high.
+
+Host 1: Oh, good to know.
+
+Client 2: Asset planning. It's has that's good. We have great. So Gotcha.
+
+Client 2: So there.
+
+Host 1: Super good to know. I mean, I I'm talking... Or I have I'm talking and have talked to a lot of people who are using dr and it sounds like for you guys are forecasting it is relatively simple, so it's working out. But Mosaic likely would take over what Does, just keeping that in mind, ideally having an almost but. One spot but you can you For analytics, and then draft forecasting a few choose.
+
+Client 2: Too.
+
+Host 1: Yeah. And as... So as far as like, measuring that you're wanting to see would love... Like, if you have a list, that'd be awesome just like, know the full metrics that you're looking to get or if you just wanna like kind of know, got out to me that be awesome as well.
+
+Client 2: Magic we're looking for to standard something. Transport status. That. Mention Cool.
+
+Host 1: Okay.
+
+Client 2: Perfect. Yeah.
+
+Host 1: Perfect. And then as far as like, timeline of when you were hoping to get some kind of solution or maybe it's like for your next board meeting or like that. Do you have any milestones coming up?
+
+Client 2: No. It's it's just more things benefits fits. If it's somewhere do i just it.
+
+Client 2: Six over you're this. If depending that time, but I think if it's Okay.
+
+Host 1: Cool. And part of the reason why I asked that, I don't know if you had a chance look at our website, but we don't have sage tax on our it yet because we're actually in beta with about five or six customers right now building up integration. It's slated for general lease in January. So even if you were to get so today, you know, we could push out the starting to January, but just wanted to make sure that you weren't looking to get your, you know, twenty twenty three budget and it was due by like, January tenth. We wouldn't be able to get your sag data and until that january timeline.
+
+Client 2: Okay. Cool.
+
+Host 1: Do you have any... I I know you said You just wanna do it if it makes sense. But have you already built out your budget for twenty point three?
+
+Client 2: We're eighty percent right there.
+
+Host 1: Okay. Cool. Perfect. We can definitely upload it. Once you guys... If you guys use mosaic and you have it done.
+
+Client 2: Yeah. I mean, we typically we typically little bit into intact as muscles. We're going to pull happen.
+
+Host 1: Oh, nice good to know.
+
+Client 2: Other questions things back. Just Do you know So we we have multiple entities in consolidate. So being entity level consolidated non. Both is it one remember Yeah.
+
+Host 1: So it's a good question. And I'm curious right now for, like, Op, are you guys forecast in a subsidiary level or you do it at a consolidated level.
+
+Client 2: So we do everything have the and then we the numbers at the top challenge business and work he imagine, so we also use dimension business. Which represents the various businesses. A shared house. Shared entities entities business needs gotcha Okay.
+
+Host 1: Good to know. I will actually check on that because... And the reason why it's not as clear an answer is because as our tool stands today, we actually do consolidation. So if you're bringing in multiple instances or from zero, I know that you can plan at that.
+
+Host 1: Subsidiary level because we have all that data from each each the data before we consolidate it. However, with our nestle customers today, since nets week and then also sage due the consolidation for you. We pull in the consolidated level. However, we're coming up on a big product release where we are gonna be able to see that that level for next week. Let me check on for Sage how it's gonna be released. And then I'll email you when I get an answer for that.
+
+Host 1: Sure.
+
+Host 1: No worries. Cool. So I I guess one last thing to hit on and then I definitely wanna set up the jam.
+
+Host 1: Is if you could improve anything from drive, I guess, what would those be and and one thing... Well, I guess, I'll let you answer that question first and I have another question on that as well.
+
+Client 2: So so for draft, the biggest issue for us is that it's balance for multiple dimensions. So this is a very example. So we're We we're working with san work. And this just get out in zero. There's is four mention. The other you have a challenge with it is date single entity and then setting and so we're so reconnect. And he's after together. Again Got.
+
+Host 1: So If I understood this correctly, they can only bring in one entity. It's not the consolidated.
+
+Client 2: Right now, that's the way Tenisha done.
+
+Host 1: Yeah. Okay. And you guys have two or, like two cheese or how many fourteen.
+
+Client 2: Yeah. Together we have offices in france.
+
+Host 1: Wow, okay.
+
+Client 2: Cool. So it's like I said for a smaller business like it's relatively time.
+
+Host 1: So if there's four, but they're only bringing in one, are Ux able to, like, use it effectively because that seems like a very small part of the business.
+
+Client 2: Yeah. So what no what we've done in this stopped using person and we just we basically behind Okay.
+
+Client 2: So it it actually does matter. Chances. It's just Gotcha.
+
+Host 1: And then Draft is not integrating with anything. Guess now at all. Correct?
+
+Client 2: No. Everything is is kind of Csv.
+
+Host 1: Okay. Good to know. And then another question that I had just because you did mention like, hey. Four cast is not that big of a deal, but metrics are super important. A lot the times, the saas metrics actually play into your top of your revenue forecast. Are you planning on until you obviously, you see the tool and you see how it works, but as of right now, were you planning on keeping your revenue forecast and spreadsheets and just pulling the metrics that you get out of whether it's a power Or or whatever visualization tool into your spreadsheet forecast?
+
+Host 1: And what's the strategy just so we know as far as, like, how you build your revenue forecast. Is it on a pipeline build? Is it sales capacity build? Both all of that and what the site needs to be.
+
+Client 2: Seven it's It's different too by businesses. I would say generally speaking, Case. It's a lot times is here's He's very hard to that. Separating the bookings form has revenue forecast you have the ton things as we regards.
+
+Host 1: Okay. Good to know. I think I got the majority of that. Mike wasn't the best, but ask the question again when we do the demo just to make sure that I understood everything.
+
+Host 1: Okay. Perfect. Cool. So the demo is a full hour at the end we'll get into pricing as well. Definitely helps us to know like, really after you see the tool what do you want Because in your situation, we actually do have two products. One is analytics only one's a full bundle they're incentive to go towards a full bundle, but obviously, based on your needs, like, you can choose one or the other. So looking at next week unless let me actually pull up. I bring my solutions engineer and he has a finance background, so you can definitely get technical with you as well. I You have time actually tomorrow at the same time we started today for an hour. Otherwise guys next week, we can find a time.
+
+Host 1: Okay. Perfect. Great. Well, I'll send you a one hour invite Jason. And I'll bring markets on. And then, yeah, we'll get into everything tomorrow.
+
+Client 2: Okay Sounds good.
+
+Host 1: Awesome. Thanks Nice, Meeting you Jason Great. Thanks for your time.

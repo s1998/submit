@@ -1,0 +1,205 @@
+Host 1: Subliss hey, Denisha, do you see my slack.
+
+Client 2: Oh, let me look. Sorry. What do you mean by 5% upstep to 20.
+
+Host 1: Right now. So it's 24 if we think we're talking to semi annually. But I told him to want to do quarterly. It'd be a 5% upset that normally we do 10%. But for him we'll do five. They're pretty much. Free. I mean, they're like reworking their whole.org. So he says they run like a pre revenue company, which is why they're pretty cash strap. And they. Let's see how big they're small. 52. I guess not that small. 52 employees on LinkedIn.
+
+Client 2: Did they specifically ask for quarterly? Is that why so I.
+
+Host 1: Feel like. Yeah, he. Well, he wanted payment terms to be different. We talked about semiannual, and then he would like quarterly, would help a lot. And then I told him, hey, it'd be like a little bit more. And then he was like, can't justify the 5% increase. So yeah.
+
+Client 2: Okay. Yeah. If we can pull that lever instead of going down, that'd be better. And instead of going down AR. Arrow.
+
+Client 2: We supply. Try. Stick a semi.
+
+Host 1: Okay.
+
+Client 2: He is joining. Perfect.
+
+Host 1: Hey, Dan.
+
+Client 3: Hey, guys, good morning.
+
+Host 1: How are you.
+
+Client 3: Nice to meet you.
+
+Client 2: Yeah. Daniel, nice to meet you as well. Going. Richard Lee Sales here at Mosaic Legit. Tag me for this chat to be an extra point of contact, but nice to meet you, Daniel.
+
+Client 3: It is nice to meet you. And. Appreciate you guys joining so. Want to kind of give you an update on where we are. And you know what I've mentioned to Lizbefore is. Love little. So this is a product. That I we, you know, want to buy. And. We're just working through right now. Just some budget decisions. We have to make some, you know, hard decisions about things we're going to do and things we're not going to do. For Next year. So this is an important one. That I am pushing for.
+
+Client 3: A really appreciate the flexibility on doing the semiannual. You know. And the quarterly option. I kind of thought through that, but it doesn't, you know. We're getting some discount already, and I don't want to give some of it back just for doing quarterly building versus. The annual. Do appreciate everything you guys are doing there. And I think where we are right now, as we're looking at a 24K. Deal. And. One nice thing about that. Compared to some of the other things I'm negotiating on right now is that that's, you know, there's no user limit on that and everything. I guess a couple other things in the Hopper right now that are like they're like, oh, well, it's dismissed users, and, you know, I'm having asked someone internally here. Well, how many do we need. Well, it's this many really and then we're so we're I'm like negotiating with ourselves internally here.
+
+Client 3: Yeah, excellent. Thankfully, that's something we don't have to worry about with mosaic. And I think that 24K also includes kind of the setup, implementation. Fee. Which. Is good. And. I talked to Lizziel, and about our timeline. And I realistically. Like, I think it's possible we could get a deal. Done by them by month end which is like next week already. I think that's quite possible. And I would love to do that. We wouldn't be getting started. On a project until totally after the new Year would be a January.
+
+Client 3: Thing because we. Have a bandwidth right now.
+
+Client 3: So it would be important to do we can actually kind of deploy the attention, but I think that kind of a timeline. Is what we're looking at in terms of our project.
+
+Client 3: With the implementation. You know. Some billing is one of the big things. I think that we are intrigued by the Corella, and I really like from the demo we saw was around kind of your, you know, think about your SaaS Metrics, right. Your basic SAS Metrics that every company needs to have. And the ability. To get those, you know. To get those start calculating an automated non manual way soon. Is really important as the selling point. Right now that would entail probably stripe.
+
+Host 1: You know.
+
+Client 3: Talked about Billing system. I've actually spent a lot of time over the past week. Really digging into Strike data and trying to understand it. There are some things in there that are funky. Prorations that are not happening, right. And I think that has to do with how things are set up, which they're actually set up. We don't put subscriptions into Stripe, like manually and have products in Stripe manually. All that stuff comes from our product from eight base. So we kind of have to work with the engineering team. To figure out what the heck they do, because, you know, there's some things in there that just kind of look funky that aren't happening, right. Which when we implement, you know, would probably introduce some noise into our data. So I'm trying to get a better understanding of that stuff. And I've spent a good amount of time. Over the past week understanding it better because when I think of a project getting started in January, I want to try to hit the ground running. So. We're moving to that direction.
+
+Client 2: I think.
+
+Client 3: Cost standpoint, you know, a 24K. You know, we're talking $2,000 a month. I would love to see if there's a way to bring this in slightly under $2,000 a month.
+
+Client 3: And I don't know what levers we have to pull. There. So that's kind of where we're at and kind of what my Thanksgiving. I can't have a Christmas list yet, but.
+
+Client 3: I'll be on Friday.
+
+Client 2: But that's.
+
+Host 1: Fine. And Dan, that's pretty much exactly why I brought Denisha in. I gave him the backstory and everything. And honestly, like, you've been so often work with you've been so transparent about how much you love Mozek. I can tell you're gonna be a great and really communicative customer for us. So I brought Denisha in to be extra support, because ideally, like, we would like to get this dealing as well, like before Thanksgiving or sorry. Well. I mean yeah before Thanksgiving, but also for as a Monthly.
+
+Host 1: month.
+
+Host 1: This conversation would love to just, like, understand from you, because we do have Denisha here, and we still might have to go up for extra approvals to, you know, our repeats, but our cofounder, actually. But what would make this work for you guys? Like, I guess we're just trying to figure out also, like. What other levers we could pull as well.
+
+Client 3: I think. I think. You know, is there some way to get the cost under two K a month? Like I'm looking at that expense number. Whatever we can do there. I already super appreciate the flexibility on payment terms. Obviously, on an annual deal. Samiannual is great. We're serious. A company. I don't want to raise a Series B right now. Thankfully, we don't have to do that right now, and I'd rather not have to do it next year because we've just got a lot of things we need to do before that happened. So some really pinching pennies even more than I normally do.
+
+Client 3: So I think that would be something. That would help. Considerably. Other than that. I mean, I looked over the MSA and everything already. So you know, I don't see any like your MSA's. Pretty. It's pretty simple. Easy to understand. No, I don't see any hairballs. There. Comes down to price. And what can we? You know, what can we do?
+
+Client 2: There.
+
+Host 1: Would price. Is there since we I know you were trying to hit some cash targeted by that a year. If we are starting this project in January, we wouldn't invoice and you guys want to be doing January.
+
+Client 3: Could we.
+
+Host 1: Yeah. Could we potentially do annual upfront if since we are starting in January because that would allow us to potentially open up other lovers.
+
+Client 3: Yes. Willing to consider that. I mean, you know. Let me know what you can do and what you guys feel comfortable with. And I understand. I completely understand what you guys are at, because my sales teams come to me for this stuff.
+
+Client 2: I get it.
+
+Client 3: Absolutely. But yeah. I mean that would be. That could, you know, look, if paying up front, you know, can get us, you know, losers and particularly. Like. I think I really believe that. This product, you know that this is a long relationship. I think you know. I think from what I've seen. Once we get going with Mosaic, we're gonna we're gonna be using it a lot for a long time. And you know, and we're more than happy to help and, you know, even on the side.
+
+Client 3: I think when it comes to marketing stuff and everything, we do this with business partners all the time. I mean, if there's anything that we can partner on and you know, whether it's a case study or whatever. I mean, these, you know, absolutely willing to do that. But yes, I think that would be. If that gives us an Avenue. And. Let me know what you can do.
+
+Client 2: Yeah. The reason why Leaandra was calling out the annual front piece is that. In this situation where we're kind of up against our floor, something we've done that's a little creative is let me not too creative, but we think it's creative.
+
+Client 2: It's just added two free months to the term length. So basically, the year one would be like a 14 month term. We require annual billing for that just because it allows us to just have one bill go out. And the two, three months can make that a little bit awkward. So yeah, it's probably a safe bet at the 24,000 annually. If you could go with annual upfront payment in the new year that we could add two free months. That analyzes down to 19 seven on an annualized basis. And you're tracking per month basis. That's probably more helpful. That be, you know, 1642 on a per month basis.
+
+Host 1: Hey, that could. I think it's 1714.
+
+Client 2: Oh my 22.
+
+Host 1: Yeah. Analyzes a 20.5 approximately in 1714.
+
+Client 3: That's interesting. I think. And certainly appreciate you know. Exploring that option because. The thing in particular, like I think once we start the new Year, you know, might not be as big of the meal up front, if that hey, that gets us an extra two months and takes our cost down. Annualizes out. I do appreciate that. When we take that back and discuss with the team. Discuss with the team here because I would really love to do this. This would make it would make my life definitely a lot. Easier and I think it would help our company immensely.
+
+Client 3: And. As you can appreciate it's weighing we got we have a couple of things of similar magnitude. That we're weighing right now.
+
+Client 2: What else is on the radar for you guys? Curious on what else is on there?
+
+Client 3: Yeah. I mean a lot in the engineering space. So just. You know from a business standpoint. We have a we have a lot of product work that needs to get done. And we just spun up a new engineering team in Columbia. Earlier this year, we have great group of people there. But I think you know, our CTO and our CEO and myself. Want visibility and the productivity. So we're looking at some tools that kind of on the on the engineering side gives better visibility. Into the team's productivity, making sure they're working on the right things. And so a couple analytical tools that we're using that we're looking at there.
+
+Client 3: And then a Big QA automation. Initiative, which. Are kind of the three big things that are circulating right now. And you know it's not to say that we can't do all three. We would love to do all three because I think we need all three. And this is a question of kind of getting some, you know, right after this call, I think or in a little while. Talking to one of those guys about. You know, seeing what we can do? So so Yeah. You can imagine it's just. It's that time of year, when you know when. We're making a list and check it twice.
+
+Host 1: A.
+
+Client 2: Back on the holidays.
+
+Client 2: Awesome. Yeah. It makes sense. Makes sense. The end of the I'd say yeah. Feel free to view that 24 annually with two free months build annually as approved and good to go and then just let us know. I mean, if obviously you guys have a lot of moving pieces on a different priorities you're thinking about. So if building frequency becomes more top of mind, we can swing back. This is one that we can at least communicate now, since it's within my approval range. But yeah, billing for Good City becomes more topple mind or another structure. Just let us know this one's probably the most compelling from a per month standpoint, but the activists posted the conversations progress, and we're happy to kind of maybe retool some things, but, yeah, that one's probably the best per month standpoint.
+
+Client 3: Yeah, I will, I will, I will keep in touch. And again really appreciate it. The demo was really, really helpful. Because we got to see and I think some of, you know, some of what we saw. There Corilla and I Carel's the other half of my finance team. So. And you know, we're trying to stand up kind of the Rev Ops side of finance. So. I think in addition to kind of my regular fpna. Remed. I think there's a lot to like about Mosaic, even as we build out our Rev Ops capabilities and visibility team. And I thought, I mean, product. We, you know, we're our Founders, like really obsessed with. Like making sure that tools, you know, are intuitive, that they're pleasing to the eye. Like, like. He will look at the colors on charts and stuff like that and say, hey, that one needs to be a little bit lighter or things like that. So very detailed. So as. Company. We have an appreciation for that. And I have to say, when I looked at, you know, at the visuals and stuff, I'm like, okay. These dashboards and stuff are like they're like, literally, you know, screenshot, paste, you know, board ready. Like, really good stuff. It's a really nice product.
+
+Client 3: So so we you know, we want to get this.
+
+Client 3: We just need to we just need to find a way to scrape up the right number of pennies.
+
+Client 2: Absolutely.
+
+Host 1: So Dan, I can draft up a new order form. I know since now. We're talking about getting started in January. I did want to know. Do you guys, like, have a date in mind? It looks like the second is the first day working day of the year. Are you thinking like, that first week?
+
+Client 3: Or you think.
+
+Client 3: Yeah. That's the best thing I can give you right now. This, you know, this would be a huge priority because. I think particularly on the financial side like I love the consolidation functionality where. That can help us a ton.
+
+Client 3: And I would want to get rolling as quick as I can.
+
+Host 1: So like.
+
+Client 3: 2nd January 2 is a good date.
+
+Client 3: Cool.
+
+Client 3: If that date shifts it's we're talking like, maybe two weeks or something. So I, you know. I'm looking at January.
+
+Host 1: Okay. Cool. I would do the third because we do have a holiday on the second.
+
+Client 3: It looks like.
+
+Host 1: We'll do that. I'll adjust these dates, and then we'll do this for the 30th, but everything else on the order form you said looks good. Aside from, you know. Changing up these little things.
+
+Host 1: Awesome. Okay. Cool. So I guess next steps here. I know you talk to your team. Hopefully that makes it an easy win, because, yeah, now we're much below that 2000 a month number. Can we set up a call for Monday, Tuesday of next week? That way we can hopefully.
+
+Client 3: Monday, Monday Monday might not be great because Monday. Mondays. I typically get surprises, but. To say like, I mean this time the same time. Tuesday morning. Will definitely work for me. Would that work for you.
+
+Host 1: Yeah. That's actually perfect.
+
+Client 3: You know that or it would have to be, like, late Monday afternoon. Like, you know, I'm central to just like you.
+
+Host 1: So it could be Yeah.
+
+Host 1: I have a actually. Let me figure out I mean, I'm in mountain time right now, so.
+
+Host 1: Always adding and subtracting numbers. I could do 430. On Monday.
+
+Client 3: Yeah. I mean, that would be good, because that way we're not button up on Tuesday. We can we can. Give you a better give you a better feel? There for where we're at.
+
+Client 2: One, too. Leaandra, if you don't mind, that'd be having to join.
+
+Host 1: Yeah. So, Dan, I also sent over the screenshot that you showed me on our first discovery call of how you guys set up your metrics and using Stripe and whatnot? I sent that over to our data team just to scope that out a little bit. If they do have any additional questions, maybe it's something that we could go over on Tuesday, if we have time. I'll check in with them today.
+
+Client 3: Yeah. We're actually I. Actually downloaded one of your data sheets. Which was super helpful, because one of the things I'm working on today tomorrow, which I owe to Carell and team. Is, you know, sharpening up definitions on some of these things. And your data sheet actually does a nice job of. Defining you know, some of these things. Because we're literally at a stage here where we're defining what these things mean internally. So I owe the company, you know, kind of a glossary of terms. On particularly the kind of your financial and growth metrics. I mean, there's a lot of other stuff that the team wants. There's a lot of other stuff that our founder wants to see that's around user engagement and stuff, which is kind of different problems of solve. But from a Rev Ops perspective, just think of all this stuff that a Rev Ops team should be measuring.
+
+Host 1: You know trying to do.
+
+Client 3: So I know that data should be super helpful.
+
+Host 1: Which state is she does that.
+
+Client 3: Actually have it here. It is called SAS Metrics Cheat Sheet.
+
+Host 1: Oh, nice. Okay. Yeah.
+
+Client 3: I actually don't. I actually got this before our first call. And found it useful. Because it actually lays out calculations like.
+
+Client 3: Like this? I don't know if. You're. You might be familiar with it's. This thing here.
+
+Host 1: Yeah, yeah, that's a good one.
+
+Client 3: So it actually lays out calculations. You know, whereas. It's just a lot easier to use than having to read a paragraph to understand the calculation. Right? We're doing math. Make it look like math. So this was great.
+
+Host 1: Yeah, we have a great campaign going on right now. If you go to our website, it's called the 25 Days of SAS metrics. It seems to be very popular. So if you just go to our website, it's on the Top banner. If you want to sign up for that, I think we're sending out little cheat sheets every day for the 25 days of Christmas.
+
+Client 3: You know, I actually I think I got one.
+
+Client 3: Oh, perfect. But I haven't opened it. Very cool. I will definitely. I'll definitely have a look. Again. I'm excited about this, and I appreciate, you know, kind of the additional. Options here and you can send me up just to me the updated order form with that January.
+
+Client 3: Two is a holiday.
+
+Host 1: Awesome. Yeah, we'll do. Dan. So excited to get you on the tool. I mean, honestly, I can tell that you're gonna be a great user of it and an advocate. So anything that we can do to make the barrier to entry, smaller. Happy to offer that two months free.
+
+Client 3: Totally appreciated, and thank you guys. Do you guys have any other questions? We still have eight minutes here. So I want to be respectful of your time. Do you have any other questions for me.
+
+Host 1: I think that's it. Yeah. If there are other questions I'll email you.
+
+Host 1: I think the only open item is just making sure that our team on the data side is good. If they need to scope it out, then I'll let you know, but typically just give me a heads up and then if I have any other questions, I'll email them to you.
+
+Client 3: Awesome.
+
+Host 1: Cool.
+
+Client 2: Awesome.
+
+Host 1: Well, have a great Thanksgiving.
+
+Client 3: Yeah. Enjoy your Thanksgiving. Thank you. Thank you for your time this morning. And really appreciate. Everything you're doing to try to, you know, to try to get this over the line. I'm excited about it.
+
+Client 3: So thank you guys.
+
+Client 2: Enjoy your God.

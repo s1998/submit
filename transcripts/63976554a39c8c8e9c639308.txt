@@ -1,0 +1,243 @@
+Host 1: I'm not a Hello there, Leaandra.
+
+Client 2: How are you?
+
+Host 1: Ed. How are you Well, thank you.
+
+Host 1: Awesome. Are you based in Lebanon?
+
+Client 2: So I was based Loving on yeah. But right now, I'm in trying Oh, cool.
+
+Host 1: Okay. I couldn't find you on Linkedin, but then I saw your full name and I just looked you up. I'm not sure if I got the right person.
+
+Client 2: You found Okay.
+
+Host 1: Cool. I didn't see we're connected to. So we love her like, what your role is and Yeah.
+
+Client 2: Yes. So I just joined Xp peddle around a month ago as a timer where previously, I was consultant. And so, yeah, I I just don't update my linkedin. For some reason, just...
+
+Client 2: I don't it Cool.
+
+Host 1: And so you're in the finance team as well.
+
+Client 2: Yep. I am.
+
+Host 1: Cool. Very cool. Hey, Mike, Hey.
+
+Client 3: How's it going Leaandra?
+
+Host 1: Good. How are you?
+
+Client 3: Yeah doing good. Thanks.
+
+Host 1: Awesome. I know you're expecting to see Mark. So mark is one of my Sdr. And so he sets up the day He might pop in.
+
+Host 1: I invited him, but He doesn't you're good.
+
+Client 3: I just I I just wanted to make sure because I used his link and then it set up with you, so I just wanted to make sure that wasn't an issue. I'm I'm totally good to speak whomever. That's okay.
+
+Host 1: Well, awesome. Yeah. He'll definitely get credit, and he did a great job Obviously getting into you guys. And so I just not because I couldn't find her on online. Just like what her role is and Understand just helps is joining your financing team, which is great because I looked on Linkedin and I not only you. So, you know, not too abnormal to have only one weinstein team, but always better when you have some help.
+
+Client 3: Not as basically the entire finance team. So No it.
+
+Host 1: Did you know that not I maybe you're something just like it Used to me Awesome.
+
+Host 1: Well, I'm super excited to speak with you guys today. Would love to understand a little bit more about it. Is it or Or how do you guys sit it?
+
+Client 3: Yeah.
+
+Host 1: Etcetera. Okay. Perfect. And thank you for sending over the tech stack, and then some of the more, you know, high level pain points wanna drill into some of those. But first, I guess, we'll love to understand like, what was the impetus or the the reason why you just said, hey, you know, it's just take markup up on his, you know, email and respond.
+
+Client 3: I think he said, hey. Don't tell anybody, but I'll I'll give you two hundred bucks if he just just take a call.
+
+Client 3: Yeah. So You know, we being a small team You know, we we received funding last year sorry earlier this year. And so I'm I'm I already in my mind think twenty twenty three.
+
+Client 3: You know, we are going through a lot of different scenario planning and we... you know, things are changing quite rapidly. And and with that, we need to be able to do, you know, really a lot of on the go kind of scenario planning, adjustments, changes, based on expenses and revenue, And then also just the visibility of of metrics. And Kpis and things like that. So, you know, I think that there's just more and more and more being demanded of of not i and and I think it's just and you know, it's requiring more and more time to be able to provide what's needed. And so if there's a simpler way that we can do that or, you know, some different tools that can assist with that and reduce a lot of that time. That would be amazing.
+
+Host 1: Totally hear you. And so it sounds like I know you guys just announced your fund raised earlier this month, but it sounds like you guys got it a while ago, Are the newer requirements for scenarios and potentially like metrics coming from new board members and investors or is it just with the maturity of the company?
+
+Client 3: I'm sure that there is some additional drive from from the board etcetera. But, you know, additionally just for us and and budgeting and forecasting and making sure that we're able to just stay on top of everything. So I'm sure the board would love to see you know, additional info, but I think they also understand the stage of the company that we're at. So we're just kinda balanced both of those components.
+
+Host 1: Cool. Okay. Perfect. And so it was it just good timing Are you guys looking at other any other tools in the market in April as well.
+
+Client 3: Well, as you know, anytime you announce a raise. I have probably see no less than twenty five solicitation since that date.
+
+Client 3: So not just from from competitors of you, but we do have another call later today as well. So I've looked at a couple of others in the past. Mh I I don't know it at the company a few months, but When I first joined, there was a couple of options that I had looked at back then. Nothing that really seems to satisfy what I was looking for. And so it was probably a combination of both. Like, we we've looked into other options as well as kind of good timing.
+
+Host 1: So... Cool. Alright. Perfect. Well, we like that. So this time around when you are looking, is there anything said that nothing really satisfied or last time, Is there anything specific you're looking for? Like, I know that there's a lot of spreadsheet plug tools on the market, there's some more plot race tools, like, is there anything that you're kind of like more navigating towards No.
+
+Client 3: Not necessarily. I think i'd be open to to several different options. I think the options that I had looked at previously. I think they were trying to... You know, I think their platform is meant for something else? Then it also kind of did what what I was looking for and so they we're just trying... I I mean, their emphasis was not even on the questions that I asked the concerns that I had. It was on some of the other areas that happen to also fit, and that's what I kind focus time. And and so it didn't seem like it was the best fit for a couple of other you know, solutions that I've looked at. So Okay.
+
+Client 3: Cool. To give you an idea, you know, in terms of... And not a answer as well in terms of, you know, her experience and background etcetera. So you know, in my in in previous companies. I'm not sure if you're familiar with Dumb.
+
+Client 3: Yes. That we've used... That's what we used extensively, which is a much more powerful tool than probably we need. And much more expensive. And so I mean, I think they're entry level contract is for for, like, even a startup up company, I think is, like, fifty thousand dollars seventy five thousand hour right.
+
+Client 3: So that's not really what we need. Super awesome tool really amazing really powerful, but we don't have a full time employee to manage that.
+
+Host 1: So Exactly. Yeah. We actually just brought in our Vp of products from Dom and sometimes people do ask about. It's more on the Bi side so Mosaic takes yeah like an p side.
+
+Host 1: And so he definitely gave us, like, the run rundown and was, like sounds like it's obviously for, like, larger companies, that need Obi bi and have data scientists and whatnot.
+
+Client 3: Yeah. It's it's a super awesome tool. It's just not necessarily what we need. So I've used obviously, two tools that really big like that and also much smaller and obviously down to the Excel version. So just looking for something that can you know, streamline what we're doing right now and and I would say add additional visibility and then also reduce the the time of the... What it's taking us to do that.
+
+Host 1: So... Perfect. Okay. Awesome. Yeah. At you're guys say, definitely understand things can definitely be manual. So that's one of the things you'll know Mosaic. So are you guys pure saas or is there any, like, usage component services component, any nuances like that to your product, Yeah.
+
+Client 3: All of those.
+
+Host 1: Okay. Yeah. I couldn't really tell from your website like, entirely. So like, how many different products there are. So we'd love to understand, like, what percentage size, what percentage or maybe fast is usage. And then what percentage like services and services beyond, like, just like implementation fees, but we're like, professional services where you're counting hours and things like that.
+
+Client 3: Yeah. So so before we jump onto to that question, which not it's probably going to be the best one to answer that. But before that, I would love to know The question that I answered for me, i I'd love to know that for you as well mara. Since she's you know, heavy into the Fp and A of open and and, you know, in the day to day of that. I'd love to know from your perspective that just the different areas that... your... That you would think are are the biggest components that you'd be looking for in a tool. So let... I I wanna make sure that you answer that as well and then I'll get into our, you know, products and services.
+
+Client 2: Yeah. Yeah. For sure mark. Thank you. So I guess what we are looking for is something that would help us look at the budgets versus what the actual are. And just look at scenarios of what that budget could look like if our actual are or based on our actual. Right? So we can have, like, the budget that we started to here with versus the amendments of the budgets as we go on. In the year. Versus... you know, so we can have, like, those scenarios will laid out and and easy to follow as well. The other thing that I would be looking for is Kpis essentially. And assigning to the those Kpis to like, different team members and that's possible as well. So If we're looking at, for example, the usage of the clock forward, how many active users do we have or how many users in total that have the sim course, then that is, like, something that is Nice to know. On a kind of like a regular basis. So those are like the two things that I'm actually looking for. Yeah. Aside from that, I guess, you know, just just looking at, like, business performance you know, your usual margins and percentages, those things are also nice.
+
+Host 1: Cool Yeah. That's super helpful. And so two questions on that. First being where does your usage data to live? Like, is it living in your... X photo tool or is it in a data warehouse of some sort?
+
+Client 2: It's a big sped tool. Yeah. So what we do is we have a form is a service. And in this platform, like, this is like the the of like the asset that we have in that we sell, and this is like our main Source revenue, if you want, Just to put it simply, you know. And then in that platform, we have, you know, how many users in this that relate to this customer, for example, are active at this time and how many, you know, are connected but are non active. And all of those things and how many... What is the data usage? So we all have or we have, like, this data in in the platform itself. And so it's it's easy to extract for a person who is from the dev team or the tech team that we have. But we don't necessarily have access to that. We have to go and ask for it. I and it will be great if we can, you know, I'm not sure if that's possible. I'm just like thinking out loud here. But it will be great if you know, we can have place whereby those team members came go in and insert this data. Or this data can you know, we integrated into our system in a way that will like, extract this data automatically without manual intervention.
+
+Host 1: Yep. So I know you guys in Salesforce. And so one way that we could get that data in is if it was hype into Salesforce. Is that a potential possible. Like, do you guys have any integration between photo on Salesforce I could feed that would say to assume that our salesforce data is not accurate or not up to date.
+
+Host 1: Okay.
+
+Client 3: Good And...
+
+Client 3: I mean, we... Yeah. So it's it's an area that we are looking at potentially even getting rid of just because it's not used to the potential of, you know, the cost that we pay for it. So I wouldn't say that we're there yet, You know, don't have any solid plans to to eliminate it, but I wouldn't roll that component out. So I'd would probably Yeah. Not making too many strong assumptions regarding the data in Salesforce.
+
+Host 1: Got it. Okay. That's super good to know. So we could... I mean, it sounds like one thing that we couldn't help with that it would just help if you guys create a process around was a way to get the data out of the tool because we can ingest it into Mosaic. But it's... You guys would have to be the ones to upload it. So having like, someone for your dev team or your tech like, extracted and send it to you or give you access that would bridge the gap we can't really bridge there, but we can definitely get the data into the tool to help you guys have the Kpis. Can know, like, what those Kpis are that know you mentioned Mike a couple, you know, cash metrics, gross margin Op Capex things like that. But aside from that, what other metrics are important you.
+
+Client 3: I think those those are the bigger ones. Not what I missing in that list of ones that that we wanna look at So I guess we have, like, several areas So we're looking at the tax side of the business we're looking at, you know, how many tickets were issued by customers in the past one week, for example.
+
+Client 2: And from those tickets, how many were resolved, how many are still outstanding? And what was the resolution time, for example? So this is kind of like gives us a an indication of you know, what things are working or are not working in our platform? Also how many customers are using the platform at the moment? What is the data consumption if they're using the platform? And where are they using the platform from? That is, like, these are like, things that are good to know.
+
+Client 2: Mh. And, you know, this also like relates to the number of sites. So, for example, if we have, like, more than ten thousand customers in a particular site that we need to upgrade that site Mh So there's are like things that are like measures that we need to, like, keep an eye on from a tech slash dev perspective.
+
+Host 1: Mh.
+
+Client 3: So here had a little area that I know that we wanna make sure. And I did mention this in email, so you'll probably get up and get to it is just the metrics relating to our leads and the sales pipeline and just the status of those, the success of those, Yeah. Any information... Any and all information we can get regarding leads and and their status, etcetera.
+
+Host 1: Okay. And and so that part like, pipeline is salesforce.
+
+Client 3: Yeah. So that that stuff actually is That component is probably accurate in Salesforce. I know that regarding, you know, the leads etcetera our marketing handles that to put those into Salesforce. So that those the those components are probably mostly accurate.
+
+Host 1: Is my desk. Perfect. And so going back to what you were saying earlier, not are any of these metrics I know they're important for like, order party things like that, but are they also flow into your revenue forecast? I'm sure some of them are.
+
+Client 2: So they're not exactly flowing into the revenue side. In the sense that they're not influencing our Budget going forward, But we do know for example, that this client is using x number of sites and we're charging the for that x number of sites. But we're not looking at those metrics, if you... Were looking at them on a weekly basis, but they're not like, influencing decision making, which is something that we want to have like going forward. Not at this moment, I guess.
+
+Host 1: Okay. And then, Mike, in your email, you mentioned Capex. What's the is there, like, nuance the Capex and component is, like computers or what is the consisting of Capex.
+
+Client 3: Yeah. So our our... I mean, our Capex is most going to be software and head count stuff I mean, I guess we have some computers not a ton. We don't really have a ton of of business property outside of set of computers. We are and so it's mostly gonna be yeah. Capex and and, you know, gross margin and and things like that. So Yeah. I hopefully hope that's helpful. And nothing too.
+
+Host 1: I just wanted to make sure you guys didn't have like inventory component or anything like that. That's Perfect. Okay. Cool. So Are you guys... Like, is Arr a metric that you guys try or is more revenue? Like, I know with telecom companies it can be, like, tier based and it's like, in over and things like that. Is it recurring or Yeah.
+
+Client 3: So we've got two components. Right? So we've I would say, Historically, before twenty twenty two, we probably had a a pretty good mix of of current revenue as well as one time revenue, but we're we definitely have change that. I had a high higher you know, a much bigger emphasis on the recurring side. So because of our customers because of our type of of product, they're can be some large implementation fees that come with that if if they want, I mean, some of the stuff they can do some of this stuff we need to do and sometimes it can be very expensive. And so we do have a big chunk that can be kind of you know one time fees, but we do put our emphasis and our our goal is to stretch out that Arr and those that recurring revenue.
+
+Host 1: Cool. Okay. That's good to hear. And then where is your source of truth for Air come? Like, is it coming from zero? Is it coming from Salesforce or is it your own platform? Or somewhere else.
+
+Client 3: Don't not as spreadsheets.
+
+Client 2: No. It's it's it's from zero, actually, zero and it's inserted onto the spreadsheets.
+
+Host 1: Yeah. Perfect. Okay. And do you guys have, like, contract length. So like, typically when I hear that sources through the zero. There's an invoice, but it there's not, like, field. And so obviously, you're having to, like, look at every order form and figure out, like, you know, calculate that arr? Where do you guys get your start did end date for contracts run?
+
+Client 2: So we have a contract with customers. Those contracts are like for a set period of time for a set. And then based on that contract then we're issued a P o from the clients and that Po is for that period of time that is mentioned in the contracts. And then we invoice according to the field.
+
+Client 3: Yeah. There's, yeah, that... That's gonna come directly off the contract and there's really not... I maybe and these are usually multi year contracts So Cool.
+
+Host 1: And then as far kind of switching gears here to more, like the forecasting side, Is there any... I guess And you guys doing all spreadsheet say, but if you could make improvements to whether it's like, or accuracy, what would be the improvements you guys are looking to with the forecasting. Moving off of, like, pure spreadsheets.
+
+Client 3: So now you can obviously, you you'll have probably some very insights to what I to what I sure. But So from from a high level, not not on the day they side, where I I know that not gonna have a lot of other stuff. But the high level, I know that what I would love to see is actually just additional metrics, just the ease of being able to provide some additional metrics like, on the marketing side, Kpis, I know that that's really desired from not just a board, but but our Ceo would love to see more in go there. And then But i again, I would say, there's there's starting to be so many different reports that certain people want so regularly that we just know, the the process right now is very time consuming. In order to update those things. And sometimes there's small updates, but it still takes just as much time to go through to make those small updates only to find out that there was not much change.
+
+Host 1: Right?
+
+Client 3: Mh. And so you know wanna... I would say just expanding the the metrics and kpis that we can provide and then accelerating, you know, how quickly those can be created.
+
+Host 1: Cool. Makes sense.
+
+Client 2: Yeah. And just add into that just the fact that we want to move off fresh spreadsheets is by itself, like, what we're looking for. So if we can, like, have a place where whereby can extract, for example, from zero our recurring revenue versus non occurred revenue. Then that would by itself just you know, quick create... One of the reports that we're working on. To report, you know, weekly Kpis by itself. So that that by itself is is is great as to have.
+
+Client 3: Yeah. And I'm I'm sure we won't ever be fully or completely off of Excel just because So it time in place.
+
+Client 3: But it is... You know, in terms of what we are using on a day basis for our excuse me, for forecasting and budgeting and and metrics and things, that would be that would be awesome.
+
+Host 1: Awesome. And are you guys doing nations between multiple instances of zero, or is it just the one? I thought you guys have Us in Canada, and so I was not sure if you guys multiple subsidiaries.
+
+Client 2: So I'm I'm interested. How did you tell off to know that we have, like, several subsidiaries in zero and on you know, Salesforce and all of that. That's like impressive to me.
+
+Host 1: Thanks. I look at the linkedin page.
+
+Host 1: And so whenever there's, like, multiple countries of employment, it typically means that there is gonna be multiple and instances of zero.
+
+Host 1: I but I over the tech earlier. So I can't take credit for just knowing your guys as Salesforce.
+
+Client 2: Right. Right. Yeah. So we do... We do have several zero instances and then our accountants is due the consultation off of that. So we don't do consolation from or at zero and specific.
+
+Host 1: Perfect. And are the accountants in house or external?
+
+Client 2: They're contracted external.
+
+Host 1: Yeah. Got it. Okay. You guys are actually lucky. I've I've talked to pretty much everyone has accountants and... None of them do the consolidation. They always handed it back to you guys. So We we will take care of that. So definitely can get your accounting team into Mosaic. Obviously go over this, but we don't charge a per user fee. So really anyone everyone who gonna get value whether it's accountants or your department has to see everything. Can get access the tool So that's good to know. So... And then as far as like Kpis, just like going to that a little bit further. Is there anything specific? Like, are they around cash. I know you mentioned, like, you know, Salesforce and leads and things like that, but is there anything... Like, is it cohorts? Like, what kind of Kpis, we you think it's like the next step.
+
+Client 3: Yeah. So I'll i'll provide a little bit of clarity. So our our contracts are generally larger and longer term. So we probably have I would say less than thirty customers.
+
+Client 3: Mh. So some of the some of the metrics that I think are pretty standard in an saas business aren't really applicable to us yet for instance, we don't really look at and I don't think that it would change any of our decisions when we look at you know, lifetime value or cost of acquisition would would be pretty muddy and messy at this point.
+
+Client 3: And and so... And churn, like, those aren't really the metrics that we look So for us, it's gonna be you're really honing in and expanding those metrics within marketing and understanding the you know, the exact status success, the result of of those leads that we received from a a marketing and sales standpoint.
+
+Client 3: And but additionally, in terms of cape guys, I mean, I think that's gonna be a a big area where our Kpis exists is gonna be on that marketing So I would say some of the standard Saas metrics probably not too applicable for us.
+
+Host 1: That's super good to know. And so two pieces off that. The first being Is all of your marketing data in Salesforce or is it... Like, I know a lot of people use Hub hubspot for marketing. Do you guys where does that live?
+
+Client 3: Yeah. No. Maybe you can answer that. I don't we don't have have spot or anything in.
+
+Client 3: Okay. There may be another tool that that Kelly using. I don't I don't remember or call off the top of my head, anything else that she does, but I would say that most of that just lives in Salesforce.
+
+Host 1: Okay. So one thing I wanna be transparent about is we do pull in Information from Salesforce from the opportunity level So any of the leads data, we could actually get in via a Csv upload of, like, whatever Kelly has and it would be a custom metric, which is on a big deal at all, but we like, have the most robust metrics or from Salesforce on pipeline. We'll show you how that works and we'll show you couple examples of the marketing metrics we have. Or that we can create for you, but that would be, like the well... Because it's just too much data to pull, like, every lead from Salesforce. As you can imagine, so that's that's the reason for that. But aside from that, I...
+
+Client 3: Not not too much for us ...because again, I mean, our customers we... We are not huge on volume. Right? Like my last company we had twenty thousand plus customers and I couldn't tell you how many leads. Yeah. Would be so many to bring in. Whereas in our case, I mean, those leads are probably pretty tame.
+
+Host 1: Okay. That's good to know. And then so kind of off of that as well, how are you guys building your revenue forecast? On a customer type by customer basis or maybe even opportunity underneath the customer or how do you guys do that.
+
+Client 3: So we have a couple of components. One is you know, built directly off. I mean, our sales cycles are are generally I mean, they can be six months on a really quick end to a couple of years. And so you know, I would say that we have a good chunk of that forecast that is coming based on what's in the pipeline currently and the customers that we're currently working with. And then from there, you know, there's probably gonna be a a chunk that's identified in terms of the, you know, exactly what what customers that's going to be to make room for new customers, etcetera. But, you know, the bulk of that is gonna come from just, you know, the the let's call it ten to fifteen customers that are currently, you know, being that are further and you know, down that to down that process down the line.
+
+Host 1: Cool. Okay. Perfect. And are you using any kind of, like, sales capacity modeling based off quotas or anything like that?
+
+Client 3: I mean, we would probably like to have some additional some of that as well. So that would be great any info that that any reports that are around that. We're I'm sure our sales leader would love to. To be able to implement some of that or he would probably be the one against it. That what we'll say what the data is.
+
+Host 1: Yeah. For sure. Awesome. I know we have three three minutes left. I do wanna set the demo but question for you guys, You mentioned obviously, scenarios are high importance. Are those scenarios based off like attainment or head count or what are the scenarios you guys are using?
+
+Client 3: Yeah. I would say that... So you know, for us, we have a lot of very large deals in the next you know, let's call it three to six months that that could definitely change the outcome of of, you know, what twenty twenty three twenty point four and onwards is going to look like. And so based on on some of those revenue targets that are hit, we would need to be able to say okay. Well now that this this, you know, we closed an additional x amount and revenue, that's gonna, you know, open up for you know, x amount new head count and soft wear and expenditure, etcetera. And so we're really kind of lever up, you know, as the year goes on, based some of those things that close on a revenue on a revenue standpoint.
+
+Host 1: Cool. Okay. That's awesome.
+
+Client 3: Yeah. So it's kinda like... So that's probably i I guess, combined with kind of a quarter by quarter forecast based on how that quarter went is gonna determine how that next quarter goes in terms of hiring plans and and things like that. Oh, okay.
+
+Host 1: Perfect. I love that. Awesome. Well, I'm super excited you guys at tool. I'm gonna bring my solutions engineer is prior f. Vp finance also banking before that. So it can definitely get into the nitty gritty technical with you guys. Looking at the calendar and not a toronto. Is that pacific time or eastern time.
+
+Host 1: Eastern. Okay.
+
+Client 2: Cool. I like this some time.
+
+Host 1: Yes. Okay. Perfect. You guys have time I have tomorrow at one Pm mountain or three Pm eastern. Or some availability on Wednesday at eleven mountain, one Pm eastern. Or I have other times, but it's kinda sporadic.
+
+Client 3: So so tomorrow, I would have some time in the afternoon. So maybe after two Pm mountain time, I would be available. Or Wednesday, all morning. I have time. Or afternoon, but between about eleven thirty and one Pm mountain time, I'm not available.
+
+Host 1: Okay. Could you do at one Pm mountain time?
+
+Client 3: I could. Maybe one fifteen or one thirty would be better, but I could do one. If I had to, Okay.
+
+Host 1: I'm gonna let's do. One for now because my solution is your house when it too, but I'm not really sure why he's on the next meeting. So if he doesn't need to be on this, and we can push it to one thirty.
+
+Client 3: K.
+
+Host 1: So... Yeah. I'll I'll let you guys know. But the... Let's pay for that right now, and then I'll move it if needed. Is that work for you Nana?
+
+Client 2: Sounds good. Yeah Too awesome.
+
+Host 1: So I'll send an invite out. We'll get into the full tool then And then, yeah, See what you guys think always open a feedback. So definitely keep the conversation flowing we get into it.
+
+Client 3: K. Sounds great.
+
+Host 1: Looking forward to... And you guys talk soon.
+
+Client 2: Lot.
+
+Client 3: Care.

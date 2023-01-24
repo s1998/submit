@@ -1,0 +1,99 @@
+Host 1: Now, so I'm glad to see that. I appreciate you being flexible long time. It's It's tough with the day off, like the day in Australia in the. Us. We had a holiday last week and So we felt like, we had a long time off but it was just four days.
+
+Client 2: Yeah. Yeah. Now would or would Okay.
+
+Host 1: Cool. So since it has been a while, do you effort at tool. I know we're today we're just really implementation and pricing, but we could jump into it if you had questions.
+
+Client 2: No. No. That's all good.
+
+Host 1: Okay. Cool. I guess, initial feedback, Anything to know as far as what we offer versus what you thought and, like, you know, where we suck up compared to other ones you looked at.
+
+Client 2: Now as i said they all work they would they will work. Same sign, but different everyone, you're all trying to achieve the same thing.
+
+Client 2: So... Yeah Okay.
+
+Host 1: Cool. So it does it come down to price or what's the thing that's gonna make one stand out.
+
+Client 2: My price is definitely very important obviously, because it's especially because it's a to long term relationship, It's not just a buy So that's gonna be real...
+
+Client 2: That's gonna be really important and they don't Yeah. It's so for me to sit back and it says which tool I like in relation to in in respective matching it with price as well.
+
+Host 1: Okay. Cool. Well, the good thing for you guys is you are falling into our Smb tiers. So we go to pricing, we'll talk about implementation. But Smb has a lot of reason for having a different tier. One being that Obviously, when you're smaller, it's less complex to implement you guys are really building through Mosaic. And that's gonna mean a faster implementation for you, quicker time to value and also less complex for us, which is why we really do reward you with a a lower price. But it all starts out with data discovery after kick. And so the whole process here from end to end, Typically and looking at your tech stack, you guys haven't really typical tech stack should probably be around four to five weeks, but obviously, as holidays come up if anything, you know, is in there, it can vary in time. But what we wanna understand is just you guys wanted to find things. That way once we do get all our systems connected, which Erp Hr is gonna take literally just a couple minutes or hours depending on how much data you have in there. Data discovery is really more your non Gaap top line metrics that come from.
+
+Client 2: You don't have a connection to employment it here out the moment to you.
+
+Host 1: Yes. So we just adjust that via csv. It's just essentially an download or upload. Okay. But... yeah. So really your Crm is where we're gonna take your information really create that logic behind the scenes to get to your Calculation or really any of the non Gaap metrics all saas metrics. And from there, once you do connect everything, you guys are gonna just really wanna make sure that it matches that your. So we're gonna actually take your source of truth see what's coming in mosaic. If they're not matching up, figure out why and then configure things so that they are. Sometimes it's just like, hey, there was a nuance here or that we actually we calculate it this way, and we just wanna make sure you can trust this coming out of the tool. And then from there, you'll just be setting up your dashboard, your forecast everything like that with our team hand holding you. So we definitely take the white approach here, we know that everyone some things differently and you're living at this tool, so we wanna make sure we're comfortable with love it.
+
+Client 2: Cool. Okay.
+
+Host 1: So we have three teams. Our data architects get involved anything relating to a billing tool, which since you guys are using zero today. It's actually very simple and not nuance at all, but for Salesforce, definitely wanna make sure that we understand what fields matter and what were they are incorporated your metrics. Our Cs team members are not just product experts but they're also domain domain for, so they're all either part f fp thresholds or big four or both. And so you can definitely own them for any kind of like, best products or just questions and like, really see them as a financial adviser as you need it. I know obviously, like, your Cfo, so you're, you know, or ceo. Oh, antifa Cfo. So really well versed space, but just if you guys need help with anything, feel free to lean on them a lot. And then with support, just really tickets bugs, and like that you just have a full team over here to help support you.
+
+Client 2: Okay.
+
+Host 1: Cool. So as far as other things to note during onboarding, if there are like, milestones, like a big one right now was obviously budget. So if there are certain due dates or certain things that we should line to, let us know that we can kind of work backwards. Another thing that we wanna mention here is that there is really training in any capacity that you want. So of course, one on one training with rcs cs team, but we also like community We actually have office hours weekly. That way you can engage with other mosaic customers and ask questions and do that. Or we have a knowledge base and some guided tours about the tool. So whether you wanna do it group setting, one on one or on your own definitely have the flexibility.
+
+Client 2: Now but this is not the budget period for us. We have a thirty year end.
+
+Host 1: right. Yeah. You guys have some time you're thinking ahead. But, yeah. So really any anytime you guys are having anything though, like, a lot of people will say, Yeah, we don't have like a hard deadline, but, like, our board is coming up in two months. We wanna have these metrics make sure that they're live there are priorities.
+
+Host 1: Just let us like that. Yeah. Okay. Cool. So as far as pricing and packaging, really the would say the most important and most popular is a bundle. The only option aside from the bundle is analytics. You don't get planning, is just literally like a visualization tool. So definitely the bundle is what pretty much everyone gets I only sold one analytics only deal just because if you're looking for an tool, you want the p part of it. So that's the really important part here. And so like I mentioned, we have Smb pricing for you guys, it is significantly discounted just because everything is easier to set up. You guys are smaller, we're able to help mold you with the tool. And it's a lot less of a lift on our end. So twenty four thousand build annually unlimited users, unlimited scenarios and data. So really guys many people as you want to the tool. It's super scalable. We a one time fee of three thousand dollars for implementation. This is not her integration or anything like that. This is literally a very forecast one time cost. Even if you guys were to let's say you get a billing tool down the line or you move from zero to anything else. We don't charge again. So this is really just one time to make sure that we have your buying implementation that you're gonna work with us and and set aside the time. And you can expect to see only this amount. We will never, like, you know, mid month or mid year be like, oh, that's a good feature, but you to pay extra for it. So really an all model.
+
+Client 2: Okay.
+
+Host 1: Cool. What do you think??
+
+Client 2: Well it's expensive. I mean, it's Us dollars as well. So we get we get really hit. I mean, I think it's about sixty five cents at the moment. So it's super expensive. But, you know, that's it is it is what it is.
+
+Host 1: If... So I know glad I'm gonna struggle on that.
+
+Client 2: It.
+
+Host 1: It's something that we honestly here every once in a while with Australia, I mean, surprised... Like, I also always expect to hear it surprisingly, like doesn't always come up. I know looking at data rails and like couple others that are probably in the similar range, but you're also looking like Prime ka, which are I would say smaller and less less of a investment. However, I would say if you really wanna work with Mosaic as far as the tool goes and the functionality, we can definitely work with you guys on price. I mean, you guys are in both buckets here for us and b or both seed and your under thirty five employees. So we can definitely have flexible this is, like list price. But I guess, what I would need to know is Do you like the tool itself? And if like, also who comparing us against. Because obviously, we are gonna be more in like a call so we can't match what they usually come in at, but we can negotiate and, like, kinda of meet in the middle and find a number that works for you.
+
+Client 2: Yeah. Look as I said. I'm looking at... I've got my my final three with Mo Prime and C. Yeah. You'll have you'll have to come down if you're gonna have a chance. As I said that, you know, and I think that's also the the currency, if you guys wanna sell into markets like Australia, you can't be selling a Us is because it just we don't own Us dollars and the our currency is really taking a big hit in the last period. So, you know, and that's, you know, we we have to do that to markets that we sell into as well.
+
+Host 1: I mean, we have to do we can't charge australian dollars selling into New Zealand.
+
+Client 2: Because, you know, there's a fifteen percent variance. And they just won't pay the Australian dollar price. So So, yeah, that's you know, I think don't I have a think about you could do I'm gonna board on Thursday, my time where I wanna present a decision to the board, Okay.
+
+Client 2: I've got all the slides of the various three options. That I would... That I would present what I would go through. What what what we're gonna get out of moving to an fp tool.
+
+Host 1: Okay.
+
+Client 2: You know, have a have another swing.
+
+Host 1: Yeah. So One thing...
+
+Host 1: I mean, I I don't wanna be unrealistic. I did just win a deal against causal where I know they do come in a lot less but like, Mo, like, the value that we offer is worth it to pay a little bit more. I mean, probably really is a very different school from us just because I mean, one... I don't know if you saw, but B is actually suing pride because they we're not representing the value of the tool properly. Actually suing them for ninety million right now and they bought them for a hundred million. So it really is like, a very different tool. So I know that we can't come in at how much pry is offering, but we definitely can at least start out with, you know, knocking off the implementation fee. And then seeing what we can do on this. It's gonna be pretty difficult for me to get that far below twenty thousand Usd. Like, I can probably ask for approval on, like like let me actually check my floors here.
+
+Client 2: But I mean, I know how it works.
+
+Host 1: So I think would be another good we may be another good customer in a new market for you.
+
+Client 2: Us you got to, you know, sit c, see how valuable it is?
+
+Host 1: Yeah. So, I mean, So I can ask for manager approval on eighteen and a half. So all start there. And yes that's a pre significant can discount. So is that? Like, five and a half and then three? But It honestly, if if we move anywhere off that, it's gonna be very slight. So is that a reasonable, like, potential or is that still super far off?
+
+Client 2: Spit advice.
+
+Host 1: Okay. Because, yeah. I mean, I I definitely don't wanna waste your time. Let me go see what I can do. I'll probably get answer from tomorrow because it is the end of the day.
+
+Host 1: By I wanna be able to line to your Thursday date as well. So let me see what I can do. And then is it potentially okay to do like, a two year because that would also help us out as far as Potentially, it was if it was with if it was worth my.
+
+Host 1: Okay. Yeah. I'll see what kind of options we can get. And then, like, kind of level sweet pull and then come back with you over email and then why don't we set up a call just to see what you think. Would that would it be better to have a call after the board meeting or before?
+
+Client 2: Well, I think you know, I need to... I I'm I would probably have a quick call before so I can understand you're putting your wrist foot forward.
+
+Host 1: Okay. And today's Tuesday for you. So Wednesday Why don't we just have a call tomorrow or, like, around the same time? That way I can just you know, present it. And I actually might even bring my manager on. That way he can do some faster approvals than I could. If you're free, And then... yeah. It looks like he's available. So tomorrow at same time we started today, And then Also after your board meeting, that way, we can just get a yes or no.
+
+Client 2: Yeah. Cool.
+
+Host 1: Cool. Okay. Perfect. Awesome. Well, I will go back and talk to him tomorrow first thing, and then we'll talk later in that or morning. Then we'll go from there.
+
+Client 2: Okay.
+
+Host 1: Thanks, Leaandra. Awesome. Thanks richard. I'm great rest.
+
+Client 2: Bye.
+
+Host 1: Bye.

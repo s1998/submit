@@ -1,0 +1,171 @@
+Client 2: How you doing? Yeah. Yeah. How's it going. I'm good. How are you? Now that at all. Slowly finishing my day... It's been a hectic Monday. So it's almost like five Pm here, so. I'm really looking forward to some rest.
+
+Host 1: Okay. Cool. Thanks for taking time out your Monday. Where are you calling from right now?
+
+Client 2: I'm currently in Be grade in Serbia.
+
+Host 1: You It's every. Okay. Cool. I am actually in Toronto, Canada. Very very alright. Yeah. So what time is it in Toronto?
+
+Host 1: Right now, it's ten Am just Monday morning.
+
+Client 2: Because it's just like, a six hours difference. Yeah.
+
+Host 1: Awesome. Hope you had a great weekend. Really thank you. For your time setting this up Just for some contacts, I'm Enrique, I'm a product manager here at Sales Ai. Building sales tooling and you want to get a little bit more information on the competitive landscape. I think we're found your name on g two, and I think you're talking about Gong, and love to learn a little bit more about that particular giant in the space. So maybe you can start with I just wanna get a little bit more context about yourself. I'd love to hear about it the title your your kind of industry that you work and kind of what what your company does now.
+
+Client 2: Okay. So I work Shift. Safety this one of the leaders in digital trust and safety space. So our role is to help other businesses to stay ahead of fraud by utilizing machine learning technology. So overall what we do, we help companies to prevent fake sign ups account takeover covers and the usage of stolen credit cards on their platforms. What I do currently well, I work is account executive here at safe. I'm in charge of sales business in Central and Eastern Europe. End prior to this role, I worked is a senior business developer and manager right and I was in charge of team of maybe thirty eight thirty nine people. That was working on outbound business developed so it was team of market researchers. Business is development representative seen business development representatives, team leads and so. Got it.
+
+Host 1: What's the kind of average Ac for the deals that you can?
+
+Client 2: Well, you know, it depends it depends on the market we work in Smb space We were called so in mid market enterprises. So it's heavily affected by the size of the company and if company is operating on multiple it's it can be as low as two point five k per month, like monthly regarding revenue, but also it can be ten, twenty thirty times. Higher. So it's like a really huge scale.
+
+Host 1: Got it. And I'm curious like, how did you start using Gong in the first place. Like, is this something covered at this company or a previous company?
+
+Client 2: So I I started using Gong at this company. And they were really I'm not going to say boring, but they were really persistent So their outbound process was really small to know some they reach out to the right people at at our company we booked the demo with them and then we started working on it So it's a really solid approach and they also have a really nice blog and they send all those great news newsletter. So this is something that was helpful for us to to be more familiar with Gong. We didn't have any type of intelligence to like this before.
+
+Host 1: And is this something that the team was looking for a long time? Or is it more just Gong provide you with this opportunity.
+
+Client 2: Well, gong provided us this opportunity as we let some knowledge about the discovery calls about the analysis and we want you to become better in especially in those discovery calls and we wanted to to to see what successful people are doing and to Let's say replicate that across the business.
+
+Host 1: And do you think the team has been successful in doing that since you've adopted gong?
+
+Client 2: Well, yes and no, I think it comes to to the people that are using it. So I literally use it on daily basis. But some may be colleagues that sir... Like, business development representatives they don't use it maybe that much. So it's up to people and leadership to to empower them and show them the the value of of Gong. But personally I like to listen to at least one a call per day. So I can see some of my mistakes, rooms for improvement, to see some tough questions and to see if I would be able to to answer those questions in a, different manner, so to say.
+
+Host 1: And are those typically your own calls or is it your team's calls?
+
+Client 2: Well, actually, both, when I'm... Let's say, approaching san new this feel like i gaming or fin fintech or something that is really complex. I like to listen to the recordings from some of my colleagues that had a chance already to talk to some businesses from from that space. So it's mix of boat calls.
+
+Host 1: Colombo but that... When was the last time you did something like that? Looking into another call calls to get more information about the industry.
+
+Client 2: Hey. Actually, it was Last. I think Thursday and Friday, I spent some time because I had some complex cases coming and I wanted to learn and some challenges were pretty pretty similar. So it helped me a lot know to better understand. And to use this vocabulary from that industry because It just copy pasted literally things that prospects mentioned on the call.
+
+Host 1: No. That's really cool. How do you go about it? Seeing which call to how look into do. Are you using, like a search are you searching by the name of the industry? Like, to do that?
+
+Client 2: Well, we are integrated with with our sales and with Cla, So I'm using combination of boat tools and I can do a search. But yes, I do agree this part could be maybe maybe better if I want, for example, to to go and listen to some fintech calls on iga gaming. There should be some some triggers or maybe how it called in text like tags or something like that that will help me to to identify those calls. So are you actually searching like, for example, Fin like and Iga or Well, this was just an example, but what I let's say did I have a call with The ai gaming company, and then I would check in our salesforce I will check if there are any iga gaming companies in later stages and that I would do, like, a quick check on on Gong type enabled company we're talking to and see what pops out.
+
+Host 1: Got it. Makes sense. How else do you use Gong on a weekly basis? So you mentioned your main use case is daily listening to your own or your purest calls. Is there anything else use for? Well, definitely.
+
+Client 2: So I... When I was busy developer manager, I wanted to hear what my team is doing. So that was another call. That i another usage of of Gong besides this, I was using Gong to provide feedback to some of my colleagues. Things that were good, things that were not good. And I would you know, write in a comment or some section that could be improved and it was like a really solid system that help them to to see if something that need to be improved. So that was another thing. And sometimes, of course, I want to check I want to check like, talk ratio. I want to check the how length was my monologue the length of my monologue, maybe something around customer journey interactivity, am I patient enough am i interrupting prospect and some of those things. So those call analytics are really really important And another thing when we want to implement for example, some new program and we want to to maybe improve our discovery calls and we want to see if if we're doing right when it comes to pain pinpoint, importance of solution, how we tackle objections, we can also add those trackers. So this is also kind of interesting for me. And finally, what I was really bad at was setting up the next steps and setting up the next Move by prospects by us. So I also use Gong to improve this and to finish every conversation with setting up the right expectations on both sides.
+
+Host 1: Cool. There lot of thing you just meant to say and this kind of one by one a few yeah here.
+
+Host 1: So you mentioned when you were a Bd, you, you provide feedback and gong via comments. How often were you doing that? And also are these timestamps comments or is it just general comments for the video?
+
+Client 2: It was like a timestamp comments. So we wanted let's say that that we did analysis of several calls. And I wanted to provide personalized feedback to all of my peers. So what I did, I knew that some people struggle to ask for meeting time, some people were giving up let's say, too easily. And I wanted to help them to tackle those challenges. So i we had one on one sessions every week. So I would day before that one on one session, I would spend some time listening to calls providing feedback. And my style was to to help them to tackle one by one problem. So I wanted if someone has a problem how to open the call, was really bad there. I wanted to provide feedback and to improve that part. For other people, it was maybe harder to provide value in terms of customers that we work with or someone's struggles with the industry and so on. Cool. So you actually mentioned you still have these like, weekly one on one meetings, but you to prepare for these.
+
+Host 1: You have these comments gong. Right?
+
+Client 2: No. It was in during my previous role when I was Billion. Right now as account executive, I have a calls with my with my manager. So we work in a slightly different way compared to this. But for the meetings with my colleagues, yes, they would get to personalized feedback. On their calls. Got it.
+
+Host 1: And well what's this new way that you work right now? Like, did does your current manager not use the common functionality?
+
+Client 2: Well, he's not listening to two gong calls at the moment. So he's focused on summer. Some other things. But what we do instead is that with my colleagues, we provide feedback. And sometimes one of our colleagues says hey, this was a good k try this and vice versa. So we have this like, Peer two peer. Communication more developed right now.
+
+Host 1: Then for the analytics, which What exactly do you do with these analytics like talk ratio interactive like, how often are you looking at it? And what do you do after you look at it?
+
+Client 2: That's a really that's a really great question because I noticed a great correlation between those industry based metrics and success of our calls. Of course, there's some such situations where you have customers that don't like to talk, and they expect to see that the demo or they expect to see the deck. In those cases, this could be probably better executed, so that's something that I can complain about. But overall speaking, I'm trying to stay within those industry based metrics and standards because I love on those discovery calls to learn more about the customer. And the best way to do is to just give them opportunity to talk and to to answer the right questions. And sometimes for us, salespeople, it's so hard to part my language, but to shut out, and we need to do that occasionally. So I'm trying to to balance those things and ask to write, let's say, number of questions their called to try to to reveal the pain points consequences and to try to to better understand what's going on.
+
+Host 1: I'm must very curious is, like, would. And and feel free to say no if you're not comfortable at play Can you share what exactly that call analytic section looks like. Like, I've never actually seeing what it looks like with gong.
+
+Client 2: Give me a second, please. Let's see if we just to see, u.
+
+Client 2: Okay. Present. I'm using Zoom. Sorry. So i need some time to Okay.
+
+Host 1: So here is one of my calls.
+
+Client 2: Can you see my screen I guess?
+
+Host 1: Still.
+
+Client 2: Or not yet.
+
+Host 1: Okay. I can hear you now. Yeah. I can see a screen as well.
+
+Client 2: Okay. So this is one of the the the calls with my potential customer And here on on the left side, there's some some stats like talk ratio monologue longest customer, story interactivity, patients and so on. So those are some some basic stats that I like to observe. And here you can see the graph. So I'm purple color my customer is marked with red color the results transcript and you before So play move effect before later and so on. And In this section here, you can play with comments you can play with scoring You can request feedback You can share with the with the customer, you can see if they open this and there's also gong assist. Got it. And I think is there also like keyword or like, topic tracker?
+
+Host 1: I think I've heard about. Exactly.
+
+Client 2: Yeah. Exactly. So you can hear here... I mean, you can see here. So had some small tech... Sorry small talk. Call setup up something more about see you can see discovery when we mentioned machine learning technology, customer success. And, of course, next steps. So this is like the overall. The prospect didn't ask anything about the pricing or economic situation, but there is also an opportunity to to have this included as well.
+
+Host 1: And is this something that's useful to you?
+
+Client 2: Is this useful to me? Well, it's useful especially when when I want just to hop on a certain part of call that was That was important. So for example, in this section here, maybe we mentioned maybe we mentioned this is about So it was about how how our machine learning technology works. So this is the the point where I come and I see my pitch. I will see if prospect understood well and so and so it's helpful even for my calls, but it's even more important when when you have like, one hour long call of of your colleague, and you're not familiar with it. So... yeah.
+
+Host 1: Got it. So it's like when you're watching one of your holidays calls, do you... How how often are you going to this topic? View and using that to, like, guide what you look to.
+
+Client 2: Well, I think it's really... For me it's really essential because the alternative is to to go like here and to see what what my customer mentioned on the call So when when we say that this is like a call setup or introduction or something like that. Yes. I go to that part. Also for me, it's really useful to hear more about the questions that customers asks So I use this, but i also love to to go and to to see the questions and comments that customers. Yep. That's the most important part for me.
+
+Host 1: Got it. So I'm curious, like in in this example here, how do you know which section is a question from your customer? There's some sort of topic, because I I don't think I see that right now.
+
+Client 2: No. No. So in this particular case, so let's say this is part of discovery. I understand that it's probably going to be around this part it is probably going to be discovered. So what I will do, I will probably go here. And I will do something like this. So this is the way. Like, I I want you know, to come to this part. I just move to one point five speed, and I listened to this part especially if the prospect is explaining problems. Sometimes this is helpful, but sometimes I just go and and see what prospects are talking.
+
+Host 1: Okay. So So sometimes there isn't actually, like question topic. You're just looking at the timeline is seeing, like, if if customers talking for a long time, then they're probably, like, maybe asking your question or Yeah.
+
+Client 2: Exactly. Or sometimes when you see this smaller, like, almost like the lines. I think it's probably that they're confirming something and then the conversation goes back to the a or whoever is leading the conversation. So these are probably just, you know, have to say elements of confirmation.
+
+Host 1: Awesome. And what are your thoughts on this design? So Colombo like, another type of video player design is something more like Youtube. Where you have... Like, the video is very big, and then you have to, like, scroll or a timeline, whereas I feel like gong here that they prioritize like, the speakers. Right? And they talk about know who's speaking? Is this more useful than the the ideal alternative? Like, what what are your thoughts on this design here.
+
+Client 2: Well, you know what would be great, probably it would be great to have the best of both worlds. So I think that even here, I think we can go and hop and use some like youtube video, but we don't know which part. And what would be really helpful is if we could have, like, those timelines like, okay. So we have discovery at... That starts at, I don't know. Five twenty six, and it's finished by ten twenty four, then the next next sequence next element and so on. And that's really helpful if we could you just go and and click on it and go to that section right away. I think this would be like a major improvement. Got it.
+
+Host 1: And Colombo from your workflow, like, how often are you watching the entire video of your your peers calls versus just like going to certain parts on this timeline.
+
+Client 2: Well, I rarely watched the whole video. I mean, I'm not interested in, like small talks. I want to see those challenges. So potentially, I'm just moving from. Let's go with this section. Then when I finish i go, let's go with this section, another section. Okay. And this is the way how I'm using. So it's not important for me to hear the pitch from from my colleagues? I mean, it can be useful, especially in the beginning. But at this stage, I think it's more important for me to to understand those challenges and to see sometimes if I don't kept the answers to those questions to see what my colleagues did, but the whole video it's not important for me. Yeah.
+
+Host 1: I'm sorry.
+
+Client 2: But it said true. Tom you need more screen or I think we'll ask which to how about this screen is like, Is there actually like a a overall like, aggregate metric version you see, like, across all your calls, what is your talk ratio yeah?
+
+Host 1: So it's here. Like, view your stats? Yeah. It's a little bit hidden on my laptop.
+
+Client 2: But when you go here, you will be able to see, like, maybe some of the conversations and you can see the the metrics and you can play with with with this, and you can see like the talk ratio and all these things that are aggregated. So some of my calls they were, like, higher than sixty five? Percent but some of my calls were like, forty percent twenty nine. So they're all speaking, it should be around it. And here trackers. This could be all cool. We are using metric at Shift. And we want to to see how how we are let's say fine pain identifying decision process, value drop and so on. So you can also play with this and see if this is if this has been seen on most of your calls.
+
+Host 1: And is this something that you set up or like, your sales ops team sets up, like who does this?
+
+Client 2: This is this is set up by our sales. Ops. Okay.
+
+Host 1: How often you looking at this view, like the the aggregate metric one.
+
+Client 2: Well, I tried to to watch it at least once in every two weeks. Just to see how i'm doing because I hit some problems with patients and my interactivity on on certain calls wasn't the best one. So I tried to to improve that and to ask many questions and, you know, to give opportunity prospects to answer those questions. And This was also something I I I tried to improve. It was around thirteen or fourteen when I started, but now it's like, slightly slightly higher.
+
+Host 1: Sorry what what is question rate?
+
+Client 2: Like, the number of questions that you asked during the the call? Okay.
+
+Host 1: What what's the recommendation for this specific metric?
+
+Client 2: I think it was around fifty it's more than enough for for the first conversation.
+
+Host 1: Got it. Makes cents. Cool. As one question about... You a share anymore. I'm curious like, In terms of all the features that you mentioned or maybe not specific to a feature. Like, what do you like least about gong?
+
+Client 2: That's that's really that's really great question. Well, one thing that maybe I don't like, it's not related to the product itself. It's more about Their way did they want to be everything like Crm analysis everything. Sometimes there are these reminders, here, you'd need to follow up with this person or it's not necessary. Maybe it's helpful for some people, but for me, it's not it's not the best It's not the best thing. And another thing, you know, when I'm doing the demo with the with the customer, It is expected that I will talk seventy eighty percent of of time. I'm showing the the the value to the customer solving the problems that we're mentioned on the first call and still those metrics for talk ratio and interactivity are not not changed on calls. Which is something that that should be definitely improved.
+
+Host 1: It that makes sense. So they aren't smart with their analytics that like, if they know what type of call it is, they'll change the expectations.
+
+Client 2: Exactly. This is something that that should be definitely executed and and done on their end. Got it. You mentioned earlier, you also you weren't great At like, setting up next steps and gong helps by improving this.
+
+Host 1: Like, how exactly did a help with that?
+
+Client 2: Well, when I checked, so you have also saw a section where you can compare your let's say analytics in your results to the colleagues. And I noticed that my expectation for the next steps were not there, they were probably missing or never were mentioned in not to many of my calls. So I added my off like a reminder, hey, this is something that you needed to do. I put it on on my wall and this was like next steps. Don't forget. And then I started you know using it and I think I improved a lot there. Awesome.
+
+Host 1: And what is this like, expectation of next step? Is that actually an analytic like, talk ratio of example, or is it something else?
+
+Client 2: No. It's it if you'll measure let's say that you're wrapping up the conversation, so you had a good chat with the cost customer and the next steps will be when you say something like, hey, there's some synergy between us, maybe you're interested, maybe we can show you more on a demo or how would you love to continue the conversation with us. So it measures different ways to to set up the the next step and the expectations from from customer.
+
+Host 1: So how is that like, how did you know that you weren't doing that? Well, compared to your peers. Like, is there some sort of number or like?
+
+Client 2: Well, yeah. I I did like an analysis and it said that next steps we're not, you know, therefore for certain number of calls. So and I listened to those calls just to verify, it's like trust verified. Yeah. Type of activity. And I really noticed that I just wrap up the conversation, and I didn't set up the clear expectations for them or didn't test the right questions. And then I started you know, with that paper on the wall and started really asking for permission to go with the demo or to do something else.
+
+Host 1: So that's something that's shown on every call. Like, for example, you have, like, talk ratio interactivity patients. Like, is that also a section called, like, ask for next steps?
+
+Client 2: No. It's just part of those those... How are we calling it let to see how has it called Yep. Give me a second, please. Something like trigger words or something like that, but Yeah. Trackers call it trackers.
+
+Host 1: Got it. Okay. So on the track section, you can see like, compared to your team, how how often you mentioned the certain one? And then that's how you found out that you weren't mentioning it as much.
+
+Client 2: Yeah. That and also, you can also see the stages in a in a call. So let's say that maybe I spend more time on small talks or maybe I didn't use too many differentiator when where discussing about competition And sometimes the speech or something like that could be, like, I could reduce the size of that and so on. So... Yeah.
+
+Host 1: Got it. Sounds good. Awesome. Those are all the questions I had Dave here. This is really really useful. Honestly, if Ver interested said, we are building a product phrase, to Gong. Think in the coming weeks once we start our beta program and we really get this program going. I love to follow with you and maybe schedule another one of these meetings for some of your feedback. But this is super too useful.
+
+Client 2: Listen, if I can help, I'll definitely be for you. I understand and especially when you're... I think that you're doing the right way because It's always the to learn more about what customers think about Gong it is a adjacent product, I would give it mark eight point five or nine out of ten, It's really solid. But if you could build something, maybe even better Why not? Let's give it a try.
+
+Host 1: Understand, that's the hope. Okay. Cool. Yeah. I you had a long Monday. I hope you have a great rest of the day. And again, thanks. So much. For on this call.
+
+Client 2: No problem. Feel free to ping me time. Awesome. See it. Cool. Thank you, cheers.

@@ -1,0 +1,323 @@
+Host 1: Anything If it's not letting you un unmute or on video got it.
+
+Client 2: Just figured out the... How's it going?
+
+Host 1: Good. How are you?
+
+Host 1: I had to figure out that little pickup up there in my bad.
+
+Host 1: Yeah. So sometimes that happens. I've had a couple people recently joining and it happened to be once where I couldn't an video and had to even and come back.
+
+Client 2: So not that.
+
+Client 2: I think it was it said because I think what happened was the... It says the meeting being recorded and you have to click okay on that first.
+
+Client 2: Got it. Out of that.
+
+Host 1: Cool.
+
+Host 1: Well, that's it's great. I mean, honestly, you probably don't your realize how excited I am for this meeting. So I'm i chat with you. I My solutions engineer Maximus you'll meet on the next call. Actually, it's friends with Colombo from Ucla. So I was reaching out curtis.
+
+Client 2: Okay.
+
+Host 1: Nice Yeah. I was on a while ago. And I think I I I looked and I didn't add hadn't added you on Linkedin, but I thought I had, but was trying to bring into into account and then tomorrow, you know, did them possible and did it. So super excited cha today, Definitely very curious about one, if you heard about music or was just our outreach or really what prompted you to to say, yeah, let's take a look.
+
+Client 2: Yeah. I think I'm just starting to reach that point where we're growing enough to where it starts to make sense to evaluate different tools that will help me with my workflows as we evaluate whether or not sense to higher head count or pay for tools to make it easier. So I'm familiar with, like, the name in the space. Familiar with other names, other solutions for this as well, it just... To me like, timing was not right. At the... you know, and... But I know when timing is right, and so that's why I would reach out now.
+
+Host 1: Yeah. Alright. Oh, cool. That's perfect. So are you guys starting like a search? Like, are you looking at other demos as well? Or is this just...
+
+Client 2: Yeah. I I just kicked it off. You know, I've like, you guys were the first ones I reached out to. Then i'm exploring other solutions as well. Maybe some that baby aren't as tailored towards Fp and, like, maybe I wanna upgrade our geo to nets suite, and maybe I could get some of the use cases out of that. But because I know they have some sort of like, you know, actors buds stuff going on in there as well. And I know mosaic probably provide that as well. And so just very, very early discovery right now Seeing what's out there?
+
+Host 1: Okay. Cool. We'll definitely have a lot of customers going through or that I'm talking talking into prior, like, pre sales and post sales going through nets. Sweet so you can just like write a over the insight on that because we we typically are able to delay that unless you guys are wanting it for different reasons we can definitely get into it, but Mh.
+
+Host 1: What other tools are you looking at in that space on the market.
+
+Client 2: There is one called. It says looks like, thin something. Me see what is going I have it my beef and mark. Have to double check to my email here. And Mark.
+
+Host 1: The mark doesn't come up too often, but I.
+
+Client 2: Not s mark. Get the name here. I archived all my stuff.
+
+Host 1: So This is called fantastic is one.
+
+Client 2: They seem pretty pretty early.
+
+Client 2: And then let me see what else I have here. Correct. One that. One second.
+
+Host 1: I'm trying to find... Worries. Yeah. Definitely helps just because I can kind of set the landscape of...
+
+Host 1: Yeah. And while you're finding that? Really what we're seeing is that there's a different areas in this market. One is the more lightweight spreadsheet plug type tools.
+
+Host 1: Like, on the other side of the spectrum the more, you know, adaptive and a plan playing like more legacy type tools and then mosaic kinda fitting in that perfect medium where you guys are definitely needing something out outside of spreadsheets, but aren't ready for that full blown. You know, implementation and rigid once you do get it set up. So we're kinda like, the gold law school in the market, and we take a very different approach. So so to you. We're you able to find the other ones or Yeah.
+
+Client 2: Do you have a a adaptive would be another one?
+
+Client 2: G docs. I think?
+
+Host 1: Jada.
+
+Host 1: Interesting. This is an interesting mix you got going here. Fantastic and J, I don't hear a very I know of them, but they come up like very infrequently and adaptive is definitely on that, like, more he's side of the space.
+
+Host 1: So Mh. Awesome. Yeah. No excited to to get into the tools. So that'll be on the next call, but I guess...
+
+Host 1: Okay. Question based around, like, timing. So what happened within the business that made it. So now it's just getting to a point where, you know, you you're looking... It like, the timing is right as far as scaling.
+
+Client 2: I think it's it's you know, our customer base has grown. Getting more more employees as well. It's just really like bandwidth. For me.
+
+Client 2: I can just kinda of feel that I'm starting to, you know, have a little bit too much going on. So some automation could be helpful. Because right now the way I'm doing it through Google sheets and all that taking up a decent amount of my time. And I'm trying to, you know, build some leverage so I can be used in more I guess, like, strategic Yeah conversations?
+
+Client 2: Yep.
+
+Host 1: What kind of strategic conversations would you like to be having when you do get all this, you know, manual work? Offload onto a tool or someone else folks a lot on, like pricing and, like, tails ops that sort of thing, you just...
+
+Client 2: I I would want these tools to free up my reporting bandwidth. And not reporting that I wanted this this tool to, like, help me with my reporting workflows. So then I have more bandwidth to focus on, like, running analysis and figuring out what sort pricing makes sense for a new product or how can we incentivize their sales reps to sell different things differently?
+
+Host 1: Cool. Okay. Perfect. So, like, right now, are you guys running scenarios around this stuff, but obviously scenarios like here like double people's work closely me do all the downstream metrics. So, like, how are you? Are you not doing this today are you doing it, but it's just taking up a bunch of time in manual.
+
+Client 2: We think... You you talking about different scenario financial scenarios?
+
+Host 1: Yeah. Or any ways that you're looking at pricing and...
+
+Client 2: Yeah. Right now, yeah, it's all, like kind of spoke just through Google sheets or excel. You know, very ad hoc right now.
+
+Host 1: Cool.
+
+Host 1: Okay. Yep. And so thank you for sending over your guys tech I mean, perfect text for us to work where we integrate with Quickbooks. Just work, Salesforce, of course. And with Quickbooks, do you guys have multiple instances or is it just the one subsidiary? Or one entity.
+
+Client 2: Just just the one entity steve.
+
+Host 1: Cool. I only asked because typically when people think about moving within nets suite there for consolidation or like, rev?
+
+Host 1: What the reason why you're thinking about that?
+
+Client 2: Just that I saw that they do have some like f fp k agent said I know at some point, we're gonna wanna move to nets week and just because that's just what companies do as they grow. And, you know, they get off like the legacy platforms like Quickbooks. And so I was like, well, if I'm looking an F fp and a tool, and net tweet might there's, there's potential nets suite might service the need I have for F fp I may as we'll get two and one is kind where my logic was headed there.
+
+Host 1: Got it. Well, I would So if I can just insert my two cents, I would say, if you don't have to move your nets sweet, I would...
+
+Host 1: Like, people who are using That speed like, we can grow with you guys and move from Quickbooks in nets suite. But typically even when people are using that sweet they're utilizing Mosaic or not using Nets week's Fp capability, just because it is one really clunky, and it doesn't allow for collaboration.
+
+Host 1: And I have a couple people right now who were going through that implementation so implementation is no joke.
+
+Client 2: I mean, someone told me that their change order went from a hundred k to two hundred k and Which what what do you mean my change order?
+
+Host 1: Sorry. Like, the implementation, like the That's how much it cost.
+
+Host 1: Exactly. So it definitely isn't undertaking. So you know, if when you guys do need it, it is need, of course, but it be taken lightly I would say because it...
+
+Host 1: Yeah seem to be something that like takes up like, nine months of your time.
+
+Host 1: Please. Yeah. It it is definitely a big one.
+
+Client 2: But okay aside from that.
+
+Host 1: Mh. Would love to understand, so a little bit deep... Diving deeper into, like, the reporting that you're doing, Are you guys pure Sas or is there any like, complexity or utilization to your pricing.
+
+Client 2: Yeah. Very very complex. I i'd say, relative to normal suspects. Where we're like a hybrid utilization and and monthly minimums.
+
+Client 2: Okay. Pricing is what we do. But then, obviously, within those contracts, we have, like, different tier unit rates depending on who the customer is. And Yeah. Sometimes, you know, sometimes we bundle things, sometimes we we will charge for a connection or sometimes we'll charge for like, the endpoints within that connection as well. So it varies quite a bit.
+
+Host 1: Okay. So what is your process look like today getting to your Arr number. Are you starting a salesforce number or... Yeah, Would love understand that calculation.
+
+Client 2: Yeah. Right now, it's like, we have a few different reporting. We have one we mainly use for Arr, is it car, It's our our committed. And what we do is we just take all our contract and we look at the the all a lot of our contracts, the main scale, over time. So we charge like a thousand dollars a month, and eventually, we're charging five thousand dollars a month. So we take that last month and we multiply it by twelve. We do that for each contract. And then that's... We sum those up to get us our car. But we've report on two sort, like, recurring revenue. Let's one is the car and the other is our our sort of, like, our annual revenue, we take our men's plus our incremental revenue from utilization over, we multiply that by twelve and that gets up to our our annual revenue number.
+
+Host 1: Awesome. And is that a manual calculation or is that automated right now by sales force.
+
+Client 2: It's it's manual... I mean, it's manual that all is. We... You know, we just take our P and l, We have our revenue for the month and we most buy by twelve.
+
+Client 2: Oh, okay. It's not like anything crazy.
+
+Host 1: Got it. Okay. That's good to know. So it's it really is more like a run rate than is run rate.
+
+Client 2: Yeah. Okay. We have a run rate, and then we have our card number, which is more traditionally Saas focus I would say.
+
+Host 1: Gotcha. And so with the rest of your Saas metrics, I know obviously, like, Arr typically is playing into a lot of those. Are you guys using the run rate for that, or are you guys using the C?
+
+Client 2: Or I'm using the C in the car?
+
+Host 1: Yeah. Okay. Cool. Good to know. How is your guys reporting as far as I know it's super manual today, but is there any part of it that is a little more nuance complex or that maybe investors or board members are asking for that you just haven't gotten a chance to to level up to yet because it is. So Time, I think board's pretty happy with the reporting we have right now.
+
+Client 2: I just would like to automate it. I have it. I do it very pretty manually myself. I do it on like a weekly basis. And it's not too hard to track right now, But again, this is something that I wanna get ahead of before it does you know, blow out of proportion.
+
+Host 1: Got it. Makes sense. I saw that you have Jameson on your team the head of finance and.
+
+Host 1: Does he play into any of, like, the reporting forecast or is that all in you and he just kind of oversees it. Like, what's the what's his translate in this world?
+
+Client 2: Yeah. It's most so the latter. Right now. It's... Yeah. I'm I'm generally response for all the reporting.
+
+Host 1: No okay. Cool. So kind of switching gears over to forecast would love to understand is how you guys are doing it today as far as what's your strategy behind revenue forecasting? And then with Op are there any, like, nuances or just like, tedious tasks that you would like to automate on that?
+
+Client 2: Yeah. For for revenue forecasting, we look at obviously have all our contracts when we have, like, the agreed upon minimums Right, That's our Arr, but then we also have to forecast what we think a customer's utilization is gonna be.
+
+Client 2: Mh. Each month, and that's a function of how much top of funnel are they gonna be do we think they're gonna send our way and then What is our conversion on that? On that top of funnel.
+
+Client 2: Mh. And then based on that conversion, we have our jobs completed by product and we multiply that by those unit rates. Which again, sometimes vary by tiers. So the first ten thousand jobs completely to be at one unit rate the next ten thousand at another. So We basically... I forecast everything starting by top of funnel all the way to jobs completed. And then once supply rates side that?
+
+Host 1: Got it. It is all that information coming out of Salesforce or where does that live?
+
+Client 2: Look.
+
+Host 1: On. Okay. And what's the... Do you guys have a database behind liquor?
+
+Client 2: Believe it's a red.
+
+Client 2: Okay. Cool.
+
+Client 2: We use a... Aws and red shift. I think Right is wet how's all of it? Pretty sure.
+
+Host 1: Cool. And so that's where all the utilization is coming from as well. What part of that does come from Salesforce. It is none of it come from Salesforce.
+
+Client 2: None of it comes from Salesforce in terms of our forecasting, I would say, Yeah. The only thing that we could use with Salesforce. But again, it's sort of like a hybrid situation where you know, we have our pipeline numbers we have our win rate our probability when rates on those.
+
+Client 2: Mh And then I have to take that and I have to apply a bunch of assumptions in Excel. To those to those numbers, like, based on what type of customer is. You know, what sort of utilization what sort of top of funnel what we see was sort of conversion what we see. So that one... I think I imagine be pretty hard to just you know, take out of Salesforce and forecast.
+
+Client 2: Got it. Yeah. Unless I I have to think about... I to really sit down thing about there's any sort of fields like a user within Salesforce to then use that to help inform mosaic on how to forecast it? I can always think about that, but just having yet.
+
+Host 1: Yeah. The cool... So the cool about Mosaic is that One, we are coming out with a redshift integration. So Mh we could start out and that's coming out, like, in q one. So that should be really soon.
+
+Host 1: We could start out, we're just having a Cs upload from all of your look information. And then applying, like the clothes rates that you guys are seeing, like, Sage Sage or however you wanna filter that down from Salesforce and eventually is plug directly a red shift. So that is definitely, like, super viable option, because there's always useful information in Salesforce as far as like, product details and things like that. And if you guys are using opportunity fields, but we'll definitely scope it out and understand like how you guys today, but that's super helpful help for to help to know.
+
+Host 1: Image Go ahead.
+
+Client 2: I was so say with with this whole redshift integration, and this is where I'm as technically sound. So, like, how does it the way I visualize this? Is we have stuff we have all data in red that we pull through to Look.
+
+Client 2: Mh. So If you're doing an integration with redshift, what's the difference between integrating with that, versus just pulling from lo I assume you guys Or you guys have to do Csp? How do you guys integrate with Luca, I guess?
+
+Host 1: Yeah. No it's a good question. So the difference between pulling from Redshift versus Liquor is not It's not like there's different information. It's just that word using to create integrations to data warehouses rather than to the Bi tool. So we can get the raw data and then actually apply more of that logic behind it. Because if we were to pull from where, we'd be limited by your data scientists and what they created whereas we wanna get that raw data, because really Mosaic is getting to a place where we're becoming a full Bi tool without that Sql and technical knowledge, So if you guys have all your date and redshift shift, mh.
+
+Host 1: You could just create those metrics and mosaic and then utilize them in your top line.
+
+Host 1: What we in here, maybe you guys are omni in this is that data science teams are typically their bandwidth is mostly use for product related things and you don't wanna, like, don't wanna pull them away and be like, hey, previous.
+
+Client 2: He did it wrong yeah.
+
+Host 1: again. So that's where having a tool that is no code that's focus on clients, a lot more beneficial than relying on your data science team sure.
+
+Client 2: Be. Yeah. I I see there's part of the, you know, some data teams can be protective of their data and, like, you know, how you're using it definitions that are on all that. So i'm sure we'll still stuff to work with them in some capacity, but I totally see what you're saying and I think that's I I love the out of that personally. Do you know how how far away that sort of integration is?
+
+Host 1: So Last I heard it was mid to late q one, and just knowing like, implementation takes typically four to six weeks and I mean, I don't know if you're playing on making decision the next week or so.
+
+Host 1: But I think that it'll will line up pretty well where you guys are probably gonna do, like, a Csv upload for at most, like, a a month or a couple weeks.
+
+Host 1: Mh. And then from there, we would set up the integration. So it definitely will be in the earlier part of if you started to work with Mosaic.
+
+Client 2: Got it. Okay.
+
+Client 2: Cool. It's good to know.
+
+Host 1: Yeah. And then a couple other things that you mentioned your email, so you said actual versus budget, which is definitely something that we can automate and make it really easy free you share that out with the rest of your budget owners. But we talk about Kpi reporting. Is there anything more Nuance aside from... like, the Saas metrics that you're you guys are doing today or that's like you think is more custom.
+
+Client 2: Right now No. We just do the the typical Task metrics right now. You know, churn by logo, that dollar retention, all that stuff. Batch number, Mh for multiple, those kind of things.
+
+Client 2: But I am very curious about how your the access button reporting works. And is it is it real time for one?
+
+Client 2: Yep. Yeah.
+
+Host 1: So we pull in the data multiple times today.
+
+Client 2: And how do you guys So I assume How it worked with, like, like, a prepaid expense, I guess? Did do is it only for it to work it has to be input correctly into Quickbooks first or can you take, like, like, how does it pull from Quickbooks? Is probably? Do you just take straight out of the P and l and then just apply it.
+
+Host 1: No. So our integrations are also really foundational to how we're different from a lot of other tools in the market there. A lot of other tools like, we'll just pull like Gl level accounts, and they won't pull in that bring level detail. Get down to the transaction level and then we pretty much build back up your whole structure. So one we do need to have the data in Quickbooks, but eight Like, one part that you guys probably have. But if not, it would be helpful. Is do you guys tag departments or but okay.
+
+Client 2: We request all that.
+
+Host 1: Yep. Awesome. Yeah. So I'll let Maximus speak a little bit more to the Quickbooks just because it is more in his go. But I do know that we get, like, super granular and then we're able to really make however you guys want. If you're talking about, like prepaid expenses, can definitely create out that schedule for you guys on the our Great.
+
+Client 2: Nice. Okay.
+
+Host 1: Cool. And then you mentioned customer invoicing.
+
+Client 2: And so Well we're on a billing tool We have all that details.
+
+Host 1: So I definitely curious to know, like, what you're looking to solve with that.
+
+Client 2: We're basically there's two things we're trying to solve one is we would like our customers to have real time visibility and, like, what what their bill is month to date, and then maybe then where it's gonna be where it's probably gonna land at the end of the month base on their current you know, trend, I think that would be one thing we're looking for with invoicing and then two is, like, again, further just automation because right now, it's a very manual process that I'm doing.
+
+Client 2: Everything in Google sheets. And so I take... I take all my inputs out a look export Csv. I just copy and paste it. And everything updates to that. So it's not a hard update. I just thought have to copy and paste some data into these rows, these columns. But still it's it's manual enough to where I'm like, it'd be nice to automate that fully.
+
+Host 1: Got it. Yeah. So that does sound like you guys need a billing tool and.
+
+Host 1: If you are are you looking for right now?
+
+Client 2: Yeah. Yeah. Those are the two kind of like, vendors we're trying to evaluate as the finance team a billing tool as well as an F tool.
+
+Host 1: Gotcha. Is there one priority over the other?
+
+Client 2: I would say probably the billing tool. It has priority over the F tool.
+
+Host 1: Got it. Yeah. Because I mean, that part is, you know, it's getting collections from customers. So it makes sense. I would say look at Or. So or is... There you guys are looking at them?
+
+Client 2: I've I've looked to them before and one of my previous startups. I've looked at Word Saas optics. And then I'm just now talking to... I just got phone with someone. Who was it? Oh, god. I can't remember. I've talked to And Saas before. And who did I just talk? Oh, charge.
+
+Host 1: Charge just talk to Yeah.
+
+Host 1: Gotcha. If I can't... I would say stay away from charge they're definitely People get into it and get into a mess. Saas and Org are definitely better, but Saas a lot better for like, more traditional saas billing and always is kind of known for the usage component. So that's why I I said that's a good one. Charge b. Just has a tendency to be literally just like stripe. In fact that is super messy unstructured. And then for you to actually get your data, you know, way that you can use it is is mean to be pretty difficult. And we actually cancel for that. Like, a lot of people will start using Jose because they're having such an issue with charge me. It definitely is a little bit more of an implementation just because it is... such a mess, but it is something that I've people... Like, I talked to this guy earlier this month, actually, and he was just like, I was trying to do this discovery calls like, what else matters. He was like, don't make that matters this charge being because it's such a mess and like I think that we just need to, you know, either scrap it or something.
+
+Client 2: So yeah.
+
+Host 1: Yeah. So that's what I...
+
+Client 2: Good to know. I I appreciate that. Do do you know how old charges. I've seen like these guys give different quotes and then I forget how how much like, their employer pricing model.
+
+Host 1: I can see if anyone knows. I... So I know Sas optics charge a percentage of your revenue.
+
+Host 1: Mh. Some people hate that they're like, it's a tax it does really.
+
+Host 1: I'm not sure if is any different But since we have an integration with ro, I know we have some kind of partnership with them. So I can actually see if one they give away partner of pricing or if anyone on my team knows. So I just don't handle that partnership, but I can definitely check that out.
+
+Client 2: Yeah. That that'll be awesome.
+
+Host 1: Amazing firm. But That's really good to know. So once you guys do have that tool, whether it's six Quickbooks for now or you guys get that tool. We ever a pretty great integration with helping you see all the collections and voices data. And it goes beyond just like what you would actually wanna see where it becomes on or becomes really helpful in a way that you wouldn't expect is like sharing it out with, like, Cs and showing them like, hey, Your customer has a paid, like, maybe s.
+
+Host 1: Yeah. Dell things like that. Sorry. No only five minutes left, But I definitely have other couple couple questions. But for rev ops, you guys have a rev off team or is it something that you're just kinda doing when you time?
+
+Client 2: Yeah. That's kind of where I've been focusing lately. We don't have one, and we don't plan an iron at anytime soon. So that's just kind of That's what I'm trying to free up time to do.
+
+Host 1: Okay.
+
+Client 2: Cool. Yeah. I've worked to about web teams in the past. So that's kind of... I feel like I have you know some experience there.
+
+Host 1: Nice.
+
+Client 2: How to serves it here.
+
+Host 1: Perfect. Yeah. No. I asked because Has a great Re ops workflow as well. And so we'll go through that on the demo. And obviously that's gonna pull from Salesforce. Is your general cleanliness? it's totally fine. It's not good.
+
+Host 1: No one is that good.
+
+Client 2: What how do you pretty good. That's that's what I'm working on right as is I'm clear. I've been cleaning it up a lot. So it's it's pretty good right now. I just there's a couple more things. I need to clean up, but it's in a good state. Then a lot better state than what I've seen in, like, other companies.
+
+Host 1: So Awesome. No. That's great to hear. So yeah, we'll definitely go through that on the demo also. So it sounds like just generally needing to have more automation things are super right now. That way you can focus on the more strategic tasks.
+
+Host 1: Mh. All things And then with Op, is there any nuance or pain around your head count planning or your op explaining?
+
+Client 2: It's not too bad this... We're going through it right now. Usually, what I do is I just hey, hey. These are our goals for next year in terms of revenue. You know, majority of our Op head count. So what sort of head count do you need to hit those goals and then tier them? One two and three, critical growth opportunity. Nice to have We plug it all into the model. Then we make sure that we're under our burn multiple. And if we're not, then we had figure out what the trade off are that sort of thing. So the process is pretty good. It's... I make a collaborative through Google sheets, but always open the more tools that more collaboration. Tools does that make it easier Cool.
+
+Host 1: And when you're sharing it out through google sheets, is it that you giving your budget owners was, like, free range to like, input or is it more like here's what I have for you. Let me know your notes and any changes you have.
+
+Client 2: When we're creating the budget, it's like this is what we have locked up for the next quarter. And if you want to add anything, and put it into this section, give you a reason why again tar give the amount over what period. And then we'll plug into the model and see if it makes sense and then we'll it.
+
+Client 2: Go ahead. That's approved.
+
+Host 1: Cool. Okay. Perfect. Yeah. I definitely wanna also focus on the demo It's just far as how we can keep it collaborative and get your budget owners like the empowerment to spend within their budget, but not, you know, go over and have the Thirty on. Cool. We'll, definitely wanna set a demo, unfortunately, I'm pretty busy tomorrow it looks like, but looking at the next week, I'm very open. So You have time on either Monday, wednesday or Thursday, Looks like Tuesday tuesday's come busy.
+
+Client 2: Let's go with Wednesday could be good. If we could do Wednesday, Maybe we do twelve noon.
+
+Host 1: Would be right. You're eastern time.
+
+Client 2: Correct? Yep.
+
+Host 1: Perfect. Yep. Let's do it. So and I send over an hour invite for you. We'll go through everything. I'll send you over since you are doing your Salesforce payment, we have a great book on Serum hygiene and then also just how to set it up in a way that you can automate. Then I'll find out more about Word. I'll let you know what I hear on that. And have you already started that sales I could definitely send like some kind of intro, and I think that would go through the partner channel and maybe help out with potential pricing.
+
+Client 2: Yeah. Yeah. I'm happy to... Yeah.
+
+Client 2: To... Okay. Have an intro there.
+
+Host 1: Yeah. And then I think I think you're really gonna like it. But definitely when we get to the demo, feel free to be open, let us know all your nuance use cases, and we'll address them.
+
+Client 2: Cool. Sounds good Appreciate it. You've been super helpful.
+
+Host 1: Thank you. Of course. Thanks Glad to hear it. Awesome. And we'll talk next week Nathan then.
+
+Client 2: Alright talk.
+
+Host 1:

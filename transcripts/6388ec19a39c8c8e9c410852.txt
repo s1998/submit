@@ -1,0 +1,269 @@
+Client 2: Hi.
+
+Client 3: Hello?
+
+Client 2: What a busy day.
+
+Client 3: Yes. That's been early and it's been. Been busy. So I had a lot of stuff going on. So I'll try to be as efficient as possible the time here.
+
+Client 2: Yeah. Thank you for jumping on with that meeting link and working with Lu on that.
+
+Client 3: Yeah. Yeah. Absolutely. Yeah. It it started to all trickle in seemed like it started becoming a pretty big issue. So seemed like, the people that were impacted and notified us i we're all at least pleased with the turnaround time So Yeah.
+
+Client 3: That's that's the good thing.
+
+Client 2: Yeah.
+
+Host 1: Thanks for moving this Meeting, also, Merry.
+
+Client 3: Appreciate that. Oh, yeah. Yeah. Absolutely. I reached out to Padding, She's like, oh, I have to decline it. Anyways, for this morning because she had she had some other stuff to do. So she's, like, schedule it whenever. Okay. I saw Billy accepted it, but it interest of time. I'm gonna today. Just start moving forward and if I see her. Jumping into to the meeting. I'll be sure to let her end. Okay. Oops what. Is that? zoom toolbar is in my way. So to start out, I know we talked about using the library for it last time, I still couldn't figure out how to get into the prospecting notes.
+
+Client 2: And so... Yeah. Go into go into the report. I don't think you can do it from the dashboard.
+
+Host 1: Those prospecting notes I think we're from Penelope because I I never use them.
+
+Client 3: Yeah. I couldn't I could not find an i control app and use everything I could to try to find that field in the and the opportunities that I I couldn't find them there. Yes scroll away the right There's a lot of fields...
+
+Client 2: Yeah. There they are. I mean, So it says it's.
+
+Client 3: Yeah. It's it's still locked. And then so I figured that maybe doing it within the actual opportunity and I I can't find that field anywhere.
+
+Host 1: Do we can we switch up the fields? Or what do you use that field for, Merry?
+
+Client 3: So I I've never actually used the field but four, it was just the one that was in the dashboard, so we thought to just make use of of it that way.
+
+Client 3: Okay. But I would say if we can use a different one, like the ones I gave you in Slack obviously those, I think would be ideal to share info, Yeah.
+
+Client 3: So you gave me So next steps, we'll see what we can That the only reason is that prospecting notes are at the contact level, and I I don't usually note up the contact level of you at the opportunity level.
+
+Host 1: So that's that's a reason.
+
+Client 3: Let's see if we can add any of those. Are these like... Are those the, like, exact names that you gave to me that they're they're noted in Salesforce as well.
+
+Host 1: Yeah. Yeah. Next steps for sure.
+
+Client 3: Okay. Next steps would be I think a good one. There we go.
+
+Host 1: Because after they close one, I'll I'll put in the next step, you know, onboarding chat, and then you can kinda take it from there. And then products products and future request would be another one. Go.
+
+Client 2: Think a lot these fields you can probably just delete and clean up the field too.
+
+Host 1: Maybe just get the prospecting notes off of there.
+
+Host 1: Last activity. I don't know if that's relevant with you. These are just things That would get rid of Yeah.
+
+Client 3: Last activity helps just because it's sees it's the last touch point with the client it's usually coming from me, but it still just helps to display it there.
+
+Client 3: Okay.
+
+Host 1: Would it help to move up the next steps like, two... Like, to the left, Are you cool if the being weighing the right to scroll over?
+
+Client 3: Yeah. I think maybe after last activity that would be a good place to put it.
+
+Host 1: I think the product feature request are important to look at you're probably gonna go over this stuff and onboarding but I only put that in there when I get super, like unique ask So it's at least important to look at.
+
+Client 3: Yeah. Yeah. No. That that is good to have there as well. Because there's a few things I can add to that actually here. Okay and refresh.
+
+Client 2: And hit refresh.
+
+Client 3: Oh, okay.
+
+Host 1: Before saving it?
+
+Client 2: Oh, not there. Not there. Yeah. You have to refresh it so it loads all of the data. Me see.
+
+Client 2: It's we you see the filter button on the left. And then you see the orange character, that orange like Yep. To the right.
+
+Client 3: Oh, okay.
+
+Client 2: Wow. Okay. Know.
+
+Host 1: Yeah. Yeah. I see there.
+
+Client 2: And then it'll run all the data, and then you can Save and run.
+
+Client 3: Okay. So I can do save here. Save as You don't have to say as you can run it now.
+
+Client 2: And once runs, I think it'll give you the option is save.
+
+Client 3: Oh here's billy in the room you is it lunchtime time?
+
+Client 2: Insulin, Lent soup. Billy interviews managed to find some lent soup nearby.
+
+Client 4: I'll talk into my. I'm so sorry. I'm so head just wrapped up with skillshare.
+
+Client 2: Wow. That's okay.
+
+Client 4: Well, it was good for product just discovery point of view, unfortunately, didn't not necessarily jumping on the bandwagon right away. But starting to see some threads. Again, they were mostly interested around the scheduling piece, but I felt like, I mean, the introduction was from their Ceo. So I felt like both of them jumped on. You know, obviously you're from the Ceo, Jump on, you listen. But i just felt like decreasing enthusiasm throughout, and then they were like, well, honestly, we... you know, our content is amazing, and we don't really we haven't really in demand from students for peer to peer learning they'd don't already say, or, can I speak to someone about this? We think it could be helpful, but they said the teacher community is very engaged, but they do virtual events for them all time and breakout rooms. I'm like, yes. How about a systematic approach to, like, connecting them. Anyhow, but what could be most interesting to them is student teacher matching where we handle the the whole payment process the... Exactly the ac asymmetric matching that we're being that we put on the map for One expert to customer. We've heard it from financial advisors to people that one financial advice, the coaches to people that buy mattresses and how sleeping issues. It's the same variation. So for them, it was way more But then there were, like, circle back in three months. We're definitely focused on only core workflows at the moment and i'm looking to do anything new. How would it work, and I'm like, well, let's see partners. Let's figure out together. We have two other major clients that are interested in this, which is true weak loans as to match personal trainers to fitness goers. But Yeah. Good for product discovery, not jumping on the bandwagon right away.
+
+Client 4: But yeah. I mean, it was they're head of community and they had a so at least And we always said that skillshare is not even a top prospects the fact that they're kind of warm.
+
+Client 4: This Yeah.
+
+Host 1: Yeah. That's cool. No Alright.
+
+Client 4: What have I missed So we we were able to actually enhance the the dashboard here and get some extra levels of detail added on here.
+
+Client 3: So lee was actually just helping us with some of the salesforce work. So we actually didn't go into any of the accounts yet. So gonna just start with the ones that I wanna flag anything specific on. So p check as you know, we we had talked about them pretty extensively last week. Penelope you jumped on a call them helped. I had the feedback call schedule with them today, and when I woke up, I had cancellation from Bart I reached out to him and said, hey, I saw your cancellation. Just wanna make sure we can get the next one on the box. Haven't heard back from him yet, but I do have all of his feedback questions answered from Jebediah. So ready to go. So I don't know if he had a personal emergency or something happen where had to cancel the meeting, but cancel in and kinda just went dark. But I followed up with him. We'll let you know what he says there.
+
+Host 1: It's December. I think we shall Get ready for that.
+
+Client 3: Yeah. It was... I just had a mixed max, like, this person declined the meeting with you and and he's one that it on my mix max. I can just assume that something happened that came up and I know he's in poland, so there's a bit of a time difference. So Hopefully, we hear back from tomorrow morning.
+
+Client 2: How did those chats end up shaking out? Was it a good overall opt in, and was there a good feedback?
+
+Client 3: Yeah. Overall, there was really good feedback. Good rate good match rating. I think most of the feedback personally came from bar text end of, like, setting things up, and then just some of the the stuff that he experienced that week. But overall, the feedback was really good. And it helps because this community had done these match rounds before. So they're really engaged already, like, right off the bat by, you know, giving really good feedback.
+
+Client 2: Mh. Cool.
+
+Client 3: So operator guild, I had my onboarding call with them yesterday. I think for the most part, it went really good. There was a bit of curve ball because Casey the Ceo was on the call and he was just very, very nit about certain things. I added it into the sports notes. One of the things he was really keen on was, like, if a member did not like their match, being able to, like, hit, like, refresh match and just, like, find the new map. For them. So right now, we're not there. I I explained that process to him. The other thing he was a bit key on What? They have and they had made about six hundred introductions in the past manually. And he didn't want any of those introductions to be matched again on the orbit platform. So right now, I'm working with the engineering team to get some sort of workflow down where we get all those maps in, like, a Csv file, and then I think from on in Jebediah, what they're thinking we're gonna do is create a fake engagement and manually upload those matches. So the database thinks those matches actually happened on the orbit platform, and then whenever they go to run another matching route, that will be the saying, hey, you can't match these folks because of engagement, x y z that they manually set up. They're doing a little more scoping right now. on that, but I think we're gonna be able to at least, you know, find for that, What did they...
+
+Client 2: Do they talk about like, their success metrics or what they wanna achieve in the first round and how they gonna promote it start promoting it in one.
+
+Client 3: So to be quite honest, the call really got by Casey, the Ceo, and It was a big hack. I don't know if you saw the res. They reschedule time yesterday. So was already a hectic environment. In a lot of the conversation was focused on those past matching rounds. So we did a short demo, and they said they really want to set up the matching around and then I'm gonna meet with them on Monday. We're going to review that match around to get it kicked off, and then I'm hoping to get more of, like, the in, lead and icon game planned around it, and we think that best way to move forward is not cutting casey out by any means, but he's not the one who's running things and going more directly to Rainy in Mali because they're the ones who have used the product. They they've participated in different communities and are the ones setting up the matching round. So on Monday, i'm gonna be more focused i'm, like, working closer with them and just getting details from them because they'll be the ones that will actually have that he I hate to use the word man splitting, but i felt very very just van landing and didn't let them get much of a word and edge wise. I I hate to use that word, but that That's so funny.
+
+Client 2: I mean, it actually sounds very familiar because when I have my last interview with him, get into the he was telling me He talked to me for about, like, thirty minutes. He didn't even it wasn't It wasn't an interview. So I can definitely definitely see that.
+
+Client 2: Yeah.
+
+Host 1: So they. Right? Very high energy. Any he he lets is know wherever it was This is the easiest person to make happy at the end of the...
+
+Client 4: And the other the chat like This was the best conversation of my week.
+
+Client 4: So much. And and they'll be like, oh, my god.
+
+Client 2: That was weird step. Yeah. Yourself effective, what you felt is amazing it's a monologue.
+
+Client 4: Basically just let them do their monologue log and just be like, Wow. This was just a highlight of my week and no like. Yes.
+
+Client 3: Yeah. And and and he brought a lot of good ideas to the tables. So we'll will we're gonna try to implement them and and definitely make him happy as well. I could see some fluctuation coming molly just like, put her ahead down a few times like this during in the call. When he was having his monologue log and I was just, like, oh, gosh, Like, not the first time it's happening.
+
+Client 3: But overall, Molly and Rainy, seemed be. And Rainy actually lives in Jacksonville where I live.
+
+Client 3: So that was that was fine because we have that slide on the onboarding deck about where you located. So that that was fun.
+
+Client 4: To find that. You should definitely try meet for coffee.
+
+Client 2: Yeah.
+
+Client 3: Yeah. So which supposed the talk more on Monday, so helping the hammer more those details I'll i'll definitely let you know if we're able to get something scheduled for coffee or for something. She she kept saying she has two kids. It is really busy. So that might be a built in excuse, but definitely gonna try to get something on the books.
+
+Client 4: It's not an is But, yeah.
+
+Client 3: overall, I think things are good and definitely express to them the urge to get something in the books by the end of the month and start having it because of the You know, the op out day we want them to fully be able to evaluate tool, so they know that there's you know, a timeline in place. So I'll be excited to follow more on Monday and let you know how that was went. Last one that I'm I'm flagging here is gonna be startups dot com. Because K Selwyn has gone completely dark on me. And I I've put the Cs alias on and followed up yesterday. So I Hope everyone's all that email yesterday That to him? Where I was just reiterating about the the opt date and we're getting close to it, you know, being twelve seventeen and they don't have anything live yet. He keeps pushing back and saying that the his higher ups need to review it before to make it live. He has all the questions in there, and I truly do believe it is because someone above him isn't reviewing it because he literally has it set up ready to go. He just says he can't push the set the live button until his manager reviews it I followed up with him yesterday. And didn't hear back, but right before I jumped on this call. I gotta make back to notification that he opened my email a third time. I don't I don't know if you guys have those notifications turned on as well and your mix max, but So he's opening the email and interacting with it. So so I don't hear anything. At the end of this call, which I see I have one email so it could be from him. I'm gonna follow again. But really want to flag that one because they're about two weeks out now and he kinda went a bit dark after the thanksgiving giving holiday on me.
+
+Client 2: How is Eve wealth, you talked to her about either guess you have the feedback call next week and you let her know that you you and would talk about renewal at that point.
+
+Client 3: Yeah. I... And and I I teased the, Like is the idea of going more into a more, like extended pilot and not just redoing for a month and also let her know that we want to set up on one on one engagement.
+
+Client 3: With them because historically, like, we we've just seen higher and rates and given, like, the internal one k milestone, like, we want you to be to evaluate both products and be able to make an informed decision. And then today kinda popped up with the the meeting link air. So I'll follow again and see if she has any on him before the call, but she does know that we have the feedback call to discuss more about that on the x. But she didn't really indicate either way about the one on one engagement or or possibly you know, extending for longer than just just the month that she initially asked for. Other than that, the only last one the flag here is O Ventures, which I got in touch with you you bill this morning, And so once that that that the data forward is filled out. I'll I'll respond back to her and give her a full on response about you know, what we're thinking about, like, extending that pilot a little bit further. I don't want her to feel Like, because she said that I... I'm sure you read the email. So I don't need to recap it. But I don't want her to feel pressured in any way that we're trying to pressure them to you know, skip any of their review steps.
+
+Client 3: Yeah. Trying to be like, delicate about that and just like be a good partner, but also wanted to make sure she knew that. You know, like, we do have a soft timeline here.
+
+Client 2: Mh. Yeah.
+
+Client 2: And I filled out that form this morning. And then Thank you.
+
+Client 3: Yes. Thank you You're welcome.
+
+Client 2: And then I just asked Luke to get his eyes on it to make sure my answers were correct. So Hopefully, that's the last thing he does before he was on holiday.
+
+Client 3: Yes. Yeah. We call them right in time. I'm sorry.
+
+Client 2: Yeah Let's see what happens with that form.
+
+Client 4: And and if finally by any chance, we send him like end day today, yeah. I mean Actually, he probably won't be able to take a look at it today. So if we I think so.
+
+Client 2: Yeah.
+
+Client 4: Honestly, let's just send it.
+
+Client 2: Just send it.
+
+Client 4: Okay. Well, what were the additional questions?
+
+Client 2: It's a lot about like, privacy, data privacy in protection, because of the access to information we're gonna have and then also distributing emails I think i I would love to get luke to pay on this. But because we're a Us base and there in Europe, their putting us through an a more extensive security review process.
+
+Client 2: For the. Because all of our data is stored in the Us. And that's... and it's also backed up in the Us. So you know, we don't fall under the Gdpr umbrella completely, they're also...
+
+Client 2: They're opening it up too a broader search. So Okay. We'll send it. There's nothing... I I mean, I I literally just, like, referenced most of our security policies I just, like, found where it where to answer the answer... where the answers were in the security policies and then just referenced those. So I'm like ninety percent sure might be great.
+
+Client 4: A... That's a high enough conviction Okay.
+
+Client 2: So I'll send it and then if influences is over it and he has changes, then we can update it.
+
+Client 4: Yeah. Because in this way, we can res we did our best to still give you the opportunity to onboard tomorrow.
+
+Client 2: Mh.
+
+Client 4: Take off around next week, and then they try to get a free pile, and we'll be like, well, we've been talking since First of all, I've been to talk to this since last summer.
+
+Client 4: Mh. And it restarted it again this summer.
+
+Client 4: They tried to get a free pilot, I'll be like, well, listen. It's not a for the lack of trying, and the team is gonna time. I think it's fair that now we kick off the contract, we'll give you a one month opt out if you don't get the results, but we're gonna invoice them.
+
+Client 2: And also also they sent us the wrong security documentation in the beginning.
+
+Client 3: Like that's why kinda at the whole even more bottom.
+
+Client 2: Yeah I I think, like, at least the last week of us going back and forth is because of their know, attach...
+
+Client 2: They... Me they had the wrong attachment on the email.
+
+Client 4: They're doing the they're doing the the group matching community in Orbit, two people ben in another woman, which is really promising. So I do think that they're finally reading said even going through the security process. Okay. And I'm confident the success. Right. So consider get pretty much done. Merry, just something to keep in mind if make a total boarding call in December. They are going into I think pretty very much looking for our guidelines on matching criteria and just hand holding. So not necessarily asking them. Hey. What what are you thinking? Especially if we're on a tight timeline, but if they get on onboarding. Definitely happy to be on it and and team as well beforehand of the agenda, but just hand hold as much as tell them give them best practices even if it's like, copying the matching criteria from a similar sized fund to the team. Okay. And, yeah, copy paste on that comment for another process. I have an outstanding contract, which Yeah. The what it is... She wants to do it, but unfortunately, she's just completely slammed with work trips and everything. The only opportunity she has for signs the contract today or tomorrow, she will do the onboarding call on Friday five Pm. So I'm just gonna i've been holding that in my calendar I'd love to add you to it as optional and see if she could firms if you're able to to hold that as well. I know it's not ideal an boarding call. She's on the west Coast and it was literally you do the only time.
+
+Client 3: Yeah. Yeah. Send it over.
+
+Client 4: So let let's see. But that's just to give you heads up. That's something in a background that might be happening and I've already talked to her about the nearest reflections and resolutions, topic, send it to her from intercom. I think if if we get down to this onboarding call and will be literally telling her what the magic criteria should be It's a fintech. So initially, anthem is copy paste with that topic.
+
+Client 3: Okay. Yeah. Absolutely. Yeah. Happy to block the time off. And so I have it there for when they are ready. And I'll you, I'll you.
+
+Client 4: I'm I'm holding it as well. Let's see what happens.
+
+Client 3: Yeah. And and loud and clear on the, you know, like, the hand holding side.
+
+Client 4: Yeah. Perfect. So these are the updates from my end, I guess.
+
+Client 3: Last update from me and I would like everyone to review is something that i'm cited to on unveil is an article that I've been working on. And what I kind of thought would be helpful with with at least guidance is creating really something that really speaks to optimizing opt and really that process doesn't start when the engagement is live. It really starts when you're setting up the engagement and I wanted to kinda walked through and what I felt like was like, a chronological order. Of setting up an engagement with the cutoff lens of like, trying to optimize the opt as much as possible.
+
+Client 3: So I started with things like choosing your topic going into the feedback form and actually reviewing what members are saying on the feedback topic that they would like to discuss next and cycling through those topics. Really personal the invite and reminder emails, using it as an actual median to communicate with their audience and and familiarize with them this communication selecting the correct conversation date, so letting them know that members are more likely update on Thursdays and Fridays. And then also mentioning about holidays, how And thursdays are more preferred on a long ensuring audience members know that they can reschedule those conversations. And trying to link any articles that we've already have. In place to them. And then also internal promotion And I wanted to actually give a schedule of what a proper internal promotion would look like. So and... These are some of the stuff that I I I want everyone to review in these articles, but you know, really, like, starting with the community wide outreach about the engagement building anticipation, And then your second outreach of that engagement should actually be the orbit and invite email, your third out... Outreach should be a personalized invite to members who haven't opted in yet. And then that fourth invite would be the reminder email going out to Everyone who hasn't opted in yet. So really trying to detail things that I think are important from members to head on. As well as where they should be sharing this often link every week or every time they have a live engagement, and then also just about staying consistent This is for the one on one. Size, I also created one for the group matching.
+
+Client 4: I love that. Can you please send me the the group one right away. I'm not even gonna inappropriate I'll send it to to a prospect right away.
+
+Client 3: Yeah. I loft is piece of work, Merry.
+
+Client 4: I kinda wait to dig into it in detail gonna be super helpful and text, the number one problem was low up in so well done. I I'm unfortunately this called sandwich we do super important calls, so I have to jump on the other line, but really... I'm gonna be sending this to a prospect right away.
+
+Client 3: I Okay. Sounds good. I I will get it ready for you to send out there.
+
+Client 4: Awesome. Thank you. I mean.
+
+Client 2: Bye. And Merry and i are jumping on with jacob now.
+
+Host 1: Yes. Like, if you have examples of, like, what our current clients are doing, like, stick them in there. For, like, examples, that would be like really... I know you have, like, test testimonials you're putting in there, but, like, actual examples for them to see would be, I think a good ad.
+
+Client 3: Examples of, like, questions or or examples of, like, what other clients are doing to get the results that you're telling them.
+
+Client 3: Oh, okay. I see.
+
+Host 1: I see. A like, oh this is... Yeah.
+
+Client 3: Yeah. Okay. I... It and... That's kind of what I tried to, like, frame the article around when I thought most other clients are using, but i can be, like, add something like more specifically in there as well. To, like, some Excellent.
+
+Host 1: Help helpful, like, visual like, okay. This is exactly what he's talking about because first round or something is is doing it or whatever.
+
+Client 3: Yeah. Okay. Maybe maybe even like trying to fire.
+
+Client 2: I think a good example of that Merry is how good water has a no show policy. Because it's, like, natural attrition with group. Matching around? And they really enforce it and so there's really good attendance.
+
+Client 3: Yeah. Okay. That... That's a good point to get a call up there. To actually something I don't have Yeah.
+
+Client 3: Right?
+
+Host 1: You guys are meeting anything thing. I'm gonna drop out.
+
+Client 2: Okay. Yeah. We had to job jump into an another meeting, but Alright.
+
+Client 2: Thank you, Merry. Bye. See you in a minute, Merry.
+
+Client 3:

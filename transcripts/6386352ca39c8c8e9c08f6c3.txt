@@ -1,0 +1,317 @@
+Host 1: Hi, Gertude.
+
+Client 2: Sure. How are you?
+
+Host 1: And how are you?
+
+Client 2: And thanks.
+
+Client 2: Cool. Your.
+
+Host 1: It was nice. I had like, enough family time, not too much, which was good.
+
+Host 1: How is how about you?
+
+Client 2: Was good. We're we're in the process of closing on a house. So it close on Friday, so I've had a lot of family time because we've been living parents.
+
+Host 1: Going wow. That's exciting. Garage.
+
+Client 2: Yeah. Thanks.
+
+Host 1: Say it. Okay. I realized i didn't briefly you too much for this. I'm not sure if you why the video that I signed, but This is like at the the end of...
+
+Host 1: Like, we're hopefully closing this today Okay.
+
+Host 1: They just see Stripe, which is why it's being scope, but they're pretty much moving away from sales team and going towards park like growth, but they're stripe Dan you'll meet. He's awesome, and he is really committed to understanding their data. And also using our definitions for a lot of their metrics and they have this like spreadsheet where they have, like, the definition, the source of truth, like, everything defined.
+
+Host 1: So... Yeah. I think he's like, in a better spot the most people and definitely willing to, like, don't for best practices. So, like, he is gonna be a huge like advocate and Yeah. The use right, but I don't think it's gonna be as big of an issue as the other ones because I think they're gonna definitely be flexible and be willing to investigate figure out, you know, what their dataset set is from and stuff like that.
+
+Client 2: Okay.
+
+Host 1: Perfect. So, yeah he did not ask for this call. It's more like we thought we needed it. So I'll just let you ask the questions you need and he will answer them. He might not know all the answers because there's other guy Corral who is helping out too, but...
+
+Host 1: Okay.
+
+Client 2: Okay. Cool.
+
+Host 1: We email him Oh. Okay. So they might both be joining.
+
+Client 2: Great. Okay.
+
+Host 1: How is everything Austin for thanksgiving.
+
+Client 2: You're an.
+
+Host 1: was in Arizona That's where I grew up.
+
+Host 1: And then I came Yeah. It was really nice that the weather was great, Arizona. And it's actually better here now. When I left, it was like freaking freezing And now it's like seventy. So it's fine.
+
+Client 2: We got dumped on. It's like winter Wonderland outside.
+
+Host 1: Wow. Yeah. I saw that.
+
+Client 2: It's like really.
+
+Client 2: That's. Yeah. Though, I feel like we haven't had any snow, and it's supposed to... It's supposed to be hot. I think. Tomorrow What's Tuesday? Are he's supposed to be hot in this week. So hopefully I don't know.
+
+Host 1: But just a lot Yeah.
+
+Client 2: Place.
+
+Host 1: Wow. So are you like in Denver denver?
+
+Client 2: Yeah. So my parents live in Denver proper, and then we bought a house that's in the suburbs a little bit more. So it's just like, just south of Deborah proper.
+
+Host 1: Are you bi cadence, katie Leaandra pretty.
+
+Client 2: Well, he, like, they bought... They had a house out by the airport and they're renting it and now and think they're living with their in laws and their building another their house or buying another house or something. So but they're are up north and, like, erie, which is kind of a boulder.
+
+Host 1: Oh yeah. I think Kate hates the city.
+
+Client 2: You guys. Yes. He does.
+
+Client 2: Which I mean, I blame him. That was one of the things when we move back. I was like, oh, we should like try to buy a cute house and, like, denver or something, but dial down denver it's don't really don't help some Covid. Like, it's how was there I was there this weekend with some Pals Doing on that's to dinner, and then there's like, Christmas birthday. And it was but our disregard.
+
+Host 1: Was wild. Wow Interesting. I've been a couple times recently, but it's very similar awesome. And I feel like, hey.
+
+Client 3: This morning.
+
+Host 1: Good. How are you? Hey, Dan. Think dan's on here somewhere. Awesome. So I have Gertude on dan. Hear me.
+
+Host 1: Yep. Yep. Yeah. Cool. I have Gertude on for my team see is she leads our data assigned team or data architects. I kinda gave her like, the low down on everything with you guys. I know you shared out your stripe or your spreadsheet with everything. So she's just gonna ask some questions just to make sure that everything's good. And then also, Gertude if you want providing best practice because they are gonna be implementing in January in between now and then, I know that they be open to that.
+
+Client 2: Yeah. Great. Yep. So close that. I'm Gertude on our our data team. So kind of my goal here today is to get a better understanding of how you're utilizing stripe. We we love to see Stripe, but it it's... Sometimes it can be a little bit difficult because it is a very flexible tool, which is great for the user from our end, it can sometimes be a little bit difficult because it is so flexible that we see a lot different flavors. So I just wanted to get a better understanding of of how you're utilizing stripe. And then answer any questions that you may have on the implementation side. Or kind of timelines or anything like that? Happy to answer those questions. But just kinda to to jump off, I'd love to get a better understanding of how you're utilizing Stripe? So are you using it on the subscription level? Or you using the invoices, how how is your data structured within stripe?
+
+Client 4: We correct me if I'm wrong here because he's been here longer than I had, but I'll give you the a quick Spent. So Strike is where we do of our billing and merchant process. For all of them. All of our subscriptions. So had some customers that we built for services, we build those outs. Right, But that's that's going away because we're getting out of the services business.
+
+Client 2: So really everything goes through Stripe.
+
+Client 4: Right now. And we... Our product, you know, is sold it's not just a pure transcriptions. So it's not like just, you know, fifty bucks a month and, you know, you get all the eight basic use. And it there are elements of usage. So know, typically when we're billing someone doing them. For the coming month. So ideally, now this doesn't always happen this way. But ideally, on the first month, we're billing them, you know, hey For the month? And then you know, we'll build them for their usage inner arr. Right? So it's things like database rooms Api calls, storage.
+
+Client 4: That are in tiers. And So that's the arr. And you know, stripe is set up to auto most of these accounts. The plans this is where the is so you know, we don't create any of these plans like manually and stripe.
+
+Client 4: They're created actually in our product. So I I think that's happening through the Api where there's there's someone in the engineering team which probably our Cto. Okay. Is so, like, when when Core needs to have a new plan created because there were some new pricing that was sold to somebody he's gotta work with Tim. And Tim's gotta do a bunch of stuff. Two push that strike.
+
+Client 4: At? Is that right?
+
+Client 3: Yes. So there's there's two components to our plans. There's the plan that exists in our products. And then there's the matching corresponding time that exists in strike. So we actually have to set them up in both places. So that they then link together. And so because I have access to create things in Stripe, but not in our core product yes.
+
+Client 3: So for that reason we rely on our engineering team so that they can ahead and make know, create both of those plans. And then make the connection. They they don't always have to create a brand new plan in stripe necessarily. But they do have to create it in our system, and then they do have to make sure that you know, if we are going to recycle a component of a plan, that it gets connected properly. Okay.
+
+Client 2: Okay. And How how did how can your customers move between your different subs transcriptions. Like, if I was a customer, am I typically gonna be on the same subscription for my entire cycle or could I move up a plan if I need a larger plan or how does that work?
+
+Client 3: And you want me answer?
+
+Client 3: So you So we have we have two different three difference kinds of clients that we service. Right? So we have our our professional clients that are typically on customized plans.
+
+Client 3: Okay. If they needed it to, you know, change that plan end would have to communicate with us. It's not something they can go on there own. We also have agency clients that are using discount version of plan They can actually...
+
+Client 3: It's a standard version of a plan, so they can they can add workspaces to that as needed. And then for our self serve clients, they have full flexibility they can upgrade for downgrade time they want. Okay. Okay.
+
+Client 3: But we we we really only have you know, we have a a free plan, a twenty five dollar one So we really only have three plans that you can toggle between as a self serve. Find. Anything you get these sites that would be customized explained.
+
+Client 2: Okay. Great. So the reason that I I ask about this is one thing that we commonly see was stripe is particularly more in that self serve space where customers can upgrade and downgrade as they wish. Stripe will do is they'll typically, they'll actually overwrite your option. So say my subscription Id is one, and I'm on the the free plan. And then I go up to the fifty dollar plan. The the evidence that I was ever on that free plan doesn't pull through on the Api. Where we do end of seeing it is through... The free plan is not a great example because I'm guess not billed. So let's say it's the fifty two the... I think you said one twenty five was the other one.
+
+Client 2: Okay. So I would... If I had moved up to the one fifty, the only evidence that I had ever been on that cheaper plan would be in the invoice data. So what we typically do for a stripe build is for all of your historical data for your recurring revenue, we would pull that data from the invoice to or the invoice line typically. Yeah. And then Yeah. And and then for for building building out in the future for doing more forecasting around your your recurring revenue for all future. We in current month, we would pull down from the subscription. So I think that that would align well with how you've structured your strength. And one one other question I had on the on the usage data, is that something you would consider recurring revenue or do you consider that one time revenue?
+
+Host 1: Question that I sent you in the beginning Yeah.
+
+Client 4: Think we consider that. One time.
+
+Client 2: Revenue.
+
+Client 4: I've I've got a separate g account. Now, when we talked to my boss about it, He's gonna... He's gonna argue that it's recurring, but I think most of the rest of us agree that it's not and most of I I pulled you know, Cfo and other companies and stuff and i more people than not view it as a different revenue stream.
+
+Client 2: Yeah. That's... And we Honestly, it's kind of fifty fifty on what we've seen. It depends on on how your business is structured. And if the majority of that business it is usage then we'll see that that ends up flowing into recurring revenue. One thing we can do is we can build it into all of our recurring new metrics and then have a flag that says this is usage and this this subscription. So you can filter it out as as you wish. If your your boss does wanna see it and your recurring revenue data, but maybe you don't, you can you can filter her. As such. Okay. Yep. That makes... What what percentage would you say is you usage versus the subscription.
+
+Client 4: Very little usage because...
+
+Client 4: Okay. We're series eight company.
+
+Client 2: So we haven't you know, we're we're moving to a product led growth Strategy.
+
+Client 4: Right? Initially, before Series a when the company was track the recent, So we have lots of custom plans that he mentioned. Is you know, our product is used by developers. To build stuff. And our product, you know, and healing makes developers were productive and that's ideally why our love, and we're gonna sell tons of it. We saw few things left to build and fix, but that's That's that's the value problem.
+
+Client 4: So in the early days of the company four series a. Company was bootstrap. We had a back end as a service. Product. That was built. But we were bullshit like, you couldn't build a bull sack. Product on eight apex.
+
+Client 2: You you could use our back as a service and then you had to write code.
+
+Client 4: So who were our customers. They were companies that we... you know, that we went out and sold essentially professional service engagements. Where it's like, hey. Days really cool and, you know, we could build great stuff you and Oh, yeah. Well, I need to build e commerce site for a barter secret partner companies. Real case. Well, the So we built that for them. On our back end of service.
+
+Client 2: So we had a subscription that was a custom subscription plan that was designed and built right for that.
+
+Client 4: Customer. And then we charge in professional service fees outside of stripe. You know, so it may have cost you... Great seat that builds gonna cost you a hundred and fifty Okay. Cool. Build it. So there was services revenue and and and kind of product subscription. We decided to get out of that model and purely go to a product line us. So we haven't yet I wouldn't say that we've completely figured out the pricing and how we're gonna price on product. No. We I think we know Correct me if I'm wrong here. I think we know that there's gonna be an element of subscription and element usage. But I think one of the things you've seen in Crow pointing this out to me the other day. So I was ask know I was asking, like, how many customers generate usage. Says. Well, really nobody because our plans are really rich. So they get them we give them so many database that nobody's actually what was actually hitting that?
+
+Client 2: Okay.
+
+Client 4: Very little right now.
+
+Client 2: Okay. Okay. Well, with that with that then from what I've seen other customers that have very usage then they don't typically consider a recurring. And so for that, like I said, we could build that into our recurring revenue tricks and then you could filter it. I would maybe... If it sounds like you're trying from you and jobs recurring revenue. So what I would recommend is we don't build it as as recurring in we more put it into that one time revenue bucket. Which we do have a metric that will capture that as well that we have a... It's called scheduled revenue, and it's more of a revenue recognition. Like a it's traditional revenue recognition schedule where first and last month would be pro. All of that. And that's where we will we typically throw one time revenue. I think that would probably make the most sense. So within stripe, do you have it it's set up where when you build for that usage, it's a product that's we we would be able to know that it's non recurring.
+
+Client 4: Yeah. I mean I I I I dug down a bunch of stripe data and they are, like I guess, what your question is is it is it labeled or called something that would make it easily recognizable for us to say, hey, this is the usage so. Yes. I think it is. I mean, it's it's kind baked into the description you kinda to, like, I don't how you would do it, Like, if I was I i was doing it. I I probably write an expression that just in the script within the description, you can always tell.
+
+Client 4: It'll say, there there be certain things in there.
+
+Client 4: You can always. Is there a flag That I don't know.
+
+Client 2: Okay.
+
+Client 4: That a flag would be really nice. Right?
+
+Client 4: Yeah. I don't know that there is such a thing. Do you No.
+
+Client 3: No. I don't I don't know that there's a flag. But I mean, you know, the way that our stripe subscriptions are set up is each subscription is those of different products.
+
+Client 2: Right?
+
+Client 3: And so really, there's only one product that's that's the the recurring revenue and this model, which would be the subscription prior? And then all the other lane items are individual line items which should not be those repeat usage.
+
+Client 2: Okay. Yeah think it's Okay.
+
+Client 2: And that could be the the deli deviation too is a lot of time we'll see items that are tied to a subscription and that's very easily like, oh that's recurring revenue. And then we'll also see a line item that's not tied to a subscription and not that's probably usage. So it sounds like there are a couple of ways we can go about it. If not, if if a flag is needed, that's usually pretty straight forward, what we can do is just add a metadata tag on the product. That says if it's usage said recurring. But it sounds like, okay. What did you dump appear... Is this invoices?
+
+Client 4: Yeah. This is... This is invoices, invoice line items. And yeah. Customers joined Okay Every line item here is an invoice line item.
+
+Client 4: Select the you know, the the blue columns is invoice header This green column customer data and then the orange ones are line items. And then the are the fields that I calculated because I noticed also have some that str there's very few, but we have why don't she str periods. So which are not pro rated. We don't I know why.
+
+Client 4: But you can see in here like, just on the description and even the plan Id, like, anything that says like They I was just looking at it. Like, see this here? Like you know, anything like Api calls. Lambda gigabyte hour storage space. You know, messages these things are you know, their usage.
+
+Client 4: And then Also typically, you know, I think the usage ones are typically gonna have a quality associated with them Okay.
+
+Client 4: That's gonna be greater than one.
+
+Client 4: So there's space There's definitely ways so to identify this yourself. I wouldn't say that once single flag that I know.
+
+Client 2: Yeah. Yeah. Sometimes Let's see. So But there's also the invoice line item Id can sometimes be helpful too. Where the... If it starts with S i that subscription line item, and then they're all just the I ai which is invoice item. And sometimes like let's see. Row ten looks like i i time on Would that be that be a subscription Or would that be usage?
+
+Client 3: I mean, all of these you know, are programming.
+
+Client 4: This this is Like, Like, this one here was unused time on a monthly subscription after it it's was like, part of that or something.
+
+Client 2: Soogrim And some of the ones that say I, like this one here Says I.
+
+Client 4: That's definitely usage. Okay.
+
+Client 2: Okay. Yes. So we'll just have to figure out what the Like, what what the do agent is for usage versus subscription or recurring revenue. But it sounds like see. I wonder if we can do it on the plan I need too. Let's see.
+
+Client 2: Like, plan professional And No.
+
+Client 2: Because i monthly and then so see your plan professional monthly at users.
+
+Client 4: And then subscription calls, database rose, know, those are different elements. No. There is. There is actually, I found a table in stripe. It's called like, usage record.
+
+Client 4: And but I was trying to find how I would join that to to the invoice live item table Okay but I don't know I think it was because all of those rows in that table let i'm trying to think if I took if I ave data extract of it, but if I recall, like, the the to usage record, like a line item.
+
+Client 4: It had a prefix. I don't know if it's S i, something rather but it you like, I couldn't figure out if it had...
+
+Client 4: I couldn't figure out from the fields I saw in that table. I couldn't figure out which ones I would join to invoice line item. I didn't know if I needed to join to, like, subscription And then Yeah.
+
+Client 4: I'm just try to figure that out. Like Got it.
+
+Client 2: Yeah. So Is that oh, in the in the post sales earl, we'll go through a similar call. It'll be much more robust with either me or someone else on my team that is a full technical scoping. We'll get an understanding of if you're doing anything from the pipe side the house well. We'll we'll scope about that, and then we'll also get very in on the recurring revenue. We'll have you share your screen on stripe and and kind of track how things move across the the flows and and how the data is structured and stored. But it sounds like the the invoice line items for historical and then subscription forward is probably gonna be our best bet. And and that that is what I've seen to be the most successful for straight customers. Stripe can be like I said a little bit a little bit tough sometimes. So it can take a little bit of time, but we we can we'll work through work with you on the on the iterations to make sure that we're showing in Mosaic what you would expect to see.
+
+Client 4: Yeah. I think That that sounds I think like, a reasonable approach in terms of because forward way, you don't have an invoice. Right? And that's of the things actually that we were That we're trying to figure out is like, within Stripe, like you can look at an invoice preview.
+
+Client 2: Right? Like, Yeah.
+
+Client 4: If it produces an invoice preview.
+
+Client 4: And We're like, okay. Where is where do I see that. What is that preview built from? My thought is it's probably built from the friction. Because I couldn't find any object. In Stripe, and I started looking through the Api documentation. Can find an actual object for the preview. So it's not written to a place. I think that's just a name for something that's extracted from subscription date.
+
+Client 2: Yeah. Yeah. Exactly. It'll... It's usually a combination of stuff that lives on the customer level, stuff that on this subscription level. And then once the invoice is already generated, if it's a if it's usage, and it's not tied to a subscription or if it's just somewhat off. Then it'll pull data from the invoice level, like, wherever you are typing in that voice line level. So it it really does look for all sorts of places and it doesn't necessarily necessarily stored anywhere we can work on the back end join all those different pieces together to create that invoice again.
+
+Client 4: No. That... So that totally makes sense. I mean, subscription ultimately far as your recurring revenue. The subscription is gonna tell you what you've contracted for and you know, what what what your recurring revenue should be going forward.
+
+Client 4: Yeah. Know. Usage is isn't unknown. So forecasting that would be a different it's kind of a different So when when...
+
+Client 4: Like, when you generate an invoice preview. Never getting you preview for usage. Right?
+
+Client 3: No. It does. So the preview... The invoice preview and strife does include the usage. But as as now mentioned, I can't I I I can't download it. I can't report on it. I I can only just view it. Which is extremely problematic.
+
+Client 4: But the that it's showing there can't be actual usage because the preview is generated before that usage is known.
+
+Client 3: Well, so the way that our packages and rating are set up, as I mentioned. In two places. And so the way that we are using it stripe Stripe is not actually tracking our usage. What we do is we track usage on our end in our product. And then we push every day to strike the usage for the day.
+
+Client 2: And stripe kinda keeps that and then you know, for for the full months, and then at the end of the month, what strength does is it calculates it just looks at what was the highest number.
+
+Client 3: And that's what the which is probably not the best way to set it up at this, you know, how it was set up.
+
+Client 3: We inherited it. Where that also causes a complication is the the components that are included in any given subscription are not reflected strike either. So the camels are not in stripe. They are in our end on our system. So in Stripe, if you look at the subscription, it just says database rose, build at a hundred thousand at a dollar per hundred thousand. Right? And that's it.
+
+Client 3: It doesn't say how many are included what the threshold is in other words to start building. And then what we do is recalculate based on Like guess said we push through all the usage. We then calculate. Okay, this... This subscription had two million database included. They use two many one hundred. So we gotta build them for one unit. Which was one one hundred thousand dollar unit. And then we push that over into str. So it's a it's a For lack of that.
+
+Client 3: the more descriptive term.
+
+Client 2: But but at the end of the day, it's all it all ends up in Stripe And it's all build out right. So even even though Stripe isn't necessarily housing that that quantity, it it still knows the amount across to built.
+
+Client 3: It it does... But again, what what I run into big issues with is that I can't see for example, we are currently dealing with about where we push through the incorrect number of lines. Right. And so we were pushing through the number of for the first half of the month, we realized the year we caught it, we stopped pushing through. That number. Because that number has already been pushed straight, it's already sitting in that reservoir So when I look at a future invoice an invoice preview, it's taking that number into account and generate an incorrect invoice amount.
+
+Client 3: Okay. But I can't pull a report to show me which invoices our incorrect now.
+
+Client 2: I can't I preview report.
+
+Client 3: So I basically have to go customer by customer. To see... Okay, this future invoice is higher than it should be and then go into it and see what's causing it. Was it caused by this error? Or was it called by something new Legitimate?
+
+Client 2: Got it. Okay. Okay.
+
+Client 3: And I I i I appreciate the paint look on your face.
+
+Client 2: Crazy The the future invoice It's...
+
+Client 2: The future invoice is a great tool for if you wanna, like, look at customer and see what what future invoices they have. But if you want any sort of reporting on future invoicing, it's an where. We we struggle to pull through too. It's it's so much data and it just, like it's it's it's a mess. So I I understand your pain for. And and, hopefully, through Mosaic, what you would be able to do is find those data discrepancies in Mosaic opposed to having to Go one by one through spray.
+
+Host 1: You I do have a hard stop. But if you have a couple more questions, Grace, you i don't know if you time.
+
+Client 2: I can make you Yeah.
+
+Client 4: Just I think... Yeah. I I I I gotta move on to crazy thank. I think as far as our projects concerned, you know, we we would be you know, if we move forward, we're gonna be looking at know starting work in January, because realistically, there's no way Core. I don't have time to do anything. Before that. So we be looking starting in January. Just what's the typical Like, I'm trying to understand Like, because... I understand that the strike pieces is probably only the most complicated.
+
+Client 2: Yeah.
+
+Client 4: You know, for us. So we also helps hubspot our Crm. So, like, for booking some pipeline data and stuff come from there. And K Problems owns the Crm system here at a database but, like In terms of a timeline, I was I understood that we can probably do it about you know, thirty days or something like that Is is kinda typical Yeah.
+
+Client 2: So so our timeline for Lewis, you can make me the host if you have to jump, but our timeline for the pub hubspot stuff is usually very quick. So we would get on a scoping call. How you're doing all that pipeline work in Hop hubspot. We can get that stood up very quickly usually. The stripes can take a little bit of time. We typically aim for like three to four weeks for our initial version of having the stripe built, and then we'll work with you to do some sort of validation and to make sure make sure that what we're pulling in, by was, what we're pulling in is is accurate, and we don't have any any weird. Candidly when we're working with Stripe... We usually do come across some nuances that we missed in scoping or something like that. So it it can take a little bit of time to to get everything pulling in correctly. But the v one and, like, the the initial initial version is usually about three to four weeks.
+
+Client 4: Yeah. And I think I think that That sounds that sounds about right. And and we're getting more familiar with this stuff. So by the time we get in here all. I'll probably but I'll probably know a little more about it that I get before, but If I think that's the complex part of this.
+
+Client 4: With us sixty. The usage dimension how straight handles it. There's also some funky things. We're mean we we also are gonna... We also are try learn a little more from our tech team on what they're doing, how plans are set up so that we can have understanding what's happening upstream because we've seen some isolated cases.
+
+Client 4: Where, you know, something that should be pro is pro. Then something that should be pro another case where something that should be pro rated wasn't pro. Okay. We don't know why. I think we just can't we're, you know, we're try to figure out why this happens. But it's nothing that we're doing. Because We don't really... you know, on the front of grow and i in Strike, we don't really do anything other than look for data and...
+
+Client 4: Yep. And and look things up. You know, or if we have issue refund or something because something got screwed up. Yeah. We do that to more and then have to rebuild it manually. Yeah.
+
+Client 2: But right terms of configuration I mean we're not really doing anything.
+
+Client 2: Yep. Well, and if everything is just being pushed from your engineering team, it might be worth it just to get a little for data cleanliness purposes to... When you when you speak to them to see if they can add a metadata a data tag on the product or plan, that would say this is usage data. This is subscription data. Just to make sure that that data is a little bit cleaner.
+
+Client 4: Because I noticed there's a field called, like, invoice metadata data.
+
+Client 4: Which is a bunch of. Is a bunch of tags. And I try to figure out what are. But... Yeah, I mean, tag, yes. Something like that would be helpful because have clearly separate. I mean, part of the Eventually, we have to fix this issue now. We have to address it now because usage isn't a big part of our world right now. I mean, there's very few cases customers that actually generated.
+
+Client 4: But eventually, we're gonna get our pricing done and we're gonna release a new product and everything. So it will become a part of our world. And I think we need to design or it the right way and understand you know what? What we've got here. So But this is helpful. And the connector I mean, when we're connecting to Stripe from A. It's... You know, you're doing that. To the Ui, and you're setting up the connection and your your... I mean, I know there's probably some field mapping it's up, but we're not... The project doesn't involve writing like, a ton of Api code Yeah Yeah.
+
+Client 2: So it's it's it's pretty straightforward to set up a stripe connection. You you'll go through our... Way have like a connection flow and it basically just has you as you do some log stuff eventually sure Yeah. So you move in you you generate an Api, which you probably probably already have one, but we typically recommend that you make a specific one from Bo jose if you can. And then you hit connect a and you're good go.
+
+Client 2: Yeah.
+
+Client 4: I've done that with a couple other tools that we've experimented with is that part's not terribly complex And we need to find. You do have to tell stripes sometimes like how much stuff to push because it's... I remember having like check checkboxes and stuff just send all or whatever.
+
+Client 4: Yeah. But it was relatively straightforward. So it's not, like, the project is a good involve, you know, a bunch of custom development.
+
+Client 2: No. No. Yeah. We we do all the all of the code writing on our end. So what it'll basically do is you connect the Api and then we down we we'll bring in all of the data that we have access to and store in a database specific to your instance. And then from there, our team goes in and told the custom logic on top of it that it will make sure that your recurring revenue and your revenue numbers are pulling in properly.
+
+Client 4: Okay. Okay.
+
+Client 2: Okay do you have any questions?
+
+Client 4: Sorry I know we're over time, but I think you Gertude appreciate your.
+
+Client 4: I think it's to learn a little more about how this support.
+
+Client 2: Yeah. Yeah. I don't have any other questions for you guys. I think that way we would be able to support you on the side. So if you guys have any other questions for me I'm happy to answer them. Or if I know things come up later. So if you reach out to Leaandra, she can always pass it off to me and I can respond me an email as well.
+
+Client 4: Cool. Cool Well, thank you. This has been helpful.
+
+Client 2: I really appreciate yeah.
+
+Client 2: Yeah. Absolutely. Have a great day, and we'll talk to you soon. Right.

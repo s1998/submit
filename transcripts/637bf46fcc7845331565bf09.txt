@@ -1,0 +1,231 @@
+Host 1: K Rob.
+
+Client 2: You hear me now?
+
+Host 1: Yep. I can hear you now yeah. I think you're on mute before. How are you?
+
+Client 2: Fantastic doing well doing well.
+
+Host 1: Great. Love to hear it. Awesome. Well, Super excited to talk with you today I was just messaging Re. I'm honestly not the best at reading like the hubspot marketing lingo. Was it us reaching out to you or did you happen to find us or how do we you know, end up with year today So I...
+
+Client 2: My my company cloud is looking to install Cpm. So I'm doing a little market research for my Vp. So so basically, I think I might have reached out to you, but basically just today, today basically, all I really wanna get a. I've seen like ten demos already feels like, So I don't need to get into, like, what you guys kinda do, like... If you can me the bullets of like, I don't know Just you know, like, use cases you cover, which were probably the same as, you know, everybody else I'm looking at. But what what I'm more looking to hear on top of that is like, where do you excel where, you know, like, like, what what what am I what should I expect if I word a contract? With am I getting best products, but i'm paying a higher price. Am I getting, you know, a la carte, but you might not have as many features like, like, I gotta get a sense of, like, what I'm paying for and know, if I can recommend you guys over anyone else, so totally, makes sense.
+
+Host 1: So I guess, taking a quick step back, like, typically, we don't do a demo in this first one anyways. That's totally fine.
+
+Client 2: Yeah. Wanna I wanna do that with my vp anyway. I be honest, I think it's he's he's the one who has to like the demo. I just have to feel like I could make a case my Cfo that this is the right thing and that his team... Like... So I'm I'm the American team. We have an Israeli based team I just need to make sure, like, people across the globe can pick this tool up and it works and it integrates nicely and it doesn't cause issues.
+
+Client 2: So basically...
+
+Client 2: I just I have to sign off on the execution, the Vps assigned off basically use cases and if it's worth the value.
+
+Host 1: So yeah. Okay. And what's your guys timeline line on choosing something?
+
+Client 2: I mean, I think it's mean, I wanted to get this done earlier. Just, you know, I'm I'm full and step with that, but I think that's only been there for a couple of months and Yeah.
+
+Host 1: I really fast.
+
+Client 2: Yeah. That's well, that was that's on the Jd. So I, you know, I'm executing towards that. That's my contract. So, you know, I'm I'm full full steam ahead on this. We've had a few hiccups in in just execution here because, like, the leadership team needed identify how much budget and all that kind of stuff. So we had some back office up here. Work out. But now my Vp is coming to me and said, yeah, I think we're ready to start making decisions on this. So honestly, as soon as you possibly can. I mean, I think know, maybe give us a month on our end to make a final decision from this point. And then plus whatever implementation time. I think that's kinda where we're we're looking at.
+
+Host 1: Okay. Awesome. And then I was doing some Linkedin searching and are... I so I like you i had two Vp of appliances Tom and ami meat Yeah.
+
+Client 2: One's more of a corporate controller, the others is more of a strategic finance lead. So I work for Coma.
+
+Host 1: Gotcha. Okay. Cool. And he's also based stuff. So that yep is good. Cool. And so I guess I would love to give you that, like, kind of groundwork of, like, where we lay in the landscape, but it really helps me to understand like what you have seen and, like, what we're up against because, like, depending, you couldn't be looking at like I mean, Yeah.
+
+Client 2: So products I've used adaptive insights, which, you know, I'm most familiar with. I've had about three years experience with that. I like that tool generally as long as you fit check the boxes there and it's not like, so far reach for me to, you know, adapt to your tool tool from that experience. It I don't see a issue. I have used Hyper which is a very old data tool. I freaking hate that. It takes, like, three hours to update. It's just terrible. I I like... Personally, I wanna make sure when I update my budget, it's it's locked as soon as it i hit enter. So that's kind of a... That's why I was excited to he's exactly when I did. And then I've used one stream in a limited fashion at sales because they were actually migrating from Hyper ones streams. So I've used those three products. I'm aware of many, but, you know, And I know I know actually a few people That use you guys. But... Yeah. So just like like, that's the lay of the land. Yeah. So all let you take away from that.
+
+Host 1: Yep. And what what companies are you looking at? Like, which one demos have you looked at? Because it sounds like mean ones that you use daughter Be honest like?
+
+Client 2: I I have a list of, like, seven at this point. And I think I and it's only because we've taken so long on this assignment that I just continue to go through an entire long list. But, you know, I've looked at... I've had conversations with adaptive with workday with v, with q with plan for with fantastic. Like, I I mean, like, I I'm sorry.
+
+Client 2: I'm just... I'm basically, I'm just doing wanna make sure they make the right decision and so they kinda stalled on me, which has giving me a lot of time. Ideally, I'd like to just... I would have kept it to maybe investigate five and then slot three for demo, but I've kind of gone for the whole list at this point.
+
+Client 2: So. Guys are last on the list, but, you know, you'll be fresh in our minds.
+
+Host 1: So cool. Love it. Okay. Cool. I mean and the reason I asked that is some people are look... I mean, you guys are around a five hundred person company is so relatively larger scale. I want to know if you guys are looking at like Spreadsheet plugins are like full full tools, which it looks like you're looking at like full platform which is great.
+
+Client 2: Looking at everything. I mean, be honest, I think it's it's you know, that they're... They wanna see what use cases can be accomplished with anything. And if it's an excel plug is better fit for us than that's what they're gonna go with. I honestly want to make sure that it's something that is easy to use and has a like, a record system, and I have a feeling that Excel plugins will just be like or a but a record history nightmare. You know, like, which budget is the right budget kind So, like, you know, I don't want it to be just my spreadsheet as the budget. I like it to be something shareable collaborative, something that, like you know, other people don't need me to email them, you know, that kind of thing and excel plugins I wanna push away from. So it's either platform or with integration with Google.
+
+Host 1: Cool. Okay. Well, where Kind of lays within that. I would say that we're like, third generation. Honestly, from my perspective, like, All the ones that you mentioned adaptive V, plan fold, work day, they're all kind of like first or second generation tools. And so Mosaic is very different in the fact that we take one a different approach. We're very integrations first, but Aside from that, extremely user friendly. So I don't know how user friendly you think the rest of those tools are, but I would say think those are user friendly moves is like Dummy proof because it is meant to be, like, for people who honestly don't like adaptive and didn't like the implementation time.
+
+Host 1: However, what we constantly hear is that we're fitting to the sweet spot of of an area where, like, a lot of people didn't have a tool that they could go to before they had to go to a full blown adaptive. And they end up going to that too early and then it was just was just too rigid as a company was growing. So that pretty much is, like the running story of came from.
+
+Host 1: Mosaic is meant to be extremely flexible we're gonna gonna grow with you guys. But also, we fit perfectly within this niche of B b us, which I believe you guys are And and actually one question about that.
+
+Client 2: Because a lot of these guys probably in this field. Like, but one question My Bp keeps kinda of nudge me on is... you know, so our platform we're a hundred million Arr company we got a lot going on. We have a... We have a a a committed amount of revenue from our clients, you know, in the form of contracts, you know, obviously you know, Ac. We have an over component of our our usage based platform. How can we accurately forecast that.
+
+Host 1: You know, in your platform.
+
+Client 2: Is it is it something I would have to put a a, like, an like, engineering, a formula based on, you know, some back office number or is there a way that we can get usage information and it automatically runs.
+
+Host 1: Where usage information live?
+
+Client 2: Click is that like, do you guys have like, a data warehouse or like use perfect.
+
+Client 2: Snowflake like snowflake populates the over function within our dashboard.
+
+Host 1: So awesome. Well, we can link into just snowflake.
+
+Client 2: Okay. Okay.
+
+Client 2: Then that then that's useful. Okay.
+
+Host 1: Yeah. So would say one of the biggest differentiator is one Mosaic is like v kinda just like, honestly, a spreadsheet to be honest. And the rest of the tools you're looking at are gonna be, like, really lengthy the implementation times or even though they do plan the Bb saas space.
+
+Client 2: What do you? You recall.
+
+Host 1: Like four to six months.
+
+Client 2: Four to six months. I'm I've been told ten to twelve weeks. We're talking three to four what I think I'm i didn't know.
+
+Client 2: Adaptive. Like everybody. Everybody says that. Everybody says that only one is even coming shorter and said, could do it into. So two to three months is what I'm really hearing on. Like, from market. So I wouldn't... I'm not gonna get into a contract if it's over that but So what what's your... What would you say yours is?
+
+Host 1: Is it. Obviously, it depends, but we were a lot quicker time of value. And the reason why that is is, like, we're around four six weeks for implementation because the you're quoting maybe like, a half a month quicker than what everybody else is trying to sell.
+
+Host 1: But what you actually get at that point is vastly different. And the reason for it is we're not building everything from the ground up since we put ourselves in this niche everything's already built and you guys just get like, everything out the box. So I am here curiosity I get that.
+
+Client 2: I get that. I I would say that like, you know, if I had if I were to do, like, a little round table around Robin and had three of, like, you know, folks aes or whatever. Tell me the thing. They would probably say, well, we can do that too. Like, I I I'm I'm totally honest like, that's I have another person that's combo, they'd say, no. My company can do that. So no I I get it value...
+
+Host 1: I get that everyone says that, But I mean, that's...
+
+Host 1: I I we're not doing.
+
+Client 2: What is the different like, we're talking about, like, like, implementation at the point of, like, open the box. Like, how am I supposed to like, contemplate.
+
+Host 1: Like, how what that is in your sense.
+
+Client 2: That's, I guess kinda where I'm the sticking point from it.
+
+Host 1: I think it might... I mean, like, we're definitely gonna get to a demo because, I mean, be curious to know like, the people who you knew use it Mosaic, What have they said about it? Because it really is totally different from adaptive work workday ben I mean, all of them. And so I would like to understand better what you guys actually are looking at publish. Because that way, we we're looking to get operational budgeting done.
+
+Client 2: you know, so I wanna be able to see, like, you know, as soon as the accounting closes the books like, you know, what's my P and L? I wanna be able to separate that by region, potentially product line when we, you know, grow you know, our future new business opportunities up. I wanna be able to split it by department and and look at, like, different levels of expenses, like, whether it's people program or, you know, anything in between just on the operational side. I want that to roll into cash forecasting, so I wanna be able to able to know basically understand where the treasury position is and make sure that we're adequately funded for, you know, like, twenty four months out, etcetera. Balance sheet. I wanna be able to, you know, they be able to link in any bank or whatever that that has a that has cash and assets and be able to at least record liabilities where possible. So but all that lives in the gl. So you know, as long as you link up with nets we I'm sure we'd be fine. But I wanna be able to, you know, three statements wanna be able to forecast. I wanna be able to scenario test you know, everything regard to those kinds of.
+
+Host 1: Features. Gotcha. Do you guys have, like, a rubric for what you guys are looking to as far as like, everything you just mentioned, but is there like, more specifics on that because that's pretty bread and butter. Like, I can just say around the bat. And that's standard stuff that we do. But I guess, is there more of like a criteria as far as like you talk about user friendliness, share ability collaboration, Like, is there anything else that you guys are looking for to help whittle down your list?
+
+Client 2: I mean... Yeah. I mean, those are the core ones. Like I mean, it's it it just comes down to. Can I do the the the... Like, we don't have a system right now. That's... I think, like, the the first thing like it's all done on spreadsheets. So Like, you know, an upgrade from anybody is is is welcomed. So I... It's hard to say I want this over this over this when I'm not really really, I I just have to fill a, you know, fill a a a software gap here, and I'm just looking to find something that is user friendly price friendly and, you know, something that, you know, is easy to integrate in collaborate.
+
+Host 1: Like you know, it's it's not like...
+
+Client 2: I I don't know. I I imagine just some some extent the, you know, top three guys are gonna be able to in varying ways be able to accomplish that and Demo probably gonna be that. But I think the bet... Like, the best person for those questions my be paid because he's the one who is basically gonna live with the the the, you know, liver guy with the decision I'm gonna try to help make the decision, but like, I'm not gonna get in trouble it fails. Right? Like, you know, well not that saying like that. But I guess That's one fair to say is, like, he he really wants to know what's gonna accomplish the thing. Like, I know generally everybody to extent ten. So it's I'm a little bit more focused on, like, you know, implementation time you know, cultural... Like, you know, I'm dealing with folks that are living in Israel. So just making sure like, there's some type of support. Wherever, you know, like, you know, like, international support for those teams if there's like, a hey, I can't get in system. That kinda stuff is they are, you know, twelve hours different than we are. So you know, like, those functional things and then just making sure the integrations are relatively easy and then they make sense, go like, those are the functional things I care about where I think the Bp is like, fraud strokes, you know, does this fit the need? Can I justify this as the Cfo did I do something good by saying yes software. That's what you really need I I want just to make sure it works. Like, ease sure. It's like, hey, I can stand behind the decision.
+
+Host 1: So cool. And how many people are on your team on the Fp side? So, like, sounds like your Vp or Cfo u, Is there anyone else?
+
+Client 2: Yeah. I mean, we're gonna want about ten licenses, probably two to three admins, So we don't...
+
+Host 1: I'm not asking that for licenses. Because we don't actually rice per user. We actually have all you can eat model. I'm thinking more just around the fact of like, who's gonna be...
+
+Client 2: Yeah.
+
+Host 1: Mean touching the tool and doing those.
+
+Client 2: It's gonna be about ten also Cfo we Vp of finance, home, strategic finance, Vp Finance controller, over there, a few bookkeeper that are in charge of the accounting. Probably a business analyst that's in charge of revenue. Like, there's a handful of folks, but it's practical.
+
+Host 1: Okay. Awesome. And then you mentioned budget a couple times Kinda curious like, what is the budget you guys are trying to fit into?
+
+Client 2: Right. Like, more more information like, what do you mean?
+
+Host 1: I guess, when you say price friendly, is it is there like a budget it's like, hey, if it's under this. It's or if it's over this is not good, and then it's i by.
+
+Client 2: Like, I I want the market to speak to me on what the the price is. So, like, you know, not collecting quotes, and then we're gonna stack everybody up and then we're just gonna ask, you know, you know, if you think you're ten percent and twenty percent more than x person, why are you twenty ten percent better. If you're ten to twenty percent less, you know, am I getting anything less these are the questions we'll last when we get to that point.
+
+Host 1: Cool. Well, I can just tell you right off the bat that I think we're gonna come in prop... I mean, like, less than, like, adapt and more they've and plain for sure, probably more around like ben price. From what I know them more than... Well actually cube is interesting. They they're kind of all over the place as far as like, what they actually have on their website versus what they actually quote. So I don't really know where they land these days, but I do think we typically come in a little bit more than cube. So really, I would say like, gold locks as far as pricing.
+
+Host 1: But we're you're gonna see a real difference on is that time of value. So I know you were budgeting like, three to four months. I think is what you were saying on that? So how important is time to value for you? Because I know you're kinda of, like, talking me down that is gonna be quicker. It is gonna flicker, but...
+
+Client 2: Yeah. Yeah. Yeah. I mean, I mean, like, look, look, I I think the biggest milestone was to get our annual plan in place with this, like, for the first year, like, right out a gate, our company you know, works on on on ...our fiscal calendar aligned with the calendar here. So I doubt that we're getting anything in by end. So my my highest hopes are kinda like sunk in until probably Q one at this point. So be honest, like, I think we have time for anybody to make me feel comfortable with where we're gonna be. Because it's not gonna mean anything until we start in a quarter and we get a full quarter of records in and and etcetera. So you know, I mean, like, annual plan, obviously, would be amazing. I get it done by, like, you know, February, but like that, like, I still get people to make decisions and then you gotta get to work.
+
+Client 2: Yeah. I said, I'm trying to be realistic because I've already waited for my team to make a decision and then the delay and delayed and now we're here. So gonna sit... They're about to say wanna say yes to something. So you know, I'm kind of living in the reality that you guys have implementation time constraints. My team as decision making constraints and so I...
+
+Client 2: It's it's wanna get it done immediately, but I I need to take the time.
+
+Host 1: Or. Okay. Yeah. Well, the good thing is here, I mean, you guys do have a perfect tech for what we in a integrate with and the integrations are actually be very from what I'm sure you've seen. So I can actually send you a video of about if you're interested. But I guess the next step here is really just showing you because I think like, once you, it is gonna make sense.
+
+Host 1: When do you think Tom has time for... You... And you... Obviously you as well. Have time for a demo.
+
+Client 2: Yeah. Let me let me just Because I think, honestly, like I think like, I want him... I want his buy in, because honestly, I I could approve any of these, and I just want him to feel the happiest about them or at least gay. These a top three, I'm interested in, and then I can making an analysis from there just I don't wanna be like, you know, telling him how to do his Yeah.
+
+Host 1: Text happen on it.
+
+Client 2: But I do want to have the best decisions to make and one thing that I have a question on just because you guys are a little bit bigger.
+
+Host 1: Do you guys is do you guys forecast in more than one currency?
+
+Client 2: We we would. We should. Yeah. Especially these days. Yeah. We we we don't what we should.
+
+Host 1: Is Okay.
+
+Client 2: Where we're we're we're basically... We forecast in Usd and and shackles at this point. But we we probably need to be doing it on the, you know, the regional level. Like, I mean, every every subsidiary, you know, every jurisdiction should have its own total corporate consolidated like, north American budget, etcetera. Like, we gotta be able to tie revenues that way and be able to know how much currency exposure we have. I don't think we do that right now though.
+
+Host 1: Okay. And so but today? You said you're doing Usd and circles?
+
+Client 2: Well, yeah, because it's an an Israeli based company. So they probably... They're probably looking at the their their cost basis on a on a you know, israeli israeli basis, but then we also have a North American and financing, which is me and I look at it in Usd.
+
+Host 1: Okay. So are you creating both or is someone doing like the conversion? For then.
+
+Host 1: When you create the budget. Is there two versions?
+
+Client 2: We would have to have two versions.
+
+Host 1: Correct. Okay. So that's something that Actually need to check on because it we have workarounds for that. But as of right now, we only forecast in one currency you guys can look at them in two different currencies. I if we create this like workaround for you guys, but it is you can't, like, forecast within the same tool for two different currencies for, like, you know, different tls items.
+
+Client 2: Yeah. The the thing is is, like, half our team is in, you know, chuckle. So, like, we paid payroll that way.
+
+Host 1: I Oh, yeah. Payroll fine. Oh, sorry. I should specify. We can definitely do every individual currency for payroll. It's more just like for expense items.
+
+Client 2: Trying think. Like do... Well, I mean, we pay rent. Right? Like Like, we have office space out there. I'm not... I don't think it's, like, the biggest expense but outside of payroll, like, office expense in Israel, I mean, like, teeny, like, there's gonna be things.
+
+Host 1: Like I You avoid that, but you know, our primary market's spend primary sales commissions usually mostly in American.
+
+Client 2: I'm trying to think, like other big items. Our our Cdn, we spend a lot of money on, like, lot like, our cost of revenue. I mean, so, you know, like, those areas are gonna be in Usd. Although we get... I see invoices involved in both. So it's it's it it really depends. It really depends. Like, I I mean, we could fit it into, but I mean, wouldn't nets we have a conversion like.
+
+Host 1: Exactly. Yep. So it's kind of like, how it works typically is nets we converts it already because it does the consolidation so our bookkeeper have it in that, and I'm sure we has the conversion for us.
+
+Client 2: Because. I what I remember I mean, like, you know, I use nets sweet. But, like, what I know is like, they at least will give you the spot rate on the date that they, you know, post so if they post in check and they give us a spot rate, and then that's the thing then that's the conversion will So... I mean, potentially that I think that solves the issue. If we import all the data. Right?
+
+Host 1: Yep. Exactly. Okay. Cool. So I guess, I know this week is short, and I actually am really busy tomorrow, but No.
+
+Client 2: No. We're not doing anything Thanksgiving.
+
+Host 1: No no. Okay. But looking at next week, pretty available. So anytime that you guys you have in mind, I can make work.
+
+Client 2: Yeah. So I'm looking... So basically, like, why don't you... Let me get... We get over. We'll pull up the calendar.
+
+Host 1: Cool. Okay.
+
+Client 2: Okay. So we get we're doing... I'm doing some demos on Friday. Of December seconds We could do something like nine to ten, if you wanna do that.
+
+Host 1: In your Pacific times. Let's see.
+
+Client 2: I to eleven, actually.
+
+Host 1: Cool. Ten to eleven that... Yeah. That works for me or any other time. I mean, if you don't wanna have back to back we can do, like, a thirty minute window or yeah.
+
+Client 2: Let's see Let's do a thirty minute window. And then let's just, you know, focus like you know, and and let him be the focus of the of a attention because I've seen so many... Like, you have to understand. I've seen so many of these tools i I just wanna make a decision this why.
+
+Client 2: Like, I want him to narrow it down so that I can like, go through, like, alright. This is better than that or let to about. Know I can't I can't weigh, like, eight different companies in Stack gum. I'll use an industry report that. I don't you know, let let me let me look at two and then see which one I like more.
+
+Client 2: You know, like, it's just too much. So Yeah. Yeah, let's let's have him focus on the discussion be the focus of the discussion. Like I said, I think... I mentioned a few things, like, getting the the over that we... you know, which is usually, like, twenty percent of our revenue we would do a lot. People who use as love, So we we need that bucket in to, like, I want like, committed revenue and and, you know, over revenue and have that almost real time, like, get it updated It maybe not real time. Maybe, like, updated monthly because, like, we can reconcile monthly, but it needs to be in some, like incremental basis. Like, I don't want it to be like like, you know, me just putting in a number, like, you know, times twenty percent of committed and then they make it a guess. I'd like you to be a little bit more fine tuned. So if it's like, eighteen point five or whatever. Like, that flows through automatically and I can just check it, you know?
+
+Host 1: Mh. And and right now to you get those over, you're just pulling from that system that you mentioned, and then do it, like, putting it into your model manually.
+
+Client 2: Basically. Well, yeah. I mean, my model... I'll I'm just taking committed revenue and then I'm looking at over spence like, or over usage in our dashboard and then just multiple multiply committed on that.
+
+Host 1: Gotcha. Okay. Cool. In full transparency we are coming out like integration next like, quarter. So that's why I say we have it now in the interim. If you guys get started sooner not. We would just do Csv upload.
+
+Client 2: So...
+
+Host 1: Yeah.
+
+Client 2: I imagine next quarter. We're that's probably when we're gonna go live.
+
+Host 1: So Yeah. Yeah. I think so.
+
+Host 1: Okay. Cool. Awesome. Well, i'll send over a calendar invite for ten thirty pacific time on Friday. December second. I bring my solutions engineer on. He has a finance background and a banking background, So you can definitely speak at same language, how technical you wanna get, you know, go reach to.
+
+Host 1: Cool. And I'll send you a little recap after this and we'll get into it.
+
+Client 2: Sounds good.
+
+Host 1: Alright. Take care. Have a good... Thanks.
+
+Client 2:

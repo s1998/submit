@@ -1,0 +1,549 @@
+Client 1: I to you.
+
+Client 2: Hello.
+
+Client 3: Hello?
+
+Client 2: That is a fancy little setup Exactly.
+
+Client 1: Hello?
+
+Client 2: Good to see everyone. Well Can you hear me?
+
+Client 2: Yes. We can hear.
+
+Client 1: Alright. So in another in an office and we're just sharing a screen. Okay. Let's see. Yes. Okay. I definitely can't hear you. Mh. So Galadriel I in an office and we're share we're sharing the screen on like Yeah. Remote screen. Do you know? Might be because of that.
+
+Client 4: Hello.
+
+Client 2: Anna.
+
+Client 4: Are you guys will it billing work out some tech issues was everyone doing.
+
+Client 1: So excited for the demo. It just looks so much nicer on a big screen. Let me see if Galadriel has any ideas how to switch on the sound.
+
+Client 5: I might be si like, meeting myself often on there's demolition happening in my kitchen and it's very loud.
+
+Client 2: Sounds good.
+
+Client 5: I did end up making that drink.
+
+Client 2: You deserve it. You deserve we'll we'll talk about what you manage to pull off before we start this.
+
+Client 1: So they can hear us, but we can't hear them.
+
+Client 4: Oh, good but didn't hear this.
+
+Client 1: There a volume on this? Not that I can see. We were not. This looks so nice.
+
+Client 5: Help. I a good talk.
+
+Client 1: Give us a minute, and it's not the unplug of screen and we'll go for.
+
+Client 2: I jacob him is, like, popping himself up about the drinking he maybe. It's like, Cocktail. Good job.
+
+Client 1: Oh, Network we're Do we have services companies?
+
+Client 1: No.
+
+Client 1: No. No.
+
+Client 4: More time for It to deploy. Don't alright.
+
+Client 4: Yes.
+
+Client 5: Running that monkey run.
+
+Client 5: I little hamster. Not monkeys. Little Yeah.
+
+Client 1: Volume is up over here.
+
+Client 2: Oh, actually just like...
+
+Client 2: I'm seeing my changes.
+
+Client 1: So we got a small screen, I guess.
+
+Client 2: Screen. Okay.
+
+Client 1: Oh, wait. Yay.
+
+Client 1: Let there be sound.
+
+Client 1: Well done. Wait. Can hear yourself?
+
+Client 2: Yes. We can hear you.
+
+Client 5: Can you hear me I still hear you.
+
+Client 1: Yes.
+
+Client 5: Yeah. We can always hear you.
+
+Client 1: Okay. Well, it was it's still just from the laptop rather than the sound system, but How work. All good.
+
+Client 6: Alright.
+
+Client 1: How's everyone feeling? Excited about demo day.
+
+Client 5: Yes Yes.
+
+Client 2: We're doing good.
+
+Client 5: Yeah We gonna... Feel I should have, like, my hair her open and Nervous laughter.
+
+Client 2: So I... So I'll I'll get to that as we kind of start off real quick. S, did you wanna do yours first or i to mind first?
+
+Client 5: That's just first.
+
+Client 2: And ian when are are are we good to go on your end?
+
+Client 7: To a point. I mean, Basically, merge if i changed their Api recently. So I'm struggle get out. That was fine. But I've not able to test the flow with more than like one user a time. So could it might be bit slow. But Okay.
+
+Client 7: Yeah. Ready. I yes so to deploy qa though. So if I go last, I can move over again to together branch. Alright. I then you guys unchanged.
+
+Client 2: Good to hear. So for everyone else, so a note for future demo date. This is as always an experiment, and it's always good to take notes on these things. So we have three demos today, both mines bones and ian. And it turns out that when you get three developers trying to test on one platform at the same time. It's a bit like that when you go to a circus and you see three three clouds trying to use the clown car all at the same time.
+
+Client 2: And a major major props to Jacob, who basically acted as both the ring leader and the workhorse. Was working into the last hour desperately trying to get literally three different versions of the platform loaded at the same time.
+
+Client 1: Well on Jacob. Super excited.
+
+Client 2: Thank jacob, But I will say for future demo days, they don't need to be, like, really spaced out, but, like one per day would I think be ideal.
+
+Client 1: Yeah. Right. Okay.
+
+Client 2: Yeah. Yeah give jacob a chance to rest.
+
+Client 5: Especially when everyone needs something from me, Yeah.
+
+Client 2: Yeah. It turns out you're the bottleneck.
+
+Client 1: Now we know now we know So, yeah.
+
+Client 2: You deserve that drink.
+
+Client 1: One second guys we're still really hoping that to get the sound up because we can hear you from the laptop, but it's It's very, very still kind of muted. So we're trying to today capture Take a take a little time.
+
+Client 2: We can kind of prep our demos real quick.
+
+Client 3: I'm scared to change anything.
+
+Client 5: Just like...
+
+Client 3: Since he's working right now, And i Wanna put you No.
+
+Client 4: Don't worry. You have it recorded as well. So you're safe.
+
+Client 3: Secret. That's only go is that's bad.
+
+Client 5: Everyone make their sacrifices to the demo gods today.
+
+Client 5: No. Not yet.
+
+Client 2: So i'll need to going to chickens somewhere.
+
+Client 1: Alright. All set out here monthly.
+
+Client 5: This is Alan. You need a lock Oh, I'm sorry.
+
+Client 2: You're right you see my screen?
+
+Client 1: Yes Perfect.
+
+Client 3: Okay. So let's start The feature I'm presenting is about uploading Csv of members to audience. And because this does Five things maybe even more. Depends how you counted, I have prepared two examples. One is a with really small dataset set, but core quality to show what exactly we should expect. And hopefully after it works, I'll just upload another set with hundred members. But that we won't track so policy. So here's the setup. I've prepared some audience to show what we have at the moment. Just a sec. It does this time. Alright. So we have these three members. Upgrade new audience in a moment. This is just show the existing data. It's the same thing as that one? I literally just a project before the before the call. And what I'll be showing, I will upload this data that's about here. And will change a number of things. Number one. Obviously, we add these members to the new audience I'm going to create. Number two. We are going data fields for already existing members. And we expect to see these changing. For example, at the moment, we have bulk here. Work as company bravo. And we want to move him to delta. For chatting, we update from engineer to senior engineer and also the performance. And another another caveat to that. At the moment, if we check the emails, Okay. One more refresh. Sorry about that. Chat has two emails, and it shouldn't be a problem to upload data using either one of we'll be using the secondary line just to prove it works. What else we've created those new members, Abraham and evil members who do not exist anywhere. The moment. We can search true members, but let just believe on that. They do not exist the moment. And Finally, but not least, we'll also create brand new custom fields. At the moment, we have the standard fields our company, and only one custom field performance. By uploading the new one called h we'll create it. And we'll also upgrade all the possible options this fit don't have. So at the moment performance does not have the option brilliant. The most you piece accident. But after uploading the new data, we also have great. Alright. So let's start. Hopefully, it would work on the first time.
+
+Client 3: Creating your audience Alright.
+
+Client 3: Now this data download Csv I have it tried here. Same date as i show you it just without the annotations. Alright. And members, I members using cs again. Uploading file. Okay. So the car fields got map automatically mary email address first name first name and so on. The custom fields, we have to confirm that they been up first, we have to confirm that there are distant fields, and then they'll be mapped correctly. So this the custom field. Same for age. Alright reviewing data, All looks good. fingers crossed felt. Okay. That happens sometime. It will work on the second right. Just a second.
+
+Client 2: Remember what I said about three clowns try to use the same car.
+
+Client 3: This is one of the results.
+
+Client 5: Yeah. It has nothing to do with Someone's simone stuff Okay.
+
+Client 3: Same process. Pretend you're seeing it for the first time this is a day take look Is there? Okay. So we should have everything as promised We created the new custom field. We have a small nice data preview here. That ages should be right. We have updated david to. Also, the companies moved to delta was bravo before and so on and so on So Yeah. That's it. And if you check the previous the setup audience, it has the original members. We haven't altered this audience in way. We just altered the members that already in it. So we can see here the h as well we said new custom field. The updates of the company, everything else. And now the same team should also work with a large number. Off. Members. Here I have larger your dataset all these members working. Things i it and their experts in a random world. So perfect for the test downloading Csv Large don't get again, confirming the custom field. Okay h Now good chance, it won't work from the first time, but let's give it a try. correct. Nice. Yep. So That's it One Csv, Bye six separate changes on the on all the data we have for members and custom fields.
+
+Client 2: And also So about, I don't think you understand just how wonderful it is that customers can now just add custom fields. Arbitrary custom fields to their to their members bases. That is gonna be huge And then from the customer active, how do they use this data in the matching?
+
+Client 2: So that is our next step. Is making it so that when people are setting up an engagement, they can say, hey, use this use this as a custom question. Or use this field as a custom question. All of that is available in the back end, actually having that available in the engagement front end is probably going to be another demo day.
+
+Client 1: Okay. Amazing. Well done. That was really really smooth. Oh yeah. We We had a meeting earlier this morning and we were doing a demo life. So and we we can be Soogrim out of the platform and whatever actions we were trying to do was not saving just like the first time we tried to upload it i oh.
+
+Client 1: Worked in the, but that was That's great. I I I didn't tell the person that it's probably a fashion of demo day and everything Is this your take?
+
+Client 2: Yes. This is Your team Right.
+
+Client 1: Okay.
+
+Client 5: But, okay. At least tell me you were doing this in Ua, it wasn't prod that was kicking you out.
+
+Client 1: It was product. I it was probably that I was taking up.
+
+Client 5: Damn. Okay.
+
+Client 1: But literally after every action. Yeah and non saving and get hot.
+
+Client 5: I don't understand. I can't reproduce this and ever, but I see it happening for because Okay.
+
+Client 5: I'll find.
+
+Client 2: Enough on your blade already. Alright. So so is this...
+
+Client 1: Is this basically... Big it's all to basically going prod by the end of the week.
+
+Client 2: This functionality, So so maybe it's not the best time to lost stuff to pro right now.
+
+Client 3: Don't know.
+
+Client 2: Yeah. There's a there is at least a general a general freeze of production in platform while Luke is away. But I don't know, Jacob, What do you think?
+
+Client 5: We need to polish the front end stuff. For it... Look put that together in like, minutes or something. I i don't think that this is particularly... I don't know what the dangerous.
+
+Client 3: Maybe I think it's okay.
+
+Client 3: There is some a feature that we had with the previous with that clients were able to provide us. That I'm not sure will be needed now. Before they could set multiple per custom field. So for example, column can be called label and then we almost they'll separate multiple values. Right now we don't have that. If I put Commas as a bottle, it will be just string up in things. I'm not sure how important that is to the plans and be to hard maybe to add... I'm not sure. We have to check for the front end, but that's one potential consideration for moving into pro by the end of the week, You said it currently does this, but currently can not not for like, before without the front end, we were uploading this was a allow back.
+
+Client 3: And I know then we got cs contained the multiple parts per comma. We were importing to take some script that we had. So that... That's what Oh Wondering if users would want to have the same feature from from the front end.
+
+Client 3: From that.
+
+Client 5: But I think if we tell them that it's one one tag per custom field.
+
+Client 2: To start. That's not a terrible thing. Right? It Alright.
+
+Client 5: Is clarify if we if we tell them hey.
+
+Client 2: It's one, you know, one string per for custom field.
+
+Client 5: Billy, I think that was a question for you.
+
+Client 2: Yeah. That was a that was a question for you, Billy.
+
+Client 1: Oh, I mean, I I know all the approach over here I know he likes some. A staged approach. So I would be anything that if that's incremental improvement, but if it's not. One percent, I think think we should release Yep Alright.
+
+Client 2: Okay. Yeah. Then let's do that Cool.
+
+Client 1: And message rates other things. The priority is always stability, person and foremost.
+
+Client 5: And i can't speak to what it's doing behind the scenes, But in terms of the front and I don't think it would really break anything.
+
+Client 1: If we release this, Now then can customers upload their custom fields, and we can do matching on it in the back end. Without.
+
+Client 2: Yep. We could modify the questions in the back end.
+
+Client 2: You use these custom fields.
+
+Client 1: Okay. Right. Now I think we're definitely. Yes. Yeah. Cool.
+
+Client 2: And let's let's get this out.
+
+Client 1: Awesome.
+
+Client 2: Alrighty. Simone, do you wanna stop sharing and All messaging?
+
+Client 1: Thanks. Great job. You.
+
+Client 6: Hey, Jobs.
+
+Client 1: Thank simone Great. I know it's like words I think called the hundred for. Yeah.
+
+Client 2: Alright.
+
+Client 2: So this is the new insights dashboard. It doesn't look too different on the top from what you saw in the original demo. This is because it's using kind of the same forms and fields as we as we built. Well, I say we Jacob and on built in the initial initial demo. However, under the hood it's using a really cool vice say so myself, a little insight service that will automatically calculate insights and statistics or a host of different features. You'll notice here that we already have a couple of new cards I believe they are no shows. So the number of no shows that you can have Jacob, what else is new? I think it's the a lot of often things.
+
+Client 5: Like I think repeat opt ins, I think is new and unique opt.
+
+Client 2: Mh.
+
+Client 2: So it's... So Opt is the total number of opt in forms. This is the number of unique members that submitted opt forms. And of the twenty five people that submitted opt forms all of them submitted more than one opted for during this time period.
+
+Client 8: Okay. Jebediah. So we need to rename those we go, like, unique and then repeat all things like is difference between an opt and a unique number. So we cannot call a unique opt and then have repeat up we are talking about unique members instead.
+
+Client 2: Would it make more sense to a customer to be called? Let's call it unique members repeat members and new members.
+
+Client 8: Unique members and then we have... If this is a repeat ins because now we're are using, like, first time open and then repeat our things and then unique members and unique companies. Because unique member may have opted in like more than once so it might have several options. We just need to be clear what what you mean here.
+
+Client 2: You know So unique Opt ins on a unique members.
+
+Client 2: Same same statistic, just a different name.
+
+Client 8: Okay.
+
+Client 2: Got it. So... yeah. So opt rate, the number of no shows not pictured here are a couple of statistics that are now available in the service are going to require a little more work on the front end service. So one of the statistics that I've built in here to this new service is looking at for very common questions like say, do you plan on reconnecting you know, what how many years of experience do you have? What's stages your company. I automatically c and find the portion of people that answered different things. So we need to figure out Jacob and I how to properly display this. But basically being able to say, hey sixty percent of the people in your workspace answered that they were in a stage b company. Right and thirty percent. So we're trying to figure out whether we display that as like, a pie chart a bar chart. Whatever it is, it's gonna be decent out of work to do, so that'll be again, another demo day.
+
+Client 2: But the data is at least available under the hood. Did people have any thoughts on what would be a good way to represent that? No.
+
+Client 1: I'm other question So We have a new metric under the hood it's current.
+
+Client 2: It is under the hood it's just not being displayed. Where let's say you've got the question... The company stage question. What's stage is your company. That's a common one that's in. That's asked. I calculate and I say, hey, for this workspace, I see that eighty seven Opt forms answered stage a, fifty nine answered stage b seventy stage see and so on and so forth. Right? Unique counts. For each individual question, Each possible way that you could answer question. And so that just those numbers are terribly useful. So I imagine that those would get calculated into rate like of all of the answers, sixty percent answered stage a, thirty percent answered stage b ten percent answered stage c. Would it... Do you think it would be better for clients to see that as, like a series of bars in a bar chart. To see the raw numbers. Or to see like a pie chart.
+
+Client 1: Right.
+
+Client 8: Maybe bar chart because now we are using a little bar charts or, like, bar graphs on the dashboard page So if we want to be consistent, I mean, by child is also great. Because this is this is actually going to be I think different from that board. So either of those. Playing numbers.
+
+Client 6: Specifically for just the company company stage question or are all four out of the box questions gonna have their own tracking of this metric.
+
+Client 6: We're always that just the example.
+
+Client 2: So that the example was The example was company stage, but I also have already company size experience And then on the feedback forms, I also track reconnect and what's commonly called decision has as going to this meeting helped you make a better decision.
+
+Client 6: I see. Yeah. I think I agree with Penelope on that as well just making it. The the field looks similar to the feedback dash board for individual engagement. So I I think Bar as well.
+
+Client 1: Okay.
+
+Client 2: Bar chart over pie chart or like, raw percentages.
+
+Client 6: Right.
+
+Client 2: Okay.
+
+Client 1: So are we going to be able to do the same said type of visualization for custom questions.
+
+Client 2: Maybe So there's gonna be a good deal more freedom in the custom questions, but I could theoretically say cost well The only issue with that is that I can ask it to do, like, search for custom, you know, the first custom question. But what's gonna be the first custom question is gonna depend on the engagement itself. So we would end up mixing all the answers together. Right? If they've got a common custom question that is Give give an example of a common custom question that we're seeing right now.
+
+Client 1: What product are you a customer of?
+
+Client 2: Okay. So, like, what product are you customer of? What I'm worried about and I'll have to check is if asking for a custom question, will sometimes mix that mix the answers for that with answers from another question. It'll display all the answers and their counts, but they'll kind of be mixed together. If they if they use multiple custom. Over the course of say an entire engagement But it is it is possible.
+
+Client 2: We can give it a try, I will have this in prod, and so, like, I can answer that question for you, Galadriel today.
+
+Client 2: Okay. Well, we'll try... If you give me a... If you give me a workspace that has, like, a custom question minute. I can kinda show you what it was... What I would say. Okay.
+
+Client 1: Love that we're thinking a few steps ahead. I just wanna make sure that yeah we release at the flagship key metrics in the docs yeah.
+
+Client 2: So we'll we'll release the flagship metrics kind of just the basic numeric stuff that we have right here. Opt ins we'll change this to unique members total matches, total no shows, total amount of feedback forms submitted Mps score match rating feedback rate. Ignore the bar on this one. This is another minor bug we need to deal with.
+
+Client 8: Jebediah, I just have one more.
+
+Client 2: Go ahead.
+
+Client 8: For no shows, do you mean like, no chat form so is this just specifically no?
+
+Client 2: No chat forms.
+
+Client 8: Okay. Let's rename that.
+
+Client 2: So no shows to no chat.
+
+Client 8: Yes.
+
+Client 5: Is if we do... There's a reason that I chose no shows. Jebediah screen is quite large. If the screen is not that large, then it will cause the text to wrap onto a second line and it looks a little bit weird.
+
+Client 1: So We... Yeah. So in terms of the design and book and feel of this, is is is is that design we're in en releasing this, or is there is there more that we're planning on tweaking here?
+
+Client 5: As far as I know, this is it.
+
+Client 1: Okay. I think we think we have to hold it and polishing a little bit. This is This is quite hard to read and it's It's... I I'm also imagining a hierarchy of like, the way the data is represented, so for example, rounds, opt ins, Opt and right N s. These are the I think the most important metrics that everybody will be looking for and you hop kind of one bar with slightly bigger numbers. Borders around. I'm imagining this looking... I mean, this is, like flagship page. In fact I would argue that it has to even sit for existing clients before members because when you log in, you wanna see the form of of the product. You wanna see a worse workspace and then you go in with members and audiences. But I'm imagining this looking a lot more like the top the pre selected topic section with a lot more colors and borders This is the exciting part part. Right? And you where people when we will log in here, they're excited to see the performance is the show up page. So I think in terms of design would be good to give it a little bit more love with colors, borders, decide on the top three metrics all time performance of the on the at the top and then have sections of of data that's That's being ready released. So for example, anything details about opt ins, and then While I can see how the Mps is represented as a as a bar. But, yeah, basically, long story short is it's it's it's super amazing that the data is linked and it's it's actually functioning. I do think we need to give it a little bit more love. I can share even I know we have... We don't have a designer on the moment and these are track suggestions on borders, but even if it's even if it's getting inspiration from the internal boards, these look pretty neat. This is this is quite hard to reach it it looks a little bit it honestly looks a little bit jumbled on the page.
+
+Client 5: Okay. This was the design that Jason made before he left. But I'm happy to change it. Just tell me what you want.
+
+Client 1: Zero color.
+
+Client 5: Yes Right.
+
+Client 1: Then jason's design that we work on at the off, we had added the metrics toggle of top, Yeah.
+
+Client 1: Is that going to be added Yes Okay.
+
+Client 1: So that was going to be like a drop down you could select. When there would be the standard metrics I would pre populate on this dashboard. And then as we add metrics because there's going to be a lot. Like the checkbox box that you can continue to add to your dashboard.
+
+Client 2: And yeah. Speaking of those metrics If you think of any other metrics that you might want most anything that is comp But I say that is if people know that means let me know if there's any metrics that would be interesting to have.
+
+Client 2: They're not too hard to add these days.
+
+Client 1: Yeah. Initially, we had the fifteen metrics that are on the Qb r slides, Mh.
+
+Client 1: Very patti? Are all those metrics on here.
+
+Client 8: I think I think we added them to some of our notes from the off side, I try and and find them.
+
+Client 2: Yeah. I think there's twelve metrics here Yeah.
+
+Client 1: I think that might be large two mixing. Number number of unique companies this one that unique companies?
+
+Client 8: Yeah. You need unique companies I think everything goes is fine with new options booming, like first time opt first time opt.
+
+Client 8: So, like single.
+
+Client 5: Okay. Wait. For unique companies, I think we talked about this previously and this is something that a user enters as a free response. So, like, For instance, I could say Orbit Ai, and you could say orbit. We wouldn't really have a way of knowing blank programmatic than orbit dot ai and orbit are the same thing.
+
+Client 1: Yeah. I think we talking about having that like, strap Like, this data may not be fully representative of the tele companies because Every member, could input the name of the company different when they go their chat.
+
+Client 2: Yep Yeah.
+
+Client 5: I don't know if we how much certainty we could provide. Because if we have mostly companies like that, and I have no idea how realistic that would be. Then how metric would basically be useless.
+
+Client 1: Yeah. It's the number that we already share with customers. So but is it a human that compute it?
+
+Client 5: Pardon?
+
+Client 1: But how take that one. I think it's a combination and Nana Yeah.
+
+Client 8: It's.
+
+Client 8: Anna basically, like, pulling up the the data for that one Yeah.
+
+Client 4: It's some some notebooks that we've written basically. And we send them over So we have... various things. Depending on what the client wants. But there's a difference between a new member and a member activity. Just saying Yeah.
+
+Client 2: Yeah. So like if if we're... If everyone is okay with us not being able to tell the difference between orbit and orbit Ai. Or orbit inc. And including both of those in the count, that is a very easy thing for me to add.
+
+Client 1: Yeah. That be ideals because we are already sharing it with premium and pro classroom.
+
+Client 8: Yeah. Like, also, usually, like clients call super so we're interested in in the data. I mean, the details they they will ask at list four of like all the members and they will check the companies themselves, and they will figure out that Like, the company name might my be me misspelled there something else by the member. So they can figure it out. But I definitely prefer to have that in there. Because they're are already used to it, k.
+
+Client 2: And I will also add a metric for no shows as opposed to no chat. As you as you requested in the in the meeting chat, Yes Yep.
+
+Client 2: Alrighty. Well, thank you. It's not a particularly flashy one. There's a lot of stuff going on under the hood. I hope it's still a useful demo, Yeah.
+
+Client 1: Very useful. Thank you Jebediah.
+
+Client 6: I. Think it great.
+
+Client 8: Do we Do we have any explanation how those are calculated because this these have been asking a lot by clients.
+
+Client 2: Yes. So each of these cards can have a little tool tip on it.
+
+Client 2: And so that tool tip can be whatever we want, and we can have it explain how they're calculated.
+
+Client 8: Okay. Perfect. Anna and I are actually having a call tomorrow for like, users because it seems that we got it wrong or I got it wrong. So I That's that's great.
+
+Client 4: I be think there's anybody took blame. There was just some miscommunication and Yeah.
+
+Client 2: Yeah. Yeah. All good. Alright. Any other questions? Ian, are you how's your demo looking?
+
+Client 7: Yeah. I can move the shop together now. That's right. And then while that's settling. Just I need to join my zoom as well up Alright. K. So I will stop sharing, and I will take questions while Ian does his switch over.
+
+Client 2: So... Yeah. So we have couple of name changes you need companies, add no shows, and then tool tips explaining how each thing is each metric is calculated.
+
+Client 1: Yeah. It's saying the definitions, like, what what that And then for Jacob, at least a a pass on making the page a little juice.
+
+Client 5: Too curious of let me know, happy to make those changes we can add more color I was just working with the the design that we had from before.
+
+Client 1: Sure that Boom Alrighty.
+
+Client 2: The floor is yours when you're willing to take it Just send again.
+
+Client 7: Hang on? Like, we can I why would work at till.
+
+Client 7: Because they gonna had to hide the meeting to Frodo's my many what this gone Account about that's fine. Whatever. Okay. So not a lot of things have changed to to get this to work. We've had to implement Web, incoming books, virtual of intimate connection with Merge, which is a whole thing in itself. Then, of course, the important and actual useful base integrations. So I've just added a basic kind of page to start with that. Only admins can see. So to but just explain that how this works to start with. So our platform now has two red books. And are basically just an endpoint. On the Api, anyone else can call they can fire information or payloads to that and then we can then on our end work and what to do with it. So there's there's two that we're gonna be accepting and each environment would not be set up you can just do that by Yep. Okay. That works. Yes. You can just do that by setting them up this way. And then will get those to merge. And we'll get on with him... This is Deborah. So this is already on once for for production, which just done. Say the Annuity. So this is just me going through for the first time now. K. Give it a again. So So we'll do it with the little bit. Workspace just as as a test this this essentially is the workflow that user will go through. So ideally someone from is this will just help them for the first steps. And what what the result end brazil is gonna be is it essentially, we are gonna be fully sort of locked in with Merge merges and fully locked in with hubspot or salesforce or whoever it might be. For this demo for the time being is already hubspot the expanding out should be too bad. Once you want done the work. So of timing being we've got the default members in Ua. And a hundred of them. And we'll see after this it'll up to the hundred and eight or something are the ones that I got from Hubspot. I tried to a bigger number, but merge seems to stop and a given threshold that I can work out where. Think it's because on a test account. They weren't send more than a certain number of contacts our way. It might just be a pricing thing for the free table with the the room. So So achieving a client wanted to have an integration set up for them. Anyone in the particular the company who has the permissions to do, so i can go to this page. And then can then just click set up for the integration. And then what will we given is a magic link? I can just copy that And then you can just email this to the client. You could slack it to them. Doesn't matter As long as they get the link and they be led through the integration themselves. So they'll be presented with this page to start with. So this is hubspot. In the future, if we have other Crm at, we we can have a... What this will be a list so just being a single page will be a list of, like, hubspot Salesforce whatever other system we want to add to it labs them to this page, building select which integration they want? And then i'll like continue. There's just some basic c's here, Yeah. Nothing too. Nothing too exciting. I did try it by the way and do this. This would... This will be a much easier way of doing it for them. Visitor to click a button, it'll integrate directly with Hub hubspot without the to do what i'm I'm about to do, which is a bit more finicky of tracey Api key. I don't feel this doesn't work. I don't this a bug with Merge. Because this currently is all board of merges that controlling all of this. It could be the because our account a free account, they don't enable screenshot functionality. For the time being, we're just gonna use the Api key. So I've set up one of these already even this is how you do it you have to lead the client to the private apps page and that can be found on profile and preferences, for the the user with the run with the right permissions. And then on the left hand side, you've got your preferences account set up, integrations, private apps. So they just take the private apps and then there do create product Pretty fish, a wonderful name. So they give it some unique name like I don't know, all their etcetera in the description. They within select the scope that are required, essentially just everything in the Cms. Sorry everything in the Crm, which unfortunately is quite a lot. We have to take all the the reads to the rights. And then they click there's a creep under what I will be enabled here it is Okay? Then would sit done that. You'll look they'll be left with this. So let's say, like, But whatever name they've given us I point merged dev testing integration. And then this is the value we need. This access token is. This gives us sort of una access to the to that system Drop in here. Take submit. And so what's happening in the background there is that Merge has been spoken to us through the web that we created earlier their five hold on of request to us. We've then set up various things Rm that's right? Hopefully And then in here, we should be able to see this change from my copy magic link to, like, delete. I think I put Okay. So now much link is gone we can assume that the or integration is all fully Fully active. Don't press delete So when a user will create a contact This is this is an example of they're working in in the real world. I just say, to Jacob. pull it. Okay. I'm just supposed to this slide. Okay. So what would happen is over time, I don't know how regular the the sync requests are from merge. But at some point in the next like, It could be minutes to give be hours. I'm not quite sure that's up to up to how we configure merger production. This contact will fly through the stratosphere into into our system. Hopefully But for the time being way, what we can do is we can basically trigger a force and this is a good, like trick as well. If if we have a get situation where we're stuck can get one one of the developers can go into merge and they can just force force the update. That needs to happen I'll just do that now. So just it's just easier as you to pick a about. And then in the background, it's gonna push through all of those new contacts have been created or any updates that have been supplied, it'll just force those through. So fingers crossed think is crossed. There's one i one. If not without a problem. Oh. Okay. So he actually seems to most have Not just see one we've created, but just a pretty point. If you search with Jacob P, jacob uber. And now it comes to bad news. Merge doesn't give us the emails. I discovered this the hard. So I'm not sure what to do. I don't know if it's received an limitation of merge in testing. I think they might just be hiding some fields from because it we're in a free account. That would make sense. For example, the the data that they do return back to us has one of the emails they contact information the company information, unfortunately right now, but we we might be able to get them to to to do that for us because they do have additions that we can ask for. But for the time being what I've done is I've just filled this with missing email and then the this is the Of the user. So if if this does ever happen in production, and the user is ever included in our in engagement, we will receive the email as opposed to someone else or we're going to to a... An unknown address. So they we could use this as a as a... Maybe like a mechanism to work out if we have members in the system that are meant to be receiving emails on. I was just before I had the earlier idea today. Anyway that proves that it works. With got Jacob in the system. We can then do an update so we can go back in the touch spot again. We can say i'm gonna change, Jacob Orbit into Harry What's And save it. Again, we could wait for a time being. We'll we're don't do that just gonna We're gonna force three again, in the background, this is now sending a difference set of request to us. It's not setting like creation request assessing sending up day request. And hopefully, you had to refresh this page. Found it what made this slow by the way. Behind scenes, it's indexing all our audiences. Some of developers who know what that means. It's an immensely expensive process. And that's why this page is particularly slow. There are reasons as well, but that's one of the reasons.
+
+Client 7: Is this very reports Mon was spamming me about.
+
+Client 7: Possibly if those a very large audience. We we've we definitely been doing a query that would have exceeded the thousand Like all audiences. For example, this members page is just an audience page it just happens to be the all page. Sorry a member's, audience. So do you ever have a a a a workspace at over a thousand members? Then you're gonna get warnings about about large going to more after for the aggregation. Okay. Yeah. That's a demo complete, I guess. Not perfect. There are us problems still. I think there's problems to do with us not paying for the software yet. Hopefully, it will be okay. Any questions.
+
+Client 1: Thank This this was always the one where we have no idea whether it was even possible.
+
+Client 2: So just the fact that encourage allows allows us to do this. Is already a huge step forward.
+
+Client 1: Nothing short than magic.
+
+Client 7: How why Abs?
+
+Client 1: Oh my gosh. It's it it looks like what's promising.
+
+Client 7: Yeah. I think it's a definitely promising. How to chat with this sort of I if was a sales rep or sports staff for someone. And I I tried to to get this removed if we get to complete ourselves. But after chat it makes sense why this has to be in place. Essentially some some integrations will be much easier others Hubspot isn't very easy because you have to put the Api here and you have them is us to make an Api key. That's something that they don't really wanna be doing. Right. A Friday afternoon or something, but some of them would really easy. Just click bottom. Don't take a login page, or log in with their Salesforce information. And sales and do the work in the background. So salesforce will create be interfacing with merged, merger Credit facing with us, and then it's happy days. There are recovery months sort have Hidden Horrors, which the business team would have to know about, but anyone anyone reviewing my code is gonna see, and it's not very pretty. But yeah. It it works quite well. Merged definitely piece a lot of the the integrations with parties, it is going to be easier. I can guarantee it. Even though it's like cost, say six hundred dollars a month minimum. I think given the fact that it be saving far more in monetary terms that that developers time. Would cost. I think that's obviously a good thing. So I would advocate for it to continue on this path wouldn't say this is production ready. And already spoken with Luke, and we're gonna keep this on the back burner or until me year to do some thorough testing and get the company data as well they incorporated into it. So we might to discussion with merge if we can get that from them. Because if if we want to do it, through their kind of official route. It's gonna be a lot of work. And a lot harder to deal with the updates as well? Yeah.
+
+Client 1: Do we have a go on say So it it is goal right now to release just the hubspot integration or we pubs perhaps hubspot...
+
+Client 7: Did you say Salesforce?
+
+Client 1: I'm working... Are we working towards to just have start at the moment and once have spot is kind set up. It's gonna be easier to add one or two more. I'm just thinking it comes of Are we Yeah. It it's nice jon nelson bundle. I've said at least three.
+
+Client 7: You want to do that, we can. I've only tested with hubspot but the whole idea of merge that you want once you've integrated with merge. The cost of integrating with with upstream partners is then null five, you only do the integration once with merge. So technically, according to the sales pitch. It should be quite easy, But having just done this, I can tell you this it's not as easy as they make it seen. Like they they change apis as well they changed the Api this week.
+
+Client 7: So that calls cost me a lot of a lot of Right.
+
+Client 1: Okay. So taking you still a step at the time pops side.
+
+Client 7: Yeah.
+
+Client 1: integration with merge. Okay.
+
+Client 7: We can definitely try and get more in in the new year. And just see how easy it is, because if it is easy, we just go out with Hubspot. Hubspot Salesforce and something else. Something to make her happy. Yeah. We can definitely me try it, but I can't promise anything.
+
+Client 1: I You also said... Were you say the process that sales Salesforce is easier than that have hubspot the way it's set up with orange.
+
+Client 7: No. I'm not saying that. I'm saying. But I mean is for the clients. Salesforce is easier to set up and stop.
+
+Client 7: In my be my testing, but I got a feeling that we're not paying for it right now. I think merge limits you to certain features. And they're not particularly clear about which features are not included in the free to. So we we might find that when we start paying for it. All the doors open. So the Hubs for integration is much easier. They can just click with the the log of as opposed to making an Api key. We will just to test in production in release.
+
+Client 1: Awesome. Thank you so much. And do you have the shortest turnaround her around this so pretty well done. You we think is... What do we think realistically out of the three demo pieces? It's is the person let can go to prompt. Sorry. Yeah. I can go live and we can put in the newsletter. Because we were tends to be planning on on marketing the dashboard.
+
+Client 5: Well, I was thinking the dashboard how you told me was ugly. So say Well I I as I said, well, maybe I'm impacted by Miami where there's color explosion everywhere.
+
+Client 1: Felt like we could just make it a little bit easier to read with Yeah.
+
+Client 5: It depends on how much makeup. We wanna put on it.
+
+Client 1: Exactly I... I I do think the intros dashboards look decent.
+
+Client 5: Okay. What are the intro dashboards? Don't remember those Jebediah. So it's good Now.
+
+Client 1: That's the competitor intros dot i.
+
+Client 5: Oh, gotcha. Okay. So the code for the insights dashboard is I think pretty much ready to go. So now it's just a matter of iterating on the look. The code for the front end stuff for months stuff is unfortunately not ready to go. So I think probably simone code is good. But just due to seven people asking me for things that that code is... not ready And then what was the other thing? And then as Ian said, needs more work. For the other stuff. So I think probably inside dashboard, and then someone's thing and then the New year end thing. Okay.
+
+Client 7: Minor notes sits behind other other improvements that have made the platform over the past sort couple of months. So until we've got those fully tested, which we like ninety five percent way through that process. We can't then really release the into migration stuff because gracious stuff relies on that. On that prior work.
+
+Client 1: And Jacob are we getting about next week's demo with edit matches and the opt forms.
+
+Client 5: Well depends if I am doing still more work on the stuff from this week. It it sounds like there's still more to be done. So a little.
+
+Client 2: Could we could we say do the demo day for four edit matches, And then and then focus on insights dashboard and any any changes after that.
+
+Client 5: Yeah. Which is more important. Like, the other things are probably closer but I would guess that edit matches is a juice here peach than the other things. But up to you. To day freeze die freaks?
+
+Client 1: Sorry release say dashboard and then keep working on it. Yeah.
+
+Client 5: Yeah. Yeah sure. We can release it in it's own natural state and then add some makeup to it later.
+
+Client 1: Okay. I mean, How how long does it... How long is it going to take to color border around each number.
+
+Client 5: Well, if it's just merely adding a colored border around a number, then That's like a few minutes Okay.
+
+Client 1: Yeah. I think we're gonna have a quick sequence wins around it and read... Let's ready to go that let's reduce and focused was on edit matches. I'll make a few comments. And if there's anything in the comments, that takes a few minutes, and you're able to sneak it in. Great.
+
+Client 5: Okay. Do you want to stay on, like a few minutes after this. I think we still have, like, fifteen minutes left originally And I can just like, do it live in front of you, and you can say, I don't like that. I do like that.
+
+Client 1: Perfect.
+
+Client 5: Okay. Cool.
+
+Client 1: Perfect Alright. What thirty minutes to spare. It's the second demo day. Officially in the wrap. Congrats venting. How how how do you like this out of working towards the demo day. Do you like the account again and a deadline.
+
+Client 5: I like demos, I don't like seven people asking me for things at the same time.
+
+Client 1: Yeah.
+
+Client 2: Yeah. Which is one of the reasons why I was saying that we should probably parse the demos out. It's especially if all of them need to be available on the front end.
+
+Client 1: Yeah because we we have one very exhausted front end developer I'm feeling great.
+
+Client 2: Things are things are good.
+
+Client 1: Right. Okay. Well, let's let let's focus on the last the third and the last one for the year and then really sit down and and reflect on what can we improve in terms of timeline. Scheduling assignments. Yeah. What else was gonna be improve, basically and and went and schedule the what's one already. With the lessons in mind Cole right.
+
+Client 1: Was very exciting to see everything on this big screen today.
+
+Client 1: Really london if I have yesterday where our investors best, and they they have an upside in San Francisco so we've literally taken over just the two about us running around in a massive empty space. With wish we could share.
+
+Client 1: I know. Monday.
+
+Client 1: Well, thank you everyone. Enjoy today on.
+
+Client 1: Alright. Hi, Jacob.
+
+Client 5: I I did not say exactly reading between the lines.
+
+Client 5: Okay.
+
+Client 1: I I mean, come on. Did you you're you're someone that is very interested. Do you think when you look at this, it looks good?
+
+Client 5: I no Oh, might back on having to, like, point out that the king has no clothes.
+
+Client 5: This is true. This is true.
+
+Client 1: I'm everyone else was thinking, but, like, the the the finger is pointed in me This a little bit.
+
+Client 5: Yes. What was gonna say? Yes. Like, does it look bad? I wouldn't say that,

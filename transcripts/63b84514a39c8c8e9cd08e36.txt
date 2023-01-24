@@ -1,0 +1,95 @@
+Client 1: Adam how are you?
+
+Client 2: Okay. How you Oh good two things.
+
+Client 3: Yeah. Hi, Nicole. Hi, Tom.
+
+Client 1: How are you?
+
+Client 3: Yeah. Doing great. How are I didn't today?
+
+Client 1: Two.
+
+Client 2: Oh, I have a of how we make document about the get flow who who we make the document about git flow.
+
+Client 1: Hey, Cole. How are you?
+
+Client 4: Good. How are y'all doing happy to Friday.
+
+Client 1: Sounds good too. Stop before then.
+
+Client 5: Hey, everybody. How are you today?
+
+Client 1: Hey, brian. Let we know you.
+
+Client 3: Yeah. Hi, Brad.
+
+Client 5: Alright. It's been a big week. In a long on week, coming back for break, and trying to get everything caught up. Especially been a long day probably for Koi. I don't see him on here. Maybe that might mean that he's working on that Mag magenta merge. Give you a quick update. Coy has been working on merging in all the. Code into our main branch. When we created that code branch two weeks ago or more. It was in sync with master of the time or with me and I mean. And we've done a lot of work since then. Just lots of different tickets, but then also quite did a big ref of all the user roles and permissions that went out two days ago. So there were a lot of merge conflicts. They had to be a drag and so quite been working hard all day today. Getting that done. I know that he's all the way done with the back end changes and he's now working on the run end changes. So to give everybody kind of a quick overview what our goal is is that I'm hoping that Coy can finish up the front end merge for Today before he drops off for the night. If you can get that done, we'll have Nigel reviewing it. Just to make sure everything looks good. And then we'll have Nigel push out the back end and front end changes to main, and those are pretty big updates. So then get any other tickets that are completed, all rolled into main, so that everything that's done is in main And then when Hawke gets back later tonight, And this weekend, he will be working on applying all of his changes to main. That's all the lint, the formatting, the new dependencies. Like, all this stuff he's been working on for the last you know, a few weeks that we've seen it staging, all that's gonna go into maine today. Or this weekend. And then we will then take our new updated main branch of code. And we're gonna push it over to stage and replace what's in staging. And from that moment, main and staging are going to be identical It's all the code will be cleaned up. So That'll I don't make it easier when you're working on things and I have all these like we have right now because staging and maine looks so different. So I think we're like, one day away from having all of this caught up in Sync move forward. And things like that. So that's a pretty exciting thing for us to be there. So that's the that's the big thing I have right now. Obviously, we've been working on integrations and stuff like that. We're really close in all them. So I'm hoping we can get those completely out the door next week. I believe we've got Well, actually, let's just go around real quick. So when it comes to the different integrations we have, Tom do you want tell us what you've been working on in the status of your integration?
+
+Client 2: Yeah.
+
+Client 5: So which which one have you been working on Tom?
+
+Client 2: Yeah. I'm looking on the the ticket Let me check it. The reach ship powder is in protection.
+
+Client 5: Okay.
+
+Client 2: Smart information and just waiting further the verify from you and Jericho. To apply for?
+
+Client 5: K? Yep. So I'm I'm hopefully gonna get that done today. To finish that testing. And then we'll be done on smarter. We'll have arm work on that. That'll be great. Alright. Cody. You wanna talk about Big commerce.
+
+Client 3: Been doing this. Yeah. So district week, I moved I mailed go fixing the issues of the pre configuration. So I discovered several issues or in my be a configuration, like, some stock are not encrypted and or or pyramid single shipping address system. Sometimes or they were not display correctly, you know, front end, and also we update the shipping address, or sometimes or strangely ish happened. So I mainly a four on the issues, sir at the moment, I was working on updating the shipping address. Know front. So there are some errors of bugs So I'm fixing in now.
+
+Client 3: And now on my side.
+
+Client 5: Great. We still planning to do a demo on Monday. Of where we are.
+
+Client 3: Mh. Yeah. So I'm gonna them next Monday.
+
+Client 5: Okay. Yeah. And then by net by Monday, hopefully, you'll be able to merge when we're ready to have you put your changes in, we'll have main and staging updated with all of these changes. And so you might have to do a little bit of merge on what's there as well just based and all the work. But that'll be good to have you do that. So thank you for that.
+
+Client 3: Yeah. Okay. Cool.
+
+Client 5: Val are you on the line? I don't see val either. Okay.
+
+Client 5: Let's see. Anybody else. So Nigel niko, you're helping me on Mag. I'm I'm hoping that once we get all this merged that's gonna work What I what I'm gonna do is I think I need to send a new plug in big daddy. We should be able to get our star working too. So we'll we'll see how that is.
+
+Client 1: Yeah. We still need to may have a call with with Medics yesterday? Find out certificate figure why we won't gain the orders in staging.
+
+Client 5: Yeah. I tried to get them on, but they didn't join. They didn't see the invite. And so they were... They said they were either available today at nine, which is right now. Or tomorrow on Monday. And so I told them with meet on Monday. I knew we did some time to get all this merged. Like, one thing I'm curious about, I think with big Daddy, I think I know why theirs isn't working and it has to do with the the final path with how the updated code went out. And so I think that might work when I get them new code. For us on our own store. I'm wondering, like, I think right now, Our store is in, like, default mode. It's not in production mode. And I don't know if if when you're in default mode instead of production, if things don't. Execute the way that they're supposed to. I mean, we can place orders which is which makes it look like it should be working, but anyway, we'll we'll test it once it's all out there and see if it's if it's working or not.
+
+Client 1: Okay.
+
+Client 5: K. Anybody have any updates or things they want to discuss ask about questions, concerns, and I wanted to... If call if if you're willing, I'd love to that Cole just share a a brief update about our website that he's been working on. So right now, we have the order protection dot com website that's been there for a long time. Cole has been working on an update to that website and we're getting really close being able to publish it So, yeah, You wanna just give him a quick update. I don't think they've really heard much about it. I think it would be interesting.
+
+Client 4: Yeah. Definitely. So yeah. One of the things we haven't chatted about for a little while, but I kinda came in out with I guess, about a month back. What I initially joined was the design system effort. And so Part of that is related to some of the engineering work and, you know, our product itself. But On the other side of that is all of our business and consumer facing marketing materials. One of the key things, you know, that I'm looking are hoping to achieve really is having a a consistent look. So no matter where someone experiences or has an interaction with order protection that it's gonna feel like order protect it's gonna be very you know, consistent and streamline experience and some of that. You know, we'll we'll go beyond just the visuals. Some of the kind of core principles that that I laid out initially in the the design system channel, but a big part of that is the the marketing materials. And so, you know, what's the purple use what's the... You know, background colors we can lean on. What are the type bases we have. And so been working closely with, you know, Topper Brian, Harrison. And a few other internal stakeholders to just get aligned on what the, you know, visual direction we wanna go in as a company as And so Anyways, all that being said, we got website coming. New sales tax next week as a fast follow, new onboarding decks. As a best follow to that as well as new email signatures immediately after and Yeah. I'll just jump on and and kinda share my screen here with you guys and kinda show you where we're headed. So yeah. So this is a glimpse the new. Website we saw some things to tidy up built in frame. I'm not sure if you guys are familiar with it. It's essentially, like, a another iteration of web flow, if you guys are familiar with with the that, which essentially empowers non technical folks like myself, or very limited technical knowledge to kinda build out site. And so... Yeah. So there's two parts to it. There's for shoppers for retailers just do a quick walk of the for retailers. Side for you guys. But basically, you can see now we have these really, you know, sort of big graphics juicy colors is a new type face, you know, some fun animations. We're really trying to, you know, nail down. Like, what are the key points at we wanna communicate to to potential prospects when they hit here, so, you know, we're just kinda starting by identifying the problem. You know, giving a nice real simple sum overview of of how it actually works with us.
+
+Client 4: We got some of these fun cards they'll show these these pages later, but we're gonna have landing pages for all of our different integration types that you guys are working on So there'll be a nice big beautiful page that our sales team is basically gonna be able to go and say, hey, we have these these great integrations now and it's really gonna help. I think the company overall So... Yeah, I won't... I won't go to too much into it. A lot of inspiration drawn from Loom and linear not you guys are familiar with them and like a jira alternative that's been getting more popular over the last few years. So yeah, I think the integrations page might be interesting. For you guys, but basically, we're breaking it down between, you know, platform integrations as well as app integrations. So, you know, we have some of the stuff that's coming up, and then you can actually click into you know, landing pages for each of the individual integrations I'm still gonna do a round of copy updates there. You can see it's all referencing gorgeous just right now. Add you to the integrations. They're gonna have a nice little landing page. So the that's, I'm like, oh, I really want. Gorgeous to be included oh great. They have it. Like, maybe now I'm actually interested in sort of protect my orders. We also have a a breakdown of industries that we're we're serving So you know, referencing some of the companies that we're working with in each of the respective verticals we got we'll get a demo page reason can to try to kinda streamline some of the the booking and scheduling conflicts that that are happening and the sales team right now.
+
+Client 4: So you got a couple paths people can take. You can do a coffee and chat. Can do a full demo. And then, yeah, of course, it's all responsive gonna refresh. I haven't figured out how to get it function responsibly just yet. But... And there's still some cleanup up I gotta do here, which I'm tidying up today, but, yeah, I think it'll be a fun improvement and a good step for the company overall. And then, yeah, hopefully, we'll start to see some of you know, these styles, whether it's, you know, the type fees for headlines or you know, the the purple we're reusing or using even just enter for a lot of our coffee, it's one more legible than like, Helix at, like, small sizes, for example, So Yeah. That's kind of a a high level walk through of of of the site. Has everyone feel about it.
+
+Client 1: I think that's great. I like it.
+
+Client 4: It's beautiful Hopefully it'll be nice level up for us as a company, and, you know, I don't know what you guys, but, you know, sometimes a website you're putting in all this work.
+
+Client 4: And it's like, where is it going And, you know, just having a little landing page for the integration and something that gets customers excited. You know, it's nice to see it live out in the in in the real world. So Yeah.
+
+Client 5: That's the awesome and cole. Good job.
+
+Client 1: Really very professional.
+
+Client 2: Awesome.
+
+Client 5: On that health and wellness one that the guy that you have a picture of that stock photo. I know him. Actually grew out Away.
+
+Client 5: He grew up in my neighborhood where I lived like, ten years ago. It's been kinda fun to see him. He has a lot of like, modeling and stuff like that It's from a blender bottle photo tube.
+
+Client 5: Oh, nice.
+
+Client 4: Yep.
+
+Client 5: That makes sense. Very cool. Well, I don't have much more for today. The only thing I would say is if you have any P that are ready to go to Maine, If you can get those all ready to go, Again, my goal is to get everything deployed the main that's ready. Because then Hawke is gonna come through and apply all of his changes and it's gonna change all the formatting and every thing, it'll make it so, you know, work that you have gonna be a little bit harder to merge next week because there's gonna be more merge conflicts complex because of how the has changed. So if you have anything that's close, then code review we're ready to deploy. Try to get it wrapped up before you sign off today. And then I'll work with Nigel, and he's gonna probably cry a little bit. But we'll try to get all of that put in main so that when Hawke comes in tonight, this weekend everything gets upgraded. We start really fresh on Monday. So... Yeah, just try to get anything ready if it's if it's close, try to get it into P r for maine. And let's just get it going. Other than that, I don't have anything else today. Be oldest this plan that next week, I, like, on Monday. We'll have some instructions in the engineering channel to make sure you get your your local code up to date. So it'll be really important when you start work on Monday that you take any of your branches you're working on and you merge you know, main back in to get all those changes that are there. That you can work through any potential issues before you create your next P and that'll upgrade our environment to node sixteen, our dependencies will get updated. Like, all those things will now be able to go into production. So a big weekend for us. And we'll plan to see it on Monday. And hopefully, we don't have any big problems. Cool. Well, if there's nothing else, we can go ahead and drop and you can wrap up for the day. Or get going on other things Thanks everybody. Have a good weekend.
+
+Client 1: Right. Nice guys. Bye.
+
+Client 3: Bye.

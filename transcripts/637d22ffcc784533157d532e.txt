@@ -1,0 +1,289 @@
+Host 1: Hi, Cassie.
+
+Client 2: Hello. How it go in?
+
+Host 1: Good. How are you?
+
+Client 2: Oh, Good.
+
+Host 1: Good Are you over Thanksgiving?
+
+Client 2: I'm in Seattle. My whole family relocated up here, but I've never lived in seattle all.
+
+Client 2: So actually, but it's like with my family.
+
+Host 1: So Do you like it in Seattle?
+
+Client 2: I'm a California girl. It is cool Here.
+
+Host 1: Know.
+
+Client 2: I telling my sister. Yesterday. I was like, I feel like I'm wearing a because I'm wearing, like, leggings the underneath gene because I'm breathing like.
+
+Client 2: I like usually heat. I'm not used to being cold. And so it's, like, really weird me. The thing it's called and I am this turnaround. And it's finally in light colder than it normally is up here.
+
+Client 2: Yeah I get that.
+
+Host 1: I mean when I moved to Austin, and expect to win her either.
+
+Client 2: So Cathy, I'm having a couple of faces join.
+
+Host 1: Do you know if Laura gonna be joining on your side?
+
+Client 2: She should be i'm care real quick.
+
+Host 1: Cool. Okay. Awesome. Yeah. Not to overwhelm you. I it's only mosaic peeps, but Alright.
+
+Client 2: We shall see.
+
+Host 1: Okay. Awesome. Well, we can do some introductions while we're waiting because I think actually Lauren and Frodo know each other from the past. So I'll let you guys all introduce yourself and then we can kind of just jump into it.
+
+Client 3: Cool I'll go first Cassie. Great to meet you i'm Frodo C founder over at Mosaic. Before I started the company, I was director of finance Vp finance for about ten years and figured if nobody was gonna to build the tool that I know that we needed.
+
+Client 3: It was up to me to do it. So I embarked on that journey about three years ago, and I met Lauren over brett. She at jump starr when we were first starting the company. And back then, we had, like, no software. I will as the customer success team And we got customers just through, like, sheer brute force and did a lot of work for jump dark behind the scenes. So it got to develop, like a really cool relationship. I was in the trenches with Lauren, and then you guys popped up, I figured that I had to come in and say hello.
+
+Client 2: Know that answer. She... Yeah. She's told me. Like so let me things like that. I think it might be a different type of service than You like it you really early on.
+
+Client 2: But yeah. You know. She's, like, definitely she up the platform.
+
+Client 3: Yeah. And like, so so in those three years, we built a ton of technology to go along with, like, the blood sweat tears. So that that service element, like, doing anything for our customers. We still do. So I lead our customer success team today since the team that'll be on a text basis with you. And if you have a board meeting in the trenches grinding with you late night. So we kept selling some of that saying eat ethos, but thankfully, now there's a bit more software that that makes it a lot more easy.
+
+Client 2: Yes. That is is Yeah.
+
+Host 1: Cassie see cassie he needs to help.
+
+Client 2: Yeah. I need a lot of help. In so many not far.
+
+Host 1: Cool. It looks like Lauren does join too. But Denisha I'll you introduce yourself Yeah.
+
+Client 4: Cassie and Lauren for just joined and I said nice to meet you. I leave sales here at Mosaic and just jumping as extra resource can help them place. And on the back end some of the dialogue, but yeah, Pleasure mutual As and I look like we're twenty or we're, like super fans in our It's almost like joey you just see that logo.
+
+Host 1: Too.
+
+Client 3: Yep.
+
+Host 1: We'll send you guys some mosaic ones the next time we can all be twins.
+
+Host 1: Awesome.
+
+Client 5: Well we have like old Mosaic swag from Jump So You got he's got swag.
+
+Client 3: So we'll we'll get the.
+
+Host 1: Wait. We actually have so much slack. I gets pretty impressive.
+
+Client 3: That is, like, the one day I'm not wearing my mosaic jose hoodie, so I feel at place a memo, it's it's where your logo day.
+
+Client 5: It's where.
+
+Client 3: Six out of seven days week. I usually have it on.
+
+Client 4: Gotta say, usually we're usually we're representing Cool.
+
+Host 1: Well, before we jump into, like, pricing, i look that's majority of what we want to, like, really discuss here. Definitely want to just open up the floor any feedback or really questions. I know last last call was just a demo. So anything kathy has come up for you or I know you guys are gonna talk internally I have an interesting question, which just...
+
+Client 5: I'm... you know, I'm all i I don't I don't sugar code anything. So we had to call you stay stage again because we're still have been talking to stage. And part of their, like, sales pitch of getting us to go with them was they were like, Mosaic actually trying to use us for some of their stuff. So why would you use a company that's using us when you can just use us. And I was like, i don't know the answer to that question. So I just was like maybe gonna bring that up because I thought it was interesting. And I didn't know, like, how that was like, what what that looked like for you guys like you know What that means?
+
+Host 1: Yeah. Yeah. That's actually Oh god ahead.
+
+Host 1: That's actually kind of funny because I think that you could say the same thing. When they say we're run we're using, say, here mo jose, we are not switching our Ear county stage, we're actually just integrating with them because their customers actually still need all the stuff that we're providing. So it's more specific the other way around Of like, hey, if their customer... If you have a sage customer, they're still not getting the Crm data the Hr data. And everything in the billing data all into one tool. It's more that we wanna be able to service sage customers.
+
+Client 2: You know if like, those... Those customers that aren't getting it if they're using their contract module, billing module or if it's just using a pure Erp system because they're billing and contract and all of that is pretty robust and, like, especially from, like, an a six zero six perspective.
+
+Host 1: Mh. So no matter. Like, even if you guys did use, like, stages billing module like, jose does not your billing, so it's something that you guys could definitely explore. You're never gonna get your Crm data into the tool or your Hr data. Is that inaccurate from what you've heard?
+
+Client 2: Yeah. Because it'll actually don't of the implementation is integrating into our Crm. And also quit Eight twelve. Maybe not deal, but gus out definitely.
+
+Host 1: And is that for forecasting or is it for what is it used for?
+
+Client 2: I mean more just for like analytics and just like, i didn't consolidating all of the information.
+
+Client 2: Gotcha. I, and then also doing, like for, like, planning purposes and yeah. Just I'm more on the fp side. like, there. You have a little it it would be more of like later. Later down the road just because they be like, they're basic my will it's vision for now and just like... Yeah. Type of. I mean, it's like, idea. In my mind, yeah ideal situation would beach out the sage and then About top just because they do bring different features. And functionality than just, like, they kind... like there's... I I definitely overlapping. You could probably use one or the other to get away with it, but just to have the tech... To have it as a text stack. Would id and just... Yeah. Just given, like, the current economy and... See everything. Trying to figure out. Which one makes sense kind. If you're to be phased.
+
+Client 3: Yeah. I could just jump in here and give my perspective for a second. So Cassie, I think there's a couple different products that sage is probably the offering you. One is, like, the basic Erp functionality, and then the second sounds like their billing module which will help with like, sales orders and revenue recognition. But I think the the the part that they probably didn't sell you on yet is, like, the budgeting and the planning and the analytics package. So like...
+
+Client 2: They have or they they presented exam. Them too bad. I did the... I mean, I it I can't... I'm not gonna get that up for all of this yet.
+
+Client 3: Yeah Trying get the more robust planning module, which is more similar to Mosaic x.
+
+Client 3: For sure. For sure. Yeah. So I mean, I think, like, we integrate with customers that have sage today and have some of the revenue recognition models and can bring in some of that Crm data help with billing. But now we also have similar offerings where they have sales management and billing capabilities, and we can grab all that data for analytics and for the planning platform. Probably at a lower cost than those guys can.
+
+Client 4: And I Yeah. I think something Go ahead.
+
+Host 1: Denisha.
+
+Client 4: Oh, sorry, those. Yeah. I one thing to add to, So I I I come from the next side of the house, which is pretty much stages, you know, sister product. And You know, it's worth noting like, what they called out looks like, bringing in your Crm or Hr data, Like, I I am tracking how they would do that. It it's typically something that that is gonna be very much customized. So Although those tools are flexible that customization can be nice for an organization up like, and scale. The challenge is probably less, you know, just fact that it's possible with more so the ongoing administration in management. Anytime something is hidden behind code or is, you know, kind of more so built manually? Then it naturally it means that there's an extra administration, you know, weighing that would taking extra eyes on it. So it could be a fit. I mean, do you guys have like, like a, you know, big resource team or, like, maybe someone who can be assistant having on that level or like, what the support team looks like for you guys.
+
+Client 2: Like, internally or what they would be also?
+
+Client 4: Yeah. If you have like, an It information systems manager or, like, a, you know, It manager those lines because it level administration admins and the Devops team.
+
+Client 2: So that's actually we've got a good.
+
+Client 2: The lead integration guy. He's like, oh, yeah. You know, happy to do any integrations work that's necessary.
+
+Client 4: Gotcha. Gotcha. Yeah. Well, something that I mean, we could do it just as we're noting that's this an administration level. So that was kind of the the nature of the call there is that yeah. For us, it's configuration. It's in app, you know, mapping not necessarily like, wiring of, you know, new data sets together. So Yeah. That that would make sense why it's possible probably a little bit tougher to administer.
+
+Host 1: I would say as well, like, you guys are thinking about going to, like, the New Year and and getting, like, a new some stood up and just kinda like, turning a new leaf like you were talking about last time Lauren. What's the time to value or, like, when would you guys like to deliver actual outputs to the rest of the business. So I think that's gonna be the biggest differentiator with obviously, migrating Erp, and then after you migrate erp than standing up the planning tool and all the reporting versus like, with mosaic, we would just plug in directly integrations don't require the Devops teams can get all that get into the tool. And then if sage comes out or if it comes later, migrating through a tool like Mosaic because actually gonna make that implementation, a lot more structured and easier to do. So it's something we're definitely the doors are always open with how you guys wanna do that, But you guys will get to build your budgets in Mosaic in a matter of like four to six weeks versus having to, like, go through a full migration process, while you're still doing everything the way it is today. Until you guys get to the point where Now you can start implementing their planning tool.
+
+Client 2: Yes. However, the problem is in that scenario is that that assumes that I currently have everything set up correctly, and I haven't had enough time to get that done and so... And our cr the Crm actually needs a lot of data to clean up too and so it's like I wanna be able to provide financial information, like, See on.
+
+Client 2: Six months ago, nine months ago. Just because, like, the business is trying to make good decision. You know finance is really let like, pricing and it's like, I can't give them the information. And but whatever the platform was gonna be it's gonna take, like, it's there's gonna be lead time anyways. It's just because I need to get everything clean up and set.
+
+Host 1: Up. Mh.
+
+Client 5: There we're we're our only biggest boxes not entirely mark migrating just because the information.
+
+Client 2: Yeah. I I've been, like, just kind of trying... Doing whatever I can to try to survive and get through the days and might keep it as up to date as possible.
+
+Client 2: Hard when you have like, twenty different solutions that you have to go into and then try to get to think and figure out how each one of them work and how you get them incorrect and you're the only person while trying to do A r think all of that stuff.
+
+Client 2: Yeah. Payroll.
+
+Client 2: And then crypto. On top of that.
+
+Host 1: Yeah. I. I remember four discovery calls like, this girl needs some kind of tool or some kind of helper or purse in. But... So one thing that I will say, and I'll send you guys a bunch of videos after this just you guys can see it, but you guys are cleaning up upon hubspot, We have a podcast with this company, but one of our customers Galley, they were in a really tough spot with their Crm. We can definitely take crm into the equation later on and start with Quickbooks. But we can also like, we'll bubble up all the baggage in your Crm your Quickbooks. That way you guys can use Mosaic. To clean things up as you're going. But this is really where. I don't wanna over Cs team, but this is really where you like, you'll get an set of eyes and hands with our onboarding. So Cathy, we're gonna provide you with best practices and honestly, do our... like, we want you to be successful with which means you have to have some help getting things in a certain way, so definitely gonna be able to lean on our team here for, like, best practices and just, like, guidance and training on how to even tackle that process. I know it can be, like a ball of yarn you're like, where do I start?
+
+Client 2: Yeah. Can't be definitely challenging. Yeah. So... Yeah. Somebody to help with that integration also would be degree.
+
+Client 2: Yeah. Yeah.
+
+Client 3: And in you if you wanna connect with other folks in finance. I'm happy to put them put you in touch so that you can talk about their experience with with sage and their experiences with the nets if you're considering those things. Just a data point, Lauren, when we work together at Jump, we actually migrated jumps start off of sage. So happy to give you just on unbiased resources there.
+
+Client 2: How many people did you have in your finance department it? Jump start.
+
+Client 5: We didn't. We just had Mosaic.
+
+Client 2: We didn't have finance people. There was no finance people you didn't do any billings or anything. It was just All handled by We were doing it Laurie.
+
+Client 3: It was me, Lauren, Jeeves and b.
+
+Client 2: Yeah. How many entities did you guys have?
+
+Client 3: There's just.
+
+Client 3: One Us. Okay.
+
+Client 5: Yes. It was about... It's it's about the same size that's about a hundred and hundred twenty people, I think.
+
+Client 2: How many product lines did you guys have?
+
+Client 5: I don't know. I don't know if a one one...
+
+Client 5: Yeah.
+
+Client 3: Different spaces, obviously, but Yeah I can Interface extremely complicated and being one person is just delay.
+
+Client 2: I mean, totally not for. To... And like, because is definitely great, like, viable option. I'm just trying figure out like, what makes most sense given my resources? And just... Yeah. Trying to figure around what makes listings were trying to automate everything or build more automation in. App.
+
+Host 1: So kinda curious here just knowing that obviously budgets are tight for everyone right and then also just wanted get you guys the quickest time to value on something. I... We I mean, we do have a quote or, like, a a price prepared to, like, present to you guys, but I'm also curious to know, like, I mean, Frodo committed to meeting stage. I think we are going to, but I would love to understand like, if stage has a quote because I mean, obviously, very different products but I think was April coming a lot lower. Just help this become an easier win from executive level.
+
+Client 5: Yeah. They came in the quote. It was really higher than I was expecting, but I also don't know what to spec because I needed this. So... And I know that they do offer a lot and so Yeah. But it was, like, eight eighty something k to get in implemented and then, like, forty four on, like, a yearly not right.
+
+Client 2: That's over.
+
+Client 5: It was forty two.
+
+Client 2: Sorry. I'm trying to find the email right once again.
+
+Client 5: Maybe it was seventy sixty nine thousand with the discount to get implemented.
+
+Client 2: No. It's forty thousand dollar implementation in that's like it just open ended implementation not, like, if this a big amount of time or anything like that. And then to do the... To get a core financials and then contracting subscription and billing. Module right now, like, it's a... It was forty four k, but they're they they are well they're willing to give us more discounts they're able to give us more discounts like, once it's committed just because you know, they have. Ways that they're able to do their promotions and, like, discounts and whatnot. So, like, that's, like, their current discounted price, but there's but they be able to give additional discounts on top of that.
+
+Host 1: It that doesn't include the planning functionality. Does it has like, maybe analytics it includes, like, certain planning functions.
+
+Client 2: Not like they're like, planning module. And like, that whole platform of it, but like, there are planning pieces built within their financial module. Then and that's consolidation.
+
+Host 1: So, I mean, we'd love to... I mean, we'll our pricing, but also we'd love to understand, like, how big of a Like, blocker is pricing. As far as, like, to get it approved like you guys think that you guys could get like, in six year eighty k quote approved plus Okay.
+
+Client 2: Probably I I probably not. I'm guessing so I don't know how long I'll be here, but Me know on that pricing.
+
+Client 2: Twenty... Well about twenty five of it right now is the the billing module and about of the integration fees and twenty is the contract module as well. Yeah.
+
+Host 1: So... Okay.
+
+Host 1: And then cass, like, for me using charge, But charge me, like, the another alternative we're looking at and so that would be kinda like budget it on that side.
+
+Client 2: They're not same. Yeah.
+
+Client 2: Here. Like yeah to oranges.
+
+Host 1: I mean, you you need everything. Right? You need kind of kinase need billing system and you need some way to connect them altogether. So you're definitely comparing like, you know, vegetables of fruits to something else. So it's kinda hard to Yeah.
+
+Host 1: Exactly. And then I know we went through the consolidation process last night but Did you guys I don't think we talked about our first discovery call. You have multiple and or subsidiaries. In Quickbooks Yes.
+
+Client 2: Yes. It's a little complicated because it's not actually a consolidated group or financial purposes, I guess. Like, not yet. Not validated group. But And Yeah. I've been like, I'm not sure for some of the report. I'm still trying to figure out get clarity of on my web. But their envisioning for future financial recordings and what will be included everything. But I know that we're for like modeling purposes are like, you know, if they were ever to do find fundraising, they probably wouldn't wanna kind of view it as a consolidated group or whenever just presented that way it's it is all related in this is just different ownership structures kind.
+
+Client 2: But it's not like we're actually gonna be doing by financial reporting on the consolidated basis.
+
+Client 2: Okay. Now or or even for tax purposes, and... Yeah. So right now we they're two entities in quickbooks. I actually be like, I i need to create a third because there's another entity that some of our products are getting for our agreement, and then there's gonna be a couple other entities. I think they're gonna get form shortly, plus potentially additional not to. Law from now.
+
+Host 1: Perfect. Okay. Cool. Because one thing just to know, I mean, whether you guys wanna consolidate now or you guys have more to consolidate later. What jose does do all that for you. So can like, interim, do that until you guys do move to an erp, but I think it's worth it to present the pricing that, you know, we got extra approval from Frodo from. Just to see if it makes sense to, like, start out with a mosaic as you guys are transitioning and then you know, as Cassie needs sage, you know, get sage in there and it's easily swap out the can system. That make sense to do next?
+
+Client 2: Yep.
+
+Host 1: Cool. Okay. Perfect. So if you guys remember, here's our price or list price that we discussed last time. We definitely are gonna want the bundle here because it doesn't include that forecasting functionality. So typically thirty thousand unlimited users i'm an scenarios unlimited integration, so you guys will have really as you guys change tools if you change tools can swap them out. Five thousand dollar implementation fee is also just in there as well. So a lot less the lift from our end because it is all out of the box and the integrations are ready to go. So it's a less cost on your side as well. What we our typical floor as far as, like, you know, discounts in general is being able to waive implementation fee and then take five thousand dollars off the software cost that's twenty five thousand. But because Frodo and Lauren have worked together. Don't want to give, like, little x founder her special. And so we're actually able to do two extra or free months on top of that twelve month contract. So it'll be twenty five k, literally all in. I mean, you guys will have no other cost side from that. For fourteen months instead of twelve, which pretty much analyze at I think just over twenty k. If I did my... If I remember my mouth correctly, So definitely a smaller pillow swallow from your exact side.
+
+Host 1: But I think she get you guys almost like, everything you guys need aside from obviously the billing piece and the rev rec. But that in Cathy runs free of your time to, like, be able to spend. You're energy doing that instead of, like, doing all the metrics, you know, forecasting out Op head count everything in between. That way, you can just hopefully have a more efficient times, that's... You can also be more strategic.
+
+Client 5: You guys are awesome, and thank you so much, Frodo. I appreciate it. This is great. This is... Yeah. Yeah. It... It's it's ultimately this is like a decision that I'll work on cassie founders with, and we're not ready to, like, sign the dotted line today because we're still stations in the background.
+
+Client 5: However, this is like so compelling and you guys are awesome and you know, I would love to work with you again. So we'll see what we can do.
+
+Host 1: Yeah. I... So would love to continue the conversation next week if we can't get it in month, that was, like, the original time, but, you know, quarter ends in December. However, would love to understand like, what are your guys next up with Execs. Like, are you guys having meetings next week, and then we can touch base then.
+
+Client 5: Now things like on the books right now, but we're shooting for next week because I know that we'd like to get going on this asap. So we have... We don't have that ten schedule with the, like, the Ceo yet. But he's pretty flexible and we can, you know. He he's approachable. So we can talk to him anytime and and our timeline is as as quick as we can can make the decision.
+
+Host 1: Cool. I can send you everything I'm writing. That way you guys just have it, and you can present it to him, and I'll actually just draft up an order form him. I I never like to let you think both the counter. So we'd love to like said point, but Kathy also wanna hear your feedback on you know, price to value time to value, You're gonna be the one using the tool. So know you're a huge fan of stage would like get, you know, your you need to do a lot more than just visualize things and, you know, plan. You have to do all the accounting as well, but would love to understand like Do you think it makes sense to free up your time to do that? Other accounting work. So we can make everything else more efficient.
+
+Client 2: I mean, like, the mosaic pricing is amazing. And Yeah. I mean, any paying time I can get rid is like, very much appreciated. Yeah. I mean I Definitely... I mean, is a viable solution. It Yeah. I just. I just need figure out the rest of the tech act.
+
+Client 3: That's totally. Cassie see. If you're out for it, just was on your linkedin profile. I have masters and tax with at the big four prior to this, and know making the jump into private is like, super overwhelming when you first joined because it's different than the big force. If you wanna chat about any of like, the tools or the process, would love to support you in that regard.
+
+Client 2: Sure. Yeah. That'd be great. Because it definitely has a little bit of a transition not that could have gone any further on other the end of the spectrum going from delayed to crypto start.
+
+Client 3: To crypto that.
+
+Client 5: All my fault, but during the, Cassie is also my best friend in normal life. And so during makes like bought me a lot about crypto.
+
+Client 5: I was like And I was like, I'm working in a crypto company. Like, you should come join and she was like, But where you into integrate before this Cassie?
+
+Client 3: Were you into crypto before Lauren Napoleon?
+
+Client 2: I Up until February of twenty twenty one, I thought they crypto blockchain the most bullshit thing ever complete sad, like, talk shit about it. And then And then technically did the first investments. I'm like, oh, institutional. And then I heard like, actually researching the technology and now I am... I totally drank aid.
+
+Client 5: I like the web to recruit drinker Yeah.
+
+Client 2: I'm like, this is the future. Which is why like, oh, I will do this transition. Just because I really feel like wanted to get into the space.
+
+Client 3: Nice.
+
+Client 3: Well, I... I'm a huge fan well. So let me know what bags to hold and stay on Twitter.
+
+Client 3: For the next couple of weeks.
+
+Client 4: Okay.
+
+Client 5: Awesome. Well, yeah. Leaandra, I I'm just gonna chat with Cassie after this, and we're gonna Can we just email you, but we'll set up something next week.
+
+Host 1: I know what my week's is gonna look like post having a few days off.
+
+Client 5: It's like it's i know.
+
+Client 5: Off we just make up for them early next week.
+
+Client 5: So it might be hectic the first half of the week, but I I'll definitely email you. You guys are awesome. I appreciate it. I hope everyone has a really great Thanksgiving.
+
+Host 1: Too Yeah.
+
+Client 2: I'm guys do any, like support, like, if there was an audit automated audit support. To help like with the consolidation in theory wherever consolidated financials. Just like, I know that, like, a lot of the other vendors, they do offer support, like when it comes to audits or like, just... Yeah. I didn't different areas you get a whole squad cassie.
+
+Client 3: You get one Cs, which is like somebody with the dance background specialty and, like, accounting and Fp and a. You get a data team in case there's any discrepancies or like, nuances in this Crm or in the billings data. And then you have the support team. So if, like, you ever need a late night ticket, the support team is twenty four seven, so you get a response. Okay. Perfect. I'll I'll also personally be involved to make sure Lauren is successful and you're successful. Gotta keep the best friend by structure.
+
+Client 4: That's right.
+
+Host 1: Awesome. Yeah. Well, I'll check with you guys, I guess, early two or Or Wednesday, if I haven't heard it for me. And one yet, that we can just get another on the books, but I'll send everything over email and anything comes up. Any other question, Just feel free email. I'll be looking at it all thanksgiving. I'm trying to distance myself for my family. We're all second this honestly kinda small house and there's seven of us. So... Cool. Awesome. Well, thank you guys so much for doing this call today. We'll talk soon. And, yeah, I hope everyone has a great thanksgiving.
+
+Client 5: Thank you.
+
+Client 2: Thank

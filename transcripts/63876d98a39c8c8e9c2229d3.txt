@@ -1,0 +1,189 @@
+Ben Ten: Who's who's meeting recorder? Am I adding? Who has a meeting recorder set up?
+
+Client 3: Know talking I think that's a...
+
+Client 4: Might be yours. You know, it joined the last time we had a one to one And I have no clue.
+
+Ben Ten: I checked it on.
+
+Host 1: There's there's one when that keeps adding, and I can't remove it. So just don't just don't add it.
+
+Ben Ten: Okay. See if I can kick it out. No. I can't. Meeting recorded more. No. I can't kick it out. Once it's in, cool Well, First of all, before I hand over to Jacob, we have made the host of this meeting, Welcome to the first Demo day.
+
+Ben Ten: Just gonna be The first experiment we have three more or three more presentations next week, ian Simon one and Jebediah, I think?
+
+Ben Ten: Mh. And then two more a week after, Jacob again with Philip matches and Anna. But yeah, we'd love to hand over to Jacob, who's gonna run us through the redesign plus the releasing of of a lot of the constraints for the scheduling timeline.
+
+Client 5: So Taken away.
+
+Client 5: Do you mind if we record this just in case we wanna refer back to at any point.
+
+Client 6: Yes, sir.
+
+Ben Ten: And you do that? Or do?
+
+Client 5: Alright. Jacob, you need to you need to record it or give me access to record.
+
+Client 6: I I do this? Power Reactions great. Sorry. I don't know how to do this. How how can I give you There's a record button right next to share screen.
+
+Client 7: You can press that one.
+
+Client 4: Yeah. You're the right.
+
+Client 6: It says annotate remote control apps, pause share, Let me Let me hit please ask the host to give you permission.
+
+Client 4: Maybe can you make someone else c?
+
+Client 6: Maybe.
+
+Client 4: I think if you click on the three dots, next to in the upper right corner of any space. You'll get that option. But if it's throwing off, it's it's too much hustle don't worry. We'll we'll run some notes.
+
+Ben Ten: But but just to just to give some context, the idea is that jacob demo is something that is as good as production ready. There may be like, little tweaks we wanna make in terms of copy. And you'll have all the opportunity to ask questions after he's done. And then, yeah, shouldn't take a lot to together into production after this.
+
+Client 6: Alright. Galadriel, I think I gave you permission to record.
+
+Client 5: K.
+
+Client 4: Perfect.
+
+Client 6: Alrighty. So look you suggested creating some engagements pre populated. And I was about to do, but then I was thinking that it might actually be better to run people through the flow so that they can see it. And then I can they can see the the same effects after by just going back in. So I think that's what I'll do now. So let's see. Demo test one on one. Of course. Alright. So created a new engagement And now when you go and and do the selector, you get this fancy new screen.
+
+Client 6: So go in and select your registration dates, so I'll just have it open for the week, And I'll say, Amsterdam. So as you start filling these things out, your cards up appear over here. And as soon as you fill in the required derivative fields, it creates default values here, which you can change. So it restricts you to the range that registration is open for invite emails. And the same for the reminder. It uses the same logic as far as I know, to determine these default values that i did it before. And it prep populates a couple conversation dates. You can go in and add some more. So let's say, on Wednesday. You can't add more because can't add another one because the limit on one to one is three. So then you go ahead and save. Hopefully, I don't capture the same problem. This is the the session kick out thing that we were talking about earlier. Luke that you found earlier, I can't figure out what's causing it, but the Api claims that the tokens are suddenly bad, and I don't know why. So Frankly we do this. There we go. So now it's saved. You can go back in. Pulls up the same stuff that you did before. Make changes. Oh, no. I want this to go out at noon. Go in, say Save. And Correct. Now it's noon. That's the long... Or, I'm sorry. That's the short of there a few nuances based on the type of engagement it is, one to one versus group. Which I can go in and show you now. But that's the meat and potatoes of it. This is the same. For this thing, you're not allowed to Like Friday. So when you do it tells you, you can't. If you try to submit it when you have an error it won't let you. So looks say, okay. Thursday. Cool. That's gone. This is going away. And and I'll save. Oh oops.
+
+Ben Ten: The little indicator icon it links to intercom.
+
+Client 6: Right? Yep. And that's it. There are a couple of those intercom articles sprinkled around.
+
+Client 4: So much better.
+
+Client 6: Thank you. Yeah. These. I don't know what the art... I don't know if this article exists but it's the link house. Okay. I don't know how to get in here. But it's the link that Galadriel gave me. So let's if it exists it exists.
+
+Client 5: Is. Thank you.
+
+Client 6: I can easily change them if we want.
+
+Client 5: Okay.
+
+Client 6: Yeah.
+
+Client 5: So the those intercom lengths are just best practices So Penelope actually wrote them up. But if you click on the intercom article for registration dates. It give you our best practices on what we would recommend for setting up registration dates and all the way through the the user flow.
+
+Client 4: I love the progress bar at the top and just the clarity of the engagement schedule on on the side, Thank you.
+
+Client 6: Actually, the progress bar on the top was a little bit of my own special sauce. So in the design, it was just a progress bar But the way that I ended up implementing this, it's actually a scroll bar So you can use it to move around, but it also shows you like, basically relatively where you are.
+
+Client 6: Mh I thought that the extra usability of it Love it.
+
+Client 4: So It's super beautiful. I know the rest of the platform has a lot more So just thinking, Is there any way we can so i it up with a little bit more color, like, borders around the different dates on the side didn't... Wasn't there something like that about? I don't know, them lighting up or something when you when you prep populated each date wasn't that on the original designs or something along those lines Are missing up and mixing up that actual frames.
+
+Client 6: I don't know what you're talking about.
+
+Ben Ten: There was. Yeah. But I think we got rid of it because the color is also we're also reused for morning, and or it's was the that was a... Because they were, like, green, yellow and red or something.
+
+Client 4: Yeah. Okay. I was on a early design call with with Jason, and I think one of the idea was for the Monday, Thursday, Friday once once it prep populates with a day to get circled with a color or something like that.
+
+Ben Ten: So I think the Biggest change is probably releasing on the constraints. Especially for engagements and are open. Can you demo that check?
+
+Client 6: No. Because that's one of the things that I didn't get you.
+
+Ben Ten: Okay. So is... And where is it where is this said? This this the Api? Has that been updated?
+
+Client 6: Yes. The Api has been updated. Actually, okay. Maybe I can do I'm not sure. I didn't look into the problem. Yet. But ian did make the updates to the Api for the validation.
+
+Client 6: Basically.
+
+Ben Ten: Penelope, Galadriel the idea is that you'll be able to shift the end date of an engagement whilst it is open? As long as it long as it doesn't, like cross the to the conversation dates.
+
+Ben Ten: As well as the email sent times up until an hour before the emails go out.
+
+Client 5: Okay.
+
+Client 8: And I do we have any limitation how close we can choose the end dates to the conversation dates right now twenty four hours, but that will all change with end match because that will edit matches will come with its own parameter if you have that turned on, like, that window is gonna become bigger.
+
+Ben Ten: But right now thirty four hours. So, basically, as long as we can match one day and introduce They could speak to the next with all the consequences for the community manager in terms of whether people are still available or But it should be twenty four hours.
+
+Client 8: Okay. Perfect. Right.
+
+Client 4: Merry, what what you're seeing now with would that have solved Ge from Dream issue yesterday?
+
+Client 3: Well, that that was related to something different where like, what we saw with Jacob, will he trying schedule the engagement and have to go back into it and like it a few times because it was, like, the token was airing out, I believe is what Jacob was saying. That's what her error was related to not actual i like scheduling complex.
+
+Client 3: Okay.
+
+Client 5: This probably would have helped eve well on Monday. They asked because they didn't have the number of opt ins that they were aiming for. And so they asked us to extend the registration window by a day.
+
+Ben Ten: There was there was one today no.
+
+Client 9: Miss well.
+
+Client 5: Yeah. We it a lot.
+
+Client 4: Amazing Well, definitely a lot of clients will be happy with new redesign and you ones will find the process a lot more intuitive.
+
+Client 4: Even aided the fan Oh no.
+
+Client 6: I can see him. Oh, hi.
+
+Client 4: So what is the timeline know for putting into the hands of clients?
+
+Client 6: I'm wrapping up I don't know how many... A small number. Of remaining issues. The rest of it has been tested and verified. So very soon. Like, I expect to have the remaining issues dealt with by, like, hopefully, end of day today, but maybe tomorrow. We did discover that the the time zone field for emails is never actually consumed anywhere. So we are planning to It's it's consumer on the platform front end for displaying the dates.
+
+Ben Ten: On where... That's I think that's the only part.
+
+Client 6: Yeah. So doesn't actually do anything. Is the is the takeaway. But it does add pretty significant amount of code complexity. So we're just going to remove those fields. So yes. That Is there a document with the with the copy of this screens or No.
+
+Ben Ten: Think Galadriel. I'm mean you and Jacob did that, like, yeah.
+
+Client 5: We don't it over we're slack. I can share it with you billy.
+
+Client 4: Okay. Perfect. It was just one thing about Friday, not being possible because the team can't create the matches, and I'm like, we're very much sitting in as an ai powered Also...
+
+Client 4: I don't know. Let's take a Frodo joke about d. Resting on Friday or... Yeah, Just basically around not possible because of I don't know. Platform support something, just remove that phrase team create matches keep the magical alive.
+
+Client 5: We could... I honestly when I saw that we get the error if you do try and select Friday, we could just remove that two sentences says anyway.
+
+Client 5: Mh. Really I didn't realize that that error was going to be activated.
+
+Client 6: Do we not want the?
+
+Client 5: I like the.
+
+Client 6: I think that.
+
+Client 5: So the... The error says if you... So if you if the client selects Friday, Then it says we cannot you know, close registration dates on a Friday.
+
+Client 5: Mh. That's it. Yeah. So that error message basically a little bit redundant with that. Two liner anyway. Cool.
+
+Ben Ten: Does it make sense for who who's gonna do the Qa at the end of this? Galadriel, do you wanna do the testing in Ua. Once Jacob is like, it's it's all done and just go through like, yeah.
+
+Ben Ten: There'll be like, ten or fifteen flows just for, like, each product type, we'll have like, slight variations and then different types like statuses of engagements. And if it's all good, then we can we can ship it.
+
+Client 5: Yeah. That would be... I would love to do that. Merry maybe we can jump on a call later today, we get friends through scenarios the together.
+
+Ben Ten: Actually, we have a list of all the constraints. There's about fourteen. If you just go through that list, is it like, yes, this is working. Yes. This is working. You just take them off one my one. And and you'll get there.
+
+Client 5: My gosh. This is like Christmas. I'm so excited.
+
+Client 6: Hopefully, It gets here well.
+
+Client 5: What's that?
+
+Client 6: I said, hopefully, you get this well before christmas.
+
+Client 5: Yes early Colombo is present.
+
+Ben Ten: Yeah. Exactly.
+
+Ben Ten: June demo day.
+
+Ben Ten: Thank you. And I love that... I love the use of Jacob shameless plug for jacob himself. Use his own library? On form five library. It's gonna make a long I've already played around with it. It's gonna make some other forms like a lot simpler. Yeah Yeah. We're gonna... Hope hopefully tomorrow, I'll have a first P for you. It's i see.
+
+Client 6: Nice. Thank you. Yeah. I'm very very excited.
+
+Ben Ten: Cool. Alright. Perfect. That was first first.
+
+Ben Ten: Let me ask me last questions. Otherwise, you'll have ten minutes back in your calendar.
+
+Client 5: You. This is great.
+
+Client 7: Hi.

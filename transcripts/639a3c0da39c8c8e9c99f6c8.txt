@@ -1,0 +1,111 @@
+Client 1: four. Out know the.
+
+Client 2: Think gonna get to that Yeah.
+
+Client 3: But his bot joined this meeting.
+
+Client 2: Oh, that's funny. So that means that technically, he can listen to this meeting up there Hey, keith?
+
+Client 3: Yeah. That's interesting thing the use case I never thought about. Like, you could potentially not join a meeting. And have your bot. You... You're sending a steward in your in your instead basically. Will be recording this meeting from afar.
+
+Client 2: Well, That's right. You know, I was I was just churning about this with the every company in Jebediah like, I And More wondering about, like, the horizontal use his here of of this product. Right? Because, like, I mean, I... As a manager, I love this idea of like, I have this like, channel. Well imagine I had like a summary of every meeting in like, that removes every single bottleneck, like communication in collaboration and coordination bottleneck the Right. Well, I can I can just like... In ten minutes day I can catch up on, like, everything that's happening in inside my company and, like, Josh and me deciding to do this i again like, wait a minute I'm not language i tell about it. That that could be huge. And then, I mean, again, like, all of the knowledge of the company happens inside meetings. So like, technically, Like, to me like, the wiki... like, the job to be done of a wiki to, like, like, a creates, but like, it's it's a it's it's absolutely the moment you've created it. Right? You don't need a wiki if you've got a batch that sits on every single meeting and understands the content. Literally don't need a anymore. Like, you can just ask questions to that button. So, hey, like, How do we do that around here? Or whatever.
+
+Client 3: I mean, I think it's really... like, each day, you know. You basically I don't know. It's like the meeting repository is more of like a live overview of your company at any in time Yeah.
+
+Client 3: Which is press. Mean, actually like, I didn't thought about that. But like, as a Ceo or just higher ups. Like, imagine you're just, like, kind of like, each at the end of the day, you get, like a thing and then you can respond. Be like, all all these people are trying to make all these options. Right? Tomorrow, we're gonna do things a little differently change it up. And then it just, like, cascade out and then you don't have to attend all the meetings, you can focus on another stuff.
+
+Client 2: Yes. And also I mean... And I I think it'd be only one that but. I would like to coach i reports on, unlike the meetings. Like, I would love to be able to have like that. Like, if, like, look at the one in ones between like, Eugene and there like maybe be real to like be able to recommend like, hey, man, like, yeah. I think he should've handle that. Differently, Like, right I think that's valuable as well. Like, why it salespeople be the only ones receiving coaching?
+
+Client 3: Yeah. You do get into this weird, big brother.
+
+Client 2: I yeah. It's even not brother than.
+
+Client 2: But I I feel... I feel like you make it used to it. Have you of a... I I think it's all of it right value.
+
+Client 3: Yeah.
+
+Client 2: They do that. Is recorded that have, like... It it's a bit of a crazy system that they have, but Companies would probably be like, look, it's you know, these meetings are everything is opened by default.
+
+Client 2: I I love the idea.
+
+Client 2: And and in.
+
+Client 3: Fuck. I wanna... I want... Like, you can't have Hr meetings or whatever, you know, had an there and you have to have a permission system that was pretty tight I think got.
+
+Client 2: Yeah, you can always opt out. Right? Like, i only consider on is like, I mean, when we talking about it like that, I love it, but then there is no horizontal original meeting management Not one.
+
+Client 3: As people tried to do it.
+
+Client 2: Like. Yeah. There's been lot of people who tried to do it and other other people who succeeded me show you something.
+
+Client 3: Have they tried to do it with, like, the way we're doing it? Like, you take all Zoom meetings and then you're just able to No there has been no company that plugs it into Ai, Right?
+
+Client 2: And that does all of that like Ai magic stuff.
+
+Client 2: Right. But then I also wondering if one of these things where it's like when you talk about it like that get excited, and they're, like, in practice how often do you have them a question that you would ask to that Ai. Yeah.
+
+Client 2: Not very often.
+
+Client 3: I guess I was thinking about this as like, my own little, like, just novel idea of chat Gb three. It's like, what if you ingested all slacks things and then you can ask questions across Slack, basically. Like slack your company. Because like sucks.
+
+Client 2: You see the gist?
+
+Client 3: There is a No.
+
+Client 2: Let me show you. Can you see my screen github gist or what?
+
+Client 2: No. No. No. It's... Can you see this? Sure. Yeah.
+
+Client 3: It he it is basically this.
+
+Client 2: It is.
+
+Client 2: Yeah.
+
+Client 2: So right now some reason.
+
+Client 2: Interesting. Day has been you It's gold man. It's something awesome.
+
+Client 2: Click called morning, steve, but the possible scam Hey.
+
+Client 3: That's this, but like, you could ask it, like, Like, that... That was like, I had like an idea for that. Like, know, would be like then everybody I to, like, ingest... You have to adjust, like, literally everything from your Slack and then be able to answer, like, intelligent questions based on it.
+
+Client 2: Yep.
+
+Client 3: But it wouldn't be... It'd be pretty good. I think that would be a pretty good business. If you could do that in with Slack, if you do that meetings, like, you know, like you said, all your communications email, Slack Zoom. Then you just ask it list of questions about. If it chad Gp three based on all of that data. It has all that context.
+
+Client 2: Yeah. Again, i like, intellectually, I get excited about it in practice I wonder because like, there is that company that's called gl.
+
+Client 2: No. Eight eight That's basically what i'm talking about.
+
+Client 2: Yeah. It's exactly that. And I don't know how successful deal. I I have a friend who works there I could ask. Yeah. Well.
+
+Client 3: Yeah. About. It's a novel idea but, like, yeah, it's it's also one of the things that's like, technically a lot of work to get to a decent spot. And then, you know, you've done all this giant amounts of technical work and then, like, you know, does anybody even really well Yeah.
+
+Client 2: Exactly. It's... I mean, it is work, but doable. As well.
+
+Client 3: Well, I've just said... Like, this is literally just like, god. It's like integration and hell basically like.
+
+Client 3: Yeah. You're, like, try to stitch together all these like, slack the way that the air Api works and this Api then all these things you're putting all one like i know basically model and search you know, elastic surgeon index and trying to search across that.
+
+Client 2: Yeah. Doesn't look like a you're opening product. I feel like that's the thing, like, haven't found yet community product in that category. Oh, no. It's still not here. Yeah. So I mean, if you look at the competitive tracker, like these two categories here. So intelligence like sales then meeting manager is like horizontal Managers. I don't know what me he's doing here, but whatever, all of those are actually like are you meeting managers?
+
+Client 2: This is employee account, which is about as good as like, success you can think. Look at the difference bank. Gong is huge and growing basically, you see the only category that's growing right now. Look at the average down there. Right. Three hundred three seventeen three forty five. Well, like, look at the average here it's shrinking. Right. Right. Right. Right? Like, this is the category is not successful right now. Yeah. Interesting. So I mean, maybe the disease is like Ai changes all of that, But Yeah.
+
+Client 3: So. I mean, like, out of the Ai thing, right? Is gonna spawn a bunch of other like, competitors. I can do stuff. But, like, people were doing this type of stuff without the Ai, they just had their own models and stuff before But it kind of sucks, if you look at like fire sure.
+
+Client 3: But like, you could say that it was being done like, with algorithms and Ai before You were just doing it, like, but the magic...
+
+Client 2: The magic is in the details. Right? Like, if it's sucked something that'd be good and I couldn't find right now, but, like, bio does this dispute thing where it's like meeting recap. Pc is a research. This one i think he's good. No. Maybe it's not applies which one it? Other maybe it's other.
+
+Client 3: So No.
+
+Client 2: It's not bell. It's other. Nobody do. So like they show you like, these questions here. And that kind of sucks like I don't care about this. I do kill about the summary. I do kill by the action items. I don't care the discussions.
+
+Client 3: Yeah. I like to leave to this timestamp.
+
+Client 2: Yeah. The product is on that good I feel.
+
+Client 3: Think we would probably like that. Also, we should probably jump off this call because Keith is gonna get all of like just.
+
+Client 2: Yeah. If if he... If he's listening the inquiries he's to that this jam. Look at this. Isn't not ugly agree. Is like it's no... I can't even watched the recording it just sucks. Yeah. Alright. Cool. Yeah. Let's jump out. Alright. Let me

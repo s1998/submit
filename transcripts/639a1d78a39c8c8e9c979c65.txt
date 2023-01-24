@@ -1,0 +1,335 @@
+Host 1: I have been better. But It's a lot better Compared yesterday.
+
+Host 2: What is it is he through cold I think it's just a bad flu I've never had a fever that bad Man.
+
+Host 2: Than lucky this year. Hi, Christina Hi.
+
+Client 3: Nice meet you.
+
+Host 2: Nice meet as well. Thanks for taking the time.
+
+Client 3: Yeah. Yeah. It makes cited actually.
+
+Host 2: I'm sorry? Oh, yeah.
+
+Client 3: Yeah. I'm excited.
+
+Host 2: Same here. Awesome. Well, hey, by we have a quick introduction. flow and the founder Ceo of Tim slash sales Ai, I I'd love to hear all about you Enrique Enrique told good. But what do you do?
+
+Client 3: Yeah. So I've been in Predominantly travel tech startups for the last twenty plus years two ideas two acquisitions, everything kind of between predominantly leading kind of sales and account management teams anywhere from business development deals to media sales and a host of other things. Most recently, I've moved more over to an operations role. For me, it's more about the companies and the founders and At this point in my career. So I wanted to do something a little bit. Different because I like to always be pushing myself as an individual and learning new things. So I actually recently left my current company Acacia, which is kind of a next gen hospitality company. And taking some time off. And just kind of figuring out ideally, I'm looking to kind of move back into kind of like sales leadership roles because I just miss it so much. It's... I you know there's something to be said about sales teams and I just wholeheartedly miss kind of driving that and and the one that comes with winning the sale and things like that. So That's me in a very short that. Worked at kayak eight years. That was employee number thirty eight. So I built the sales team there from the ground up. So when we talk about, like, Salesforce and integration. I went to the first dream force and there probably five thousand people if that. Yeah. So I've I've I've i've used know, a lot of different tools throughout the years and and seeing a lot of growth. So that's what really piqued interest about this and kinda learning more.
+
+Host 2: Great. Well, congrats on taking some kind of I'm jealous. So so sense, you kind of left your company now you're looking for Is that is that idea?
+
+Client 3: Yeah. Yeah. At this point, I I literally just just left for where the business needed it to go and where I wanted to focus. They were just pretty misaligned. I was leading engineering teams, which I've never done ever. I learned a tremendous amount and it was exciting. But leading engineering teams and operations isn't like, in in where I wanna focus, you know, in kind of my next venture. So that's why. I okay moved away. All along terms and everything and just gonna take a couple weeks off spend time with the family, you know, life's too short and I can do it than I'm going to. So Yeah.
+
+Host 2: I totally understand that. It's funny... As someone who's coming the opposite direction, which is, you know, i I like being in engineering my whole life, and I'm, you know, the facto sales leader. It's... I I like I like the engineering they'll industry better.
+
+Host 2: Salespeople people don't work.
+
+Client 3: But I think I think, you know, it's invaluable though. Right? Because I feel very comfortable getting relatively technical. I don't know how to code, like taught myself Sequel and never knew how to, you know, do sequel or anything like that So I really think I can take those skill sets and be able to my next opportunity, really kind of be able to really work well cross functionally because I kinda understand. In more detail how engineers work and how to best position things and talk with them through, especially when it comes to product development and stuff like that. So But, yeah, I'm the opposite. So we just need to switch roles sir.
+
+Host 2: And I agree it's invaluable. Especially as a sales leader. You're gonna have to end interface with product teams. So it's huge to be able to to speak that language. Sweet. Okay. So what though. So I I'd love to walk you who sells Ai and and what we have to, but all understand, This is not going to be immediately useful to you.
+
+Host 2: No. Yeah. Roughly speaking and again to work together still obviously, but roughly speaking, when do you expect to integrate the team again?
+
+Client 3: No. So I'm I'm looking... I'm actively looking right now. You know, leveraging my network. So if the right opportunity shows up tomorrow. I'll take it. Right? It's all about, you know, for me, it's am i... you know, is the product filling in need or seen a problem in the market. And who I'm reporting to that's cofounder or Ceos, like, the energy is really, really important. I learned the hard way in my career like to look that other way and then it was a disaster. And so I don't even have the company I worked for on my resume was big company, but I just couldn't work for this person was not a human being. So... I mean, to the point where He was like, someone says, you know, going on holiday on vacation, I'm gonna move his accounts to someone else and teach them not to go on vacation. Like, I can't. I can't work with someone like that.
+
+Host 2: So. That's sucks...
+
+Client 3: Yeah.
+
+Client 3: Yeah. So I I am. But I I obviously have a lot of friends who are you know, running and leading sales teams and and things like that. And, I think because I've been in sales probably for twenty plus years and getting connected through kind of poly work, You know, that's where the piqued my interest because I've been able to see all of the sales tools developments over the years. Right. And so I kinda have a a unique perspective. So That's how we don't it.
+
+Host 2: Awesome. Well, doubly gil show you what we have here. Before I kick it up, i I wanna feel clarify my intention and ask you a quick question. So My intention here is we are not looking to sell just yet. We will be eventually, but we'll actually this this. Right? So i intention right now is frankly, we'll be doing lot stuff out And we're looking for product market. Right? So we are looking for the best way no is not just to meals, maybe even not better. I think the best way to put it is looking for, like design partners. Right? And so someone who can give us feedback and we can give us sometimes stuff. Who can tell us like, in right when weird when something sucks or not all the problem for them.
+
+Host 2: Right? We rather would rather find that out now than in six months. Does that make sense?
+
+Client 3: Yeah. No. I'm I'm not shy. I think I'll so having been running engineering and building products for the last two years, like I have pretty strong opinions about things and My my daughter works at O. She's an Sdr. So she would actually have a very different point of view than I do right? So... you know, that might be interesting. I was actually getting her feedback on some things, all the tools that they use and what works for her and what does it what works for her boss because it's just... I'm kind of curious just to far as what are the the latest tools that people are using from both sides of equation. Right? You have your manager, but then you also have the person the Sdr who are there dialing for dollars and and using on different tools Yep.
+
+Host 2: Well, we are actually also building some two for deals right now including a dial. So when time comes Okay.
+
+Host 2: What was my other question? Yes. From what you understood from your chat with Enrique What cut your eyes? What what cut your attention here?
+
+Client 3: Yeah. So I think he he kind of mentions kind of you know, tools that are more integrated with kind of Salesforce and some of the Ai and automation is really what's what's interesting to to me. Didn't get a ton, but that's okay. That way, you know but just kind of looking for some beta testers to kind of test things out is what kind of piqued my interest because Like I said I working on that side, I have pretty strong opinions.
+
+Host 2: So... Got it. Have you got any experience we gong by any chance a little bit.
+
+Client 3: You know, I've heard a lot. I know different people who use it and the feedback my initial feedback and I haven't used it recently but is that it's not easy to use. People find it really difficult. Was actually... Like I said, I was I know a few people that use it and they're like, yeah, we don't really use it that when some people do but most don't, but it's it's and there for us. So I think a lot of that comes from the management driving that down, but I hear good things and then I hear not so good things. So kinda of mix reviews depending on who it is.
+
+Host 2: Yeah. So you never used it yourself though No.
+
+Client 3: I'm familiar with it, I've been through some demos but no. I haven't used it.
+
+Host 2: Why not So I think, you know, Gong really came on this in the last couple of years and because I've been in more operations roles i i didn't have the the need for it.
+
+Host 2: Great. Awesome. Alright. Well, I would love to show you what we have here. But first, so at a high level, they'll we we we have two things. We have and Ai crm of update. Let me they actually show my screen with your account.
+
+Host 2: Can you see this?
+
+Client 3: Yeah.
+
+Host 2: So what we have is we have a crm update i looking for the screenshot of that right now, The the way it works is there you go. Can you see this?
+
+Client 3: Yes The way it works is that when you are on the zoom meeting or when your reps or on zoom meetings.
+
+Host 2: Is this thing on the right opens up? We call it's the sidecar. And it automatically links up to the correct types in Salesforce based on who is currently on the call And is then during the call you can use the side to take notes.
+
+Host 2: To update any field your crm But then the real value prop is when it end the called here. Actually, I have, like, a light for the type. That's probably gonna be better. When you end the call, It uses Ai to extract the right, very useful this crm fields. Based on what it failed during the call. So you're on the call, you can easy to take notes. And then you end the call and then Crm and analyzes the meeting.
+
+Host 2: N this happens. Does make sense?
+
+Client 3: Yep.
+
+Host 2: That's very prop one we automatically fill up your Crm and we automatically So we save you time and we'll make sure your crm is always up to date. That's number one. Product number two is closer to gong. To your points, though, I think simple than gong. I would like to think better in middle design. Cheaper as well and leveraging Ai inevitable. And so by that what I mean is that you can click here on your meetings. It shows you the meeting recording. It shows you the transcript of the meeting.
+
+Client 3: Mh.
+
+Host 2: And you can see here the conversation metrics. So you've spend too much like talking. Are you patient enough who would have i'm actually two patient on. Right? You can have update your crm using the the crm Ai update that i just mentioned. And and so all of that stuff is this kind of like the gong kind of world. But then we we we go to the extra and we we'll also build an Ai chat thought that you can with about any given meeting or about all of your meetings? So for example, you would be able to ask questions like Hey, what was the problem that this... Just was trying to solve? What was that top objection? What consumes did they have do they currently use a competitor? Right? So that's against a single meeting. Or you can ask to tell about about all of your meetings hey. Tell me that my right there. What's the status of the? Right? In the it's on and two. Doesn't it make sense so far.
+
+Client 3: Yeah. No. It makes total sense.
+
+Host 2: Which of these two value props so the most building problem for you right now. If if any, by the way, maybe maybe none of those is like a wow kind of thing.
+
+Client 3: Yeah. No. I mean, thinking about this. I mean, I I like this because if you're targeting salespeople and Nest sdr and they're trying to get quick answers, like, the the idea of having to read through everything I think in today's world is like becoming analog and being able to quickly, like, find answers and then be able to dive into it a little bit through an Ai chatbot. I think is really interesting. I love the idea of automating and updating Salesforce because no one likes to do that. Let's be honest. That's the biggest sales people are are lazy in that. They hate you having to do any type of paperwork. Right? I like that feature, but I think as you have longer conversations being able to use a chap to quickly find the answers, especially I think about, like, Oh, let me I know my boss gonna ask me about this. Let me just quickly search for it without having to like, read through all of the information. Maybe from the meeting is I find really help lied. Did I do some advising for a chatbot company based in pan. And I love chat bots, and I just think they're becoming more and more kind of standard. And so I think this is something really interesting, especially as people's attention spans become short listened and they want immediate answers. So I like this.
+
+Client 3: As I'm sorry?
+
+Client 3: It looks very simple and simple as hard to get right. People think, like, simple is actually really difficult to do. And this looks really simple just from how you explained it, how it's organized. It's it's easy. And I can understand you can search the the the transcript. Which is really nice.
+
+Host 2: Thank you. I I agree simple is hard wouldn't believe we talked about this here the blue asshole that five or six hours.
+
+Host 2: Okay. So it sounds like for you that is the most compelling value Like, this ability to see your meetings and have that chatbot that you can talk about meetings please.
+
+Client 3: Yes I like that.
+
+Host 2: As Sorry.
+
+Client 3: Go ahead No. Go ahead.
+
+Host 2: As as a sales leader, like, does that solve a big enough point for you to pay for? And if so how much you pay this?
+
+Client 3: You know, I I think about this as a tool for the users. So being able to help them find information quickly and understand some of the the conversation metrics i I really I like that. I guess what type of reporting tools are available as a as a manager. Like, as a user, this is great. I can search can find I can kinda understand, you know, my talk time and patience level, and I'm sure those all those will grow as far as feature sets and metrics, but for me as a a man as a a sales leader, I wanna know what type of reporting is available to me to really get a pulse of what my team is doing when they're on calls with you know prospects and how they're engaging with the tool to make sure it is actually useful. To my point earlier, you know, my daughter was saying, know, Yeah. We all have dom, but no one really uses it. What... I mean, that's a waste of money. Right? So I would wanna understand engagement metrics, and it's not just a tool because someone at a high level said we needed it now no one uses it and everyone's forgotten the new moved on. And I see that a lot in larger sales organizations. Right? So that would be one of my questions as a sales leader first before I would think about you know, what the what the cost is. I would wanna know the reporting inside.
+
+Host 2: One hundred percent. So that is a big question on our minds it's like reporting. What kind of reporting would you like to have to?
+
+Client 3: Yeah. I mean, I need to give it some, you know, a little bit of thought, not, you know, not just off the cuff but I would... I would wanna understand kind of engagement, Like, how, you know, Is is my team engaging? Are they searching for information? How what are the... What are top searches? Like, is everyone always looking for the same thing? Why? Know, that's that's a dialogue that I can have with them directly to figure out how for how they can better use the tool. The... All the metrics I would wanna be able to look at from our individual rep so that we can use that as training. Also. I would like the ability to search the transcripts. I'm sure that's something that's, you know, available where maybe I just wanna get what are the top takeaways, you know, what... You know, are they working with the competitor you know, and be able to have that type of reporting kind of a standard can can report. I think would be really helpful. And then also for me, which is something I'm particular about is being able to maybe review the meeting, the actual video of it a little bit. I look a lot with my teams body language, you know, how they're presenting themselves because now we're in a Zoom world it's really no different than meeting in person and you have to kind of remind yourself of that, like, you know, are you making contact? Are you paying attention? Or are you getting just distracted. Somewhere else, are you saying a lot? Those are... Those are interesting things for me as well. Like, some of those queues, I I actually used to do a lot of videos before Zoom of my team where they would present and then we would use that as a way to improve their presentation skills you know, you said twenty seven times and thirty, you know, thirty minutes. You know, that's a problem that we need to work on and kind of fix. So Those are just some quick thoughts on some ideas and some of the reporting that I would probably look for. I mean, I can give it some more thought, but just kind of off the cuff.
+
+Host 2: Yeah. No. This is super feel helpful. So What I'm hearing, you want engagement metrics breaks, you want ability to sell transcripts you want these metrics for your reps, Of so that's interesting. I think that's something that Gong gives you, we don't give it to people on purpose because the science shows that he doesn't actually change anything. We surprised me Like the studies that have feeling that like, it doesn't... It doesn't actually back to close rates or anything that. Like, you can see like, the the the prospect doesn't kill all that much.
+
+Host 2: Interesting Yeah.
+
+Client 3: Now I have to read up on that.
+
+Host 2: Yeah. We to be better surprise too.
+
+Host 2: Waiting in the minute. There go. Okay. So you won So you want engagement metrics. You want to search the transcript sweet which here you can do, You wanna view the videos, wanna view insight for each of your reps. What else you say you wanted to see Here's here's a few of those things that we could offer you. I'd love to heal your thoughts about them we could tell you a daily slash weekly slash monthly activity report.
+
+Host 2: We, you know, what you tried? Emails and meetings had go we could send you about activity around a single deal So like but like, yeah, what are what are the like, the key deals that they're working on, how are they engaging?
+
+Client 3: Right.
+
+Host 2: Yes. Exactly. Key deals how they engaging. We could show you a little regarding so and keywords or certain topics, he will stuff. So for example, a given competitor was mentioned in a deal.
+
+Client 3: Mh or a given objection So it's like time I can be cool is mentioned, boo I wanna receive an email immediately.
+
+Host 2: I wanna I wanna know why my your they mentioned right now. We can show you... So is this idea of you... You could see rep This was it this thing here. So these these metrics. But you could also see them not only for entire team, but it could actually compare the metrics of your top right your other reps. So you could see above is really good. He he's like crazy deals And if you look, his patience So you can be like, what is bob doing different people on Abraham and Jericho because to close so much well.
+
+Host 2: You're like, well, bobby ready just miserable for example, Could it... Like, everybody be patient. Oliver whatever. Sense?
+
+Client 3: Yeah. No. It it it does. It's also... you know, I know you talked about key objections, but there's also key opportunities based on how the prospect is responding, I would love to be able to dig in and and you know, either through keywords or watch the video of, How did they take advantage of that? Like, oh, is an opportunity. Basically, they say I'm interested. I'm ready to buy or, you know, did they take it to the next step or did they miss it entirely which happens sometimes. So I think those would be... Those are all be a very interesting kind of metrics. So talk to me a little bit about the patients. I'm kind of curious why you selected that. Is that how is that kind of calculated. What are the the what's the algorithm. The metrics involved in all of that.
+
+Host 2: Do you think when you reach patients? What What's your guys?
+
+Client 3: I think, you know, did you Did you let the... you know, did you let the the process speak. Did you interrupt them Are you clear when you're speaking with you know, with the with the prospect. Those are some high level things that I kind of think about Did you rush? Did you just talk up talk maybe through a demo and didn't give them the opportunity to, like, pause and clarify questions and ask questions. And things of that nature.
+
+Host 2: Yeah. If you will on this page here, and you will a bit confused about what patients was. What would you do?
+
+Client 3: If I was confused, I would click the little the icon the little information on what that is. Well, first, any tool with any team, I'm gonna make sure we go through it and everyone under stands it. And typically, as a sales later, I asked really dumb flash because I think sometimes people are a little hesitant, because they don't wanna feel stupid. So I always have dumb questions. Just to kinda make sure everyone is is clear on that, but I would would click on that. And wanna understand how that's calculated. Yeah. Okay What do you think There is a question and response to the answer.
+
+Client 3: And that goes both ways. Between the prospect and the wrap or is it... Or is it also... Is it the rep in the prospect or the prospect in the rep or both?
+
+Host 2: But you think Well, here, I would I would hope it would be both.
+
+Host 2: Ting Both as in how long each other takes answer or how long the rep takes to until ask questions Well I think what's obviously critically important is that how long it takes the rep to answer the questions.
+
+Client 3: But I think on the flip side, it's interesting to see how long takes the prospect to answer because it almost kind of qualifies them as a prospect. I have been on calls I'm like, this person does a... This is not the right person. They they don't even understand their company, they, you know, they can't answer any of our questions, do we have the right person at the company. I've been in those situations. So I think how the rep answers is more important, but it's also kind of interesting because, you know, you're always trying to qualified leads and sometimes they're not the right person. Because maybe they were just willing to take a call and if there's some type of Starbucks card or something they just did it. You know? When that's a learning opportunity and a training for an Sdr and it'd be like, you know Great. You've gotten some of these we've gotten on the calls. And they actually were not not the... you know, not the right buyer. For the product. But I think it's more important on the obviously that this sales rep can answer the questions.
+
+Host 2: So your thesis here is... You would also wanna see the prospect patience because If they have too much patience, it means they might not be the right person to talk to.
+
+Client 3: Potentially, don't know that the word patience is the right word either. But I I can't. It might be.
+
+Host 2: What do you think it should be?
+
+Client 3: I don't I don't know to be honest. I I would wanna give it some thought. But it might be the right word. I just... Yeah. I would wanna think about it a little bit more.
+
+Host 2: Maybe buzz Maybe.
+
+Client 3: Talk time, longest monologue log, that makes sense, but Yeah.
+
+Host 2: Customer, like, we're also considering adding the prospects from this monologue and, like, longer is better. It means it's it's engaged.
+
+Client 3: Yeah. I agree. When a prospect talks most of the time, that's always the the the best the best call. Right? Because they're kind of they're engaged. Their sharing information, and that is always I think an important metric I love meetings where I don't have to talk that much and the prospect talk lot, which means that, you know, they're engaging with us and that those have a higher chance of close rates to be honest. I mean, some people just talk and because they like to talk. But in general, that's always a good queue.
+
+Host 2: Yeah. Okay. So in all of these other insights that I mentioned here Any of them catches Your eye I mean, as this sales leader I would really want the engagement you know, metrics and being able to kind of drill down to that and various ways.
+
+Client 3: I think that's... And then, you know, the engagement metrics and the insights kind of go hand in hand a little bit.
+
+Host 2: like existing insights, like the reps So little kind of the two much important ones for you?
+
+Client 3: Yeah. And then I mean, from sales and then and then the ability to search the transcripts. I think that's good for the rep good for a sales leader because you know, I can't attend every meeting. And I can look at the metrics maybe and drill down onto a particular company. And then if I want to pull something out of it. I can then go and search them you know, the transcript and maybe go a little bit deeper if I want to just kind of understand what's what what happened from, you know, the results of the call. So I would anything here from below the line that you would be it getting that I would be passionate about?
+
+Host 2: Yeah. Like that you would be passionate about getting like, any any of these things here that you think would be key to get Probably the you know, the alerts in the keywords for competitors would think in whatever other kind of keyword that I can that if I could select what words are important to me.
+
+Client 3: Right? So it might be a competitor. It might be something else, and being able to customize that, I think would be I think you have the set of standard keywords, maybe that you can search, but if it's open end a keyword that might be helpful for me.
+
+Host 2: Interesting. Great. So... Okay. So then if we narrowed it down to this full here. So engagement metrics, like who's using the platform, the inside for each rep searching the transcript And A little regarding the key wheels of the topics suppose you had a thousand dollars bills to sign across these four features. How would you allocate educate them?
+
+Client 3: Would As a leader, I would want the the ability to view the insights So that I would put that at I like it. We're doing numbers by the way. So I'll probably I put that at three hundred. And then that engagement. I would probably of it three hundred and then search transcript three hundred. And then alerts for keywords. It's important, but I think overall, if I'm thinking about the team as a whole, because that's what you really... I mean as a leader. Yes. I have myself push reasons, but These tools are really for the the day to day users and you have to remind yourself of that Right? Yes. I want my reports and things like that. But when I think about tools, I think about our is my team going to use these and engage. So then maybe alerts at at a hundred. Because you've got you've gotta to think about the team and not just selfish what's important for me as as a leader. I would.
+
+Host 2: Yeah. Great. I'm I'm keeping an eye on the time. We have about ten minutes left. Can it in in two directions. I can either I mean, keep talking about this. I'm getting it ton video of these by the way, Thank you so much. All, I mean, we could onboard you and and sign you up to the product again, I don't really i don't really think it would be all that useful for you just yet.
+
+Client 3: And you say that because I don't have a sales team right now.
+
+Host 2: Yeah. You told me that you if if we... If we signed you up full try that, we do have any use for it I mean professionally, obviously, no.
+
+Client 3: So you know, and I hope this this call wasn't... you know, I hope this call was helpful. Know, there's obviously ways to to test it even if I don't have an active, you know, call So I would probably put that back to you to see, you know, is there a way to to test it you know, in that fashion are are you looking for individuals who can beta test it and use it in live environments. If you know to be honest, we can be completely honest us If that's the case, I certainly can recommend a few people who would be kind of open to to doing that and kind of testing that and giving some feedback if that's helpful.
+
+Host 2: I would love that. I'm also happy to sign you up now. So again, looking for two things. I'm looking for back and, like, it just like buck and, you know, yeah. Ideally, When you have a team, I I would obviously love to account it as a user. So Why don't we do Jebediah then? Why do I send you up to it and and we can take it from there.
+
+Client 3: Yeah. No. That sounds great. Yeah. I know I know a few people that would could take advantage of this and and give some give some feedback Absolutely. And then from, you know, a Ui design. I'm I'm happy to give feedback as as well.
+
+Host 2: Sounds great. Okay. So let me send email Christina that this I'll send you an email right After said I'd love to take you up on that and and get introduction to any sales deals or revenue absolute deals that you know who might be interested. In the meantime, let's send you a to this in the time we have left today. So can you share your train and open the link that just shared in the chat.
+
+Client 3: Yep. Sure. Give me one sec. Alright. So screen. You see?
+
+Host 2: Yes. I do. So I will I will let you move forward with minimal instructions, because I wanna see if if we scroll up anywhere on the design if anything isn't clear.
+
+Client 3: Sure.
+
+Host 2: Can it clear what we ask for this?
+
+Client 3: It just... It seems like a traditional, like, user login. Right?
+
+Host 2: Yep. Yeah. So the reason why we specifically connect to your calendar theory so that we can join your meetings.
+
+Client 3: Right. No. That makes sense. I would... Yeah. Okay. That makes sense to me.
+
+Host 2: Yeah. That's Brandon Always who working on this one, what's going on with this one.
+
+Host 4: Yeah. Andre andres just change this call so that we'll be able to submit it and get we're in the approval process now.
+
+Host 2: Remember. Okay. So you if you can click on advanced, you Good to sell ai dot com slash.
+
+Host 2: It other doesn't than say like you can process us. Continue There.
+
+Client 3: Is there a way to, like, upload Like a file. I couldn't imagine inviting my team if I had a hundred reps and having to have someone... What... I mean, they could copy and paste it, but with What if we...
+
+Host 4: So what if we just showed you a link there and instead, hey, send this link to your team that would be fine Okay.
+
+Host 4: Because you can actually do that with sales dot ai, If you they have the same... Do they have the same domain. As you the Google domain?
+
+Client 3: Like in those instances. Yeah. Yeah.
+
+Host 2: And and So you would grab the link. How will you send it to them exactly?
+
+Client 3: The link would be good, but Probably just put it in Slack people that's do. I would just feel like, Everyone sign up Right?
+
+Host 2: What would you prefer between that approach at the link that you would be able to send it yes back older one, like you would upload the Csv or, something like that.
+
+Client 3: I think it depends on the organization and how they're structure. Like, if you have, like, an ops person, you know, or enable in it, doing this they probably want to do it but they're gonna still get an email regardless. Correct?
+
+Host 2: Or... Well, no. If you just sell the link, then they wouldn't get an email. Because we wouldn't have their email. We just give you a link and then you can send it when you one.
+
+Client 3: Right. But in order to sign up, they would they would click on the link and then they would have to kind of just log in. Right?
+
+Host 4: Yeah. They log in with their domain. They would just join your Clear.
+
+Client 3: I think I think the link would probably I don't know. I depending on the size of the organization, when you have ten twenty reps. That's fine. We have hundreds and thousands, like, you know maybe the email invite is is better option. Although more... Less than less people are using email nowadays. I as... I'd stick with the link. The link would be okay as long as there's a link you can kind of share.
+
+Host 2: Okay.
+
+Client 3: When I saw that, it's just the idea of the, like, manually adding email addresses, sounds really painful. But to your point, maybe if anyone has the link and as long as it's the domain, it's can get access.
+
+Host 2: Mh.
+
+Client 3: But you also wanna think about, like, maybe you don't want everyone to have access to Right? Maybe maybe only what certain levels your eighties only to start. I... You know, every every sales leader, every company is a little bit different. So that's something to consider. So So it's also like we could just give you both.
+
+Client 3: I mean, to give either options always nice, So I think it just has to be clear on how you can invite your teams. And do it in a in a, you know, an effective way that isn't painful, like going gosh. When way when I have add people. I i I don't like one software makes me do that. Just like Okay. Great. Now, I'm gonna spend twenty minutes adding people where I'm having to cut and paste things so definitely Alright.
+
+Client 3: So then I need to download or I can do that it's I we recommend...
+
+Host 2: I i actually would like... We'd love for you to do it now so I can see the flow we're gonna be doing a new bundle for this though.
+
+Host 4: Yeah. We try be releasing on Friday.
+
+Host 2: Do you have any field reactions to this part of the experience No.
+
+Client 3: I mean, Right now, I'm just downloading it. So I guess, with the download feature, I would assume a company would make sure was why it listed for people big demo. You know how like, certain companies don't let reps download anything onto their laptops, So What do you think you're downloading right now I assume it's an application.
+
+Client 3: Right. So I can have it up my screen, you know, at the bottom of my screen and the right real depending on how you organize your laptop so that I can easily access it versus a web base version.
+
+Host 2: Do you have an One m two mac? Do you know?
+
+Client 3: I have an old mac How old what what year roughly speaking?
+
+Client 3: I have... It's an m one.
+
+Host 2: Oh, anyone. Okay.
+
+Client 3: Yeah. I don't know. Feels old to me.
+
+Host 4: Might wanna make it more clear that we're downloading like, that sidecar thing. I feel like So what I gonna downloading?
+
+Host 2: You're an app. I don't know that it's that and clear brandon it's it's an app, you know?
+
+Client 3: I mean, maybe maybe need something that just communicates that, Like, Let's being download it, but I don't know.
+
+Client 3: I I I understood it, but maybe there's a portion. I think the one the one thing to think about like I said is if the application hasn't been white listed that some reps might not be able to download it, so maybe that's just making sure in the onboarding. That whoever's doing the onboarding is clear that you know, the application needs to be white and enabled so that the rep can download it and they'll get frustrated and feel like they waste time.
+
+Host 2: Yeah I I... We're running a bit a long time, I have to jump in in two minutes. Can you click on the the zip here?
+
+Host 2: Oh you're sharing your windows that I see the rest of your screen.
+
+Client 3: You can or cannot.
+
+Host 2: I.
+
+Host 2: You've gotta click on new share, Zoom, got like a new share option.
+
+Client 3: You? Yeah. I just saw that. Why On sec. Okay.
+
+Host 2: So then yeah, can you click on out? Would you mind sharing on display that's if that's okay. Because I think it's going to keep switching apps.
+
+Client 3: If I can go back and forth, No.
+
+Host 2: Like, switching the display. I mean, i'm I'm flying you're switching like manually because like, what's the app opens then it's fine. Okay. So can you open the the one that goes man, which one should we even open here? Can you open the one that goes R m six default dot Dm like two wheels the bottom. And then can we clean that up now? Like, does is not it's Friday.
+
+Client 3: This one This is happening.
+
+Host 2: The one no again above three above. Full bug the one that goes the Dm to above about this one? Yeah. There you go. This one... Yeah. That's the one that's one. Mean we're what... Why not just remove all the ones except the Dm g's? And can you Yes.
+
+Host 2: That's the bot i can't see anymore. You've got to drag each to your application folder.
+
+Client 3: I did that.
+
+Host 2: You should go to your application folder and open it And I can't see because It's only sharing a download With let me do a Sorry.
+
+Host 2: Quite so bit I don't build your privacy or. So What's what name would it be under?
+
+Client 3: Because normally money.
+
+Host 2: It'll be cell ai No, I see open and then I'll share that with you.
+
+Client 3: Have to log in. No. Let me share. Can you see this?
+
+Host 2: Oh okay.
+
+Client 3: You're sure. It says Sharing. Let me sure.
+
+Host 2: Yeah. That's Okay? Well, it looks like a little set up... Well, there is a little bit of bug here with the spacing Okay. I I have to jump that Christina would you be up question have catch up in three or four weeks or anything like that too again, ask you more questions we have about the road map and and on hear.
+
+Client 3: Yeah. No. Absolutely. Just read send me shoot me an email. I'm happy to to connect.
+
+Host 2: Okay. Awesome. Thank you so much. Thanks for your time. And back in a few weeks.
+
+Client 3: Alright. We'll do. Take care.

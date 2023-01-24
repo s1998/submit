@@ -1,0 +1,245 @@
+Host 1: Hey, Gertude. Hey, richard. Hi, Jade.
+
+Client 2: Hi. How's it going guys?
+
+Host 1: Good. How are you?
+
+Client 2: Hey.
+
+Host 1: Cool. Hey, Jade, Are you based out of us really as well?
+
+Client 2: Am. Yeah. I'm in Melbourne.
+
+Host 1: Nice. Cool. Couldn't tell it first from the accent Now I hear it.
+
+Host 1: In richard, I have to say, I actually haven't keep... Oh. You just disappeared. Richard was telling me last week, I have to keep up with the world cup, so I actually did. And I think it was bad luck because everyone that we're ready for a report, loot lost, and.
+
+Host 1: But now I know. So...
+
+Host 1: Yeah.
+
+Client 2: Cool. I've been tipping. And this week I moved upfront loss on the letter to second loss, so very impressive.
+
+Host 1: Yeah. I haven't like a feeling that every time I start rooting for someone the other person starts winning. So it seems to be true.
+
+Host 1: I don't know if Denisha gonna be joining, but today's call just you know, Jade is really more of a scoping call. There are some nuances based on your guys is model that we just wanna understand. So I brought in Gertude, she's from our data side. And so I'll just kinda let her take it away as far as like questions and digging into any nuances to business or business.
+
+Client 3: Okay. And James, you wanna give a little bit of your background and some of the work you've done previously, which might be helpful for everyone to understand.
+
+Client 2: Yeah. Sure. So previously, I worked in telecommunications that's where the bulk of my career has happened. So I've been a business analyst all over that finance analyst. Data analysts. I built out reporting for the digital pillow. Over there and moved into project management, which is where I it now. So I'm helping out with this the implementation of this project.
+
+Client 4: Great.
+
+Client 3: And I i know a part professional comedian Here's.
+
+Host 1: Really?
+
+Client 4: Wow.
+
+Client 2: It doesn't pay enough. There.
+
+Host 1: Oh, I found your Youtube. Cool I'll check it out later.
+
+Client 2: Oh god I can I can also give a little bit crowd.
+
+Client 4: So I... I'm Gertude. I'm one of the the data analysts on the team and I lead our our technical scoping practice. So what that means is I just try to get a better understanding of how our customers look at particular top line revenue and top line all their top line metrics. So pipeline and revenue, all that. So my goal today is just to get a better under understanding of how you're looking at that and and makes that it would be something that we would be able to have a a successful onboarding and then be able to you with Mosaic. So with that my my kind of couple of questions. I wanna make sure that I have full understanding of your business model. So it sounds like we would be pulling your your data from excuse me your recurring avenue from zero. Is it that that's accurate? Okay. So pulling your recurring revenue from zero, and then Leaandra also my and that it sounds like there's there's a non staff component that is not yet in the in the works, but but coming up soon, And that would also run through the zero.
+
+Client 3: Yeah. Yeah. So that is That that is not our commerce product. So as we as we contract with customers, It might take different forms. We might have monthly phase. We might have performance space. I have quarterly phase. Etcetera. But yes, it's not Wow. It's... I place recurring, but it's not recurring for about license point of view. It's know, it'll be one way depending on usage of our product within the publishing world on video advertising.
+
+Client 4: Okay. Great. So putting that one kind of a aside first second if we're to focus on the existing offering. It's Is how is that build? Does that build monthly cadence annually quarterly?
+
+Client 3: Annually, annually or quarterly, would be ninety five percent. We have. Haven't done any monthly, but i not to say that that wouldn't happen. The future, I think we're all in the sas world understanding that some potential customers work on shorter billing periods. I would say at the moment, it'll be ninety five percent. Why would be ninety... Eighty percent annually, so of fifty percent quarterly.
+
+Client 4: Okay. So one thing that that I like to make sure that we have a a under standing of that we will run into and we're pulling from, like, a zero over we're a Quickbooks something like that. Is making sure that we know... Okay. Is the amount that we build, but what time frame. Does that cover? And so is there something in in zero that would say, oh, we build I don't know a hundred dollars and that covers a year that covers a month. Is there a certain end date that would live live on that for these date of the invoice, Okay.
+
+Client 4: So, like, the the invoice due date I'm assuming?
+
+Client 3: One of is we usually have dates of the license period absolutely voice where how would you traditionally see it in a zero?
+
+Client 4: That if that zero can sometimes be be a little bit. That's why I wanted to make sure that we've had the scoping all. I've seen it one if it's just the monthly that we do it in the one month that it was that the invoice was billed or created due, depending on on the customer. If it's if it's an annual the billing then we would do it we'd have to figure out if it's billed at the end of the year at the beginning of the year. And then we can roll it forward. Most of them months same with the the quarterly would be a very similar setup up there. The the where it gets a little bit tricky is if we don't have some sort of deli radiation that says, This is billed annually. This one's built quarterly. So was... Do you have an Nd yet?
+
+Client 4: Sorry.
+
+Client 4: Nda. Yeah. I Yeah.
+
+Client 4: I was working at net dollar potentially metrics literally Oh, man Losing very mind. Yes. Okay. So with with within the with any invoice, you said it has the date add the terms. The the license... Is that in just like a a description field or or how is that a data structure.
+
+Client 3: Yeah. It's just in a description field. It is right.
+
+Client 4: Okay. And and so say say I was billed and I I'm on an annual invoice and it says that my invoice right January first to December thirty first in the description. What what my invoice kate be? Would that be like January first?
+
+Client 3: Well, it's just so bespoke. I mean, it can be async i could be fifteenth it could be Mean, we still we we still only have about thirty customers.
+
+Client 3: So it is still very Oh. Okay. We just have... We just have very large customers. Like I said, hey australian tax office news called. Okay. So you know, I think a point like this, you know, we can adjust whatever we do today.
+
+Client 3: The information flowing through. You know, we're we're not really... We're not really stuck any in any model, but things like this. I mean, it's really manual hadley. And and bespoke because there's not that much volume for to have to worry about.
+
+Client 4: That. Okay.
+
+Client 4: So i another if if there's if there's if there's something that we could be filling in zero that would support the throughput into suppose like that you know, let us let let us know through this process.
+
+Client 4: Okay. Yeah. So so that would be if you can create fields in there that would on that way live on the... Both that would have the license terms in it. So have license our date license end date, then we would be able to to that through very cleanly. Another option that we have I don't I don't know if you Leaandra spoken on this. Leaandra did mention that you're also using Salesforce. So if if all data also lives in Salesforce, you have an opportunity that shows what the license term looks like? We can pull it from salesforce rather than pulling it from zero.
+
+Client 3: Yeah. We should effectively do that as because we have an order for that we produce salesforce. So okay.
+
+Client 3: But we like sort of doing advise parallel Yeah.
+
+Client 3: You manually picking up. Invoices manually. Themselves manually invoicing in zero.
+
+Client 4: Okay. Yeah. So so I did I'll live in in salesforce first so we could go that route as well. Well if you don't wanna add the the start end dates in zero, and this would be for that current very fast career.
+
+Client 3: I think doing it salesforce would be better.
+
+Client 4: Okay. Yeah. So I I... That would that would work. We could do it. We can pull from self and and Salesforce is much more customized customizable. Well then zero there's a lot more flexibility there. And I'm assuming in in Salesforce already probably have some sort of a start end date in there anyways that we could pull from.
+
+Client 3: I mean we have salesforce we implemented salesforce our product is actually partner with within salesforce ecosystem. What we What we don't do is use Salesforce system So one of the things of the things I'm wanting from most I is for. It's a highlight we are we not doing it. Salesforce. To then night. And have better information coming into salesforce, we did it from from ourselves bar. So I Right? So that that today this this is the It's like this is the... This is the orders that's sitting in the middle saying, hey.
+
+Client 3: We got big gaps now outside here. We're reporting Initially, we're reported garbage because the data has has a bit captured. You probably saying that from your initial jive your initial work. You probably say that is just it's punchy. Right?
+
+Client 2: It's Patchy. I got a water of sauces.
+
+Client 2: Yeah. I'm just trying to line them all up.
+
+Client 3: I think the important message is We're still start small that we can we we can we can change any process or any way of doing something So it ensure that When we sit with our mosaic, engine in the middle, it's it's as perfectly operating as possible. We we We've got the luxury of being able to do that.
+
+Client 4: Okay. Yeah. Yeah. So that I recommend going zero in in in the post sales world we have what's do a call kind of similar to this. It'll it'll be a lot more in where you would meet with with either me or someone of my team to go through and and talk about how your your structuring your data within Salesforce, and we can call out things like, oh, if you do this, you might be able to unlock ex insights or or whatever It's it's hard to say without actually seeing the salesforce, but And and from there that we understand how we need to build our custom integration so that we or provide the the you're looking for.
+
+Client 4: So that that makes total sense from the side of the house. I wanna make sure that we could also handle the then potentially recurring, but not technically, like, license recurring revenue. That would also run through zero. Is that something you would... You're planning on running through salesforce as well.
+
+Client 3: Not at this stage Probably need to think about that, but it's gonna be for a period cited next year.
+
+Client 3: Just gonna have one customer.
+
+Client 4: That one customer have different billing elements.
+
+Client 3: Effectively. I have a license for our product. Dial. Video advertising it without a jumping check. There's clear four elements to it. There's a fixed speed there's a of this performance phase. They reporting to us, we eighty voice, which would be in a zero invoice. And effectively, that revenue We obviously see want going across, but for the next period, It doesn't have to be granularity to that revenue. It just it just can't be captured into Ira says Because it's not.
+
+Client 4: Okay. Yeah. So so that revenue if it runs through zero, then you would see it in your traditional like, Erp revenue Erp, and it would it would show up there. We could also... We have a revenue schedule metric that we could you could bring it in that way as well in zero. Would this have its own Gl account or how would i... How would that be billed?
+
+Client 3: I haven't... Yeah. I haven't thought about that but I I can't probably should. Okay. Yeah. Okay.
+
+Client 4: Yeah. That would be good. Yeah That would be good. Especially if we wanna to layer it in with with of the other top line revenue that not necessarily the Arr met. But that that, like, scheduled revenue video if it pulls if we wanna do salesforce and zero together, just wanna make sure that we're not gonna double count the data point from Salesforce if it's also still living in zero. So the way we would avoid doing that is to make sure it has its own. For the data that doesn't also run through. Yeah. Okay. Okay. Another another thing that's that's often commonly helpful if we're trying to do some cross cross source analysis is to have a common identifier that runs between the two. So if you have Salesforce, they have some sort of common denominator denominator to an account that lives in in in zero. Like a customer Id or something like that is is helpful if if that exists.
+
+Client 3: I presume it does. I not I'm not hundred.
+
+Client 2: From what I've seen, we do have those common things that we can match data sources from. I haven't got two deep into Salesforce at the moment. But if there isn't one already, I can input one from... I i use the other sources to create that.
+
+Client 4: Okay. Yeah. Okay. Great. Yeah. It's and it sounds like if there is a little bit of, like, data cleanup that needs to be done for the like, adding those those ids since... You are so so early stage in a smaller company it shouldn't be two larger the lift. So that's always good to to get in we i have some all customers that have a lot of data cleanup up to do it and It is a large doing when you're a lot older.
+
+Client 2: Yeah. I'd rather do for thirty customers than two hundred.
+
+Client 4: For like, five thousand. We have that going on with one of the customers I got right now and then I'm really feeling for that. So Yep. Cool. Okay. I I I don't have any concerns so I can... I was turn back to you if there's anything else you wanted to discuss or Richard... If you have any any questions than happy to answer those as well.
+
+Client 3: Yeah. So we've got a card Hr system. Which is something eleven hero, which you don't have a an automatic integration into. That Obviously, there's some yeah. There's some information that we wouldn't be wanting to pull there from a live level perspective. We've got a... I mean, again, we've got sort of twenty seven staff and then we've got we've got trump contractors. But the that there's So so simple Apis or whatever we could use to pull the data in and out of eats Mosaic.
+
+Client 4: We have you know Yeah.
+
+Host 1: So we have a template that you guys can download and then drop the data in and then just re upload it. I can actually even share it with you now because it's it's pretty simple. I mean, I think we're pulling in Maybe like ten fields or something like that? Share out the template that we have with you. Okay. Not all the fields are mandatory. Obviously, the more fields we have the better, but depending on what kind of data you wanna bring in. It is something that you can, like, skip fields if you want to. Yes. Cool. Great crazy. I did wanna know from the conversation do you think implementation should be like, standard for to six weeks, last more just so get some kind of.
+
+Client 4: Yeah. The big key is gonna be just data clement. No. So it's all is clean that it should be a standard four six weeks Cool.
+
+Client 3: I think it's... I think it's it's gonna be important ji you and Audit have have a look at what's actually happening in salesforce of what's not happening. I think that that's that obviously important. We've got two companies x zeros we've got two zero instances effectively. We've gonna got have a transactional company out. Holding company. Donny transactions going through our holding company. Sorry. Yep. It's actually company the holding company. Heads bank accounts and it really is out. Sort of equity equity and capital moving between two.
+
+Client 4: Okay.
+
+Client 3: Yeah. I think we've got we've got couple the thirty. It expects lines on the jail, but What, not not too big.
+
+Host 1: Remind me again, what is... So you guys have an Australian she, of course. And then what's the second one?
+
+Client 3: It's the holding company. So they both device straight.
+
+Client 3: Awesome. And it's really the holding company. It's just the equity going in out Holding quick one two. To to make accounts. So that's three they can cancel that, But money boost from the highly secured bank account through it the transaction I can't.
+
+Host 1: Got it. Okay. Perfect. And just to show you what this looks like, so this sergeant mosaic demo. So once you guys do have both your instances of zero hooked up here. We'll have both of them look like this. In our instance, we upload our Hr data as well. So if you just on this, we have this template. I just downloaded it and it looks like this. So these are the fields that we ask for is employee Id if you want, first name, last name, display name, email, start date, end date department subsidiary, if it applies role manager Id, type, work location, conversation, like variable comp as well.
+
+Client 3: Yeah. So that's uploaded to by.
+
+Host 1: Yep. Yeah. Exactly. Awesome. So last couple things I wanna talk about Gertude and Jade, you're happy to just sit gone if you want to, but last things are like, more contractual. So feel free to jump off if you want too, Gertude. Thanks for your time.
+
+Client 4: Okay. I'm gonna ride someone's up my door. Good timing. I'll talk you later.
+
+Client 3: Thanks. you Awesome.
+
+Client 2: Oh Do you want me over it? You happy with me?
+
+Client 3: No, I talk to you. Yeah.
+
+Client 2: Hang up.
+
+Host 1: Cool. Awesome. okay. So a couple things here as far as contractual things and like, the reference call, So first thing, I did get a approval on the two months free instead of just the one month. So I drafted it up and they make this bigger. This order form that I'll send you right after this. I wasn't do you have, like, a finance email for accounts payable?
+
+Client 3: We yeah. We have accounts at voodoo do dot com, but send it to send it to me to send it basically.
+
+Host 1: Okay. You said early January for start date, so I just chose january third. We have the second off for a holiday. Does that work for you.
+
+Host 1: And that would be actually your four. So these are by Us time zones.
+
+Client 3: Yeah. Just put it back one week.
+
+Host 1: Okay. Cool. Challenge. Awesome. I'll change all those babies.
+
+Client 3: Yeah. But on.
+
+Host 1: Okay. Nine. Perfect. So I'll change all these dates. So we're starting on the ninth. It'll go fourteen months from there. Twenty thousand total. Bless you. Waived implementation as well. And then I'll send this you to to look over I am curious, how is your legal security process. Is there like it department that does that make It totally the depends.
+
+Host 1: Like, for most U us companies but Yeah.
+
+Host 1: Uk.
+
+Client 3: It's not take it to the founder. Tell? Yeah. It's it's so good. And you know It depending on what it is the He i saw it. And then, yeah. This... That's it. I mean, if we've got it with and our board is full of lawyers. So if there's something in there that's funky, then I, you know, go to one of about board members, but you know, that's it's sort of rare.
+
+Host 1: Yeah. I I mean, our contract language is pretty standard. It's all in here Yeah.
+
+Host 1: I'll send over to a track changes just in case you guys need to change anything, but like, Uk is always a couple weeks I don't know why, but everyone else doesn't seem to have an issue. So I'll get all these days change and then make sure that we're good on that. And then last thing, I do have some bad news on the reference call. I can still get you a reference call, but so we have seven Australian companies more of them are implementing right now and, like, relatively recently. And then the other three, we got one out of office notice and then the other to recently took reference calls for us. So we try to keep it to, like, one a month just to, like, keep everyone's time you know, respectful of it, but I do have one company that can get you a reference call for, like, pretty immediately just because I I didn't wanna let it hold up. It's also an interesting use case just because they have... There's somewhere you guys they're not completely saas they're our Sas part not, I thought that this would be relevant and they're very small as well. So I think i have i implemented?
+
+Host 1: Yes. So they're fully implemented. Yeah.
+
+Client 3: Okay.
+
+Host 1: It's know big they actually. So I didn't sign them up. But my colleague did, but Yeah. So they're under fifty employees Looks like small series, but yeah, They implemented at least over six months ago.
+
+Client 3: Yeah. Okay. Okay. We nice guys.
+
+Host 1: Perfect. So I'll get connected with them and then I'll send over email to you guys. And then and I guess, yeah. From here, after the reference call, I'll that'll be sometime this week, then we'll just go through contractual and then get it all sorry from there.
+
+Client 3: Yeah.
+
+Client 3: to be able work on this together as well.
+
+Host 1: That's... Yeah.
+
+Client 3: That's really good on jake. Is is that was actually working on sort a dashboard of so it's starting from the a this bespoke and I was obviously running my financial long term planning model. Spire. So we're gonna... you know, we've also got a hide it bringing a lot forward into this so that just the the financial metrics. Wish we're pretty. Pretty confident will be able once we become yeah know, wake up in the in the middle of an eye. My legs running to ahead.
+
+Host 1: It happens.
+
+Client 3: Hey, Jive. You are pretty impressed scratching around having a look at it rating the Yeah.
+
+Client 3: No. I'm I did like it.
+
+Client 2: One question I have what you might be to answer is I saw some feedback I think as recent is august September that customizable will metrics weren't available yet, but they were on the very map. Do you know if they're available yet or when they might be available?
+
+Host 1: Yeah. So they are gonna be available this quarter. So by the time you guys are implementing Also, if you do want any immediately, let us know what kinds of custom metrics you're looking for. Because Gertude team is the one that does that from the start, then then is all self serve for you guys. So they it is super easy to make. But if we're already implementing, we figure, hey, when I'm gonna just set it up for you. And then you guys will be able to bring in any dataset set and then create those custom metrics.
+
+Client 3: Awesome.
+
+Client 3: Sounds... Everything good to jai. Maybe be shoot Gertude note of like just a couple of examples that in our world customer Yeah.
+
+Client 2: Totally.
+
+Host 1: Yeah. Yeah.
+
+Client 3: That would actually be very helpful.
+
+Client 2: Yeah. Yeah. Awesome. I'll do that.
+
+Host 1: Well, Richard if I guess, I'll hope to that we can set up the reference call in the next to or so days.
+
+Host 1: And then we can Yeah. We can plan on meeting again your Friday No. Let's see. Your Thursday Friday morning, if we don't have anything by then just to check in and see, you know, what we need do.
+
+Client 3: Okay.
+
+Host 1: I'll send you an invite for... It's nine Am. So for ten Am, Friday for you. Yep. Sounds good. Awesome. Great. Well, questions. Let me know, Jade, I think you have great emails in the invite, but if not, then I can send it over, and then we can go from there.
+
+Client 2: No worries.
+
+Client 2: Thanks for your time.

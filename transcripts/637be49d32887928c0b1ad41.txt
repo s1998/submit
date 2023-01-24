@@ -1,0 +1,205 @@
+Host 1: There's still two for you. Did you send an manual one.
+
+Host 2: Closely you know it called.
+
+Host 1: Oh, I think it's Enrique.
+
+Host 2: But he declined in but Well, it could be potentially always ask me just reached to a different.
+
+Host 1: Understood that we had a ticket that was talking about trying to make it's only one person's I guess that's interesting. I can recall do a london to many. I don't know the answer that.
+
+Host 3: I thank you the problem that maybe once it's coming you calling them and another loans colin in there, but So what Go ahead.
+
+Host 2: Yeah.
+
+Host 3: But what he fix is now minutes. What?
+
+Host 1: Okay.
+
+Host 2: Hey keith.
+
+Client 4: Yes, Sir. Good back you about days.
+
+Host 2: You're good. I know what it is. How are you doing?
+
+Client 4: I am doing well. I know yourself.
+
+Host 2: Good. What beautiful background? Where well are you calling problem?
+
+Client 4: I'm in Florida. I'm in the panhandle area.
+
+Host 2: Oh great. I mean i'm i me right now.
+
+Client 4: okay.
+
+Host 2: Yeah. It's been a it's been a rainy weekend hub.
+
+Client 4: Yes.
+
+Client 4: Cool. Back and forth. When you switch them back and forth week.
+
+Host 2: Yeah. Don't mind it, you know, it's a nice change from just hot know, Yes.
+
+Client 4: Hey time give a little bit of cool weather. I'll tell you whenever ready get it.
+
+Host 2: Yeah. Yeah. Same here. Awesome. Well, thanks for taking the time and I mix a team here, brandon Is Tech leader that the race is team. I think he all meant to Enrique who's a product manager the team. He was, like, like, walking his through Cell ai. So, yeah, we'd love to onboard you today. So you're round the context is, basically, we're looking for, like frankly, it's a better. Right? So it's it's a bit trough around the... It's still pretty awesome. It's still deals we we the onboarding people if you did it. I just want start with that disclaimer. Our intention is frankly, we're looking for if it Right? So we are looking for brittle honest to be feedback of people who, like not meeting their well. So feel free to, like know, shoot me... You know, I will be touch by email. I left I do to slack as well. Feel free to like send me your thought. You all thoughts out the product, would you like don't like what direction direction you would like to take and and so on and two forth. How does that time?
+
+Client 4: Sounds good.
+
+Host 2: Awesome. So summarize the product for you today. Right now it does two things. One of that is It uses Ai to automatically update your crm So it it it connects to your meetings to join so meetings. You can see it here. It says meeting audio. So that's that's what it is. That's number one. Number two, since we records the meeting and transcribe it We also show you your meeting recordings. So you have a page where you can see your meeting history and then are with Gong.
+
+Client 4: I've used gong. Yeah. We don't use gong good today at this this one, but I've you.
+
+Host 2: So very seemingly a bit better. And cheaper. Right now we'll free, I think know once we charge, he will be like, half as expensive as gone. And we... Yeah. So you can see all teams. You can see the transcript You can see how much time is bed talking, and it will go you tell you like, hey That we recommend you do these, i'll that be. How's does that sound?
+
+Client 4: Sounds good.
+
+Host 2: Right? Which just make curiosity, which of these two value props is resonating with you most right now.
+
+Client 4: Well, I mean, for this organization, we're not you know, both actually really help because we're not doing either yet. The ability to update Salesforce definitely exceeds you know, helps reduce time and workflow. Primarily, But even just being able to transcribe and get the the meetings that we're we're talking about, that can be quite technical sometimes will be super valuable. And what we're doing... And just being able to share those even across the team is value.
+
+Host 2: Yeah. So you can share those with the team and you can also share that with the client, the customer. Like, if you go go a lot, that's stuff being like, hey. It's zero thing we talked out, Still like an Ai did him and sullivan it and so forth. Awesome. So can you go ahead and show your screen and I will go ahead and send you the second plane here. In the chat. You to with you if i my screen. Well, I guess, it's slowly recording in the way.
+
+Host 2: Thank you. Okay. So do you use Google or Microsoft?
+
+Client 4: But this one will use Microsoft.
+
+Host 2: Got. You guys. You can feel free to go ahead and... Yeah. So we... Exactly we connect to your calendar order to join your sales meeting I'm sorry. I do writing. Can you can you bring the app just pin on what you do what's your does.
+
+Client 4: Yeah. So airline metrics is an analytical tool for the travel industry specifically for travel agencies airlines and corporates that have travel programs. What we do is we track all of the air specific data flown in revenue you know, say for example, when you buy a ticket, you buy a ticket, but you don't use it right away. Right? It's not used to later. So tracking that ticket from the time of purchased till the time it's used, We give insights for those different groups. To what's happening within their airline revenue and we tracked those against their targets. So they... They're giving sales targets for that they need to hit in order to get incentives and playback back and things like that. So we track those contracts for them they always know where they stand and then we forecast that information so that they know where they'll be. Even though They're not there yet. So sometimes it's three months before you actually use a ticket that you purchased. So you need to know where you're actually setting.
+
+Host 2: That makes sense. And and and How is the company in your your team. What do you do there?
+
+Client 4: Yeah. So I am there chief commercial officer.
+
+Client 4: Chief commercial officer, so basically, chief revenue officer same thing.
+
+Client 4: Manage marketing in sales.
+
+Host 2: Yep.
+
+Client 4: Yep.
+
+Host 2: How big is the revenue?
+
+Client 4: Yeah. So right now, we've got two sales reps.
+
+Client 4: Yeah. Actively we selling one Vp of sales. And then we have a B team which is It fluctuates between three to five people.
+
+Client 4: Depending on here.
+
+Host 2: Well, almost exactly the same stage to self one P dps, one video. Yep. Great. Yeah. This is where to connect your salesforce so that we can update it That's wrong.
+
+Client 4: Oh, yep. I trying to... Yeah. Log in to the other Is this not? That's thought it was. Let's see why.
+
+Host 2: So someone here pool dot com email Yeah.
+
+Client 4: Okay. So that works. It That. Weird. Oh, that's why.
+
+Host 2: Oh, Yeah.
+
+Client 4: That was in the wrong... Wrong salesforce instance.
+
+Host 2: Yeah.
+
+Client 4: There we go.
+
+Host 2: Oh, so now you need to go back.
+
+Client 4: Now I need to go back to the interesting Yeah.
+
+Host 2: If you if you long click on the back button Forgot which tab was, no. I think it was this the other one. Yeah. If you long click on it, Yeah. This spelled ai one. There you. Okay.
+
+Host 2: Alright. So this is the interesting valve. This is the about where. You tell you walk me through your booking you in Salesforce. You tell me which fields you want us to keep up to date player? And and and you walk me through, like, what each of these skills means for you? It you'll load the fields for minute. How many fields do you have? That's an unusually long?
+
+Client 4: Not that really. We we keep it pretty simple one this one. So it's Feels that we don't have a ton of them.
+
+Host 2: Brandon and On andres is that berg on side Looks like it's still this might be a new right click on the page keys and do inspect.
+
+Host 2: On the at the bottom. Yep. And click on the console, the control tab. No. There... Yeah. Sure. That's a bug. Any chance we can hot with hut.
+
+Host 1: Well, we don't even know what the problem is. I mean, I would if we could try to, like, refresh Yeah.
+
+Host 2: Can you try?
+
+Client 4: Reloaded it.
+
+Host 1: See what happens. Okay. We do have a century error on our side.
+
+Client 4: A permissions thing that I might have on our Salesforce instance. Or Something else.
+
+Host 2: It could be. So like I said, well the the product is pretty new. So, yeah, every Salesforce is unique, and so we made... Now maybe something in your a bit not. You because this should be on our side. like I said, you know, it's it's a new product. Let us let us take a quick look at it right now, like it it's happened before that we like, fix a back during a call. We call perhaps to, like, jump back on the call together.
+
+Client 4: Yeah. No. No worries. Or if you wanna skip past this part of it, we can That's the last call.
+
+Host 2: There's nothing after done. And that's the meat of the meeting actually. That's like No.
+
+Host 1: I recommend going past, like, this... If we can just You could probably try to disconnect it and then go back. If you want to the page?
+
+Client 4: No.
+
+Host 1: Yeah.
+
+Client 4: That's still gonna go.
+
+Host 1: We might have to be disconnects you on.
+
+Host 2: If it doesn't go through. I don't think this met p either. Brendan Well, it's like an authorization there.
+
+Host 1: That's what i'm saying. It's like, there's Oh, not necessarily on our so side I think, Like that's why why I'm wondering like, if we just disconnect and try to reconnect it, that's like...
+
+Host 2: Yeah. What's the name of that page again? Is like slash integrations or something?
+
+Host 1: Slash integrations...
+
+Host 2: Can you replace set up by integrations in this link?
+
+Host 3: Let let me let me update it that base. So like any settings.
+
+Host 1: I think we wanna go to. Go slash settings. This says setup up And then, yeah. So I would disconnect from that there. Yeah, and then try to reconnect. Seems like we got lot like an author air, basically on your Salesforce.
+
+Client 4: I wonder it was because I had to... Well, then now that just Now can you click the card wheel?
+
+Host 2: Next is salesforce. Nope.
+
+Host 1: So Just so I understand this, you have multiple Salesforce instances that you're logged into Yeah.
+
+Client 4: Because I'm I'm I work with more than one company. I I'm But like, in your current browser, you are connected to multiple.
+
+Host 1: Salesforce instance.
+
+Client 4: Oh, not right this moment I was.
+
+Host 1: Now I'm.
+
+Client 4: No. I'm not. And now I went I logged out of the other one. I've just logged into this one.
+
+Host 1: Gotcha.
+
+Client 4: I mean, I believe though. So Yeah.
+
+Host 1: I mean, we're not gonna be able to fix this, like in real time well.
+
+Host 2: But... Alright. Well, sorry by that case.
+
+Client 4: Colombo I I get new products. It's Yeah.
+
+Host 2: Like I said. So downside side is it is it is due and this will happen like time in the very early days. The upside is, you know, when it happens, I mean, you've got the and put in on and two and three on the on the line with you, helping get So Alright. Yeah. We'd love to find some time this week too... This is basically it. Like, the last step is basically we'll train our Ai on the crm. And that's that's it? After that the product does his magic Can we find some more time... Phil will be fixed basically. Do you wanna meet tomorrow or when before thanksgiving.
+
+Client 4: Yeah. I can do tomorrow I'm off on Wednesday, but tomorrow I can do Anytime between ten Am and four Pm central.
+
+Host 2: Alright. Let's do how is Is eleven Eleven central?
+
+Host 2: Yeah. Oh, eleven simple, Sorry. That's... Sorry. Twelve by. How is?
+
+Client 4: Ten central. That works.
+
+Host 2: Building. Alright. Well, thanks a lot Keith. I'll see you tomorrow sorry about that. Oh actually, how about we do it Let's we later on the day server. Let's do it at two slowly central.
+
+Client 4: Two thirty central.
+
+Host 2: Alright. Yeah. We have a bye. Awesome. Alright. Well, thank you so much, please. I'll see tomorrow.
+
+Client 4: Alright.
+
+Host 2: See then. Yeah. Alright. Alright? Two thirty central. Oh,

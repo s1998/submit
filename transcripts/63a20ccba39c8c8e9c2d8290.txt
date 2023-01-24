@@ -1,0 +1,71 @@
+Host 1: Petrovina. It going on?
+
+Client 2: Kevin. How are you?
+
+Host 1: No, All. Thanks for asking. Where are you calling in from?
+
+Client 2: Thank you very Canada.
+
+Host 1: Canada awareness nice. Yeah. My Sdr works up there? She wants never been, but she has nothing like good things to say.
+
+Client 2: I like it, matt. I was born here. So that's it's I've interesting hear that.
+
+Host 1: You know the last drove? Nikita drove. Okay.
+
+Host 1: Thank I don't know if people like know each other, but Anyways.
+
+Host 1: It's gonna be I'm in New York New York City. Actually just moved out here a couple months ago from La.
+
+Client 2: Cool man. Are you liking it?
+
+Host 1: I I like it. It's chaotic for sure. I'm like a very laid back person, so I enjoy being by the beach, but I told myself I i wanted to can i here for at least a year, maybe two. And... Yeah. It's kinda what I'm doing. Jobs remote. Roommates we've got of our last place and I was like, time is now. So...
+
+Client 2: Good for you, man. Cool.
+
+Host 1: Yeah. Cool. Well, I'm excited chad. So I was getting caught up on our email thread. And just for introduction, like, obviously my Center I'm our head of sales at team flow, but I know that flow was talking to either you or someone else at writer about using another products that we're building. And and I think you guys had also talked about Salesforce products and express interest checking it out because you guys have been thinking about, you know, doing something somewhere are going with a similar tool and and kinda just wanted to see how it looks. So That's the context that I have. Is that, like, mostly accurate Yeah.
+
+Client 2: So I chatted it with flow. And then I I chatted with my Vp so flow, was talking about us sort of going into your beta with the other tech that's, like, you know, sort of competing with Gong. That's not something. I mean, we we we have we don't have any you know, pain with the with our stack that we're using for that today. And obviously, we're just slammed. So wouldn't be worth it for us to go with that, but you know, we were in... I was in San Francisco at the office when I chatted with them. And, you know, everybody just loves the in person experience. So it's kinda good timing and and to at least, you know, look at doing something and I talked to the guy that handles all of our tech. And, yeah. He was like, oh, you're were actually talking about something like this. So figured... Yeah. Definitely be worth. Taking a look. I i when I met with Flo I... Like, we met in web workflow. So Seen it, but I'm really, like, Bounce around too much.
+
+Host 1: Yeah. For sure. I think it it'd just be easier to just have a quick and intro Zoom, but I definitely take us into the product at some point. But I don't think I need to bore to death with the pitch. I think you understand that. It's like we're trying to, you know, replicate the feeling and, you know, benefits with regard to productivity and just like, engagement that we used to have selling together in person.
+
+Host 1: Virtually. Of course. So we built a platform specifically for that. You can think of it as like, Zoom, but, like, optimized for. You know what I mean? So there are features that... Do you guys use a dial?
+
+Client 2: We have one. Yeah.
+
+Host 1: Which one do you use?
+
+Client 2: It's a good question. I don't use it.
+
+Host 1: Okay.
+
+Client 2: They came out know a couple weeks ago, oh, they were like, oh, yeah. Here's a dial. But I just call off my cell phone, and then Got you. That's it.
+
+Host 1: Gotcha.
+
+Host 1: Don't think do a lot of outbound and, like, what is the makeup of the Like, do you guys have Sdr and e's, Is it just like full cycle. What does that look like? And how many total reps you guys have?
+
+Client 2: Yeah. So we have seven aes. It's full cycle. We don't have any Sdr we don't really do any any like, pure outbound. What we do is you know, we're P. Right? So there's a ton of team trials that come in. And we're trying to connect with them to turn them into, like, real enterprise opportunities. So a team trial being like a you know.
+
+Client 2: Simplified version free version of of what we do. Or well, it's like, eighteen bucks a month, but Yeah. And and you know, the... Like, our conversion rate with that has been shit. Like, we haven't really able to to get many calls booked you know, there's a few ops that I've gotten out of it, but I think it's a pretty big gap for us and You know, we've been tweaking around like, what we're doing with use apollo for our reach.
+
+Client 2: But Yeah. And I mean, feel like calling just... You know, it's it's like gone so under the radar with with Covid and everything like that, but I still do it It's it's great. And I know that that Rv encourages that to.
+
+Host 1: When I came when I given a team flow, their focus was like P, but it's really hard to accomplish, especially with like, a new product. I know exactly what you guys do, but I know the company is like relatively new. And it's just hard to, like, rely on P when you don't really have Pm yet. You know, I mean it's so. I came into that same situation at team flow, and I was like, guys, like, we basically just letting people sign up, not give us any information. And we just like, sending emails and, like, hoping that they replied to us so we could, like, schedule a meeting and do a demo. But by that time it was already like too late almost. Because they've got an exposure to, like, this product, that doesn't have good, like, and app onboarding and things like that. So I was like, alright. Like, we're we're cutting we're got the bullshit. I am basically making sure that we capture a phone number from every single person that inbound and they get into the product, the sales team has to talk to them. And that drove growth a lot for us. So maybe something to consider A lot of the time it's not even the sales reps fault. It's like, the person would reply of, like, maybe their initial experience with the product was a little bit better, So it might be worth reviewing. But that's kind of like a similar experience. So so if I understand correctly that you guys are like, trying to solve this problem though. It wait whatever way that you guys are are trying to do it Like there's a gap and the amount of people that like, the product and the amount of people that sales can get in touch with. Yeah. Yeah. And so from, like, a collaborative perspective, are you guys hoping to use Team flow in a way that helps you guys like, experiment faster and kind of like collaborate right in order to to solve this or when you think about a Salesforce like what to use sticks out it's like, I think that would be the most valuable component for us.
+
+Client 2: I mean, it's... you know, it's just like something that's come on our radar. Right? Like, flow is an indirect investor in in writer. So that's my buddy who runs the the Vc fund, put us in touch. So it's not necessarily like, That's not something that we've, like gone out and looked for. Right? It was just kind of the timing seem to work out. And I think that the real interest in it is just you know, have some form of experience of that, like, in person you know, collaboration whatever is.
+
+Client 2: Because, like, I don't know. I'm just way more productive than when we're working in person. So I think that And and I talked to my Vp and he was he was like, oh, yeah let me know, you know, when you're when you're testing out the sort of Salesforce thing, know, he'd get him into it too, I think. So, yeah, that's that's sort of the context I guess is more so just, like the lauren and being able to collaborate and move around talk to each other.
+
+Host 1: Yeah. Yeah. Totally makes sense. Okay. I think it might make sense i jump into our salesforce right now. I'm gonna try to link in the zoom chat. Just give me one second. I'm actually gonna take us into like our actual Salesforce office, so there's probably gonna be a bunch of people in there. But all be like kinda just see what's up and how it works. Alright. Let me know if you got that link in the zoom chat.
+
+Client 2: Yep.
+
+Host 1: Just go ahead and click there and I'll find you there.
+
+Client 2: So it says sign up to join our office.
+
+Host 1: You just should have to put in your It's like, name or potentially authenticate with Google.
+
+Client 2: Yeah. okay. Give me second I gotta set up. Same system. Should be good.
+
+Host 1: Cool. And when you pop and, I should see you. Yeah. Okay. We can help out soon. We'll just talking here.

@@ -1,0 +1,243 @@
+Host 1: Good. Just got off another call. Did you have a chance to meet with Bc at all?
+
+Client 2: No. But Yeah.
+
+Host 1: He is during the call. So Perfect. Hey.
+
+Client 3: Morning?
+
+Host 1: Oh, it's early for you. Thanks for getting to the office early.
+
+Client 3: Course.
+
+Host 1: Are you the only one there right now? Or Yeah.
+
+Client 3: I we'll have a a number of folks here pretty soon.
+
+Host 1: Nice.
+
+Client 2: Has the new? Are you in the new space?
+
+Client 3: That's great. I love it. Apparently the same size the old office, but it feels twice as big.
+
+Host 1: So... Nice so. Cool. Hey, Jason.
+
+Client 4: Guys.
+
+Host 1: Awesome. So I have whole team for you here your today. Obviously, brought Maximus on in case there is anything that you needed just around the tool itself. B c is one of our founders. He's Cp, and so want to bring him in because he's leading this agent tax initiative and then great fees from our data team. So anything just around your data and how that's gonna belong to a tool. I just wanna make sure we properly scope this out since it is sage, and it's a little bit of a newer feat for us. So Yeah.
+
+Client 4: I wanna be take back.
+
+Host 1: So I'll let you guys ask your questions and whatnot. But just more here as it liaison on.
+
+Client 2: So. I can I can start then.
+
+Client 4: So like like, mentioned, I'm I'm on the data team so I we are technical scope practice as well.
+
+Client 2: And what that really means is from a top line perspective and I like just get an understanding of how you're calculating your metrics. So where they come from what the data sort of looks like, And in at post sales world, we would get into a much more nitty gritty conversation. Today is just more to get an understanding a high level understanding to make sure that we would be able to pull apply that data through properly.
+
+Client 4: So my understanding is that we would be pulling top line being recurring our revenue mostly from sage.
+
+Client 2: Is that accurate.
+
+Client 4: Correct. Yep. Yep.
+
+Client 2: Okay. And then as far as any sort of, like, say like, in Crm or any any location that you have pipeline Data, what what is that? Like, salesforce force dot com.
+
+Client 4: Salesforce dot com.
+
+Client 2: Okay. Perfect. Great. Yep. So then, we would we pull in your excuse me. We pull your your pipeline in sales and booking data from salesforce. And then figure out how how we pull in the the data from sage. So are you are you using that more from an invoice perspective? Or would you actually have like, contracts set up stage.
+
+Client 4: So what so the way our system works is you know, each each customer is an account in Salesforce. And then within that account in Sales, we'll create opportunities and those opportunities tied to sales orders that get pushed from sales into intact. We do the actual invoice thing and revenue recognition in impact. So what happens it sales where it comes in, you can convert the line items over into invoices. And then as part of that invoicing process, the revenue addition module where you create activation. So you say, okay, this is annual invoice for twelve months. It will then create and do the actual revenue recognition. Separate from the invoicing thing. And then but we do all that within sage. We we don't use a separate invoicing or Rev system.
+
+Client 2: Okay. Cool. So that that seems pretty straightforward. Typically what we're looking for when we're doing recognition is making sure we know. When to start recognizing when to stop recognizing and what amount to recognize over that time frame. Sounds like we have all that with in sage, so I don't have any any graves concerns just wanted to kinda double check. Because As Leaandra mentions sage is a newer products for us. Other than that I I'm happy answer any question.
+
+Client 4: A little bit more.
+
+Client 4: Yeah. Sure. So go ahead, Brian. And then I can give you a little bit more you on how we're using sage. I think there are some other complexities that we just need to talk.
+
+Client 3: Yeah. So one of the questions, I'm assuming that the revenue schedules h has that you whatever, you know, you know, partial, maybe the it... Whatever you've done for the revenue. For the other sas metrics? Arr R how are you looking at those? Are you actually tracking those in stage tax? Are those just you know, for example, you started an annual contract on the fifteenth of the month, revenue starts then where are you getting the the R for that for that deal.
+
+Client 4: Yeah. So we're we're... I mean, so the system is so like we're calculating all of our retention metrics and and those things in Excel. Separately and we're doing it fairly rudimentary kind of approach where we're just taking the differences month over month. You know, and you know, so if it was zero the month higher and there's an amount. We consider that new if there was an amount fire month is now zero, that's term and then, we do the increases up and down from there. All of that is being done in Excel. But it's basically we just pulled the Gl data by customer. And and run that calculation in excel.
+
+Client 4: I don't know Brian if that's answer your question, but basically, it'd just be the general ledger data is what we're using for those numbers.
+
+Client 3: Got it. Okay. And so for And just to get super clear on it on a deal. So let's say you have a the contract or for simplicity, it's ten thousand a month. But in that first month, because it starts in the half, fifteenth of month, you're really getting five k of revenue? Would you record that as five k m mr r or five or ten to R. That first month.
+
+Client 4: We're doing it based off of recognized revenue. So we we're taking... We would take the five k. Okay. Great.
+
+Client 3: Makes sense.
+
+Client 4: Then of course. And so I just on that point, just on that point. I don't think we care so much so long as what we do, we can explain what we're doing. So if there's easier way for you guys that you guys would look at doing that I think we're open understanding that. Our goal isn't to kind of replicate necessarily what we have, but just to be it... Whatever we do to be consistent about a period over period.
+
+Client 3: Got it. Okay. Really makes sense. The the easiest way probably, honestly, is is if you're already doing that too, Customers admin.
+
+Host 1: You see we lost me per sec So the easiest way to do it is Sorry.
+
+Client 3: I don't know why the internet's unstable here. The new office issues, i guess. The the easiest way is to reflect exactly what you have in Agent and tax. That that'll be straightforward. Do have a number of customers that want to show as much Of already As possible. So, you know, then you're kind of going around. The the revenue is schedule a little bit and trying to just make it work. So I think it probably makes sense to start with Sage tax. One one. Sorry there go from it. The question I do have is anytime we're doing anything excel? You sounds like you're downloading from taking tax. Doing little excel to get things set up. Are you making adjustments outside of sage tax?
+
+Client 4: No. We're trying to... We we're using the Gl data as Got it.
+
+Client 3: Awesome. Okay. So Agent tech is is a source of truth board up. Yeah. That's speed.
+
+Client 4: That should be straightforward.
+
+Client 3: Do you I guess my question here is so for the revenue side of things, that sounds like we can get go get rolling on it. On the billing side of things, Do you care a mean... Is it that this here's right word. How important are all the billing metrics and they're aging you know, just open invoices, everything else like, how how important is that to you or that just been working about? Back office More this more of the back office.
+
+Client 4: I mean, our our you know, the the recording, you know, the sage does a fairly decent job at least to as reporting on aging and and whatnot. What what we can't do real well is is report by business units on ar. And so but whatever was was going say is within sage, so we have multi currency multi entity. And then sage does the consolidation And so I would envision that you guys would load the consolidated book into your system since that's already in Us dollars. But then we also track multiple dimensions on that business unit being the most important for kind of top line things where we can say, okay, this is This is the you know, our merchant business versus our point of sale business versus our wind business And so being able to kinda of bi the data along that dimension. Is kinda key. If we could then extrapolate that out and get better visibility into things like ar, which sage Ar metrics are stronger to legal entity versus that dimension. And since we have c business units within legal entities work it's a little tricky to see Ar by the business units, but if we're able to then, through this process get better visibility of Ar free to those business units that would that would be something be interested in, but it's not probably not the biggest driver of tell what we're trying to solve right now.
+
+Client 3: Absolutely. And i something you should be able to do. Just walking you through our philosophy. So we always get at the lowest level possible. So even for your general ledger data, we're gonna get literally every transaction every line on every transaction the lowest level of everything. And same for the revenue, so we're gonna get all the revenue schedules everything out of... And all the billing schedules out of sage index. And then we build everything up from there. So we have core data set at the lowest level and then all the dimensions just effectively different columns the units, the business units, the entities whatever it is. And so we've calculated your revenue in Arr at the lowest level. Or restore it those all what should say? And then you can can slice dice by any of those dimensions. So we're I'm trying to pull in it every dimension you have in agent tags we'll also let you kind of add on egyptian dimensions the inside. But the intent there and the power is really being able to slice and dice. Be... You know lower than the customer or by merchant or whatever segmentation you have. That's that's really to where the power is. The metrics themselves are you know, you start at the highest level, then you can just drill in and and filter and get down to whatever you care about. Because... Okay. Reality is things changed. Like, one month to care about The business student, the next month you care about something else, and you you have to have that flexibility.
+
+Host 1: Jason.
+
+Host 1: Actually met with be yesterday on this just to make sure that we are all aligned as far as like, hey. I wanna make sure I'm aware with what's going on with sage. He actually told me that we will be able to pull in all the different subsidiaries and you will be able to slice it on the analysis side of the tool, which is what we care about today.
+
+Client 4: So Okay.
+
+Host 1: You actually will able see all the high information.
+
+Client 3: Yeah. So we we pulled in the loan again on the most level every subsidiary. When you're... Until on the financial of statements, you'll be able to filter down subsidiaries or or review the consolidated? The only thing is we do show everything in one consolidated currency. So you will... You will have the local currencies in the transaction data, but, like, this interesting mentioned the page model or all in consolidated currency.
+
+Client 4: Yep. Yes. No. That's that that makes sense. And what where you guys... Like, what's your timing on this I know you guys were starting to work with a couple clients on it. Like, when you guys really think realistically, you're ready for us to be able to kinda dive in on that.
+
+Client 3: Yeah. So the the way we go about it, realistically, February first is our is our good last That.
+
+Host 1: I thought it was January. Someone else told me January.
+
+Client 3: So... Very first February first again.
+
+Host 1: There's a twenty four hours.
+
+Client 3: So but we are working on right now. So we are we're diving into it. We feel pretty good about our ability to get it done. There are two aspects of this. So one is the general ledger. And the way that works is there is effectively one general ledger. Every Erp system has you can regret. So that's what we're working on the kind of engineering data engineering side. The other side is the billing and revenue. So the billing and revenue, we are... We have that data flowing in out from the customers that have connected to agent text. And you I think that billing revenue is just simple react aggregation of how structured in agent tech and that is the approach we're taking right now. And that sounds like the approach that you want. But we have always fine with billing of revenue or specifically revenue. Customers want subtlety changes audio. So that that becomes more of a greasy back and forth here and that's probably she's here. Because Always you know, as as simple we think it might be to end up having a lot of that last twenty percent it's always the hardest twenty percent.
+
+Client 4: Correct. Yep. No understood.
+
+Host 1: Cool. Yeah. But that's one the I want to line on is that we would be looking for a start date of probably, like, February first january thirty first, like, right at the end there.
+
+Host 1: Is that... How does that align for you? Is it Okay?
+
+Client 4: Yeah. I think it's that's fine. And I think it's like I said, you know, for something we wanna do, then I think we ready go. So but if it's February, it's etcetera that's fine.
+
+Client 3: It it would be helpful for us. I mean, if you'd be... Yep. Be excited to have gomez that would be helpful for us to get your data in most and make sure that everything we're doing, it's good to go and you know, with any new Erp done, there's always the there is like, a standard way to do it. And for example, we have nets suite and it's you know, estimates and agent detector kind of that same to your multiple bunch entities, multiple currencies, multiple accounting books, believe nets. You know, it's like, thirty customers net to and the thirty first comes along and they doing... They're doing something that just never seen it before. There's always something there and just to make sure that we're we're smooth sailing, you know, sooner you can connect, the go live is is that December thirty first February first, But if we have that data sooner, we can make sure that we're getting that for you on time.
+
+Client 4: Okay. Yeah. No. I I think that makes makes sense. Yes. Okay. So what what other information do you guys need from us in terms of questions or complexities or, you know, towards what we're what we're doing.
+
+Client 3: So I have a couple of questions that are kind of sage fact related. Actually, couple things here mentioned like some of the business units and whatnot for the billing and error. Are those in sage intact or those in Sales? You're just looking them up based on Salesforce?
+
+Client 4: No. Those are in they're in yeah intact sage intact. So they... So has I think a standard set of dimensions, department location, employee, vendor customer, etcetera. And then they have, I think three or four missed to that are customer defined. And so we created one call business unit and that, know, basically aligns to various product lines that we sell.
+
+Client 3: Got it. Makes sense. Okay. Is there anything in because blue will bring salesforce for state not that that's gonna drive the opportunity to set all the metrics around, you know, pipeline and everything there. Do you join on Salesforce to S?
+
+Client 4: Today that you were integrated together if that's what you're asking.
+
+Client 3: No no understood. And I'm assuming every all the revenue schedules we have in Saint Tech have opportunity Id, and then we could use that to join on your salesforce. I'm asking like, is there do should we definitely be yeah.
+
+Client 4: Yeah. Yeah. You should... Yes. So every every sales order, which becomes kind of the to start of all billing and invoicing and revenue should have an associated opportunity in Salesforce. I'm sure we will find an exception somewhere where somebody managed to work around that. But but Oh, distant Salesforce and those that don't, we've probably that that's probably gonna highlight it process issue we got fix on our side.
+
+Client 4: Here something should be correct. Makes sense. Okay.
+
+Client 3: And then I guess are there the other thing and and I'm fairly new to this, but on s tech, I know there's kind of There's the dimensions, but then there's also like, groups or something of the nature kind of, like more abstract grouping of dimensions.
+
+Client 4: So Yeah. So what you can do is within the dimensions you can create roll up. Based on any number of criteria like either manual selecting things to go into it or for grouping things. So for example, we look at... So we is a business unit to dimension. As as an example. We have multiple dimensions. So we have a wind shop business unit, we have a and merchant business unit Mosaic. We actually have product called Mosaic as well, so We have those those are business units. The wind business unit. And then those business units roll up into two kind of business unit. Two business unit groups that we look at the business. Wind shop versus retail. So that that's the way that it works it's kind of that you can create hierarchy or we could go in and just say okay, I wanna just lump these two together these two together these two together. Up that way, so the grouping do exist.
+
+Client 3: Got it.
+
+Client 4: So... But it's not like a direct parent relationship on that dimension.
+
+Client 3: It's gonna... Just separate group created above that you convention.
+
+Client 4: The departments are more of like a parent child kind hierarchy but the business unit one is very... It's kind we decide to build those roll ups.
+
+Client 3: Got it. Okay. Makes sense. Yeah. That's for all the the major questions. I guess, other things here, are you doing any kind of like soft real location. I don't remember they called in it's agent x, but, you know, like, You have rent expense month, then you re it based on heads and sometimes both statistical accounts.
+
+Client 4: We we have a handful statistical accounts where we I think we would probably is it basically to create some of the stuff that you guys would be giving us out of the box. So those are probably largely go away in terms of how we kind of track and manage certain things around billings or renewal rates. The Fair. What was sorry well the other part of your question to to a blank.
+
+Client 3: No. The made the was just are you using statistical accounts to kind real Oh, okay Allocate okay.
+
+Client 4: Yeah. So so no. We we we have in the past used some of their kind of dynamic allocations where you can go in and enter something and then say split it based off of this dimension we have not been doing that for the past probably two years and we actually do We just load a journal entry of our real through there's a there's a single account where we do all of our real of shared expenses across the group Okay.
+
+Client 3: Awesome. That makes sense.
+
+Client 4: The the other thing I was gonna mention too just when we talk about groups, the other area where a grouping exists is within the general ledger. You can create account groups. And so you can roll up various Gl accounts to create certain grouping. So let's say I've got five different accounts like a transaction volume hosting cloud costs or cloud revenue and subscription. I just wanna roll all that up into one revenue category. You that you do that through the group ping as well.
+
+Client 3: Got it. So we actually have a similar concept in Mosaic account categories.
+
+Client 4: Yep.
+
+Client 3: Which is effectively exact thing. And you can modify them and customize them it's for that same purpose. You have your accounts parents, but you kinda need a higher level thing when you're really presenting.
+
+Client 3: Okay. Yeah. That makes those sense. Feel pretty good. Like I said, this is our kind of big project where we're getting up and running. Sage tech is probably did are one reason we had turned customer away historically. So it's a it's a big deal for us to to open that door. They're definitely a lot of demand. So excited to get it. We'd love to have you as early partner.
+
+Client 4: Looking forward to it.
+
+Host 1: Did you have any questions? I know you mentioned that there's been some roadblocks that you've experienced as far as you know, when you're implementing, No.
+
+Client 4: I mean, I think based on what I've heard here. I mean, it sounds like that would be okay. I mean, the biggest ones always been around currency or the multi entity piece. And it sounds like you know, by bringing in the consolidated book you sort of I think you have everything you really need the only thing that the consolidated book will bring through all transaction level detail andy entity the information, but it's bringing it in Us dollars. The only thing it doesn't do is it it actually only brings through the date of the consolidation. So the consolidation runs the last day of the month. So if you have a transaction from the fifteenth of January, if you look at the consolidated book it's just going to show twelve thirty one, the data was consolidated. That isn't an issue for us. And I think the way we're envisioning the tools we're not using it for a drill down of, like, when something happened. But it consolidated book does create some challenges with how you trace back to transaction level detail. So but if you're bringing in the actual other entities, that may not be an issue. So it's just something to think about as we get to that level that to little through. That may create Not a roadblock but just may we just gotta understand that that doesn't work the same way nets. We I haven't used nets for a number of years, But I think next week did the consolidation differently. In terms of date stamping and some of that data. But no, I think Leaandra I think like that... I don't know that we really doing anything unique with our business. The issue is just traditionally bad that, you know, for a smaller company, we just have the complexity of multinational Multi Got it.
+
+Host 1: Yep. And b seeing grace just so you guys know. Jason's using but could only bring in one subsidiary, so he's having to import his consolidated level data into draft. And you you reported in Usc. Correct, Jason?
+
+Client 4: We do. Yeah.
+
+Host 1: Awesome. Okay. Cool. So on my end, you see, it sounds like you'd be interested in getting this sage connected sooner than the February first date. Is that accurate? Yep. Okay. Cool. So Jason, I wanna...
+
+Client 3: Love it to be that February first, you can log in Your data is all there and good that work.
+
+Host 1: Oh, nice.
+
+Client 4: I mean, that's At least from the general, I don't put great help about the revenue.
+
+Client 3: You know, there always takes a little longer. But At least have something there you can get in there and play around with Cool.
+
+Host 1: So I'm gonna talk to my manager and my team just to see like, hey, can we do, like, a login date in January that way we can start getting that data and we don't have to delay things you know, if we don't have to. And then have you have like, a a billing start day and, like a contract start date of, like, that February first or January thirty first, that way, we can start getting... Really is a benefit to us as well. So, like, getting you into the tool, doing like, one kind like, adjustment month there. And then I can draft up a contract and then we can go from there.
+
+Client 4: That'd be fine. I mean, my my only concern and you kind hit it with kind of what you alluded to is look, we deploy software as well. You know, date states, you try to hit them and they don't know what happened. So my only concern would be kinda you know, that date flipping or whatever. But like them mean you guys can work around that. I I don't really have any concerns. I'm that approach. That that sense. Good to me.
+
+Host 1: Yeah. Well definitely... I mean, if if we you know, miss that target date, we're definitely very reasonable we're gonna gonna be like, hey, on you know, we're not...
+
+Client 4: Yeah. The To see yet so...
+
+Client 4: I... Yeah. Exactly. No. I understand. And and like I said, I think that was just the only thing as you know, just make making sure that we're aligned on how that will work and I think we're good to go.
+
+Host 1: Cool. Awesome. Well, Gertude and Brian, thanks for jumping on. In Maximus Jason, can you stick on for a second so we can through some of the contract details the burning out?
+
+Client 4: Yeah. Yeah. That works.
+
+Client 3: Perfect. Thanks, guys.
+
+Host 1: Okay. Cool. Awesome. So I'm just gonna get a on that because Dc handles product side, and now I have to go to my other c cofounder the Coo and he handles le more the sales side.
+
+Client 4: Just. No.
+
+Host 1: Not. But I can put on there... Let's just say, like, a two one start date, but then we'll have like, some language in there around like connecting I mean, even in December or January, like, really whenever you're were comfortable with it. And then is is the twenty k mark Are we aligned on that piece?
+
+Client 4: Yeah. I mean, obviously, lower better. But but I guess what I did know is with the twenty k are am I able to get just the high level forecasting that we talk talk about yes avenue as well. Like, I just wanna make sure it the twenty k plus that one feature.
+
+Host 1: Yeah. So that's actually where I was gonna flow to you. So if we can keep the twenty k, I can actually make it so implementation of the forecasting part is a little bit Heavier, so just knowing that you wanna focus on the analytics Essentially, what I'm gonna do is put in there like, hey, Start with analytics. That's focus. But then if we did wanna turn on that feature, really at any point online when it is useful for you we can do that. It might require, like, a re engaging ra, which is totally fine. There's no So that is just we have to... Just... I just want you to know that it is another implementation lift on your side just to like, get that in a spot where everything's good to go.
+
+Host 1: But, yeah, I was gonna give you like, the full tool for that twenty k amount.
+
+Client 4: That way we can get the both out Both the best of I think we can make Yeah.
+
+Client 4: No. I think we can I think we can make that work.
+
+Host 1: Okay I think I think with that, and then that my only concern and you guys nailed it was just, you know, i with what what's the real date on the tax piece and I'm happy to move on that.
+
+Client 4: Earlier, I just... And I don't even care about the payment so much as I just want my term to be aligned with when that really starts.
+
+Client 4: So if it ends up being march that that's really usable for us that kind of where my expectation will be in our annual term would start.
+
+Client 4: So Yeah. You can work that into your kind of proposal and contract would be kind of I think the easiest in my side.
+
+Host 1: Perfect. Yeah. I'll put... I'll work through the language with my team, but essentially, I think i'm we're put, like, the date that saves is in is actually live, That's the date that the twelve months will start, and then we'll actually probably to... Like, if it is different, we'll send you, like, an amendment just to attach to the order form. Sure.
+
+Client 4: Okay.
+
+Host 1: Awesome. So let me get... I'll have an answer for you. I actually have some free time right now. So I'll work on that right now. But Do you... I normally like just set up another meeting just like a lot, like, get everything finalized unless you feel comfortable just, you know, signing it when I send it through.
+
+Client 4: To put together what you've got and send it my way and give me a few days to just kind of review it internally, and I've got a couple meetings lined up this week for my my availability this week for. Goes down pretty rapidly after today. But but if you send it over, I mean, it won't get lost and just give me a few days to get written then ping the early next week and if we need i have questions we can get on the call but other otherwise probably just be able to sign it and move forward.
+
+Host 1: Awesome. Great. That sounds good on my end. So I'll get you something look. At today, and then we'll go from there.
+
+Client 4: Alright. Very good. Thanks bye.
+
+Client 4:

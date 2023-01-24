@@ -1,0 +1,221 @@
+Client 2: Hi.
+
+Host 1: Hi Amin.
+
+Client 2: Hey. Good to see.
+
+Host 1: It's good to meet you a face to face.
+
+Client 2: Likewise. Likewise thanks for being so quick on the turnaround. I appreciate though, I guess, let's get stuck in. I'm not even gonna pause like just go for. So I'm just joined the team a couple of weeks ago and we're looking like the I'm joining to set out the strategy for Diversity. Remembers organization and we've been going since twenty sixteen. The reason that I'm on board is a lot of our community, are definitely kind of feeling for the last two or three years, things have been pretty static. They don't feel that they are making the progress that they would want do. So we are tasked with supporting them to increase their diversity and equity and representation with venture. Funding. So it's like quite a high performing set of people who have crazy mad targets. On their own funds. So it's money. So it's a very serious business, I guess. And it's venture money, which means that yeah. It's like, the the pressure feels intense. Then on top of that, they have got regulatory legal obligation that will be coming down the line over the next two or three years. Which will ask them to be much more diverse than they are at the moment both from their own team perspective, and their portfolio perspective. That kind of lays out what we're trying to do. And part of that is going to be this learning that we want to encourage them to to take part in exchanging lessons and and and kind of what's working on what's not working directly with each other. And yeah, that's what's led me to door because I would like to automate that and make that happen for them.
+
+Host 1: Got it. Got it. Just take a notes it's really good to get a high level and congrats on the new role.
+
+Client 2: Thank you.
+
+Host 1: Where where exactly you're calling him from?
+
+Client 2: London in the Uk.
+
+Client 2: Funding.
+
+Host 1: Yes.
+
+Host 1: In is diversity, you are base there. That's where you're headquartered.
+
+Client 2: No. It's a global organization. So it has historically been based or split between the Uk and the Us, so East Coast. And it's... I guess it's like it is a subsidiary of a venture fund over here that's based in the Uk. Invest across Europe as well. Yeah. There's there's a long history. We also are building out international chapters. So we already have presence in that in parts of Europe, and we'll be focusing on Asia. Particularly South Asia. I guess is the next big territory as well as North Africa and potentially West Africa as well.
+
+Host 1: Okay. Okay. So global based in London in terms of what you all are, so you said you're subsidiary of a find. Right? Does that mean there's a fund with your old portfolio There is, but we're the non nonprofit arm that.
+
+Client 2: I would say, so we don't get involved in any of the, I guess like the investment side. At tool. It's don't know what you'd call it, but it's kind of like a a Chinese wall that comes down between those two entities. That. Yeah.
+
+Host 1: Okay. And and then who would you be connecting specifically. Would there are they paid members Yes.
+
+Client 2: That's right. That's right. Not all of them. Are subscribed members. It's a mix. Between team members and when you pay, that means that you go through an assessment process with us. That has to be I guess, audited it and then renewed every year, so annually. And then there are the non paying members if you like. So who wants to join the community, understand that they are going to get, like, the events and the learning from us. But they will not have, I guess, like what we call a kite mark, so this assessment or the certification of the signals I guess to founders but most specifically to their own fund is, that they are taking dives diversity inclusion seriously. Which helps them to fund raise for their own funds. Essentially.
+
+Host 1: Yeah. It makes sense. Is there what's the ratio of paid members two...
+
+Client 2: A really good question. I'm asking for the data at the moment in, but I would say it's probably, like ninety ten is paying to non paying. So it's definitely majority paying members. And at the moment, we've got about eighty people who are active so actively contributing to the community. So it's kind of yeah. A very they broad split.
+
+Host 1: So eighty eighty active or eighty...
+
+Client 2: Active Eighty to community members.
+
+Client 2: But you No no. So within that, it's probably like ninety that paying in ten percent or.
+
+Host 1: Okay. So... And then of the active paid members about eighty about sorry, of the of the paid members eighty of those are active.
+
+Client 2: Yes. No. Sorry. Let's start again. I'm making this confusing. So eighty members actively participating in the community. And off those, let's say, seventy five Seventy six are paying. And the remainder do not pay. So it's like a very small proportion within that active group. The reason I'm not saying how many members we've got is because I have not been told about either by the they're still gathering all of their data, but I know that if we were to, you know, implement all, that I would have eighty people definitely like, taking it and using it because they are actively opted in to the part like, the next trial.
+
+Host 1: Okay. Got it. That makes sense.
+
+Client 2: It makes more sense now.
+
+Host 1: So know, one you know, I have a scheduled for, like, the next thirteen, sorry, twenty three minutes or so, Like, I'd love to kinda dive in and show you on the product a little bit and see if orbit. Yeah. It makes sense for through all Any questions you have as I go through it just let me know. When you say static, what what do you mean exactly by static? What what's what's the do you think is the issue there? And how are you potentially use orbit to solve that.
+
+Client 2: ...because it sounds there's a lot of... So when I say static it's essentially, it's a really labor slash asset fold process for them to connect with each other. And what I mean by that is they have to kind of remember each other's names on my community calls or in meetings, or meet that we convene and then they have to like, it sounds really silly, but they had have to go find each of the running too they have email it it's just adding to the their task list.
+
+Client 2: Okay. You like whereas... And you know, they overthink, I guess, like we all do, you know, writing a really polite email and trying to kind of, like, find time in each other's diaries, whereas with orbit bit. It's all automated as far as I can tell. And I know, you know, I have friends who have used it. Previously, I think Clive used it previously as well. Where it's just you input everything and then, it goes away, and then you get meetings every month and it's also no.
+
+Client 2: Yeah. Okay. And they avoid using flat the coffee but. They hate... That do not wants to be involved with slack or a coffee dogs.
+
+Host 1: Interesting. A lot lot of feedback on like in in that somewhere way. So... Okay. That's good. Where did to part a Dc platform or which which community were you?
+
+Client 2: Me, it was then. They they're also based out her in Europe as well. So... Yeah.
+
+Host 1: Got it. Okay. Cool. Anything else like I'll you on the product. I mean, you already know it from the members side. What I'd typically do is... We work with a lot of Vcs, a lot of paid memberships. Right? So this this sounds like it's a pretty nice use case, and you've already used the product but height. Typically, we'll run you through what is like from a member perspective? And maybe so there's some things that you you had missed from there, but I can run through it again really high level. I'll show you what it's like from an admin perspective. So once you start rating engagements for your your members, your subscribers. I'll show you what that setup looks like.
+
+Client 2: Awesome. That'd be good. And obviously, in the interest of time, I guess the big questions I really want answered are like, what what's going to be the cost of it? So what do we have to budget out for it? The admin side would be really great just because it would help us kind of figure out the data that we would be tracking and gathering and then the third one maybe a little bit more esoteric, but like, if there's any kind of easy opt plugins ins or whatever so that we can connect our own Crm or whatever it might be. As well. It'd would be good to understand the options around that as well.
+
+Host 1: Got it. What serum are you using right now?
+
+Client 2: At the moment, it's all.
+
+Client 2: It's a it's a big match.
+
+Client 2: Okay.
+
+Host 1: Yeah.
+
+Client 2: Google sheets than whatever else in our table.
+
+Host 1: So Okay. We do integrate with with most Crm out there. I think infinity might be one that's to use more often in the Uk than over here, but doing Yeah. We we we have we have quite a few. Broken okay. And I'll dive into... I'll dive into cost a little bit as well. High level. Let me let me just add some context for you. So can you see my screen right now?
+
+Client 2: Yes.
+
+Host 1: Okay. Again, I'm gonna keep it high level. You already to this as a member, but I'll just run through some of the basic stuff. Maybe there's a lot of stuff in here that you're not familiar with or you would just be good to know So Okay. Yeah. We are an Ai engine for one when we also do group match making. So We just started this group we've quite a few clients using it. Really interesting in terms of helping reduce your time. So three big things that we're doing, one is that matching criteria. So we're matching up based on role years of experience. Areas of interest, time zones making it super easy. The second thing is automated... I'm sorry. Frictionless opt. So there's no login. There's no profile file. Right? There we're not a place to manage we're not like a Slack, we're just a tool free to use it, wherever your members are. And then third thing is, yeah. Automated scheduling using all of this stuff to make sure they're matched up the right people. And we give you a lot of feedback. So stats dashboard, her engagement and overall, really helping you increase that engagement long term. Couple of the companies that we're working with. Yeah. Just just to throw some out there. What was the one that you mentioned that referred you over that you a part of?
+
+Client 2: Again? They didn't refer me, but I know them really well. It's venture So it'll be I think it's health street bench is who were venture yesterday. So, yeah. You might... Yeah. And we we work with silicon really close over here in the uk as well.
+
+Host 1: Yeah. Silicon Valley Bank.
+
+Client 2: Yes.
+
+Host 1: Yep. Okay. Yeah. They're... They're... They just renewed with this actually Vc platform another really big Vc platform, and then We're kind of adding into a customer like, Atlas million developers or not like solely in Vc portfolio world of going into other places with atlas last and in. So again, should for you. Okay. So you've you've gone through this as a member. But I'll run through this really quick. So you get opt in email and then a reminder of has your branding your logos, your colors. Right? We want them communicating with you not with orbit. Everything is customizable down to the text and email, the messaging per engagement, we're gonna set up these engagement dates. Right? So you have a date to opt in and then a date to get matched by. So all of this stuff I'll show you in the back end and you're familiar with it. But this is basically where you start as a member. Sign up form also very quick, you know, fifteen, thirty seconds you've been through this whole thing before. Everything is customizable. The match introduction once they spent, you know, fifteen seconds fill that form. They get a counter invitation. Directly into their their counter invite. We can put an on station guide, we can find the Linkedin your. Anything that makes sense that they've that they're used to opt in that form. We'll include that to get prepped. Did you use our branded video platform?
+
+Client 2: As well. I don't think so.
+
+Host 1: So we do have we do a branded new video platform. We built this in house, but you can swap this up with your Zoom, your Google Hangouts, you know, a couple of rcs team teammates put this together. But we built this because it's encrypted super frictionless, you can open in your browser for mobile or desktop just really easy. Again, you don't have to use it. Members don't have to use it.
+
+Client 2: Okay.
+
+Host 1: And then the last step is the feedback form. So right after the match happens did... We're gonna ask you to match happen did it not happened. You rank how quality this conversation was out of five, Our average is four point three right now, so pretty high average metric can ask some questions like, what topics do you wanna to discuss in the future or do you wanna engage with group matching?
+
+Host 1: Or do you wanna engage with an event in person that we have coming. So it's a lot of good intel that we feed you. And, yeah, that's it from a member perspective. Any questions on that anything new you've seen from your experience?
+
+Client 2: No just the... I guess the pop out was this new for us or for me.
+
+Host 1: The the pop So sorry, the the kind of the video platform gave.
+
+Client 2: I hadn't realized so that was something that was an option. I guess... Yeah. We wouldn't we probably even couldn't go down that rate.
+
+Host 1: It's it's something that's typically, like, set as a defaults, but if you wanna default where they add their own zoom and that doesn't something between.
+
+Client 2: Okay. Okay. They're good know. Good to.
+
+Host 1: Whatever works for them. Yeah. Okay. From the admin side, Great. Sorry. I didn't log in before i have done here. Let me I have inbox envy then got one we we we do all our internal communication on like.
+
+Host 1: So...
+
+Client 2: Yeah.
+
+Host 1: Okay. I see having my dogs pretty well as well. Sorry. I just need to open up this There we go. My gmail has been a bit slow the best couple of days, and I'm not sure why I think it's huge happens once in a while.
+
+Host 1: But... Okay. I'm in the back end. Okay. Sorry about that. See screen Yes.
+
+Host 1: Okay. So everything from, yeah. A community perspective, you're in this top navigation on Orbit. This is a workspace we easily create workspace for you. You can import of your members through a Csv or you can connect it with your crm and will automatically pull and push data back and forth. You can segment your audiences. You're gonna have a main distribution list. And you can create engagements for everyone or specific audiences. That you wanna do, yeah. However after, do you wanna connect them. From the engagement tab is where you set up those specific engagements. So the first thing that you're gonna wanna do is set up to schedule. So what is the opt date that everyone that you're gonna invite let's say invite eighty of your of your members. And you want them to opt in by next Thursday. And you're gonna set that date And then you're gonna set update of when they're gonna have these conversations. So you can see these dates are gonna happen maybe the following week or the next two days after they they opt in.
+
+Host 1: And our onboarding manager worked with you to set all this stuff up pretty easy, but there is a bit of a training involved. You select your audience here. And then you hop to this topic. And so this is where you customized that invite email and reminder. So the subject line the text of the body, even the button, everything is here for you to to edit and update reminder email is gonna go a couple days later if they don't opt into it. We even have the conversation guide that goes directly into that calendar invite is really good. Because we're starting to connect a, lot of mentors tours with founders or teachers with students. They like a little bit of prep. So they're maybe be... They're not talking about the weather for fifteen minutes they don't have to use this so they don't want to, but this will automatically be sent off We have a library of topics that you can choose from. You can edit this stuff anyway that you want to always good to have a wrap question actually increases the feedback we get from that matching engagement.
+
+Host 1: Okay in terms of the sign up form as the next step for your members, So this is one that we're working on right now with someone that that's in our workspace. You can edit that the upfront text under the logo under your colors, and then the member information. So this is pretty standard what you're seeing here. Title company name, Linkedin url, We can turn this stuff off if we want to, we don't have to ask anything we don't want to typically rolling company name are are pretty crucial. We'll also ask him for, you know, name and email. Sure. Then we're gonna get into areas of of interest. So of this is customizable. You can edit this, you can add extra topics that you'd like to connect them based on. And you can add in other really good standard questions like years of experience company size since we work with a lot of portfolios and it funds, they love company stage. They want seed, imagine with seeing series there with Series a.
+
+Host 1: And we can make it where they don't match with each other. So seed does not match with seed for instance, a lot of logic that we can use.
+
+Host 1: Really simple. On the setup. In terms of custom matching questions, Yeah. It depends on on the tier. Me let me just say that. It depends in the tier, but you can add in you know, up to depending on one to three custom matching questions. You can choose the type of logic you want, you can weigh different topics with others or you can match, like, for unlike where you don't want seed imagine with seed for instance, you want see the series a. That's an match like for, unlike scenario. You can do waiting differently. A lot of things we can do that custom action question and then the key platform form So was match a good fit for me, some testimonials we can get here. Really standard stuff that we can toggle on and off if we want to. The optional questions are all something that we spend a lot of time with. You can ask him what topics you wanna to discuss for the next engagement, kinda feed other program that you have going on frequency monthly weekly every other week a lot of good intel to to send back to you. Last thing I'll show you here in this in this dashboard, Let me go to this completed. You can see all the feedback from your engagements per member. So the Mps they gave any qualitative feedback they gave or testimonials. We can even go into like, your matches. And you can look at who was matched up and you can see a history of matches per person. So Kayla here shed three matches, And this match should give a four point five out of five. If I click on it, her history of matches the scores she gave, a lot of good intel to to our future matches. And then overall data for that engagement. So five hundred people were invited to this one. See the rate the average N s You can look at the topics. I'm sorry. The topics that were discussing, who exactly was in the meeting time zones feedback questions. Okay. What topics they wanna discuss in the future? And then this this off.
+
+Host 1: Likes, to get match on the monthly basis. So that has a lot of intel for our community just to set up ongoing engagement, but that's it from it and been perspective.
+
+Client 2: That was really helpful. Definitely in insurance they're more tuesday than I expecting. I always like dread community tools, but that's really helpful to see. Okay Let's talk numbers. On. Let's do there.
+
+Host 1: Okay. Well, one it sounds like... you see a clear value in orbit for the diversity of Vc community with that that be accurate after showing you the admin dashboard at this point?
+
+Client 2: For sure.
+
+Host 1: Okay In terms of timeline, when would be looking to implement orbit, say budget aligns I would be looking at beginning of February, so definitely in Next year.
+
+Host 1: K k. So pricing. We do it in tiers. And we have a we we are increasing our pricing in twenty twenty three. So it is still twenty twenty two. If you're all to, like, take the next steps we can we could lock you in. Not trying to be sales just trying to give you the information since it's December. Are our pricing starting in January it goes from six k annually, up to eighteen k Annually, and you'll have up to ten thousand member invites per month. You'll have up to three engagements every single month You'll have a dedicated Cs team to help you out with this set up new engagements, get you set up with that first engagement, getting feedback. And you will have a certain amount of matching criteria. So you have at least one custom question that you can add on our essentials here. And more Yeah. You go to from six to twelve k N, you'll have a to, I think for matching criteria, and you can do a lot of stuff with your aggregate data. What we can also do now no automated scheduling is a big deal for you, but you wanted to have, let's say, a recommended matches without doing the scheduling and you wanted to edit those matches or do some other kind of communication with that? That's another nice feature of our pro tier instead of our essential But I'll I'll send you those tiers what they look like.
+
+Client 2: Okay But since saying... Sorry, was it six k if we lock in this year, If you lock in, before which is like, a contract signed by twelve thirty one.
+
+Host 1: We can lock you and add that essentials here at five k. there is an onboarding fee. So we have a thirty day boarding and is ten percent of the contract value.
+
+Client 2: So plus ten percent a one time onboarding fee.
+
+Host 1: Yep.
+
+Client 2: Cool. Awesome, and then, yeah, if you if you just let me know kind of, I guess what we would probably be going for is the essential too just because of the number of matches we would be affecting. Does that sound sensible?
+
+Host 1: It does. It does. Is there how big is your community outside of these eighty active? Is there... Are you only reconnecting eighty or would it be...
+
+Client 2: you know For right now, there be ones that would be opting in to take part in. I am no thinking we have I guess we have, like a sub community that we're building out I need to speak. To the lead on that though. Just... Yeah. It's annoying that I only two weeks in I don't have all the data to hand. But I would be expecting them to kind of also utilize utilize the platform as well. It's not gonna take us over. What is it did you say a thousand much of a month or...
+
+Host 1: It's thousand.
+
+Client 2: It's up to. Yeah. It's not gonna take us over that for sure. Even with that the the additional community. I know that much. Okay. This is helpful.
+
+Client 2: What I Go.
+
+Host 1: So you have eighty active participants I just wanna be a hundred percent transparent because even if you were to to come on as a client, I want you to do really well in your first thirty days because that's that's a pretty nice standard to to going forward. We typically wanna work with communities of at least a hundred sometimes two hundred. So eighty active it's a really good place for us to start. You can probably get, you know, really good right is half of those people are gonna go into our first engagement, maintain that over time. It's really gonna be helpful if you have more than a hundred Okay.
+
+Client 2: Okay. Let me... Yeah. I i I'll definitely be raising this with with the entire team but it would be good to get the number through so that I can at least start sharing that. Obviously, it's that time of year. So I wanna kind of blame get us rolling pretty quickly.
+
+Client 2: Yeah what I also wanna do if if you're all...
+
+Host 1: Because there's clear value here, and even if you're at, like, just that under Mark, I know that this is gonna work since you've gone through. We have other very similar clients like that. You know, if you're over a hundred and there was guarantees on this going up you know, I think it'd be a bit different, but I wanna reduce the price for you as much as possible. So if you do wanna get locked in that five k, also waive the onboarding fee. Just to make sure that, you know, it makes it as easy as possible for you all to get started. Then we can kinda grow from there.
+
+Client 2: Awesome. That would be really helpful. Obviously, will make a difference when I'm going about to pitch it to the team. Yeah. If you can send that information through. Obviously, our plan is to grow with you is to to increase the membership base and this is kind of a core part of our value proposition to do that. So, yes, I... We are on board with you around. We really need make that impact we need to make it count, which is why Don't want to rush it in the new year.
+
+Client 2: Yeah. It's like February March time, you know, February early s March at the latest that we would want to kind of test at the very least that this goes out. If there are options for us to do a pilot trial with you, let us know how that I can do that.
+
+Host 1: Am i still coming in So yes.
+
+Client 2: You are sorry. That was me getting Okay.
+
+Client 2: Setting another tool through we we don't often do pilots.
+
+Host 1: But when we do pilots, we often do like paid pilot.
+
+Client 2: So Sure. No. No. Absolutely. Sorry. Should made that clear. We understand that. If you can just break it down for us like. If we would going to a pilot, what would it cost? If we're going to a pilot where we were also don't to lock in. What would that cost as well? For sure?
+
+Host 1: Yep. What I would do is let's say we wanna stay at the five k essential let's say that's where the base that we're gonna start up with. And if you wanna do a trial, we essentially do like, a thirty day opt out. So it'd be an annual but you have thirty days.
+
+Host 1: And then I would keep the onboarding fee in that case.
+
+Host 1: Okay. You just pay the five hundred on onboarding fee. We'll go with thirty days and then you know, if it works out, we'll just upgrade to the aim contract.
+
+Client 2: Okay. Cool. That makes much more sense for sure. Yeah. If you could pop that in to the note. I will be pinging it off pretty much as soon as it lands in my box so that we can start like conversation over here Internally, but has been really helpful so sorry. I'm gonna have to Yes.
+
+Client 2: Okay Is it should I follow with you next week?
+
+Host 1: Or what makes sense for us maybe as the next chat?
+
+Client 2: Let's be Send me to email.
+
+Host 1: Good.
+
+Client 2: And then let me test it with the Ceo tomorrow Okay.
+
+Host 1: I can put it okay can put a tentative same day time next week, and we can move it if we need to.
+
+Client 2: Let's do that. That's the twentieth, I think. Okay. Yeah. Why did we didn't we do that?
+
+Host 1: Okay.
+
+Client 2: I'll send by this this deck for you for your conversation.
+
+Host 1: And then, yeah. Me know if anything comes up in the meantime mirror.
+
+Client 2: Awesome. Thanks so much, Lee. I know I didn't ask any questions about how you started the orbit bit and all the rest of it. We'll get there. It's fine. I appreciate it. Thank you, and I'll look out the email as well Alright.
+
+Host 1: Thanks for. Talk soon then.
+
+Client 2: Bye

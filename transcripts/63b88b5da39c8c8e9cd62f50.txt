@@ -1,0 +1,255 @@
+Host 2: Is that you? It's not book that app, your video meeting companion. With Ai and automations. Is that you?
+
+Host 1: No. We're are you saying this?
+
+Host 2: Oh, it's in the wait list.
+
+Host 1: Spoke up doesn't ring a bell.
+
+Host 2: Oh, man. This is exactly what we're working on. It's except it's horizontal.
+
+Host 2: We teams not and catch up in meetings and on meetings and seconds, it's a French company. Yeah. Remember now I filled them well ago. On the getting anywhere Hello Hey, Karen How are you Good.
+
+Host 2: How are you?
+
+Client 3: Excellent.
+
+Host 2: Is this spoke you? Like the notes that guild that joined?
+
+Client 3: Say again?
+
+Host 2: Is this used to sp that app not take care and join us I still don't know what you said.
+
+Host 2: Never mind. Doesn't like an Ai note take the joint meeting gonna have no idea Who he is?
+
+Client 3: Oh, wasn't mine?
+
+Host 2: Alright. Well, it's someone else else, I guess. Great great to meet you.
+
+Client 3: Think. You're talking about the app, the the not that we bust ever.
+
+Host 2: No No. No. No. No. It's called spoke dot app. If you look like it is missing.
+
+Client 3: Never heard of it.
+
+Host 2: Yeah Yeah. Alright. Well, since that's for taking the the time when are you cutting from?
+
+Client 3: Southern California.
+
+Host 2: Great. Awesome. How long have you been with best Ever?
+
+Client 3: Oh, goodness. Gosh. I don't even know. July, I think So six months? Six months seven a month.
+
+Host 2: Pretty sure.
+
+Host 2: Congratulations I'm learning it's a great company and and po that is an amazing business. It's she's one of my closest friend. I think I think I think you're in good company.
+
+Client 3: Yes. No. I enjoy her. We have a great team.
+
+Host 2: Yes. Absolutely. Great. Well, Meta is fatima team on the all side, That you build also great team. Zac Enrique cutting also from southern California and from Canada, and right now, I am calling on Europe. But I'm usually basing my mostly So the context contextual for this conversation is we are starting to work on the new products that's called a Cell ai it's a conversational intelligence team that helps sales teams close more deals. Basically by helping you improve your sales I coach them and making can show that they pitching the right way and and insulin and so forth. Before I I kick it up and and show you what we're working on the left to hear all about hu, Can you walk me through? When did you do at best And what's the curing size the go to market and sales team best ever.
+
+Client 3: So I do all the sales lead generation for our best So like, we I ten trade shows with a por, and then I handle all of the sales follow up in a Crm system. We're using Pipe drive right now. And basically, just communication with the clients from the time that they become a qualified lead all the way until they become a customer. So... And then as far as our team, I think there's five or six people onboard revenue generation is very very small. We've kind of pivoted on the product. We were doing more U But before and I have discovered that there's need more a bigger need for Amazon videos to be used on the Amazon site either on the listing or as a sponsored ad. Amazon's really strict about their content, So we're just trying to capitalize on that and get that right.
+
+Host 2: Yep. That's it's funny. I'm I'm I'm quite I with best of bills Journey. And that's one thing I appreciate with the values actually is able to, like, sing on her feet and change direction is building actually quite quite quickly. So I I know that it's a... We're making, like, pretty big changes in directions all sales right now. I know that it's always fun in the team to to to to to have these changes. It can be a bit destabilizing stabilizing. I think it's the right thing to do as a spell. I. I I appreciate it there's little. So did you you said the team of, like, five zero six What what is that composed? Like how how many aes or old deals do do you have right now?
+
+Client 3: So I'm the only salesperson person, instead up por. And then Julia does all of the leads for the content generation. So she contacts if we're using New, you know, reviews. She sends all the product to the review where she kinda coordinates all that. And then the rest is the engineers. Engineering the app, engineering the Ai, creating helping create the content with the Ai if that's in fact what they want because the U videos are obviously very straightforward. It's a review by one of our creators, whereas the Ai content for Amazon basically goes and scrape the Url. And it comes back and put together a video, and then we have videographer that will work and design the the video. So I think there's one graphic designer video designer and then the rest is engineers.
+
+Host 2: Got it.
+
+Host 2: Okay. So in this case, then love for you to tell me whether you feel like there is still a fit with what we're working on because Okay.
+
+Host 2: Sure. Let me show you what working on. Can you see my screen?
+
+Client 3: Yep.
+
+Host 2: So There you go. So this is this is Cell Ai. So the way it works is that you sign up and then you connect your Crm, we don't support pipe drive yet now we only need to support salesforce and soon have hubspot. You connect calendar so that we can join in your meetings. We have our own assistant instead joining your meetings. And then the way it works is that you can... You we record all of your sales calls And we send them to your team. We expose them to your team. Right? So here, you can see for example, these all the the calls that made him has been having. And I can I can watch the recording of these calls so for, there is this call right here. Can what's the recording can watch the summary, the transcript so we generates this Ai generated summary here. We expose a few different metrics to help you become a better sales built How much time you spend duck how much time you wait before speaking tell the the the the the person is done talking. Do you wanna log a right now I've kind of for example that's pretty bad.
+
+Host 2: And then when you when your team is is is posting their calls, you can actually post comments here. So suppose to, like, receive an objection about pricing. You can be like, a like Hey, you see is the right way to handle this objection let's test.
+
+Host 2: Right? And as you boost this, that your team can then reply and have conversations about it and stalling so so we to be able to, like, bring together. Snippets library of, like, best in practices like, hey, like, everybody do this do that. Like these all like, examples of right ways to handle the objections and. Again, you know, typically, it's more used to by teams for coaching the teams, it can be used by your yourself for self coaching as well for like reviewing your calls and for... Info like, looking at the conversation metrics and so forth. But I I would understand if, you know, having no greedy team right now speak up, We understand if you start it wouldn't didn't be fit for you.
+
+Client 3: Right? Because it's just important I right now on the calls.
+
+Host 2: Yeah.
+
+Client 3: But I could see down the line. Absolutely. This would be great technology.
+
+Host 2: Yep. I'm happy to you right now. We're not solving for just yet. I yeah. I wouldn't tell you for given the size of your team. So I'm happy to bother you now and and get your feedback with About. But, yeah, I think I think our target is going to be able to slightly be a bigger end.
+
+Client 3: Definitely.
+
+Host 2: Great. So Okay. So then let me send you the link in the chat. Can you share your screen and I'll send you the link to board right here.
+
+Client 3: Me when you can see it.
+
+Host 2: I can see it Okay. So this is like you can continue.
+
+Client 3: I can hit continue.
+
+Host 2: Yeah. Yeah. You can continue yeah. This is the stage where I could connect Calendar deals, like, we can see the Zoom links and join your meetings. Yeah. You click on advanced What do you want me to click on next?
+
+Host 2: Oh, sorry. Click on the go to That's safe. It's actually really I'd unsafe is Google. Like in process of being approved to by Google.
+
+Client 3: Know otherwise my Internet is like super slow.
+
+Host 2: I don't know.
+
+Host 2: Sorry. Yeah. You can click on I'll do this data. We don't support you'll Crm right now. You can connect your Slack so that we can notify you when comments or proceed on your things and stuff that You can click on I'll do this later if you never have Teams meetings.
+
+Client 3: Yeah. No.
+
+Host 2: Yeah. You can just type a cool as email here. Are all the teammates.
+
+Client 3: Oh, Oh, there you go.
+
+Host 2: So this is the buffer you download the app so that we can this is called the sidecar car. So it's going to open up automatically when you have your meetings. And going to help you take notes during your meetings and then, like, a update you'll crm employee you. Tell your meetings. And you're done. So after... After this is done downloading. You can install it. It's really basically, we're are going to have the bot that joins your meetings automatically, and that records them and and this is why you're going to find your recordings after the wheels.
+
+Client 3: Awesome.
+
+Client 3: Right? So where are you in here where are you in europe right now in Venice Oh, nice.
+
+Client 3: How's weather?
+
+Host 2: It's very cold. I didn't expect it to be this cold here. Yeah It's a... Yeah. It's a it was, like a long time that trip to to Italy.
+
+Client 3: Alright, Good. And Jebediah and Enrique, where you guys located?
+
+Host 4: I'm in Palo Alto.
+
+Client 3: Oh, you're in Palo Alto. Alright. Awesome.
+
+Host 1: Yep. In Toronto. So very cold here as well.
+
+Client 3: Alright again. We've finally got some. We've been having rain for the Past couple days here in California.
+
+Host 4: Yeah And here it's been insane.
+
+Host 2: Petrovina is Jebediah is your house.
+
+Host 1: Okay?
+
+Host 4: Yeah. Yeah. We wrapped it in plastic. So it's all good. My my house currently has no roof.
+
+Client 3: Because we're doing some...
+
+Host 4: Oh we're building it.
+
+Host 4: So yeah.
+
+Host 4: We were we're we locked it down. But Palo Alto hasn't been hit as bad as like, Northern California.
+
+Host 2: Or if S was bent good Yeah.
+
+Host 4: Yeah Well, I have been in this south of my house for three years.
+
+Client 3: And when I go up yesterday morning, there was a big puddle water next to my fireplace. So I have an idea that the rain was going sideways because... I think it went in through the ea and then came down.
+
+Client 3: Like in the corner of my roof. So I have roof coming today My don't think it's a problem, but I think the rain was literally coming sideways that was literally coming in through. Because you know, in California, we have tile roofs. So there's like, a little blank space. So I think it was coming in that way, which is crazy because it was pretty heavy rain two nights ago.
+
+Host 2: Is insane. Yeah. I'm I'm I'm considering moving back to funny. I'm not looking for to this kind thing. Yeah.
+
+Client 3: Okay. Great. So now I can just open it up and I'm good.
+
+Host 2: Let's see. Because I'm actually... Frankly I'm not having familiar with, like, the windows flow as much. So that's why I want you to show your screen so I can troubleshoot in case anything happens.
+
+Client 3: Alright. Hold on. Let me... I'm gonna move you guys over so I can see what I'm doing.
+
+Host 2: Continuous creating anymore.
+
+Host 4: Actually switching screens.
+
+Host 2: I think.
+
+Client 3: Oh, sorry. Yeah.
+
+Client 3: Alright. Can you see my screen now Yes.
+
+Host 2: Yes. There you go. You can take on Cell setup up. Yeah. Just one.
+
+Client 3: What time run Yeah.
+
+Host 4: We we probably need to do a little work on building installer here.
+
+Client 3: So extract.
+
+Host 2: Yep.
+
+Host 4: Let's let's see. Well just remember this path. I guess, it's this... It's this folder.
+
+Client 3: Okay. So I wanna go to that folder?
+
+Host 4: I think it took you there Yeah So, yeah, It's at Window it's up one it's the one right below it.
+
+Host 4: Yeah. And then out.
+
+Host 2: I think that's what you just did though.
+
+Host 4: Okay. Not now. Now it's got. Installer here, Yeah.
+
+Host 2: Can you double click on this one?
+
+Client 3: This one, okay. Yep. So You might have to right click on it.
+
+Client 3: And no idea admin.
+
+Host 4: Adds I guess we're probably gonna need to get our credentials sorted of that with Microsoft, If you right click on that, does it give you an option to run as an admin.
+
+Host 2: Become Right they go run anyway.
+
+Host 4: Yeah.
+
+Host 4: That we swear. It's not It's not not spam or something.
+
+Client 3: Yep Yep.
+
+Host 2: You can click on log.
+
+Client 3: Then just sign up or Just bugging.
+
+Host 2: You can just click on log in. Yep.
+
+Client 3: Yeah. It's not doing anything.
+
+Host 2: Oh Interesting.
+
+Host 4: Can you... If you open up Chrome? Yeah. I say the same thing. It's from your default browser.
+
+Client 3: Yeah. I don't know. I just click on whichever one I need.
+
+Host 2: Yeah. Chrome, I think is Okay.
+
+Host 2: Alright. Well, let me Let us look at this back then of offline. Like can you Can you close it and reopen it? Sorry about. Click on but left the this if live on in the in your taskbar.
+
+Client 3: Oh, is there a sales icon?
+
+Host 4: No. Those still. I know. But it just installed it to your computer. So You just hit that the search bar and the middle left.
+
+Client 3: Yeah.
+
+Host 4: And keep on the same sales Still Yeah.
+
+Host 2: That's the one Alright. I think again, like we don't as much as we should on windows. I think it's just broken right. Let us...
+
+Host 4: Would you... Would you mind trying that one more time and just running it as an admin? So in that search option, you had an option to run it as an admin and I wonder if it's just blocking certain permissions Okay.
+
+Client 3: So Have you click on here?
+
+Host 4: So right there under open, says run as administrator.
+
+Host 2: Yeah No.
+
+Host 4: I good. Okay.
+
+Host 4: Now so the good news...
+
+Host 2: It's looking to work looking to, like, join your meetings. Like, the only thing it's not going to do is start going to open the the the site during the meeting, which is like, a small window on the side of your Zoom that I would let you like tech notes and with that kind of stuff. It's something to, I, record your meetings and like you do all the rights. So Enrique, can you run on like, this bug and and back to karen when when we figured that.
+
+Host 1: Yep. Sure Right?
+
+Host 2: Great. Well, thanks caring for your time. And I mean, you have my information like, let me know if you have any feedback and I'll also proactively reach out with, you know, both to ask for feedback if you're using product acting like to notify you of of new changes in the product Okay.
+
+Client 3: Perfect.
+
+Host 2: Alright. Thank you so much.
+
+Client 3: You have a good day. Alright. Thanks guys.

@@ -1,0 +1,67 @@
+Client 1: open claims that the customer has responded But because they never came back, we didn't see it. And so we have people that have been just waiting and waiting for us So... yeah. So we we'll have to make sure that we get the logic updated, so the things are moving back to new claims. And then we are gonna need to run a query on open claims. Where the customer was the last person to contact us. And just move all those back to new claims so that we can respond and get them closed out.
+
+Client 2: Okay.
+
+Client 1: Yeah. And then this particular one that we were talking about is when emails are coming in, they're getting recorded and moving it up. If they're Sms text messages, then they're they are being recorded, but they're not moving up and so we we kinda... There's multiple things to fixing this one. We can see it was not received. Or you found the package in the box. Thank you. So ever since you know, two days ago. This could have been closed. But because it didn't go back to new claims, just sitting here and we would normally not look at it. And so yeah. That's the next step Okay. Let's keep looking here. In progress. So we've got So yeah. I see. I'm a little bit... I I don't think I wanna have Tom working on this one. Because we really need him to finish up to smarter integration. So anything else that's maybe taking his time away from getting smarter done, we wanna have somebody else do So I might need to have somebody else work on the dismiss button functionality to verify that. So that he can focus on getting smarter than Okay.
+
+Client 2: I I will check with Tom. Let's see. Where he is on the ticket handle aside to other Okay.
+
+Client 1: Yeah. He's actively working on it, and he's making progress, that's fine. But because of other things, it would be better just to have somebody else do it. Okay. And then have you already started on this one as well hands? Being able to submit the volume with.
+
+Client 3: Yes. I is a. Look into that, but I'm not I don't have any moving time on that. Okay. Say... Yeah. Just it's okay to keep it right.
+
+Client 1: Yeah. Let me know if you have any questions on that one. Or if you... Or if you're not ready to work on it yet, you can just leave it ready for dev either way.
+
+Client 3: Yeah. Okay.
+
+Client 1: And then I... I reported this. This is gonna be a tom thing because it's related to smarter right now, we're sending incorrect emails and we're hard coding the order protection price. So I will work with Tom directly on that one. Because it's a smarter thing. Okay. So in terms of some new tickets that when people are available and have time, We have some things here. So this is one where you'll notice that when you're clicking through most of the links in our portal these become active in that works all the way down, until you get to settings user management and admin settings. So they're not showing an active state So that's what this ticket is for. Is to show those three links as active when you click on them. So that's a pretty quick one. Disable the continue button on. Claim if both fields aren't populated. So today if a customer comes to our page, And even if they haven't entered anything or maybe they've only put an order number in, if they click continue, it'll just spin forever and never work. Sometimes, it'll back sometimes it won't. So really, this is make sure there's an order number and an email address. And until then, continue should be disabled just so that they don't get themselves stuck. That make sense.
+
+Client 4: Yep.
+
+Client 1: Okay. Alright. The next one, This is creating a little landing page for the settings and user management pages when all stores is selected. So, basically, when you come to settings, these are store settings. And so this is actually not valid because there's no store that's using this. If I select a specific store now I see their settings, But when I have all store selected, this shouldn't be here. It should be basically a blank screen that tells you to pick a store And same thing for user management, there are no users that are here for all stores from a storage perspective. This will just sit here and and time out basically because it doesn't get any data back. Whereas if I select a specific store, then it works just fine. So in both of those cases, settings and user management, We want to have a default page. So that when you click on either one of those. Just tell you to select a store to get started. Just a little bit cleaner user experience so that you know sit there and wait think that something's supposed to happen that's not Okay. Let's see what's next. Okay. So, Cue this is now to the user roles the ref that you talked about. Let me know if you have any questions. We have that table that's been created that outlines all of the different roles that exist and what access they should have. So let me know when you're ready to work on that one. And get things cleaned up.
+
+Client 2: Yeah. It's not clear for me.
+
+Client 1: It's not clear.
+
+Client 2: I mean, it's it's clear for me.
+
+Client 1: Okay. Good. Alright. Hawke. It started a couple days ago. And right now, he's working on getting our environment updated and making some changes so that it's easier to get our project up and running. And so part of his his plan for the next couple of weeks is to start working on our design system. To get a few things built out for concierge and for reusable components and to get tailwind installed. So that's when they he'll be working on here soon. So this next one that looks like we have this signed out already to Hugh So Hugh, basically, on this one, when you first log in, you can see that there are claims, but you don't really have the context for where you are. So basically, when you log in, claims would be expanded and new claims would be active So right off the bat, you know, exactly where you are in the system. Does that make sense?
+
+Client 5: Yeah. Yep.
+
+Client 1: K? This one's not very high priority, but I just have it logged as a quick task. Basically, when you go to each of these pages, the table header here is incorrect. They all say orders. So new claims, new claims, but then this says new orders. This is open claims, open claims, but then it says open orders.
+
+Client 1: And so basically, on each of the claims screens, this should say claims instead of orders. And then on all orders, the bread Crumb is backwards. So it says all claims instead of all orders. So I have that all documented in the ticket, really low priority. Just to get things consistent And then I think we talked about this one already. Basically, And when you're submitting a claim, you put your order number in in your email. And at that point, if you hit enter, it should be like you click continue. We can hit tab and continue and you can click it, which is fine. This is just to cover that one more state so that when you type it in, you can just hit enter and log it and submit the claim. So those are all the tickets. A lot of these have already been moved into progress today. Since I put them in here, So there's a lock that's already in flight. So as a reminder... Let's try to limit the number of tickets you have open so that you can get them done and move through. And not have a lot of them that are piling up So, yeah. Try to just work it through the system that way. Pull from the ready for dev when you're ready for something. And if you have any questions, just reach out. But we should have plenty of work here to get as busy. So our our number one goal is to finish up all integrations. So that's mag, big commerce, or and smarter. If possible, we want all those completely done this week. And that would be an amazing way to end the year is get all those integrations done. A lot of this other stuff is little bugs it's little tweaks. They're nice to have things, but the number one priority on all these is the integrations. And so if there's anything else that's preventing you from working on those, that's get them reassigned, for example, with Tom, that's why I wanna have him if there's anything else he's working on that's not getting smarter done. Need to move it off his plate. And so about even, like the seventy two hour thing, like, if there's actual work for gorgeous to do, let's not have to do anything else. But in this date, I can be waiting for something else and absolutely do something else. You know. And same with everybody else. So let's just get all the integrations done this week. Let's get them all tested and ready to go so we can move to our new customer base. We have one customers that are excited to use these. And, of course, there's some additional tweaking and testing we're gonna need to do once it really goes into production. But so we just wanna make sure. So That's our number one priority and how than that Let's keep moving stuff through. Thank you for... I think... The board been very active the last couple of weeks, which is great. A lot of tickets are getting moved through. I appreciate all of your help and being responsive to getting things fixed. Is there anything that you guys have questions on anything that you're currently working on that you're stuck or need extra help or need direction You have a question.
+
+Client 4: How's him a gentle merger going? Think you are trying to merge everything. Name.
+
+Client 1: Yeah. So Nigel, I'd like to pair up with you after this. And get that wrapped up. So we had a really sad thing happened yesterday where over the weekend, I worked on a lot of the files. Just comparing what the Matt team did for Mag and then where our code is figure how to merge it all together. And so that all went through yesterday and then Nigel help me finish up a lot of the rest. And then we realized that all these changes that were being made. Were all against our staging environment, not our main And so that's just because the default state in our project is staging And so that's... Of course, we see that when we do poor request where we have to make sure we select main but I didn't see that when you pull it into your local machine, and when you're using get, that it's also in the context of staging not main. So basically, we had to, like, throw away all the work and start over. So Nigel was it's almost right back where we were yesterday. And so I'll just checking with you after this meeting, and let's just jump in and get it finished up. And then we can merge that code in and start testing So I like to... I'd like to see if we can do that today possible, like to get merged into staging and and just start testing and see how things look.
+
+Client 6: And that's. So I don't like the chu based approach because with the flow the staging in the production there always almost identical. Yeah.
+
+Client 1: Yeah. And that's that's gonna be the next thing once the environment stuff is fixed, the next thing that Hawke gonna help with is that deployment process where all the code that gets checked in, and then target staging, main Qa, like, any environments we have, you can take the code that's been done once and be able to deploy it anywhere you want.
+
+Client 1: Right. And then we won't run into this problem anymore. Everything will go to master then you get a control when it goes out to an environment. So I think that's gonna be a really big benefit for us and then we don't have to worry but i'll these and then you do it once for stage and you redo it again for main. Just i'll be one time and it'll be good. And then that'll also is part of that. We'll make sure that our code is the same. So for the most part, stage should be the same code as in production. But sometimes it's one step ahead. You know, we do it. We work on some things we play to agent once it's good. That whole thing goes over to main. And so we're really close to having all this like, merge together and working well. Yeah. It's good question, Nigel, let's get that wrapped up today. Any other questions.
+
+Client 3: No.
+
+Client 1: K. Cody Koi, Hugh, anything from you guys?
+
+Client 7: Yeah. Nothing on my side.
+
+Client 1: K.
+
+Client 1: No.
+
+Client 6: Just I what about the gorgeous stuff whenever you have time and this sms string Okay.
+
+Client 6: Let me just that's know, even if we a P you know, shouldn't be a problem. No logic there. So just tend to changing the string.
+
+Client 1: Awesome. Call do you have anything for the team?
+
+Client 8: No. No nothing for my side.
+
+Client 1: Cool. Yeah. Thanks for supporting us with good mock ups and screenshots and everything, so we can have good clarity visually in what we're working on. Alright. Well, that's all. We'll see you guys all in Slack. And thanks for your good work. We'll talk to you later.
+
+Client 7: Right. Thanks. Bye.

@@ -1,0 +1,405 @@
+Host 1: Morning.
+
+Host 1: Are you gonna to share screen?
+
+Host 2: Yeah.
+
+Host 1: You look very moisturize.
+
+Host 2: Thank you.
+
+Host 1: You what's?
+
+Host 1: Thank you. Said, I was gonna give up few times, but he just kept on opening my email. Sorry. All running. I oliver.
+
+Client 3: How are?
+
+Host 1: Great. How are you?
+
+Client 3: I guess. Thank you. You guys.
+
+Host 1: Awesome. Do you guys have off between Christmas and New Year's? Or are you guys and nice. Is that typical in the Uk?
+
+Client 3: Yeah. Pretty common. And it depends some some companies will like give it from those days. Some companies for sort of say Everyone has to take it this holiday. Generally, that gives the give you sort of an extra three days on the day say you have saved the days off and some companies give people the. Say we have they give people the option I'm taking it of.
+
+Host 1: Nice. Yeah. We have it off. And it's the first time I've ever had it off between those days pretty awesome. So... But I feel like yeah is probably standard in into you in the.
+
+Host 1: Europe Cool.
+
+Client 3: Alright see you guys based in the states as many as all.
+
+Host 1: I'm in Texas. Markets is in California. Our company is based in California in Palo Alto. So Yeah. Yeah.
+
+Client 3: Yeah. Say you're covered the the Uk from Texas Yeah.
+
+Host 1: Pretty much. I mean, I think that was maybe not necessarily the intention, but it kind of became it just because like, you guys need be a little earlier, but then I make markets wake up super early anyways. Don't you know if it accomplishes the goal. But... Yeah.
+
+Client 3: Oh gosh. Yeah. Must... What is it? Seven I am the or something month Yep.
+
+Host 2: Yeah. Exactly.
+
+Client 3: Thank you. Appreciate it.
+
+Host 2: You welcome it's my pleasure. We used to it though on the West Coast. Like, you gotta get up early. You wanna do it in of business, death.
+
+Client 3: Yeah. Yeah. Because I guess, even with even to New york, so two. Yeah.
+
+Host 2: Three hours and three hours.
+
+Host 1: Yeah. So it's ten Am. So that's a lot better. But yeah. It dan.
+
+Client 4: Morning.
+
+Host 1: Morning. Thank you.
+
+Host 1: Marie. Maximus. Cool. Well, we'll just get it it. So I wanna let work, It's gonna leave the show today he had to a chance to look at everything and then also rcs cs team just validated as well. So let him run the show.
+
+Host 2: Awesome. Yes. So we took a look at the forecast model which key takeaways is that Rcs cs team feels really good about it and being able to help you build it and support it within the tool. They're gonna be the ones partnering with you. And I wanted to walk you through a couple things that you called out in Mosaic and how we would kind of achieve things like sitting days in the revenue forecast piece.
+
+Host 2: Yeah. Awesome. So Here in the tool, one of the new features we have is the ability to really, like, up load any kind of dataset into the tool and then create your own custom metrics here. From that. So In this example, I just created like a sitting days metric within Mosaic. This would effectively just be a Csv upload for you. And then on the canvas here, you'd be able to, like, pull in this metric And then not only report out on it. But then also use it within your forecast model. So here we have, like, all of your different settings.
+
+Host 2: And then you can add in any of those different dimensions So I just used a more of a random dataset by region. But this is where it could be the Uk, Singapore and then you can add in as many different filters, you know, by product, whether it's litigation arbitration and other you would like. Yes.
+
+Client 3: And can can you nest those? Obviously, if they in the data, but could you have know, by region by this getting arbitration bias.
+
+Host 2: Okay. Yep. Yeah.
+
+Client 3: Okay. Yeah. Perfect. Yep.
+
+Host 2: So that's how you can get to, like, that level of granularity and it and then model that way. Yeah.
+
+Client 3: Okay. Awesome. Yeah. That's cool.
+
+Host 1: How often are you guys pulling that data?
+
+Client 3: I'd say that's... So if that type of thing is like ninety percent of our four days.
+
+Host 1: Oh, wow. And and so are you updating that on a monthly basis? Or I'm just trying to ...so you guys would have to do a Csv uploads. So I often as you guys wanted to, you could do it, but That's how they would get updated.
+
+Client 3: Yeah. Say, I mean, at the moment, this stuff leaves in our case control system or in house system. And so the reporting helps of that is in power. So Okay.
+
+Client 3: So we have we have various reports in power beyond in that give us the data or more often they're not we stick data to excel on them play around Got it.
+
+Host 1: Okay. Cool. Oh, ahead.
+
+Client 3: Sorry. Yeah. So so I think I think... The power of this is m in building the standard reverse, and how mean that data or accessible when we come to the the forecast. Think. Maybe less side than updates they're reporting, but Yep.
+
+Client 3: That's probably where tell me that I'm wrong then. We can download that No.
+
+Host 1: Yeah. It's I I agree. So we're just showing really the way that the tool works says any metric that you create on the other side can be pulled over here, so we kind of that's the best way for us to get it onto the top line aside from you just like, putting it in is is just making that metric out of it that's updating as well. But I guess, my question was more Do you think you would be updating that metric on it like a weekly basis from your power Bi. Export or would be, like, more monthly or just how often what you guys do that?
+
+Client 3: So the the purpose is of this is probably monthly Cool.
+
+Client 3: And that is based drives sort the monthly actual reporting and i'll forecasting, which is monthly.
+
+Host 1: Nice. Perfect.
+
+Host 2: Cool.
+
+Host 1: It honestly, doesn't matter. I was just curious why what that work look like. Sorry.
+
+Host 2: And oliver, I I think he called it out here. So I pretty much built this to replicate your city days tab in your model. It's about thirty minutes for me to create this. Just for, like, full transparency and then the different drivers and assumptions are are here within the forecast definition on the right. This is where you can add in those different growth rates, you know, five percent, one point five percent. Every twelve months for what have you. So to create this forecast it'll take thirty minutes to an hour, let's say, But then the powerful part is once it's in the tool, you're just doing that Csv upload. And then because we have the metrics here, will just auto populate month to month. And that's where you're gonna get the most leverage when you're building the model. And updating the model.
+
+Client 3: And they if you just remind me. So... So if the start of the year, we build the annual budget We want that to be static.
+
+Client 3: And then against that. We want to do the monthly update with the rolling full forecast Yep.
+
+Host 2: Yeah. So the way you do that is let's say this is your Fy twenty twenty three budget.
+
+Client 3: Yeah.
+
+Host 2: You'll hit these three dots you click publish This would lock and publish the model. This means it's like done. It's finalized only you and Dan can edit it Then what you'll do is for the rolling forecast piece, you'll duplicate this. So you're gonna copy and paste it. And then maybe this is your know, December, rolling forecast.
+
+Host 2: Yep pick the new actual three date. So it's December. We'll pull all of your actual as of December. And then roll the model forward for that month. And that's, like probably the most tedious part of updating the forecast is like pulling in all of your actions. Updating your head count forecast, and all all those nuances. So Now you have your budget And then you have your actual here through December as that rolling forecast.
+
+Host 2: Here if you click in, you'll see all of your December actual. You know, December isn't finished. So you'll you would see, like, half a month of financials Okay.
+
+Client 3: Awesome. I've then said that to compare between let's you go into there that and that... Yeah. That this button that we Exactly.
+
+Host 2: And this is where you'll lean on our Cs team and our templates you let us know, like, whether you wanna create department level dash forwards or just forecast versus actual at a company level. But then this is where with these templates Let me just copy this one to the personal space. This is where you can compare actual versus forecast. You can also compare budget versus forecast. So after just going throughout the year, you would just choose between these two comparable, whether it's the Call it... I don't know. Your baseline case here.
+
+Client 3: Yeah.
+
+Host 2: Versus the rolling forecast or another model.
+
+Client 3: So...
+
+Host 2: And they can give these whatever titles you want.
+
+Client 3: Yeah. Okay. Let's see.
+
+Host 2: And you can create these four your expenses for your head count for your income statement, your balance see And then even your cash flow statement. And then let's say you have your operating cash flow like, account roll, you wanted to see the Gl accounts that you're actually modeling or forecasting. You can get deeper here. So if you click group goodbye you clicked on it Gl account it would actually break out This is your net income. But let's move down to the operating. Cash. They would actually break out your Gl accounts for that group. Yeah. Okay. So as granular or as deep as you wanna get, we'd be able to get to that level and just set these up so that they're just running. On autopilot at the end of month. Yep.
+
+Host 1: What do you guys think?
+
+Client 3: Yeah. I think as cool. As i said, I think the power in this is more in the the annual cycle and the monthly cycle. So in setting the annual budget and that doing all the monthly comparisons to budget and the year forecast that up. Yeah. Just having all in a full passes spreadsheets.
+
+Host 1: Is because So how do you guys feel?
+
+Host 1: Because I know that you're on the March fiscal year how do you guys feel about, like, timing? Like, I guess, because I know that we... We're moving really quickly which, you know, we always appreciate, and this was something that you guys necessarily work looking for planning for, so I kinda just wanna, like, pull back a little bit and just be like understand Is this something you guys are like thinking is a real option for you or I just like, what are your thoughts around, like, actually implementing and potentially even this for your next cycle.
+
+Client 3: Wait we're too late for next so.
+
+Host 1: Okay.
+
+Client 3: So the cost is whether we could implement it across q one next year such that we're using it for reporting into next year and then a mid air forecast. Next September. So. And that's the question. Yeah.
+
+Client 3: Yeah.
+
+Host 1: Just gonna say, I don't I don't wanna derail the conversation. So if you guys have any else, about the tool or things that you always wanted to dig deeper into. I can go beyond the thirty minute market markets is gonna drop if if he's not needed. So I just wanna make sure that you guys have everything you need out of that side first before we get into this conversation. I know I brought it up, but I was getting.
+
+Client 3: Say, I think If we if we go back to the revenue model, That the conceptual way it works. Is. We have we have, like, a refugee per day assumption for for each of these buckets.
+
+Client 3: Yep. We done. We then cross by each of them to get the to get the revenue So is that...
+
+Client 3: So just conceptually how would that work? We would have because i disease initially, you've obviously got all the data in, and that's Yeah that works. So it's g then You'd create...
+
+Host 2: Yeah. Different. Custom metrics. You can also upload this data or you can say it's you know, Yeah.
+
+Host 2: Hundred bucks per day. And then just based off of your assumptions here. Can build up. Let's just say, This is gonna be flat lines over time.
+
+Client 3: Okay.
+
+Host 2: Yeah. We... And then you could say, you know, revenue. From r. K. Region. And then when you're building the formulas, the syntax is really easy. So you just type in sitting days. It'll auto complete. Times your revenue per day assumption.
+
+Client 3: Yeah.
+
+Host 2: And then you can either copy and paste this forecast or this formula the forecast where you can use this button down here and it would copy across.
+
+Client 3: Okay. Cool. Yeah. With. Okay. Awesome. And then so then yeah. The one the email is Please please could we just go through the head account d again.
+
+Host 2: So this is what the head count where roster sheet looks like. On day one, it's pulling in all of your existing employees it's pulling in Fx rates. It's pulling in salaries.
+
+Host 2: And then converting it to your reporting currency here from the local nursing sync. Down below you have two options. The first is to add in hires on a bottoms up basis. Sounds like we already have your twenty twenty three forecast stood up. You can copy and paste this in from that model if you wanted to, So this is like a blank excel sheet where you can copy and paste from scratch. Here's just a Google sheet I use. Yeah. As an example, So I could copy and paste these in. From that Google sheet here, you can see we're doing the currency conversion as well.
+
+Client 3: Yeah.
+
+Host 2: And then from here, you can also build a top down forecast with different profiles. So if you're doing like more but two three, four, five year plan. And you don't want you have to, like, duplicate these five sales reps month a month.
+
+Host 2: Just go to this profiles tab, you click add in a profile. Then you can say this is our, you know, they're in sales and marketing, it's a senior Ae a remote, full time something like that. Yeah. Then once you have this built out, Yeah.
+
+Client 3: Just say yearly.
+
+Host 2: You go to the top cell forecast? Click add in a forecast. And then he can choose the eight roll and then you can say, hey, we're gonna hire two and April, we're gonna hire three in July know. It's way too many, but maybe, you know, four in October.
+
+Host 2: Scaling up that way.
+
+Host 2: You have this built out. And then on the head count roster sheet here Now you have that tops down. Or past as well. So a lot of different ways you can do, like your near term bottoms up rec by rec builds, and then that long range forecast in the tool.
+
+Client 3: Yeah.
+
+Host 2: And then lastly, you can group it by department So if you wanted to sit down with each functional leader or even your Hr team and you wanted to say, hey, This is who we have and see today in sales and marketing.
+
+Host 2: Right? This is what that forecast looks like you have that ability here as well. And then down below just more the visualization. So how many people do we hire historically? What is the future hiring plan look like for next year. Is this feasible? Is it achievable, you know, based off of our Hr capacity need recruiting capacity.
+
+Client 3: Yep. Okay. Cool. And then when it comes to the P mh.
+
+Client 3: Allocating costs from here into different lines in the P and l.
+
+Host 2: So you'll have your Gl accounts pulled in?
+
+Host 2: For your payroll Gl account as an example, you'd wanna configure this. This is what it looks like when you just create the new forecast model, but then you're gonna go in and your going to like, segment these by department, for example, And then now we can pull in or query that salary amount from the head count roster by clicking on a salary forecast method.
+
+Client 3: Okay. Cool. So then so if this specific question, I guess, is if if we look at our engineering team, we covid put some of those heads in those capitalized text and some of them may us. So the P l that's Definitely.
+
+Host 2: We have the ability to allocate cost to Cogs, So if you need to allocate engineers to, like, a human capital line item. Can do that here. And then on the balance sheet if you are capitalizing costs I'll walk you through that scenario. So let's say, hey, we wanna put you know, fifty percent of our engineering costs into Cogs, we wanna allocate it up here. You can do that. And then on the balance sheet, we don't have like a software cap account, but if we did. Let's just show an example here. Cool payroll related. You can use that same salary method.
+
+Host 2: And you can use that same allocation field. So this could be, hey, you know, we're capitalizing ten, twenty, thirty percent. Of the engineering department.
+
+Client 3: Yeah. Okay. Perfect. And you've got and unwanted of the options. This forecast using and you can have but had did now.
+
+Client 3: Sorry. Oh no. Full cost method. That was it.
+
+Host 2: My Exactly. Yeah. So if you wanted to do it by person, Yeah.
+
+Host 2: You only wanted to include full time employees Yeah.
+
+Host 2: You can do that as well.
+
+Client 3: And so Can you get by wrong? Or individual heads. I mean Yeah.
+
+Host 2: If you wanted to do it by individual head, it would be a little more manual. We also have manual four forecast sheet here. Where you can add in individual people But this is less dynamic.
+
+Client 3: Yeah. Yeah. Yep. Yep.
+
+Host 2: But here you can create as many of these different rows. Or forecast as you want. Okay.
+
+Client 3: Okay. Perfect. Yeah. I think that's it for me on the demo. Side i done. I know if there's anything else your side.
+
+Client 4: No. Really? Nothing nothing's. From my mind has become that's honest.
+
+Host 1: Cool Did you guys wanna see the head camera reconciliation process again or is that first in your mind.
+
+Client 3: No that one. I think we're more It was not. And that it just takes the actual and comparison to the Exactly.
+
+Client 3: Cool. That nice. Yeah.
+
+Host 1: Awesome. Well, yeah. I guess. Would love to understand as far as, like, next steps go. So Maximus if you wanna if you need to jump off, you can.
+
+Host 2: Thank you.
+
+Host 2: Yeah. Great chad and everyone.
+
+Client 4: Nineteen.
+
+Host 2: Yep.
+
+Host 1: Cool We can definitely just, like, red discuss again implementation, but I think like, one key takeaway that I definitely want you guys to understand is that really one momentum and sales everything. So even if it's not like, a, hey, we wanna implement January or, you know, whenever that might be, we would prefer if you guys like did have a decision or or like, we continue to do things until you guys feel comfortable, and then we can push out start date to whenever you guys really want. If you guys want to start implementing in March or you know, April or whenever, that's totally fine. But happy to go over implementation again or, you know, just of see where you guys at as far as like, your decision and what else you need from us and hire feeling about things.
+
+Client 3: Yeah. I mean, I think just cards on the table that the question is really whether whether this system is worth. I see in the team. Because that's sort of the the tulsa stop. Right. So and So that probably just needs us to have a think about that conversation.
+
+Host 1: Is that relating to the cost associated as like a equivalent to an F or what's Yeah.
+
+Host 1: I see. Got it. Okay. Well, like I mentioned before, Happy to... Like, if you guys love the tool, and it sounds like from what I am getting, it it does satisfy the needs you guys are looking for and it can accommodate your business. I mean, it is the end of the year. So hate to cliche and you know, whatever, but we are from a hit an end of your numbers, so definitely are willing to negotiate with you guys on that front if it's like, just really coming down to pricing, especially knowing, like, the exchange rate is less favorable than it typically is right now. It's what we're hearing a lot from our international customers just in Australia and the Uk and everywhere. So it's not the first time I've heard it. So happy to make it work you guys first pricing, you know, if we're there.
+
+Client 3: Perfect. Okay. I appreciate that. Yep. As a as i said, I think, we just need to think through all the dynamics and and everything.
+
+Host 1: Okay. Well, I can send you guys over think I sent you over the first demo, but I can send you over all the recordings that we've had. That way you guys can, like, look back at things and make sure that you're digesting at all because I know it is a lot. But I don't like to let things fall off the calendar just because then it ends up being chasing and and things like that. So I know since you guys are off, in two weeks, as are we would love to maybe if you guys have time reconnect on Friday, or just early next week, that way if you guys did you could come to a decision by the end of next week, we could have enough time to do that. I know that typically in the Uk, the red lines, and security takes a little bit longer. But if that is the case, just what I've noticed, then we do have ways of essentially, extending out the time that we had to do that process. While still locking it in, so it's beneficial on our side and for you guys the pricing. So If our next call, if you guys do feel like, hey, we like it, and we just need to make pricing work. Than happy to negotiate pricing on that next call. But I don't wanna assume anything things. So, like, if you... Do you guys think you'll need to bring, like, your Ceo or anyone else see this before you know, making any decisions?
+
+Client 3: It's So probably not our ceo it's be, but what I'm wondering is, if our data guys in the guys from our internal to need to think about it. Yeah.
+
+Host 1: Okay. The only... So my my Question with that is because we can't integrate directly, I guess is it... Would it be a conversation around how just like you know, how our system works or how they would get the data into Was it?
+
+Client 3: It's it would just be a more general this is what we're thinking about.
+
+Host 1: Oh, okay. Yeah.
+
+Client 3: Our conversation because as you said it's not there would be any heavy lifting, but they needs to set up a Csv.
+
+Client 3: But it's more would be a subject change in the way we do things but at the moment. We sort of go to them for a lot of the reporting stuff and we have power Bi dashboards etcetera.
+
+Client 3: Got it. So this take and also that of. I think. Is probably not a bad thing really. And it would just need different Yeah.
+
+Host 1: Okay. That makes sense. Yeah. Would love to give them you know, an overview Do you think that we could do that? So also I don't wanna push any timelines that don't make sense. Do you think that there's a shot, but you guys would be able to make some kind of decision by the end of next week? Or is that, like, aggressive because we can definitely push on January. But if there is a chance that we can do it, then it would help you guys out with pricing a little bit. More than, you know, the new year.
+
+Client 3: So it's say, I mean, It's it's null. It's not. It's not definitely January. Right? That like, we could make it this decision this yet, but it's it's just question managing.
+
+Client 3: Conversations that needs happen around by Yeah.
+
+Client 3: So Okay.
+
+Client 3: Yeah.
+
+Host 1: Well, that's better than a... A no. You know. So I'm... know, we can we'll try it and if it doesn't happen then we'll push into January, but if you know, it can, then That'd be great.
+
+Client 3: Yeah. You just for remind you matt say, I'm gonna dig out look the proposal lisa. Unless do you have the proposal? I was just Just the question around Yeah we're looking at the bundle This is what encompasses everything we discussed, and then there's a five ounce.
+
+Host 1: Tasting v and that's all inclusive excuse me. We are moving to a more sku based pricing model just because we are coming, like, that custom builder and the data upload is actually brand new to us as of this quarter. And so all of our existing customers who sign up for pricing changes in in February. Gonna get all those features. For free grandfather into this all you can eat model, but our investors are just like, hey, you guys are coming out these only these great products. And your Ac is saying stagnant, we need to have a way for you guys to be able to open that up and scale with the businesses. So That's another reason. It's not changing till February, but it is beneficial like sooner because you guys will get all those things included.
+
+Client 3: Yep. Okay. Understood. Me the difference between take sounds It's so plumbing is the Right.
+
+Host 1: Sorry. Yeah. Yeah. So, essentially, if you guys So analytics only is really just more like honestly power Bi bi functionality. What you guys would see is you wouldn't have the models module here. So everyone wants modeling and finance. I've only sold one analytics only deal. So typically, everyone wants this part. So one thing that I will say though is, the whole point of the slide because analytics only is really not that popular is just to show that it makes sense to get the whole bundle. Yeah. However, if this pricing is more aligned with what you guys could do I mean, I would never say, hey, Well, if you want that price, you have to get that option, like, we could do make things work so that you guys could be more along the lines of this price? Still get the full bundle.
+
+Client 3: Yeah. Okay. Understood. I'm just Yeah. As you said it it wouldn't makes sense to to just have their closing stuff.
+
+Host 1: Yeah.
+
+Client 3: Without the the month number. Cool, Okay. I think that's so clear then really.
+
+Host 1: Is there a price point that would make it less of a you know, a business evaluation of is a worth a full time hire.
+
+Client 3: Well, I mean. Yeah. The that. It would be, like ten k. Right?
+
+Host 1: That's okay.
+
+Client 3: That's not way. The. So So now everybody meets their product obviously, say because, yeah. As you say with the fx right, where it is. This that's north of twenty k settings. So So one thing that I'll out there because I, you know, we we end up throwing this out for right now.
+
+Host 1: Because it's end year more liberally than typically, is we we do offer for two months free So essentially, you can think about this as being a fourteen year contract. What that does it allows us to keep our Ac a little bit higher. Well, it annual out for you guys as a lower cost. So let's say we are able to get to, like, you know, twenty six thousand on the on the software side, so divided by fourteen times twelve it comes out to, like, a twenty two thousand dollar cost. And to be honest with you guys, pretty easy for us to waive implementation fee at this point of the year. So we can kind of count this a wash. So definitely willing to work with you guys to make this, you know, hopefully around a ten thousand dollar discount between implementation and software and then on top of that, had that two months free. So that's really where we can get pretty aggressive during, you know, the end of the year push. So keep that in mind, then we can come back on our next conversation really finalize out what would make it work, and then I just have to get some approvals from our team.
+
+Client 3: But Okay. No that. That's so really helpful thanks.
+
+Client 3: Yeah. You know actually, having the having the two months free of everything is probably the best thing because Because really that pushes the cost proximity into our next financial. Because if we yeah. And let's say saw is. Say, we agreed before Christmas.
+
+Client 3: If that's it did January month live in February. First got two months for It means three the billing starts in April, which is then into next year.
+
+Host 1: So we don't... We invoice at the start. However, if that is how it helps guys out, That's really good to know because we can work around with payment terms. So Yeah. If you guys wanted to fall into April, I'll see what I can do on that. We might have to implement in February just so that it... Like, next sixty is kind of like the longest we've done. But it's something that we could definitely work with to make it easier for you guys.
+
+Client 3: Yeah. That Yeah. As say all the levers that's probably device attractive Let me write that down.
+
+Client 3: And if that's, you know, if it's a case of we pay five grand for the implementation in fact I've then twenty k in April for the the rest of the year.
+
+Host 1: Okay. No. That's... Okay. That's... Yeah. So payment terms gonna make it easier. So the only Well, actually, Yeah. That works. As long as we do annual payment terms, then we can the two months...
+
+Host 1: Okay. Perfect. Great. So I guess next steps here is with your data team, if we could try and meet with them, I actually have an opening same time on Friday.
+
+Client 3: And Maximus as well.
+
+Host 1: So we could do that. Or next week looks like we're available at this time across the board. So sooner and better. That way, we could just have a little bit more time, but I can send you guys over if you do have, like, a little bit more of a lengthy security process, I can send you over, like terms and conditions like, a sample order form. I'll just get some initial pricing approved, and then you guys can send that over and we can see if we can make it happen.
+
+Client 3: Yeah. It's worth if you could just send out your your ts and see as worth getting out general counsel to look at those.
+
+Host 1: Yeah. Sure you guys have you know.
+
+Client 3: In terms of the days email, just comes just that they're in the middle of a big pitch, which is due on Christmas eve. So Oh, wow.
+
+Client 3: So it might be that that these two weeks on the best things best time for that but on the flip side, Yeah. I just need to think through it how would both they needs be around this Yes free Friday.
+
+Client 4: At the moment, but it might be it might be blocked out.
+
+Client 3: Well exactly that's what I mean is is had this Stuff so by then. To today to the point. They your question for that really is. If we take the reporting stuff off their airplanes, which means they can focus on the business side of things. And we enable the reporting stuff finance So is that okay I guess question And if you guys, like, do you have a list of the reporting that is coming out of Power bi because I could actually create a loom of saying, hey, here's how the financing team is gonna start, you know, doing the reporting it'd you like a minute video.
+
+Host 1: And just pull up the reporting metrics that you guys have in Power bi, or... I mean, happy, like, if we do wanna sell chug towards twenty second twenty third. We can They always meet with them afterwards. And if there is any issue, like, with it, which I don't assume there would be but if there is, then we can kind of handle that in a one off situation.
+
+Client 3: Yeah. And then... I'm just trying to think that if the financial appendix. What comes out to power.
+
+Client 4: About trove pages of various parts of revenue today.
+
+Client 3: Even even and lots of those. Do they come... To that to come from Power? Do they just come from a jump to out and then So say gay, we'll coming out of it's driven by case control.
+
+Client 4: So file, which is the... Yeah, the Kpi file.
+
+Client 3: Yeah. But but that's the spreadsheet isn't not. Yeah.
+
+Client 4: Yes. Yes, sir. It is especially it's just like it. I don't understand it. It's it's. The data within so kind of connects to the server, for.
+
+Client 3: You Yeah. So, yeah, i I think the stuff is best there's not much, which actually comes directly from case control based stuff. Is the dump of data or next extract. As i said that the fall... Is this spreadsheet which is linked to the date database.
+
+Host 1: Got it.
+
+Client 3: So But again, it's that's not to say that Couldn't be okay to today m. So I guess the what are the... What are the downsides downsizing and that's the didn't necessary just version control label, you know, case of version controlling between test control pay that paper Yeah.
+
+Host 1: Just comparing the two since you're having two different systems.
+
+Client 3: Yeah. Exactly. Because we're taking day drives and one.
+
+Host 1: Yeah.
+
+Client 3: Single source of found.
+
+Host 1: And that... So If you guys did wanna... I don't know if you wanna do this, but if you guys did wanna all your case control data into Mosaic, it would just be that Cs upward upload process. So it's not, like a seamless is like a power bi. But it would help you guys keep everything in similar sync But if you're date... Like, if the Power Bi has like, the last pull data, we do as well. So you guys are at least know the differences are changes there.
+
+Client 3: Yeah. No that's fine.
+
+Host 1: And then eventually, I mean, we we definitely have a plan to have that open Api. Within the next year, So ideally, it should be able to like it. That would require your team, I think to build out your Api if it's not available, but then you guys could have it all.
+
+Client 3: Yeah. Yeah. Yep. Yeah. Yeah. Yeah. Yeah. Okay. Perfect. Cool.
+
+Host 1: So on my to list, I have sending you guys over all the recordings. I'll send over the ts and c's like sample order form to start reviewing And then, yeah. I don't lease set up a next call. That will we us have, you know, the next step on the calendar then we can negotiate final pricing. I'll get some initial approvals done. Assuming that we can have a decision by the twenty third. And then if it's still not where we need to be, then, you know, I'll work on payment terms the most and then see what we can do from there. But would it make sense to have on the order form that we can kickoff off implementation, I don't see april today. Or March. So kicking off implementation like February first that way, if we did net sixty terms, we could fall right into April first.
+
+Client 3: Cool. Yeah. I think that makes sense. Because we would want to implement it subs that we will not april.
+
+Host 1: Perfect. Yeah. That would be perfect timing.
+
+Client 3: Yeah.
+
+Host 1: Yeah. Let me think is there anything else I need? Oh, do you guys have, like, a a finance email or, like, an accounts payable email? Just to an.
+
+Client 3: Every anytime just accounts dot com or something.
+
+Client 4: Yeah. That get the right place. You we have both say... Yeah. Accounts. I hope.
+
+Host 1: Awesome. Okay. Cool. Well, I have everything I need then, we can talk through it a little bit more in the next call. Are you guys would you be good for, like, a Monday?
+
+Client 3: My Monday is Ton. I'm afraid to say. No k. Let let me and done have a chat, and then move somebody.
+
+Host 1: Okay. Like I said, I don't like to let anything both the counter. So can I put it on for Tuesday and it and if we move we can.
+
+Client 3: Yeah.
+
+Host 1: Okay. Well, thank you. Appreciate that. Awesome. Well i'll send everything over. You guys have a chat and then we'll go from there.
+
+Client 3: Perfect.
+
+Host 1: Guys jackson.
+
+Client 4:

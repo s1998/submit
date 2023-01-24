@@ -1,0 +1,337 @@
+Host 1: Hi.
+
+Client 2|Client 2: High How are you?
+
+Client 2|Client 2: Good.
+
+Host 1: Good. Am I say your name right from Sham?
+
+Client 2|Client 2: Yes. Charm is what it is.
+
+Host 1: Okay. Awesome. Perfect. Well, excited to speak with you today. I know that you're all the way lanka. I appreciate you getting on this call late.
+
+Client 2|Client 2: That's fine. This is still within my time zones time zone as it might my schedule deal or it's still within the day. That's fine.
+
+Host 1: Gotcha. Are you do you guys work Us hours in any capacity?
+
+Client 2|Client 2: And this is really relieved but my role requires coordination with the team and Bureau like we have people in munich and in france. The leadership pays scattered. So Yeah.
+
+Client 2|Client 2: I've got to everybody. So... Yeah. I I do a couple hours in the evening line this between I take a small break. So, yes.
+
+Host 1: Okay. Perfect. That's good to know. Well, I know that we're reaching out you, but have you ever heard of Mosaic before I'm just kinda curious like, what interested did you in taking the call?
+
+Client 2|Client 2: So it was just the fact that I think the intro email that I got, that was about Who sent me the. Was it locked?
+
+Host 1: Yes.
+
+Client 2|Client 2: Mark idea. So Monk reached out and he had I think he tried connecting. I don't usually add people I don't know, but He sent me a message very interesting. And this is the time for planning, and I am struggling with excel shape. So that's not an easy job to do. So it's reconciliation across platforms and xl. I am good Excel.
+
+Client 2|Client 2: Happy to say that. Proud to say that, but it just it's tedious, you know.
+
+Host 1: So Mh.
+
+Client 2|Client 2: The fact that he was really really nailed they wanted of the that I was... I I meant to talk about really, like, I I I one of the challenge that I've been facing around it being very manual you know, like it's just Just hard. And trying to get it done faster, but it never happens that way so i I jumped in on the idea. And I thought, okay. Let's take a look at that. And some when the Calendar note came, I know you asked me what applications we use for, like, accounting to accounting and then the the Crm right leave multiple times, but that's fine.
+
+Client 2|Client 2: Just wanted to make sure that you received all of it.
+
+Host 1: Yes. Yeah. I appreciate that. I think you responded and I always cc seed, but it sometimes people like, reply only to mark, and then I think he sent to me a while back I just missed it. So I apologize for that i appreciate you sending it. So you guys use Quickbooks across guys have multiple subsidiaries or multiple instances of quickbooks?
+
+Client 2|Client 2: Books no. It's just one.
+
+Host 1: Okay. Awesome. And then your hubspot right. And then for your Hr, I don't know if I ever got that and not but been me.
+
+Client 2|Client 2: No. Hr. It's our manual.
+
+Host 1: Oh, it's so you guys don't have a system that keeps track of it.
+
+Client 2|Client 2: We don't have a system now.
+
+Host 1: No worries. Okay. Cool. So, yeah. I mean, what you're saying definitely is just so true. I mean, it doesn't matter how good you are. Like, let's say addition. If you have, like, a know, a hundred edition problems on a piece of paper, you'll do it faster with a calculator So if you can automate anything that definitely helps, aside is like the manual work, and I know that you guys are a small team and your director of Ops typically means that you're just building all the holes, which it sounds like biased one of those holes right now. What... I guess, what specifically aside from it being manual is, like causing some you know, slowdown or annoy or just headaches around the process.
+
+Client 2|Client 2: Not so there all standalone as in the oil book fine. On their network. Otherwise, I wouldn't be sticking to them for so long.
+
+Host 1: Right?
+
+Client 2|Client 2: Like. Fine and have hubspot line, but it's just that there is no connection between all of them.
+
+Host 1: The what more than the the planning part of it, the numbers are all So what I do is I take that down and my plan, like my budget in Excel.
+
+Client 2|Client 2: And so I take Quickbooks and then I just do the projections and I place their and like roll it over like that. But that being manual is fine if it was just financials, but there's no connection when I said reconciliation. It's just like, perhaps hubspot gives out sales generation information, and I'm right now creating a report that to send to the investors that says what the projections are, and it's in and i'm doing like a projection chart and what not using excel back separate.
+
+Host 1: And when that converts my revenue projections in P and l version of it.
+
+Client 2|Client 2: I have to use that literally copy paste everything.
+
+Host 1: So Mh.
+
+Client 2|Client 2: Them being standalone systems, they work fine. I have no issues with the systems on their role.
+
+Client 2|Client 2: Mh. But the fact that they're not interconnected. I'm not expecting the one and the moon, but anything that just sort of like, know makes my life faces. I was just interested to see I've not heard of tool that you're promoting or you're recommending. But I thought why not have attacked I listen to it and of course, from Mark's message stage to the the questions that came to me over email. So it was very interesting because that's an area that I was drug with if there's any solution that can make life any easier. I am going to take a look at it. Awesome Yeah.
+
+Host 1: Yeah. So I mean, integrations are really at the what we do. So if you can imagine like you're probably thinking like, oh, I wish all these systems just like created one single source of truth, meaning like Mary channel datasets sets to create all these metrics. That's little exactly where most exists. It's like, between all your different systems pulling it in, I am curious to mention investor reporting. Are... Are you guys tracking to all your keys saas metrics, are there any metrics that investors are asking for you i use right now.
+
+Client 2|Client 2: So it's size grade. Right? Yeah. It ids. So what I do again is I put I do the working separately and uploaded to Sas grid. So it's separate. I don't even know if it's right to expect like, counterfeit work out on their own, But, yeah. Investor reporting is another thing. So sas is what we use right now.
+
+Host 1: Cool. And and what is that do exactly So it asks for, like, the operating expenses and whatnot, like, the breakdown of expenses, and it creates like the Arr to, like, you know, the cracks and whatnot, like the bun.
+
+Client 2|Client 2: The charts and everything, like it has its own metric list that it automatically populates, but there's is an cell that I have to fill, a template and upload it back so they'll do, like, month on month every month, that's the accounts get finalized, like we have to populate that template out, reach the system, but they do a pretty good job. And once They have final numbers to finalize it account. It's not a lot of work.
+
+Host 1: To be about say.
+
+Client 2|Client 2: So hard. Because just one template and I know which lines go to, like, know, they have like, operating expenses, like, I know which one total so Just created that. It's easy to give it, like... Yeah. I pretty much, like put the formulas. They're paste the dot already gets populated down of the template, so is uploaded.
+
+Host 1: Gotcha.
+
+Client 2|Client 2: So it's just a a way to visualize and to finish everything out investor.
+
+Client 2|Client 2: Metrics you don't have to calculate it.
+
+Host 1: Like, gotcha.
+
+Client 2|Client 2: Yes. The system does. Everything on its own.
+
+Host 1: Yeah. Okay. Cool. And so as far as like the cadence of your investment or bringing your executive reporting. Is it on a monthly basis or earlier?
+
+Client 2|Client 2: So we have some to say that are the ones that el lps we have wants response in two weeks.
+
+Client 2|Client 2: Okay. So we intend to do that. That's just one but are, like, like, individuals, like the angel investors have we've had from the beginning, but they would call it for, like, random updates. We've not streamlined it, but we do have food and investors. So we do have an Lp update that goes on every month in two weeks. So that is what this has results for. And we need to prepare a proper reporting for that like that sales rejection in the hap hubspot report I was talking about is done for investor reporting as as well as that tracking, but it's... It has to be already.
+
+Host 1: Gotcha.
+
+Client 2|Client 2: Okay. Cool, my.
+
+Host 1: Yeah. And How hubspot is is obviously a really great tool. But everyone always is complaining about the data quality. How you would you say the data cleanliness and your hubspot instance?
+
+Client 2|Client 2: Mainly because we're very small, I am not at another direct user of it. I just get the information not of fit. I don't do updates or anything. I used the numbers. Download that the sales team gives me for projections and I just do calculate the protection numbers, and I use that. So I'm not direct user. Maybe You can find out, but... Yeah.
+
+Host 1: Well, that's the answer that I was wanting to hear. So obviously, like, yeah. There's garbage and there's garbage out. And so You can trust what's coming out at hub hubspot, and that's perfect.
+
+Host 1: Awesome. So as far as flipping over to more of the forecasting side of things, I know you're obviously going budget season right now. Kinda curious one when your budget is do like per s. And then also, like, if there's any improvements whether it's around or just more accuracy what those improvements would be ideally if you had more time.
+
+Client 2|Client 2: I'm not sure Got two question, would you mind repeating?
+
+Host 1: Yes. I guess, we'll just start with when is your budget due? Because I'm just kinda curious, like, you work.
+
+Client 2|Client 2: Okay. At this... So our financial is from april to march. Obviously, but ten to December. But what happens is because the the accounts get finalized in march. But what what I do is I usually like to keep a close type of the numbers because of the stage where I in then because it's current situation.
+
+Client 2|Client 2: Mh. So what I do is I look at it monthly. And and every quarter for two weeks the projections that I'm going right now and I'm trying to do twenty twenty three. So I have the... It's it's not like there is like, an a due day that we have to did because of course, it's not as formalized because we're a small team but I have an idea and it's also very hard to put down a number for an year for us. Because this stage behind, it changes frequently.
+
+Client 2|Client 2: So have like a bit of a like, a baseline. Idea because throughout the year, I think even went throughout quarter so much changes. So have have some idea if you run on the current basis, like, what it would be for it for the entire year. So every of the changes that we do, I sort of update the budget. So I make it... So I do like another protection version and as I think come December, i will finalize the budget for twenty twenty three based on what it is on that day. Like, from now between from now and mid December, a lot can change, because we are like interested trying to put down the target numbers, sales projections, twenty twenty three and for the next three years actually, but with more details for twenty twenty three. So once that come in, I can take another card. Way, I can do another version of this spending.
+
+Host 1: So... Gotcha.
+
+Client 2|Client 2: Yeah. Okay okay right. The one we're trying to be then profitable and which i hit a certain revenue number. So if you're going through iterations right now.
+
+Client 2|Client 2: I see.
+
+Client 2|Client 2: Okay. Once more. Yeah.
+
+Host 1: And are you guys looking to fund right now? Or is it more just like, get profitable with what we have.
+
+Client 2|Client 2: No. We we are looking to start another round because We did round that didn't go well, but existing sort of bridge the gap for six months. So but down the two months down the line, so we don't wanna waste wait till the end of their of the time period other four start.
+
+Client 2|Client 2: So we are just doing the discussions I we'll start raising right now.
+
+Client 2|Client 2: I'll start the cycle again, so by the end of the next four months will still be okay.
+
+Client 2|Client 2: Mh.
+
+Host 1: Yeah. And was it the reason why it didn't go well the market conditions or what contributed to that.
+
+Client 2|Client 2: It's... I think it had lot to do with the market conditions. Because the investors are very very careful and very.
+
+Client 2|Client 2: Like, you know, But what I'm looking for, like, a they very careful what is.
+
+Client 2|Client 2: Yeah. Absolutely. And we are we had good response, but couldn't close really. And we have a lot of traction. I mean we have a lot of interest from like, a lot of actually brands to a lot of like, nationals across Europe, but none if it has got closed. So the advice that we were getting is close some of the deals and then go back.
+
+Host 1: So all few customers, but not enough traction.
+
+Client 2|Client 2: Or the the progress hasn't been great. So we need to start showing a few improvements which trying to close a few deals right now by December January. So the rays we starting will go well. So that's true. The current focus. Yeah.
+
+Host 1: Cool. And going back to what you're saying about like, having a baseline but things are constantly changing. Many scenarios are you keeping up to date at point in time?
+
+Client 2|Client 2: Three.
+
+Host 1: Three. Okay. So just, like upside downside.
+
+Client 2|Client 2: That's right. So I have the... Have the survival more it's like the absolute worst guest scenario.
+
+Client 2|Client 2: Mh. And the average like blake, You know, what what it should be and what it would be. And then, like, the best case scenario, like absolute doubling down on everything and then just going going. And doing everything that he wanted to do and whatnot. So I have, like, three versions of sales and spending as well too. So of course, the revenue and costs everything.
+
+Host 1: Mh. Perfect. And are you updating those on like, a monthly rolling basis well, or is it more like ad hoc when people are asking?
+
+Client 2|Client 2: I do a monthly basis.
+
+Host 1: Wow okay.
+
+Client 2|Client 2: So... Is the worst case obviously gets updated with whatever it is the real reality So then it draws. It's only linked I have, like, three types of the same stretch. Also so as as the numbers coming, and just update the revenue and whatnot, and it gets updated.
+
+Host 1: Yeah. Gotcha. Okay. Cool. And then so as far as how you're building at your revenue projections. Love to understand like your strategy around that. Like, is it a funnel model? Is it a sales capacity model like, how are you building up to your revenue scenario?
+
+Client 2|Client 2: So that is the process that we're on right now what I... What what... So what we do is, like, just get the numbers from the Like, it's more like final basis because we just... Like, what hubspot says is, what close in then next couple of months and then we look at it.
+
+Client 2|Client 2: Then try and get that version downloaded but of course, that is in the worst case scenario, actually, the the average, more the the base case. But in the the more positive note than what it like, being hopeful. Like let we just... We just get the revenue numbers to what should ideally be for us to break even by a certain date and then to hit their revenue number by a certain date. Yeah.
+
+Host 1: Okay. And are you guys for your, like, existing customers pulling in and, like, assuming, like, an expansion or anything like that. As well.
+
+Client 2|Client 2: For the customers.
+
+Host 1: Mh.
+
+Client 2|Client 2: Big extension.
+
+Client 2|Client 2: All. Are you referring to just any kind of growth, like, upsell or just increase in contract value anything like that.
+
+Client 2|Client 2: So except like, i when we do more features. That is once That is planned for but actually took it out of the budget because At this stage, we are trying to have as many numbers. Of course number of customers in our books right now that it shows traction, and then it's easy for us to get to go to a higher raise, and i could be bigger bigger that series but It should be there. It was that at point, but I took it out and they was just putting the new customer numbers only right now.
+
+Host 1: Gotcha. Okay. That's good to know.
+
+Host 1: Anyway. So When you're off, but it sounds like you're doing everything really finances. What I guess like what else do you do? Like, how big of a percentage of your workload is, like, just strictly fine like projections by everything around reporting.
+
+Client 2|Client 2: Versus, like, yeah, anything else.
+
+Client 2|Client 2: Pretty much because I took care of the operations yes. We're carving out the team, and Mh and I was looking at another tool that helps out with Hr.
+
+Client 2|Client 2: I don't wanna go with the typical difficulties person finance with some kind of rules. I'm trying to get a operations and is Google. Understand the kind of work that is required because it's not... We are we we're in multiple places of the world, so it requires that different kind of I'm trying to call out a role to help out. But I also want to see what kind of tools can come in and this so that the manual work he's not the same thing as I do. And the way I do we may not be the right thing, but right now, I prioritized financial what.
+
+Client 2|Client 2: Mh.
+
+Client 2|Client 2: They're saying... Yeah. Like the team expansions, because it's important. Of course, like it's... Because that's what's keeping us a alive. Then around the team expansions they're, like, the hiring and stuff get myself personally invested because, of course, we are very careful about who comes into the team. And right now, we cannot worry about having different people. Like, years management is important, but it's also very much ease. Your life is easier if to get the right people onboard.
+
+Host 1: Said.
+
+Client 2|Client 2: If we dig to that, so I I get personally invested in. That kind of work especially in like in sri lanka, the team is the largest team that's where the engineering team.
+
+Client 2|Client 2: Mh. So, yeah, we do kinda, like, you know, the creating awareness and then getting the team in and, like, reference checking individually because lanka the the market is very connected. Somebody knows somebody, and it's it's a pool that's that keeps growing, but at the same time, there's, like, a layer of people who are like, somewhat connected to everybody. So it's it's always easy to reference check. So we do that process. Very well. Those are the two things. But at the same time, like I but quite lot a time on the numbers, and I would absolutely like anything that will make my life you Yeah.
+
+Host 1: So it sounds like you do the finance right now because it's, like super important and you know that, but ideally would wanna spend less time getting the same amount of output or better. I dealing with a tool.
+
+Client 2|Client 2: And then that way you can spend your time doing something else.
+
+Client 2|Client 2: Absolutely.
+
+Host 1: Awesome. So I I do wanna set up the demo, of course, also wanna show you a couple relevant customers that we've worked with.
+
+Client 2|Client 2: So i share my screen really quickly.
+
+Host 1: So when you were talking about funding, I think like, untapped actually came to mind for me just because we did help them, like, really get a really strong funding round with everything that Mosaic jose spits out getting really accurate and really answering all investor questions really quickly. So when investors did ask hey, what happens if x y occurs? Then you guys can really quickly just get those answers then they feel super confident about you being able to run your business and know every corner of what's happening. So I'll send you over this case study, but it was a really good example of a really small company that we help grow out and and get back funding around security.
+
+Host 1: Then aside from that, you know, as the head of off, like I we're were talking about, you really do get all the gaps and I was working with another company. Danny over there is of operations, and she really said that Mosaic for powers, that way, really she could do everything else that her role entailed and not just like much become a finance person. So everything that you're struggling with. I mean, we're gonna cut out all that manual work and essentially rate all your different sources into one, then also automated that way you're not living on a spreadsheet. So I'm super excited to show you the tool. I think it's gonna be a really great fit. I know that you said that your budget is not do do, but, like, technically, you need some kind of first draft december ten, but I also know that we reached out to you and that you don't you know, you know you weren't looking for tools. They're likely if any have budget in place.
+
+Host 1: I period, so, like, if we did show you something that, you know, is a fit for everything that you want to do when you know, your finance function. Do you think your timeline line could be like, what would be the steps to getting in it in house?
+
+Client 2|Client 2: I'm looking in One right now because I... Couple of things, like, around the financial for changing the side of cons. I'm cleaning those up, because it's not best and we grown out of it actually so some of the best that need tracking right now I just get checked to that details.
+
+Client 2|Client 2: So looking at really after December twenty changes just to.
+
+Client 2|Client 2: So more one Okay.
+
+Host 1: That's totally fine.
+
+Host 1: Yeah. Well, one thing that send you. We have so many right. Like, if you haven't looked at our website yet, it honestly is a gold wide of information. And we have this really great chart of accounts if you guys are looking to restructure for this, and actually have a template here. So if you guys we're looking at redoing this, really great template here as well as also send you like a poor reporting deck that lot people i found really useful.
+
+Host 1: So anything that I think will be useful to you, I'll just send over.
+
+Client 2|Client 2: But I guess i'm looking look at the calendar and just knowing the time on here, so it is Thanksgiving week in the.
+
+Host 1: Us. So we're definitely looking at next week. And when how so This timing is fine for me because I'm actually a little bit later in the day than my colleagues in California, but it's it.
+
+Host 1: I'm in central time.
+
+Client 2|Client 2: So you for me, And two hours ahead.
+
+Host 1: But but my solutions engineer who I bring on to be call for the next time. He's in California. So then Yes.
+
+Client 2|Client 2: Exactly.
+
+Host 1: Okay. So looking at the call I mean, well actually we started or If we could start even just, like, thirty minutes later than we start today, and that would be awesome.
+
+Client 2|Client 2: And i'll raise find as well.
+
+Client 2|Client 2: Fine. So I I I can go to. Eleven thirty twelve sri lanka time.
+
+Host 1: That's fine.
+
+Client 2|Client 2: Yeah. Because I take a like I said I take a break after I finish it around outside is six ninety couple of hours and i gets sit down. So Yeah. So eleven eleven thirty the latest.
+
+Client 2|Client 2: Okay. I depending on how long you need and then... Because I do work with Bt and I have another call now which is language china eight Am. It's also too early. So it can do p nine o'clock.
+
+Host 1: Okay. Perfect.
+
+Host 1: Yeah. Let's see. Why don't we do If we can do December first, which is Thursday at eight o'clock Pacific time. Does that work for you? For an hour.
+
+Client 2|Client 2: First we have an all hands meeting oh okay worries.
+
+Client 2|Client 2: It's it's a bit of a big one. So... Time after the first, I have okay.
+
+Client 2|Client 2: Perfect they started preparing. So it's about time. I do that. So I'm just gonna probably spend the next couple of days doing that, there of the first?
+
+Host 1: Yeah.
+
+Client 2|Client 2: To attendees whenever you are available, I'm fine with it.
+
+Host 1: Awesome. Okay. Cool. How about the sixth Tuesday at eight Am Pacific? Awesome. Cool. So I'll send over an hour invite. I'm also send you over some is just a peru and if you do want send him over to your accountants, like definitely gonna be helpful. And then we'll talk it in about two weeks.
+
+Client 2|Client 2: Yes. At to demo i'm the pricing and what's the implementation look like, let's close then.
+
+Client 2|Client 2: I have an idea because december the january is not too far away. So And if I need pricing, I can already put it into this budget itself, and if it works and I can make a decision then and so without dragging it and I of course don't want to And it's although it was, like, very unexpected. I... Like, we'll respect each other's time as well. So I will let you know I will not do much meetings things. If you can't go ahead. So next time when I look at the demo, I will know if it fixed or not. So if you can test the pricing also, we can just make a decision then then there Awesome.
+
+Host 1: Yeah. That sounds great.
+
+Client 2|Client 2: So... And even if it's like the tool is good and the pricing is a little hard at this moment and Q two is... I just did that with like, we looked at red playing, and I really like it, but implementation, it's not the price it's the timeline. I cannot get my team invested in it because we're very with some of the implementations on our own right now. So I do they i just do you email saying was targeting for February for the first payroll. But I just had to tell them because the implementation time is really tight they need a commitment from our end. Somebody dedicated is looking into it. I couldn't get team dream invest that kind of time. So I to tell them. Let's is for q two so I can plan the team's time ahead of that. Like, ahead in time.
+
+Host 1: So Mh.
+
+Client 2|Client 2: I'll do the same with you. Worst case Q, but I'm hope for, like, if August goes will, q one, this is something... That's that's a this is a bigger part than that say what time. Because hiring don't happen often, but this like, like I said, like, let every every month every month.
+
+Client 2|Client 2: Yeah. And it's just... It's everything, you know, like, the revenue to this one. Ending and two throughout month. It's not easy.
+
+Client 2|Client 2: Yeah.
+
+Host 1: So I hear that. And if I can give you any word of caution because we do work with rip, I i've heard people not be too happy with it because they do They like Nickel and Dime you for, like, little things.
+
+Host 1: And I don't know if you've ever heard zen, but it's the same, I guess the One of the execs there went over to rip playing and of like, right That if it's didn't go so well after that.
+
+Host 1: So I just spell it list...
+
+Client 2|Client 2: You putting it for me.
+
+Client 2|Client 2: Because I ideas I know gus to, like, I just reflect asking to tell me how they're different.
+
+Host 1: Yeah.
+
+Client 2|Client 2: So I guess the issue rip is...
+
+Host 1: So benefits, I mean, I don't know if they're a great tool or not. But if you look into it was the same executive, and he kind of honestly, made benefits go down, and then he went to start playing and The issue with rip is not they they do have little charges for everything. So for example, we integrate with pretty much all the Hr tools, but with Rip specifically, they charge, like, on a mosaic charge. It's a rip charge for you to pull the data. So you to pay per employee per month which you guys want lazy today.
+
+Client 2|Client 2: Yeah. Which is that I Yeah. You I didn't expect... I thought it was one fee at the time all been dis. Integrated with everything, but then I went over pricing and there's like, an additional... Like, you said price per month.
+
+Host 1: Dollars per per month.
+
+Client 2|Client 2: Or just like, like, first one. Yeah. Right. So I was a bit taken a aback there because i saw expectation that was it, but I thought I misunderstood.
+
+Client 2|Client 2: Mh and now I have a clear idea but do right. That integration is like an at price.
+
+Host 1: Yeah. And so it... Because you guys have employees all over the globe, High bob and Bamboo Hr, both do that.
+
+Host 1: And high bob seems to be a very popular one of with like, the smaller companies. So I think that... I I don't know the pricing of either one, but they both, I think accomplish the same thing.
+
+Host 1: Yeah. So this other recommendations potential looking at.
+
+Client 2|Client 2: Please put the names across my make don't mind for sure.
+
+Client 2|Client 2: Thank you so much. Oh, hi, Bye bye, ma'am.
+
+Host 1: Okay. Yep.
+
+Client 2|Client 2: Yeah.
+
+Host 1: Perfect. Then I'll send them over email to just in case, you know, I know the chat goes away. So I'll send over the invite. I'll send you some information and we'll talk in two weeks.
+
+Client 2|Client 2: Yes. Thank you so much, Cheers.
+
+Host 1: Have a great day.
+
+Client 2|Client 2: Talk in too.
+
+Client 2|Client 2:

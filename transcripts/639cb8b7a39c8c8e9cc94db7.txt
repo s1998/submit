@@ -1,0 +1,95 @@
+Client 2: Hey flo. Can you hear me?
+
+Host 1: One two one two one two?
+
+Client 2: There we go. How are we doing?
+
+Client 2: Right. Can you hear me now?
+
+Host 1: Yes. I can hear you. How's going?
+
+Client 2: Amazing. Happy Friday. How are you today?
+
+Host 1: Indeed. I'm good. I'm flying tonight to paris. I'm I'm I'm pretty good right now.
+
+Client 2: Pretty. Be better once you get to Paris or not excited for the flight.
+
+Host 1: I know be fine. I'm i'm excited to see my family and eat ton that cheese and butter. So yeah. What what about you? Any doing anything fun for the holidays?
+
+Client 2: I'm going back to Seattle. So a little more seafood and less cheese and butter. But that's gonna be next week. So I think I'm It's our end of quarter right now. So I've got a lot of things going on today and We'll see how late I'm working tonight, but Yeah. Hopefully, I can get some fun plans go. I'm in I'm in Los Angeles. So be flying out to Seattle on Wednesday.
+
+Host 1: Great. Awesome. Are you are you usually based in that like?
+
+Client 2: I am. Yeah. So I'm usually based in La, but are main go to market headquarters are gonna be in New New. And our technical offices are really based in Bangalore. So i get a little more into that. Yeah. Quick introduction to me. My name is Jack Manager, I lead sales and partnerships here. So obviously, you're just going through and doing my research. Seems like a super interesting product. But... yeah, I wanted to hear a little bit more about, like, what piqued your interest in reaching out, and then we can go and really attached to how interpret might relate But... yeah, we'd love... I obviously know your title. Would love a quick introduction around what piqued interest in anything that we were putting out there? And how we might be able to shape this call for today.
+
+Host 1: Yeah. So we're building a bunch of of brand new products and targeting up a bunch of like brand as again very you to us. And so we're doing a donna of research there almost too much we're really trained to, like, arrival heights nothing only around the problem space but are also around the market has a. So for context starting going more to target at salespeople. So really just wanna like, understand that lies, and understand all the tools they're using. And so I say we're doing it done, I I think we have actually taken something like three hundred pages worth of nodes for use refill build it last to like two months. So, yeah, I saw you guys in all honesty the... I'm also just, you know, going down the Ai rabbit hole and, like, super interested in in the kind applications that people find you know, on a large language models. Also if you have find the way to organize or resell and and extract insights it.
+
+Client 2: Awesome. Yeah. So obviously, with those three hundred pages of net. Like, how are you guys quantify where where is gonna be good to focus or What is that? Like look like today. Are you guys using feedback to also kind of planned a map or just tell me more about the the research process and it maybe what what the feedback side of it looks like right now today.
+
+Host 1: Yeah. So we we keep a pretty close ear to the ground and we we we all all the time. And so I wouldn't say was super systematic yet about the reporting side of things like the to to quantify qualification side thing we take a ton of notes talk to our users, and pretty often is pretty obvious with the next phase based on his positions.
+
+Client 2: Got it. And where like is it mostly road map planning or is there also like, how do we improve the current state of the product?
+
+Host 1: It's it's both. It's it's it's a of both. By the way, I... I'm just realizing and I received an notification from my calendar bill like I i don't know why it's sorry that. I think my I'd means Grow and I I have only fifteen minutes. I have a a hub in fifteen.
+
+Client 2: Good to know. So I'm happy to go through a little bit of a demo just to see if it's worth continuing the conversation in a second here. For you guys today. So where sets is we take wherever the voice of the customer lives. We unified in one place and apply a really granular taxonomy. So that instead of having to go back and look at high level categorization. You can actually see what what the outcome was from a certain interview or a certain feedback record. And so what I'm curious to understand and what will help me lead the demo a little bit is a lot of the problems that come up with, like, customers like notion of ours or Fig was they had all this feedback coming in. And they were spending hours and hours trying to manually categorize everything. Or they had it in a high level solution that didn't really help them inform decision making. So I'd be curious to hear, like, if there's anything breaking down your current process today related to the amount of feedback coming in? That might help me shape what I would show in the demo here.
+
+Host 1: No. No nothing like that Yeah. We we spend a film of time, like, analyzing and we're reading all those and trying to size them. So yeah, if few hours we stay on there, but Yeah. It's not... I wouldn't say the is is programmed just yet. Yeah.
+
+Client 2: Yeah. And maybe we'll give you a sense of where we sit just because then there might be a time where it does become more of an issue and we can come back to this conversation. Can you see my screen right now? And yeah. Perfect. And so what I'll show today is a instance of interpret using Zoom, so the video service that we're on right now. Using their public facing data set. And so we'll come back to here in just a second after giving more context to the structure. These are all of the integrations currently connected. I know you're... I'm heard of you from Twitter actually previously before? So if there are areas that you would wanna plug into on Twitter, going in what people are saying, the sentiment as well. That's something we can pull from there. You're not gonna care as much about the place for the App store, but maybe G two crowd or trust pilot or something like that. These are all of the other integrations we offer Are you guys using, like, an intercom for support today?
+
+Host 1: We do... We we we use them help scales. Yeah.
+
+Client 2: Okay. Great. And from the analytics side of things, are you guys using any tools like an amplitude or a mix panel?
+
+Host 1: No. No. We use... We have a own analytics stats. Stack. Built on the hex And I mean, bike train Tl, Got it.
+
+Client 2: And then last question there was, are you guys for doing those research interviews you recording then it looks like we have some no takers on this call. Are you guys using a tool like gong?
+
+Host 1: We know we're building a on one, this is a whole and thank here here.
+
+Client 2: That's what I was interested about. And maybe there's a partnership Angle so I lead partnerships here as well. To explore after this. Because a lot of that if you are gonna be doing a solution like Gong, and people are gonna be using it for sales calls and interviews, there might be some value in allowing an integration with interpret. But We'll go through taxonomy here. To give you a sense of what we do. So on the left, we have all the different track keywords that Zoom might care about specifically. Again, this is all just automatically generated by interpret out of the box after a two week implementation, you will have your own custom machine learning model. And then from there, you'll be able to see things like okay. Presume these are all the track keywords they care about, like, two factor authentication. All the way to audio issues And then when you click into any of these track keywords, you can see all the different feedback records where this comes up. So the problem here would just tracked keywords is I'm still having to read through eleven hundred feedback records to try to inform a decision. And so we take it one step further with what we call reasons. Which is the s semantic meaning behind a feedback record. And so instead of just looking at audio issue, you can see a really specific reason like unable to hear audio when voice is loud. So a granular trend that's worth noticing from a product perspective. In order to shape the strategy from there.
+
+Host 1: Yeah. Did you say you you integrate with Gong, like what what what kind of integration do you feel there?
+
+Client 2: Yeah. Direct integration. So here, like, I'm looking at a reason called unable to hear audio and invoices loud. Right now we only have play store looks like app store feedback in here. If there was a gong record in here, you could go in and not only, like, look at the feedback where it was being pulled from but play that snippet of the audio as well.
+
+Client 2: Alright. Any questions here before moving on to like, actual part. Like, think of this more as your like, gloss per customer feedback?
+
+Host 1: Well it makes sense?
+
+Client 2: And then it this all powers how you can go about understanding what people are saying across the board. From user interviews or just customer support in general? So looking at quan we're looking at all the feedback records over the last twelve weeks and these are all the top reasons associated with it. And so I can go over like, what's being reflected here, but if I'm a product manager, which is really who we focus on building for. I might wanna figure out maybe where where is the friction today in the customer experience. And so instead of just looking at all feedback records. Maybe I only wanna look at feedback records where the sentiment is negative. And so now I can quickly see that. Okay. Unable to hear sound. Unable to log in and facing network connection issues. Those are three core areas with over a hundred feedback records associated with it. So maybe we wanna go and focus in on how do we fix these. And so what you can do from here is you can go and maybe look at the feedback records individually. Or share some of these specific feedback records with the relevant people to see if they wanna make a decision on something.
+
+Host 1: Yeah. Is great.
+
+Client 2: The other... From from your level, I think what would be very interesting is the ability to see okay. How has this been changing over time? So we have this unable to log you issue. But we released this new capability that we think was gonna increase it. Did or decrease the feedback there. Did that feedback in that area actually decreased over time.
+
+Host 1: Right. Yeah. It is... Yeah. He's pretty awesome.
+
+Client 2: So for for you guys today, like, how much how much feedback is really coming... Because it doesn't make sense to use a machine learning tool if you can read through all the feedback records yourself for individually. I'm I was curious, like, how much feedback are you guys getting from support and then research as well. You mentioned, like, three hundred pages of nodes, but Is it you're you're getting, like, hundreds of feedback records a month, or what does that look like for you guys?
+
+Host 1: Yeah. I think it's... Yeah. It's like little bit like heavy I think again today because we are starting to focus on a like we'll great to get feedback about the existing product as much as we're gonna get notes of user results jazz and market results jets. Then check I I I have a few minutes left. How much cost Yes.
+
+Client 2: So the what the things that we look at are just the amount of monthly feedback that you'd be sending to interpret. So as far as if if you were to give me like, Yeah. I'm confident. Our our estimate is around five hundred. I can give or a hundred or so. I can give you a little bit of a ballpark estimate there. It'll be around like, well under probably twenty seven thousand dollars for a yearly commitment. And again, I'm not sure exactly to you would said, but that's sort of the the beginning cost or something like this. Think there's still a lot of work that needs to be done on my side, just understanding your guys use case a little bit better. I did wanna give you at least something to go off of for future conversations. Is that something that's, like within the wheelhouse, obviously, we'll we'll be able to give you a little bit more of an exact estimate if I knew the numbers there, but to give a high level like, top level range there.
+
+Host 1: Yeah. No. It is it is way too expensive for us for. Cheap on naval cheap not It does sound like you guys might be targeting a bit more like almost like an price kind of segment. Yeah. I mean, for us right now we'll like you know, yeah. We we we have... you know, if you heard pieces of feedback of almost like the fact that we read manually because, you know, we I think I like the fact that dolby be like, well, not at the stage yet, was holy guy. We have no idea what's going on. So Yeah. Twenty seven thousand is is multiple times the maximum we'd be ready to pay here.
+
+Client 2: Yeah. And like i was, like, the way that this helps is as if you have so many feedback records that you don't have time to read every single thing. Right? Like, the value here is instead of your team, reading everything every single thing at the company and then figuring out which ones are focused for them. The value here would be you would be able to separate that out earlier on instead of having them to read through all of that put right now today like you're saying there is a value in reading through everything themselves. You will get to a point where it makes sense to to maybe not have to read everything and spend those hours and hours every week going through feedback records that don't relate to their focus. But right now, my i'll make that at sense.
+
+Host 1: No. One hundred percent. And and by the way, you know, salesforce like way I think of the roi of this is more like I get all of my engineering team because I I I send them in the right direction.
+
+Host 1: Right? So not as much like the will that that would save on my side because like, that's that's fine like my time is both out and my kids is time will set us, but like, really, it's like my engineering time closed dot. Have like twenty engineers like i like, millions of dollars a month and so like, it's just like, I need doesn't point of like, hey, like, you're just going in a slightly better other direction, like, wasting single your time. I think the have you could with that is like, hey, have you ever spent like three or six months working or something that just that didn't matter. And then so was the thing is, like, Yes.
+
+Host 1: On admit but it's true yes for everyone. That's the real all why for me. I got go, but... Yeah, this is great. I mean, frankly, yeah. I I don't think we would be able to work out because... Well just too cheap and you guys might be, like, targeting a different segment here.
+
+Client 2: But with that, like, range d that would work for you guys just so that I have that on my end. And maybe can take that back. So my my founder Bur had actually been, like, oh, wow, that's flow contacting sales here like he had seen you from from Twitter as well. So in terms of any discounts there. I've I've more belief in him accepting something with with you specifically, but if we're way off then then no need, how what was that range that you were thinking?
+
+Host 1: Thousand the year.
+
+Client 2: Okay.
+
+Client 2: Yeah. I'll I'll go and chat with him about that. Obviously, I still think Maybe timing in terms of the amount to feedback records is, like, a few months down the line. But I'll reach out on Linkedin and connect, and I know you have to hop. So we'll be in touch maybe over an email as well.
+
+Host 1: Awesome. Alright. Thanks for that, Jack. It's been great.
+
+Client 2: Great to meet you. Have a good day. Enjoy the bread.

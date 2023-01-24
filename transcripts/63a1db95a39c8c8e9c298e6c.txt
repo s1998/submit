@@ -1,0 +1,757 @@
+Host 2: Hey, Topper?
+
+Client 3: Hey. How's it going?
+
+Host 2: Good. How are you?
+
+Client 3: Good.
+
+Host 2: Thanks for making the time where are you coming from?
+
+Client 3: We're in Utah.
+
+Host 2: Oh, great. We're running you guys. City.
+
+Client 3: Just south of salt lake in a city called Le lehigh.
+
+Host 2: Okay?
+
+Client 3: Great yeah.
+
+Host 2: See Rabindranath and Enrique from the team join inc. Rabindranath and we are we expecting Harrison as well?
+
+Client 3: I'm not sure. Let me still i can real quick.
+
+Host 2: Irene? Enrique No.
+
+Client 3: I don't think he's Jumping on. I think it might be out today. So we can just go.
+
+Host 2: All good. Let's do it. Thanks for make the time. So I believe that At Gemma, leads lee introduced us. Is that is that right?
+
+Client 3: Yeah. Someone scheduled some time I don't remember who introduced us, but yeah. Yeah. Yeah. It was.
+
+Host 2: Yeah Yeah. Know.
+
+Client 3: I think Harrison I have a connection with her. I don't have too much too much background for the call. So Yeah. She just reached out and coordinated some time to meet with us. So Okay.
+
+Host 2: Alright. So let's let let me write in then about the contact so. So we also the team at Sales ai we are building sales tooling apple sales teams. And the few things we're building right now a dial, but I think most relevant to this conversation is that intelligence now.
+
+Host 2: Yeah. Yep. Okay. And, yeah, I mean, lisa and I were at... Please has been a design partner for the of product. And where we all now it again, was super early, we're looking for these same. The way we're positioning of sales g's, we'll so kind for that out. Right now, the the best way we found to to position ourselves like kind of like Gong, more targeted for like smaller companies like you. So Gong is super expensive. We were engaged with them and I buy them because it's like nine thousand dollars minimum a year I'm like, it's just... It does make sense for us.
+
+Host 2: And I have I haven't a call of them on Friday.
+
+Client 3: So I'm glad that we're having this conversation now.
+
+Host 2: So I am am glad as well. So Yeah. That's the for this position is... Again, it's very early. We started building this few months ago, but we've been moving super fast very frankly we're not on parity yet with Gong, but we have, like, eighty percent of what you need the to let gong and soon we're gonna have arguably more than gone. Let me show you what we have now.
+
+Client 3: Can you see my? Yeah.
+
+Host 2: Okay. So we have a few things. So we recall your goals can see in this meeting, the our meeting deals have joined the meeting. So that's That's what's going on. And when your pull is over. You can see the you can see it here, you can see the recordings in your on your home page like cell ai dot com. You can watch the recording?
+
+Host 2: Nice can you can see the the transcript here.
+
+Client 3: Yep.
+
+Host 2: You can see the summary. So like, this is a little, like, grain like I think that Gong doesn't have.
+
+Host 2: You can see here the metrics. A lot like, hey, like you're sitting too med so duck. You'll no that enough interrupt too much to merchant installing circles.
+
+Host 2: And then the rebuild magic of it is we actually update your salesforce for you.
+
+Client 3: I used to be a... So I I ran a revenue operations at my last company. And so I I was our Salesforce admin and had to we we use Chorus.
+
+Client 3: As our tool at the time. But yeah, this is all anything there.
+
+Client 3: Or integrates really well.
+
+Client 3: Our Crm is great.
+
+Host 2: Yeah. So do... Do you use still steering?
+
+Client 3: Use hubspot.
+
+Host 2: Okay.
+
+Client 3: So we So I'm sorry?
+
+Client 3: I mean, we're small.
+
+Host 2: So Yeah.
+
+Client 3: Hubspot still still sufficient for our needs right now, But hundred percent.
+
+Host 2: Salesforce is is definitely expensive. So we we don't integrate with hub but yet, but if if this feature is really important to you, we're very happy to discuss and integrating ways with hap hubspot difficulty Okay.
+
+Host 2: The way works is, we you actually select which of fields we you you like you would like us to update at the end of your meetings. And then we use a ai. That, like, listens to the composition and, like, fills up the fields for you automatically. So like, including next steps, and, like, anything you might have in your any field that you might have in you in your have we would be able to do that for.
+
+Client 3: Okay.
+
+Host 2: Any questions of all.
+
+Client 3: No. This is brilliant.
+
+Host 2: Thank you. I don't know I'm showing that window on my screen. Can you see this design here?
+
+Client 3: Yeah I can see the fig as well.
+
+Host 2: U. You a few those things were working on the document gonna come very soon. And by that, I mean, thirty to forty five days, One of them is this insight here.
+
+Client 3: Mh.
+
+Host 2: So you can see the next steps that we'll test, we're going to remind you if you're not doing the next steps like So Sales said, I'm gonna send you calendar invite and then they don't do it. We're gonna remind them. We're gonna prevent deals putting through the cracks like that And then we're gonna surface things like what objections they mention what you did not like another the product what competitors deals did they mention in this example, you mentioned cross, so like it would be soon here.
+
+Host 2: Consumers did they have a better product and you would be able to pick on any of these things and jump to the point of the where it was mentioning. Does that make sense?
+
+Client 3: Yeah.
+
+Host 2: And finally, go ahead.
+
+Client 3: No. I just said, wow.
+
+Host 2: Thank. You. We which part of that is is causing the wild effects?
+
+Client 3: I like the objections piece, Right being able to kinda plug and play having like something that's already built out, right, it's more of a drag and drop type of solution as opposed to to fill out a bunch information.
+
+Host 2: Yep. One hundred percent. And and the last beach that's coming very soon is you can see the Two engineers all working on this right now. Is the connecting bit. So you can you can watch the recordings of the sales goals that your team had then you can leave command specific so you can be like you'd like.
+
+Client 3: I see what you're saying. So multiple people that have access to this can come in and drop comments. So Harrison was like, hey, I have a question about this portion of the call he come in dropped comment.
+
+Host 2: That's right, and you can drop a comment on you're reported to tell them like, hey, when a customer has this objection, this is the right way to handle it.
+
+Client 3: Okay.
+
+Host 2: Right? This is the way you install this. Please, you know, you you spoke too long here. Please like to spend multi pool building, go all of desktop stuff. Is that sense?
+
+Client 3: Absolutely.
+
+Host 2: Yeah. So... There's there's a few things that I'm I'm looking to get out of this. So The way we're thinking about the market is gong is too expensive. They're really focused on enterprise Yeah. And I think there's a huge segment of the market, which is more like the Smb market where you and I live, That's. By god. Like, we don't need all the bells in whistles that we're looking something that's like we're going, and and we don't want spend like ten thousand dollars a year.
+
+Host 2: Okay. Yeah. So that's that's what we are right. We are in the state wheel in private beta right now. So we're looking for design partners. And so when when private without logging to be cheap bills and usual, What you get to what we get from having you as a design partner is, you know, we stick with you once a month wants to written to once, we may send you, like, the other question the to often on Slack. Can what you get is you get access to the team. We know a single tool by this industry at this point. And you get to shape the product so that each feature use case just so. And you get, like, cheaper access to the product level and better.
+
+Client 3: Sense. Yeah, Absolutely.
+
+Client 3: So and then from a product standpoint too, so obviously, any feedback that we have for you guys, we'll we'll relay that information over just in the form of, like, I mean, do you guys have, like, a specific document you sent out that we can fill out.
+
+Host 2: Yeah. We may... I mean, you... You're going to have a direct line to me into the rest of the team. So there is good feedback thing here as well. So at any point when you're using the app if does anything you like anything you'd like to see you can like type it here. And when I go Slack, you can shoot me an email.
+
+Client 3: Yeah. Okay. Cool. sorry. Harrison and just text me. He's in the waiting room right now.
+
+Host 2: Oh, it.
+
+Client 3: So yeah. You'll might have to so Harrison is... So he was the Chief Technology officer for Fashion nova before starting protection dot com. So he's he's very product focused. He's gonna love a lot of these things that I think you guys are building. I think there's a lot of cases here, especially for for the sales and customer success team.
+
+Host 2: Love it. Adrian.
+
+Host 2: How are you and let's get connected with you.
+
+Client 4: Through to list Yes.
+
+Host 2: Absolutely. Yeah. Thanks for making the time. Alright. So. Would would you like me to spend a few minutes bringing up to speed on let we discuss of all.
+
+Client 4: No. Talk to me about it.
+
+Client 3: And the calls is recorded to so we can send it over.
+
+Host 2: Actually second. Yeah. I can demo that feature as well.
+
+Client 4: We need to send that center recording all.
+
+Client 4: Well, that's what to help.
+
+Client 4: When when you guys record a demo call, does it automatically sync to your Crm or How does that work?
+
+Host 2: It it does. So it's going to log an a call activity to your crm. And it can also update any other the field in your crm. So it's using Gp three get a It's using Gp three toyota to automatically x extract to reply to any fields that you have in your crm.
+
+Client 4: Okay. So you're tool when we can use it to do a demo call And then when we're done with the demo call, it should just sync the recording into Hubspot.
+
+Host 2: That's Well, we we don't support have hubspot yet. But we real soon.
+
+Client 4: And.
+
+Host 2: Let's start up. So frankly, it's not immediate tom road, but if that's what's blocking the deal, you participating to the better we can make it happen in two weeks.
+
+Client 4: Okay. Yeah. I was actually just having that conversation last night that we need something that just automatically syncs to to hubspot Yeah.
+
+Client 4: We kind.
+
+Host 2: Could you be looking for?
+
+Client 4: Just the link. If it could take the link and associate it with the field and hot hubspot, then you know, at least the sales guys don't have to manually do anything after they get off a demo call.
+
+Host 2: Right?
+
+Client 3: Because right now it's pretty lucky recording something on Zoom. Right? And then it's it saves a file to your file a while.
+
+Client 4: And it takes allow for the recording yeah.
+
+Host 2: Yeah. So you know case Go ahead.
+
+Client 3: Oh, sorry Just said it's too many steps currently. Right. So that would be really nice Yeah.
+
+Host 2: So another thing we offer is can you see my slack here?
+
+Client 4: Yeah.
+
+Host 2: So we offer you slack... We we send you a slack notification meetings the older. So that that that actually another the form of. Yep. And you can also... We we we can also set up a a channel twilio team to receive slack notifications for any demo that happens. So like you will be able to keep an eye happening and what was said during the demo on in.
+
+Client 3: Do you guys provide any type of repository just through the platform? So outside i'd here with the crm.
+
+Host 2: Yeah we.
+
+Client 3: Okay. Cool. Then we can just view here.
+
+Host 2: Exactly. So you have like right here. So this is my meetings. This is my Team's meetings.
+
+Client 3: Nice.
+
+Host 2: And yeah, I can see all the demos that happened in my teams ever.
+
+Client 3: Okay. Cool. And the transcripts included in that repository or is it just the recording?
+
+Host 2: Oh, the transfer are created. So if I click here on any of these recordings. I can see the i see I can the transcript.
+
+Host 2: So Gong boom. I can see the insight and I can see the the the self closing integration.
+
+Host 2: Absolute Okay, Sweet.
+
+Client 4: We're using a program like this. We're not not everyone on the team as using but we've been playing around the called Fathom Have we heard that.
+
+Host 2: Yep.
+
+Client 4: But you think a it's about. I have personally only read the transcript which to look pretty good and guess like the Ui design looks looks pretty good, but I haven't played around with the collaborative aspect of it or anything? Think Ran on your site. You guys are wanting to do more things for internal sales teams too. Alright? To talk on to do, like, power hour collins lanes and whatnot. I don't think Fathom does any of that. It's just the single recording functionality.
+
+Client 4: That's right.
+
+Host 2: Yeah. We we'll really more focused on, like the sales use case. So Saw is really more horizontal. Do you also have even email the as deal? Anyway, I feel to ask you, Daniel, like, what can you tell me a little bit more about your team? Like, how many folks do you have which your sales motion like installments so forth?
+
+Client 3: Yes. Our our team is comprised of four Sdr right now we have a partnership guy, and then we have three account executives. I'm also selling as well. So it's it's a lot of different hat wearing, and then we're looking at hiring like a marketing personnel, but in terms of our sales team we're pretty lean right now. So about eight people. We're gonna bring on two additional Str sdr which is why we're figuring out some a few things on the process side. So we use outreach like our our standard outreach tool, Helps hubspot for our Crm. So there's quite a bit of cold calling happening on the Sc sdr team. Dials days around sixty to seventy dollars per day. And then that roughly translates for the product and service that we're selling roughly translates to ten demos booked a week. across our our Sdr team? And that's just from cold outreach. And then we have automated our outreach sequences through outreach. They go out in different cadences targeting different customers that we scraped from from various tools like Apollo and and zoom info.
+
+Host 2: What what do you use for your dial?
+
+Client 3: We don't use anything right now.
+
+Client 4: I was any my questions here? If you guys are doing anything with the dial.
+
+Client 4: It's so funny as... I just had this cover conversation night. I'm like, maybe we need to use a dial and Yep. Maybe we need to use something like this.
+
+Client 4: Well well we love too by the way.
+
+Client 3: Yeah.
+
+Client 3: Basic.
+
+Host 2: I know.
+
+Client 4: You'll so that. We just hired a Vp of product design who's redoing our site and everything in Fig. Let's He's built a whole design system permitting. Really Couldn't leave without it.
+
+Host 2: Yeah. So we... Well, we really believe it will also building a data, actually. So the way was thinking of ourselves is like a little bit like gong, so we all go an intelligence tool, more focused on Smb really focused on sales.
+
+Host 2: In, which is really more horizontal also really focused on sales, but more Smb, with a little bit more of a focus than Gong on sd use case.
+
+Host 2: So we have this data. Are you family familiar with a poll day a little, like, around the, like, Yeah.
+
+Client 4: It hangs up the ones that don't answer. Right?
+
+Host 2: I'm sorry?
+
+Client 4: It hangs up the ones that don't answer, something like that. Like, it'll dial ten numbers at once and then only connect you with the one that answers. That's right. Yeah.
+
+Client 3: It's pretty hard.
+
+Host 2: Well can tell you we use our markdown to until our alone data is ready. And it's doubling the productivity of all these deals easily.
+
+Client 3: Yeah. Well, that's what... That's one of the reasons. So and we're doing this analysis for next year. And Harrison, I haven't... I haven't gotten Harrison to completely up to speed, but in terms of like, hiring wise i'd like to increase the productivity of the team that we have now. Both on the Ae and Sdr side. And if or or like something that you guys providing, is gonna help us do that, I'd rather do that before hiring a bunch more people, especially in the type of market the tech is in currently? And just utilizing some of these tools as opposed to over hiring. Right? Like, we still we still plan in the Sdr team, but if we can provide them with a better structure and and more automated tools. I think it's gonna be gonna be a game changer.
+
+Host 2: One hundred percent Yeah. I mean, I can tell you Always deal spend almost half of the time just listening to today. Like. That's just is like, half of time this way here. This is what kind is like, hyper drive. Nutshell of the of the copy here, but I can tell you it's almost addictive once you've used the pilot dial because connected immediately.
+
+Client 3: That's.
+
+Client 4: Yeah.
+
+Client 3: I think i reach calls that if you make a hundred calls day and you get connected to ten people, then you spend ninety percent of your time trying to get connected there.
+
+Client 3: Yeah.
+
+Host 2: Yeah.
+
+Client 3: Yep. Well I just think too think Outreach, there's a lot of weaknesses within the platform. And if we're relying heavily just on outreach and populating from populating contact information from other resources, Both on our sales ops guy and on our Sdr team, it's complete waste time.
+
+Host 2: You what do you mean just like manually scraping specific list from Apollo getting the typed information and uploading them into specific call list for individual Sdr to call on a daily basis, That's kind of how we're working it right now.
+
+Client 3: Does that make sense?
+
+Client 3: So we're cheer specific call lists associated with tasks for an Sdr So we'll assign an Sdr like hundred tasks on a daily basis. That they have to get through in terms of dials. And those that contact information is being scraped from list that we create in apollo based on targeted accounts that we're trying to go after. But because there's so many shopify stores or e commerce stores in general, the curated list are just basically like these these mass list and a lot of times, you know, we could be targeting the same people. We don't have right now, we're trying to refine this approach. And I think getting more automated on that side of things will also help us kind of crank through some of these these less targeted lists that are less specific towards some of the targets that we're trying to hit.
+
+Host 2: I see. So you're saying like, you're least just on super optimal yeah like, you're getting a lot of allegiance this listed all super relevant to you.
+
+Client 3: Correct. Got it. Yeah. And so part of it too. Part of it too is refining list, but also, if we can automate some of this process of of getting through the weeds. Getting actual you know the things that we're trying to get to, will help us kind of reduce some of the time that we're wasting with just contacting people that aren't Aren't a good fit.
+
+Host 2: One hundred percent. Can you give me an example of like, the... What what's the biggest book at the folks another a good pitch system the are finding their ways in this list right now.
+
+Client 3: I would say people that don't qualify or the type of products or service that we're selling. And what I mean by that is one they're not there enough order volume. One they haven't completely launched their site yet, their sites down, people that are selling two high risk items. Right? They could be really expensive items I mean, there's there's a variety of different things that wouldn't qualify a deal for us. Just because we are like a package protection provider, right So we ensure an order when it goes out in shipment. And then once it's in transit, we're basically protecting the customer from anything to to that order in transit. If something happens, they file claim through us. And then we process that claim. So realistically they're in terms of the unit economics of that store, the number of orders they're doing on a monthly basis versus their average order volume. Sorry, their average order value. There needs to be a fine balance so that we aren't processing too many too many claims at a high price point in which would obviously make us not profitable on the account.
+
+Host 2: Got it. Have you started of doesn't Apple let you feel still by employees. We within that sold a lot of these disqualify, which is like a too small or yielding small auto audio or or what that?
+
+Client 3: Yes. Sometimes number of employees is kinda difficult. We work with, like, a couple drop shippers that have run pretty lean teams, but they're doing an insane amount of order volume from a shopify perspective. And then there's also just... I've worked with some teams. That just... Where some brands that just run a little bit leaner. Are and still they're able to to do quite a bit of volume. So it's kind of there's sometimes it's kind of a guessing game, and it's not until we are able to wanna either have certain permissions granted to us so that we can see order volume. On a monthly basis or, like, look at historical data. But, yeah. So, I mean, in terms of this tool, I think. I don't wanna get too far off on on this tangent. But in terms of the the automated dialing, I think it's yourself a lot of problems, especially if we ramp new Str sdr Yeah.
+
+Host 2: So Like I said, i well very early the in the pilot data project. We're gonna have the bit already around mid to end of January.
+
+Client 3: Okay.
+
+Host 2: The visual going full here is like... I mean, again, we have a sales team. So for like, this is a give like a lot business that we used to have. And we have a sales team of roughly the same site as usual well, like seven books.
+
+Host 2: And lot observation is just like the stack is a mess. It's it's there's way too many tools that they don't play well together and it's we have to train off folks on like, seventy two. It's just like a nightmare way to manage all of these videos. Sometimes i joke to the team that we almost have like more vendors deals and customers at this point.
+
+Host 2: I will vision is like, We well we'll integrating all of that. So creating an ecosystem of sales students that play well together, you have a single bill at the end of the month it cost you a lot less money than if you got to subscribe to all of those at one day one.
+
+Host 2: Right you to train want to manage. One account have just one application. It just stay all better together. And we're starting with the conversation intelligence speech that they showed you ends the dial that they showed you Okay.
+
+Host 2: Well is the other thing you mentioned Harrison, which is to Salesforce. The sales is I can still to you actually right now I'm using it right now. It. So you can you can see the team dial and you can over here the dials. Like it's smells like your sdr when you want like shadow or and and see what they're saying And listen to them well and.
+
+Client 4: And then their camera just always on or how does that work?
+
+Host 2: No. You can you can decide. You want to be can otherwise, You can tell it out.
+
+Client 4: To you. I'm saying that... Oh, okay. But it doesn't ask them. It you can view it or anything basically just like when you're logged in to team low, then you can have your camera on and like Zoom, and it's just kind always on.
+
+Host 2: That's right. And so you have these different touch here on the left that you can zone each button Each part can be, like a you know, a coaching part like a dial or or like that.
+
+Client 4: Got. Do you ask people to keep their cameras on? Much as possible or they just wanna keep them on No.
+
+Host 2: It's really up to everyone. Like, you can see here, goes Brandon.
+
+Client 4: I think most of these folks.
+
+Host 2: But it does. It it's really depending on like what Hp is with.
+
+Client 4: This is really select. Looks like the Slack interface. Nvidia video, That's. Yeah. Yeah.
+
+Client 4: Miss. And when this was like, my friend has a small startup up they might be able to work with you guys. I was thinking maybe you guys were, like, seat around, start up or something Don't know what you guys off in one time. Schedule raise a lot of money.
+
+Client 4: They're like, oh, yeah. I do. I do talk last day. Maybe I can help him on.
+
+Client 4: Talk the back.
+
+Host 2: I I I think you can. Again, right now actually, way you might most be able to help us out wouldn't be money would be again. Like.
+
+Host 2: Giving us a ton of feedback not missing wheels if something so it's just not good All doesn't still real time you would like we'd love to hear it now. In one year Then other things compared to gong right now in your mind.
+
+Client 4: I haven't seen gong Not sure.
+
+Client 3: Yeah. I mean, I was just telling to I have a meeting with Gong on Friday. I met with Gong in my last company two. In terms of what you guys are offering, I think, think you're right. Right? I mean, we can't talk to about at be end.
+
+Host 2: I can hear can you hear me?
+
+Client 3: Yeah. In terms of Gong, I think you're right. Think what we talked about at the beginning of the call. I think they have a lot more features that aren't really designed for a team size. I think it I think Gong scales really well. But I'm I'm also very much a believer in running more of a a lean sales team. I came from a really big sales team at at a former company where there is sixty to seventy account executives. There just wasn't enough to go around. So I think a tool like this For the size of the company we are is a much better solution in fit. And I'm excited to try it out, because I think a lot of the functionality with one automate automated dial. But then the automation in the eventual integration with hub hubspot is gonna save my reps a time time just hold them more accountable on some of the deals that they have in their their pipeline Would you like me to onboard you right now to the bid?
+
+Host 2: I we didn't tell you you anything just yet can keep the title for a week or two and and see what that is you.
+
+Client 3: Yeah. That'd be great. Is there any type of, like, resources that you guys have internally for for onboarding. So if you roll out the beta, is there... like can we schedule a meeting for like an onboarding with my team, kinda walking through what the product looks like. Yeah. It it seems pretty straightforward and simple to use. But, yeah, with most Sdr is, it's it's not always the quickest process to onboard new tools. So Yeah.
+
+Host 2: One hundred percent. As you said so one hundred percent, I would love to jump on the team in right now, I'm doing the onboarding because I wanna get my ability and and see how react up Yeah.
+
+Host 2: I love that. As you saw, though, the product is super simple.
+
+Host 2: It's very very straight to use. So I mean, do you maybe we just roll it out then flow and then if we have any questions and we can reach out.
+
+Client 3: Maybe that's probably the best approach here then.
+
+Host 2: Yes. That sounds good to me. I Do you have the hot stop are you able to go over it right now?
+
+Client 3: No. I'm able to go over.
+
+Client 4: Add We wanna add anyone else, here I go ahead mark Yeah.
+
+Client 4: It Marks. Have What is this title director of sales stops manages our Sdr team.
+
+Host 2: So yeah. Would you like to take if he's available down?
+
+Client 4: Is is checking right now.
+
+Host 2: Alright.
+
+Client 4: So I I added here on Linkedin then Love to chat time too about start starting to software our company.
+
+Client 4: And been interesting Yeah.
+
+Host 2: One hundred percent. We'd love to connect.
+
+Client 4: Under number.
+
+Client 4: Bear number in the chat.
+
+Host 2: Enrique can you send me Google Meet link and I'll switch to all next meeting to you Yeah.
+
+Host 2: Sure. And Yes. Feel free to send this zoom link twenty one dinner there. Janine. You you want to join us down?
+
+Client 3: Yeah. Let me I just select him. He's on Pacific time. Are you based in San francisco gilbert then?
+
+Host 2: I me Now Yes Yes.
+
+Client 3: My. Flows work in March should be on two.
+
+Client 4: Oh, no I I I mean barry right now, I But, yeah.
+
+Host 2: Usually, I mean, between is gonna new. Yeah.
+
+Client 3: K. Cool. Let me...
+
+Client 4: Jericho Jericho not there either?
+
+Client 3: No. I'm trying to get a... Jericho, yeah. Jericho I were on the phone, like, eleven o'clock class night. So maybe he's And you on the phone?
+
+Client 4: Anyway, Yeah.
+
+Client 3: I don't know. Gonna be on.
+
+Client 4: Can probably... We can probably just take a look ourselves slow and then see. See else we need to get them involved later.
+
+Host 2: Sounds great. Okay. So can use then who who would like to take the driver's to second up account?
+
+Client 4: Sorry. Yeah can Alright.
+
+Host 2: Can you open the link that is in the chat right? Now. And can you sell your screen please so I can troubleshoot if anything happens?
+
+Client 4: Alright create your account.
+
+Host 2: Interesting thing. That's about that's first thing.
+
+Host 2: Can you Load.
+
+Client 4: It's by me.
+
+Host 2: Oh, wow. Alright? Well, This is where you have the engineering team on the phone when this happens is ran around. No is not. Let me chat with folks on Tim.
+
+Client 4: get that Sso sam integration guide. We actually use we off zero for authentication.
+
+Host 1: Well you link should be set up. Right? Not sign up.
+
+Host 2: Oh, my bad... I'm doing one who typed at you, like, Alright. Teach me to. There go.
+
+Host 2: Alright. Good katy. You didn't know anything all New about. Alright. So this is the bit for you connect your calendar. We needed to join your meetings, basically. And your sales meetings and and them. Yeah. This is well still pending verification by Google.
+
+Client 4: So the way you See is like, we we we subscribe to your calendar and we look at Zoom meetings and google meet meetings and we join them automatically.
+
+Host 2: We don't support hap hubspot yet, but like I this is something we can do real quickly, if this is a blood bill for you guys.
+
+Client 4: When we use subs hubspot. So I guess, in order to fully be to test things. We would like to use it, obviously good.
+
+Host 2: I'll I'll chat with the engineering team and see think we can do that pretty quickly.
+
+Client 4: How many engineers? Yeah.
+
+Host 2: Fourteen. Yeah.
+
+Client 4: It's pretty similar to what we have actually.
+
+Host 2: Yeah. It feels like we're right around the same size, was engineering in good market.
+
+Client 3: Yeah. I think we're We're about what thirty five forty employees now? Forty employees?
+
+Client 4: Yeah. Depends include contractors or not. Probably in the twenties of without contractors. Let's see.
+
+Host 2: Not teams. Alright. We're right around the same I'd like to field the flight fully With let...
+
+Client 4: We have raised less money in this in the careful center.
+
+Client 4: I'm gonna have to start backing in this up again.
+
+Client 4: Okay Have run out of money. I have somebody money. Let's see. Dell, do I wanna download the desktop app?
+
+Host 2: Yeah. Yeah. Do you want invite Daniel as well your team?
+
+Client 4: Topper.
+
+Client 3: Yep, please.
+
+Host 2: If you right click... If you go to the top Right? Wow yeah Benjamin keeps so let see that. None of them You'll not go in the top right. Alright Yeah. That go this long. And you click on settings? Oh, Okay. You you scroll down don't know if we have the way to invite Nope. Okay. So, Daniel, if you go to apps l z dot com slash setup. Let me send the link again And you connect just with you all protection dot can emailing doing the same the same instance.
+
+Client 3: Okay. Is it sign up set up?
+
+Host 2: I just said you think... I just sent it again. Okay.
+
+Client 4: Like a product expert at this point. Do I want the arm sixty four?
+
+Host 2: Do you have an One Mac? M to?
+
+Client 4: Yeah.
+
+Host 2: Okay. Then obstacle.
+
+Client 4: Yeah.
+
+Host 2: Less funds and piece of beauties and they've got the same one. Yep. That's the one.
+
+Client 4: You guys he's in, like, a react native or anything or to It's electron.
+
+Host 2: Is react in.
+
+Client 4: Tells Ai runs in the back around every time sales after every sales call, we analyze and show you all the Crm updates. And is it join as another person in the room? On a Zoom call?
+
+Host 2: It is... Yeah. So you can see it in the Zoom call, we have two meetings for gold.
+
+Client 3: Yeah.
+
+Client 4: Does Gong do that too ten? Does it have like, a second person in the road?
+
+Client 3: Yeah.
+
+Host 2: Can you launch against Sylvia you go through spotlight or something like that, it should also open something in the mini but. Think have it. Okay. One. That's it. Yeah. If you close... Okay. So there was supposed to be something in the check what's going on here. Interesting. Alright? Well, let's get then. Tell. Do you wanna do the same thing real quick and and join the instance?
+
+Client 3: Yeah. That'd be great. Just I... I'm I'm inside the application now.
+
+Client 3: You? I'm downloading the Zip sorry. Is he is he gonna add me to the the workspace here?
+
+Host 2: It should be good. You should only be added. If you if you've logged in with you all protection that coming email, you're automatically in.
+
+Client 4: Yeah. I see I see fathom, but I don't see the other one.
+
+Host 2: Yeah. I will check please he engineers and see what's going on here. I'm not sure.
+
+Client 3: Yeah. It looks like I'm in flow.
+
+Host 2: Alright. Beautiful. I think we'll home set up then. So Topper. In know for team to join, you can just send them the same link like the slash link. I'll send you to you after wheels by email. Okay. And... Yeah. If they sign you up then a lot better automatically join that meetings, and you will be able to see the recordings in.
+
+Client 3: K. Yeah. I'll I'll add him today.
+
+Host 2: Alright. Beautiful. Well, it's been the pleasure. Would love to have a follow web meeting... Are you still you're going to take perhaps next week or like that how you are you out here the holidays days?
+
+Client 3: Yeah. We are just the week at our christmas.
+
+Client 3: So we'll be best.
+
+Host 2: Would you like at take time in generates and to debrief and see how things are going Absolutely Let's do.
+
+Host 2: How is January to at pacific time right.
+
+Client 3: Yeah. I'm on a mountain center. I think Harrison on Eastern.
+
+Client 3: So i always the same time probably works How is one two fifteen is turned on january field.
+
+Host 2: See That should be fine.
+
+Client 3: Yeah. That's great.
+
+Client 4: Two fifteen, Eastern? You have Is a have a medium until three.
+
+Client 4: Yeah. We have our actually, our Sdr stand up. At two thirty, so maybe we could do it before then and talk to them about it.
+
+Client 3: Or it. Yeah.
+
+Client 4: Can we do like...
+
+Client 3: Yeah two.
+
+Client 4: Eastern or one thirty Eastern?
+
+Host 2: I can do full easter still. But well... Sorry. I can do full easter know I can do twelve still the east.
+
+Client 4: I'm good for twelve thirty.
+
+Client 3: Yeah. Let's do... Let's do twelve thirty. That great.
+
+Host 2: Beautiful. Alright. Alright. Awesome. So I'm sending the invite right away. Thank you so much for the time. And yeah, let me know how it goes. I'm look to hearing the directions of the team.
+
+Client 4: Cool.
+
+Host 2: Alright. Thanks.
+
+Client 3: Right.
+
+Host 5: Hey.
+
+Host 2: Hey. You healed the whole time, I think I let you pretty late.
+
+Host 5: Oh, sorry. I was I was coming here for the kids c meeting, But I guess that that got moved to a golden meet.
+
+Host 1: Yeah. Little every ten minutes and shouldn't didn't show up. Oh, okay.
+
+Host 2: Then I need to I need to coach myself. Really watch the recording. Those are lot of things missing here. Can't wait for the commanding feature. But did you think you're?
+
+Host 1: It's exciting how I feel like it's either to their simon build as we introduce the other parts of the suite. Like, we're looking for a dial you looking for this? Looking for that?
+
+Host 2: I know it's like shooting fish about. Like, this is so much easier to sell. Like exactly like the guys will like Oh, luckily going to buy Gong like the end of this week, I'm glad talking to your Gong is way too expensive. Then was like we we're like, we're looking for data as well. Like, well, we'll use. See that also are working on the one. So it's...
+
+Host 2: Yeah. It's it's great. Is awesome. I mean I think like, right here man, like, if we can tilt, mean, or is eight hundred. Gong is one hundred. They will back to been like. I mean, up to a thousand bucks a month per percent for like, eighty people. Could like four hundred, which I think is actually possible. Page eight things twelve right here, there's a facility eight grain deal.
+
+Host 5: Not bad.
+
+Host 2: Not that at all. That That's my point about this business. It's just like it's it's way easier. Like, the contract size is wavy existing knock like people who want this guy product. Right? Yep.
+
+Host 1: Love. I'll move on that hubspot integration though. That's what the use.
+
+Host 2: Yes. I was about to ask. Also, do you know if we ended up building that thing or like, we log in call activity.
+
+Host 1: You logged? Yes. I've tested it, but it works. I think Can you ask are you still to test it?
+
+Host 1: Yeah.
+
+Host 2: And you'll also file just do it. When whenever someone signed up and like, the redirect link is like a full full, we should just send them to, like, the right thing. Thing is like sensible default. If you just signed that like, you know, If you just signed up in those like could correct you url as like could heard that right and that's fine. But if doesn't criteria like might as well send you to like the same up. Does that sense?
+
+Host 1: Yeah. We should also just change the slash sign up to redirect this setup. I'll know why there's that's nuance.
+
+Host 2: The solution I I laid that also includes that. It's like a she simple of that. The hot thing. Yeah man. Let's get going on that. I feel like we keep hearing it all the time. Reason why we didn't do it was because we were like, a, like, let's feels.
+
+Host 5: Like, there is no p to Idea let me know there is a market.
+
+Host 2: I telling like there was a Gm to find for cells of ai. There is no find for the position until we can. Both the data. Like, we just know these things exist and there's a market then like, again, like you to older ground game. We've got a we gotta Pretty good. So I hate doing that, but I think we should it in the next two sprints basically. Someone to do that.
+
+Host 1: Yes. We also have comments and snippets Yep.
+
+Host 2: I think it comes before either. Because this is blocking one deal. What's is not? I think comments obviously come to before snippets. I lost it donna small details here Oh did you see that thing that that fathom us? Pretty sick. Please Yep.
+
+Host 2: Out Jebediah.
+
+Host 2: I would afraid fed up guys. Like the going actually still the same use case, they're huge they're, like, putting ahead in terms of okay traction. So they do they show you your current meeting with a lot like the doing teams of folks in a name. I think there's like a huge quality of lighting Can you also work with Brandon and how to out happened well, like the the mini bell icon didn't show up and he doesn't show up with them either.
+
+Host 1: Okay.
+
+Host 2: There is another issue. Can be those. Can you love it just do it for this bit here? Like this copy I I can still on a bit of the copy because the window was all of it, but a logged. You close this window. I feel like this is not great. I think it should go like window Yeah. How I feel bit copy either? Hey. Welcome you recommendations here. Cell ai runs in the background after every sales called we analyze and show you all the crm updates we think are relevant to you. That's a lot.
+
+Host 2: I would just to say, it should be a treatment. You'll all said cell we'll know I think like to say something about how it joins your meetings your Zoom calls and everything we can be like Google meets.
+
+Host 5: Right?
+
+Host 5: Hundred in sales ai runs in the background it joins your meetings. Then after every call, Yeah.
+
+Host 2: Yeah. So Excels ai join your meetings and suggest Sarah. And i would remove Ce ai automatic at the end of meeting. Good. Men the product is coming together, like I'm proud to screw this product. Like when I say it I'm like, yeah, this is something awesome. This is we're like, wait bit on. It just looks great.
+
+Host 5: Yeah. Yeah. Nicely.
+
+Host 2: We also need, like, a public big option deal eventually we need to redo all them look this navigation bar here doesn't roll like, it does scroll with the rest of the debate. It shouldn't.
+
+Host 5: Yeah. Yeah. Let me sticky. And hit that drop down button. I don't know. It's like a pet peeve of mine when the Chevron like flips like that. I mean, that there needs to be like an actual selected state. More than just flipping the chevron.
+
+Host 2: I would agree with that. Yeah. Yeah. Good point.
+
+Host 5: Mean, like, an accordion makes sense show it up and down, but then, like a drop down I don't think so.
+
+Host 2: I also wouldn't do success here. It's like sound like an operation.
+
+Host 5: Like, you know, like I would say Okay.
+
+Host 5: Right?
+
+Host 2: Like. Yeah. Link up Just link up in know we remove the description. A description center. I we really need to step for the video. Because right now, it's looking really like dark. You. I think we also need a need to redo the whole navigation all.
+
+Host 2: Yeah. Just Go ahead, Mark.
+
+Host 1: Yeah. It is a ticket for that all that's for next week. Awesome.
+
+Host 2: Two weeks.
+
+Host 5: And we do need to figure out I think, like, the navigation hierarchy here. So right now, we just have meetings. Like that. It just says meetings at every page in the top left.
+
+Host 2: Yeah. Sometimes saves meetings, sometimes it says meeting So that's the weird Yeah.
+
+Host 2: It is pretty weird. How does top does look on the designs again?
+
+Host 5: I think we had two different versions at some point. Yet. If you go to the left, I think there was on the parent one.
+
+Host 5: Yeah. There.
+
+Host 5: Yeah. I don't know this is.
+
+Host 2: Oh, also Enrique. We need to add that invite your team to the settings. And I don't know why in his case the settings. I don't know you noticed this Spacing was all weird. This Can you see this?
+
+Host 1: Like, the width of this same in the spacing up.
+
+Host 2: This facing video do salesforce to them is that he makes this up. I also feel like the way we're doing to current flow. Well, we ask you whether you own doing team's thing, I think to be different. I think it should be like Do you use Microsoft teams? Or something like that. I think I you i'll few... I was good but haven't seen you know, sale yet. Are we're doing this thing, will we where we can, like, toggle well like the user and double sylvia for any given meeting.
+
+Host 1: Yeah. So that is in the sidecar car design. Ton go for next week.
+
+Host 2: Nice. This is great. On top of it. Alright let's build here. We're not gonna run out of work.
+
+Host 1: Yes.
+
+Host 5: Used desktop banner that banner that show up there on the last page. Does that show up if they've already downloaded it desktop app.
+
+Host 2: Yes. We should we can make sure it does you thought that's correct against to Hermann.
+
+Host 1: Yep.
+
+Host 2: Think i all bit i something like this so we should start Also i you saw like that real state, like when you clicked like there's like a wheeled sup.
+
+Host 5: Yeah. That that exists on a lot of buttons. I think there's some weird Yeah.
+
+Host 5: I don't know what it's happening. Some Css bullet and bleeding out.
+
+Host 2: Yeah.
+
+Host 5: It seems like a lot of these components are not tailwind, but they've mixed in some tailwind ones. Like the avatar and that drop down button.
+
+Host 5: Yeah. They behave much differently in tail end.
+
+Host 2: Did you see the new Enrique?
+
+Host 1: Yep.
+
+Host 2: Really good. Like this is really good.
+
+Host 1: Yeah. I think the only comment for me is it still seems a little bit long a lot of them.
+
+Host 2: I agree. Yeah. Let me let me ask her vincent if we can make them slightly more concise.
+
+Host 1: Yeah. The accuracy... That's good.
+
+Host 5: How does it decide how many bullet points to make? Is it based on the length of the meeting?
+
+Host 1: Assuming there's some max So I'm not too sure.
+
+Host 2: It also to be need here, but it's missing. Animation when your people move like C here, Oh, and way like.
+
+Host 5: Collapse it back.
+
+Host 2: Yeah. Yeah and it's missing a two twin Actually, because we're going to replace these icon by, like right. Yep Think need to this anymore. I'm not I put, like send it delivery time. Like, there's like some ai going on. Everything Ai.
+
+Host 5: Is that what that was supposed to represent?
+
+Host 2: Yeah. Yeah. I think we can remove it and I think free that i yeah I can see Yep. So beautiful. I'm playing with it. Alright. Anything else we need to try. Nope Right? Cool Thanks folks. Steel frame.
+
+Host 5: Oh, hey flo. How long you did fran?
+
+Host 2: Until jane fifteenth.
+
+Host 5: Okay. Sweet.
+
+Host 2: Yeah. Why.
+
+Host 5: Oh, was just thinking it would be cool to to make it out there.
+
+Host 5: Yeah. And just do like, a working session.
+
+Host 5: Thought you gonna figure out who do who it take over there?
+
+Host 2: I will be out that well being convinced from Oh no. I think it's like five two. Paid or. I don't know.
+
+Host 5: Okay. Mean you wouldn't have to be there the time, we would just probably need you for a couple working sessions?
+
+Host 2: Yeah. Come over. The space.
+
+Host 5: I seen this spaces i a roof Like literally or roof...
+
+Host 2: My roof is good apps something.
+
+Host 5: Oh, shit. No.
+
+Host 2: I think there's like, holes in the roof because of some... the joys of home Something happened.
+
+Host 5: God. Okay. Cool. What's the town called that you're?
+
+Host 2: Not too long. It's awesome. Too long is really nice. The France is so awesome. Like, the food is great. It's cheap. Way there is also something to see, like, people all nice... Yeah. The sales is is the best.
+
+Host 5: Okay. Said Yeah. I was thinking maybe just, like, grab Alex and Brian and see if we can, like, just make a little pot and basically build this dial in, like, a week and a half or so.
+
+Host 2: I mean, these guy not looking for it. So I think the moment we build these we're gonna have pretty quickly.
+
+Host 5: Sorry what?
+
+Host 2: These guys, I will bought just out of the call are looking for it.
+
+Host 2: Yeah. Looking for that.
+
+Host 5: Okay. Cool.
+
+Host 5: Alright I think Yeah.
+
+Host 5: Thanks.

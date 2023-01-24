@@ -1,0 +1,241 @@
+Host 1: Maximus.
+
+Host 2: It Hey, Hunter.
+
+Client 3: Everyone.
+
+Host 1: How's.
+
+Client 3: Yeah. Hey done.
+
+Host 1: Holidays.
+
+Client 3: I know. Doesn't feel like the holidays yet. Lie. But doesn't delivery either there.
+
+Host 1: I'm like like, Texas is weird. I've been wearing shorts and then the next day wearing coat, and the next day I'm wearing for again. So Yeah.
+
+Client 3: Funny.
+
+Host 1: Is for returned today?
+
+Client 3: Yeah. I think so. Yeah. Yeah.
+
+Host 1: Yeah Maximus have about for you.
+
+Client 3: Where are you based?
+
+Host 2: In Palo Alto.
+
+Client 3: So similar, so you on shorts.
+
+Host 2: No. It's been pretty rainy last couple days, but The same ana winds will come and go.
+
+Host 2: So we'll get periods of time where it's hot. But usually like October november nice time of the year. And then December January February when we get some real rain.
+
+Client 3: Okay.
+
+Host 2: It's funny. We like pray for. Over here.
+
+Client 3: Yeah.
+
+Host 2: It's we're we're just in a desert.
+
+Host 1: So Hunter, we did get the model yesterday, I think from your accounting team.
+
+Host 1: So Mark has had a chance to look at it. It's seem pretty simple, but I'll let him speak to i take a back on this call let Maximus do thing.
+
+Client 3: Yeah. Cool. Yeah what what it what it doesn't probably do a good job of is we've kinda have, like almost like two separate files when we think of, like Here's our financial statements. They're in Gap form. And yes, we're making like, Eb dock calculation and all that good stuff. But then separately, like, Here's more of the subscription focus metrics, which like, you know, depending on how you calculate that that kinda changes you know, sort of the formulas that go into it. So that's probably something that doesn't show up. As well in this file because, like, the current run rate and the file is like, oh, just take the last month times twelve. That's probably not, like, that's not the most detailed way, of doing it. Know, obviously, you know, you take our active subscribers and then sort of run rate and things like that. You might not do the same for perpetual sales or something like that. So Yeah.
+
+Host 2: Cool. Looks like Amber hopping on too.
+
+Host 1: I think she's just trying to connect to audio.
+
+Host 2: Yeah but hunter I think the key takeaway is that Like, we feel super comfortable with supporting this, the outputs, that we would grab from... So all the inputs are from Quickbooks that's our bread and butter. Then linking those two outputs that you can customize and create the budget versus actual for. It's something we can also do really easily. But it can be more of an automated process. So while you have your budget, say through December for each gl account for, you know, your annual subscription sales, monthly subscription sales. We would automate the flow of actual for November for December into Mosaic. So there is no manual process where you may be updating like those red tabs. In your excel model. That's done for you because we're gonna be integrated to Quickbooks.
+
+Client 3: Got it.
+
+Host 2: Okay. And then the calculations as well, we do have a couple They're called revenue run rate counts, very similar way that you're modeling it where we'll take your Gl accounts directly from Quickbooks annual them to get to that number. But those are also customized calculations.
+
+Client 3: Yeah. That's that's maybe one to, i, spend a second on. Only because I think we talked a little bit about this last time, but it's, like we've got this middle ground of people that are still active, but yeah. In payment failure or something like that. And so we wanna when we're looking at Mr r and Arr, we wanna take the benefit of those folks. And annual analyze them or on a monthly basis, you know, Mr r. And so what happens is our numbers that make it into Quickbooks exclude those people. Because the the numbers that and Quickbooks are literally just like these are the people that paid us this month.
+
+Client 3: So I guess that's kind of a question Of, like, how do we layer that in so that we have that as that's part of that as well.
+
+Host 2: Yeah. I guess where does that data live specifically because what we can do is append your data from Quickbooks to include that. Long as we have, like, a source file, that way That's the big query data.
+
+Host 1: Correct.
+
+Host 1: Correct. Is. I don't i looked at the model little bit. Mark definitely knows better than I do. Is not the only place the big information flows in, or where else is it flowing into?
+
+Client 3: In terms of, like, what's in here, Yes. But like, all of our, like, separate, like, all of our, like, Kpi api, dashboards and things like that are all built some power Bi. When think about, like, churn calculations and customer acquisition costs and all that stuff. That's all doubled up. In from Big into Power bi. I like none of that makes it into this file. Like, this file is very much just like in a lens and our financials. Right? But, like, it doesn't include, like, the full suite of stuff.
+
+Host 1: Got it.
+
+Host 2: So.
+
+Host 2: And on the financial side, feel super for confident. I shared this with our Cs team and our data team. They feel super confident in it. I think understanding that big query data that you're grabbing from Power Bi, And just what goes into those dia metric calculations. Is another call that we would also want you go through with our scoping team and implementation team because the ones that write the Sequel logic to create. Those task metrics? But definitely on the modeling side hunter I feel really confident in being able to create that output Leaandra here's what your take is.
+
+Host 1: Yeah. And I think on the the billing side like you were mentioning, That's a bill that we often do when we were working with Stripe, and I know you guys are working with fast springs. So I feel like because Essentially, if you guys are able to have a linking identifier, Like, where is the account... Do you guys have account level data and also be big part because like, typically, when we use when you use ripe, and people are using Salesforce for each account.
+
+Host 1: We actually link stripe in Salesforce, and we're able to look at things at the account level. That way, even if someone turns, one, we can add in some logic that there's like, a grace period almost, but then we're looking at things on more of an account level rather than, like, a per transaction level of whether it declines or goes through. So i'm aside from big housing the billing data, is there anything else that you would wanna match to that would have, like, more account level detail or is it all on just big way? That's fine too.
+
+Client 3: I mean, everything is in big so that maybe I totally understand your question, but Yeah.
+
+Host 1: You guys are kind of interesting because you're Salesforce, but if I remember correctly, it wasn't it's not used, like, at typical company Salesforce just because you're more b and you don't yeah.
+
+Host 1: That's physical.
+
+Host 1: Yeah. I'm yeah. I think it We actually in that case, I don't even think we would need account level. I think it would just be building in that logic of, like, the grace period. That way, if their credit card is declines, it doesn't just show up as a over a churn.
+
+Client 3: Yeah. Yeah. Just I'm just thinking out loud for a second. Like, if So so from a gap standpoint, the P and L is what it is. Right? We've got everything in Quickbooks. Those outputs are through Mosaic fun makes sense. The one question I would have on, like, is being able to create the Eb doc calculation and make sure that we can tag things appropriately as one time and things like that so that they all through. So that would be one thing.
+
+Client 3: Yep. Separately is... Okay. Now how do we create that? That P and l gap view and change it to a like a month's view or an Arr type view. And it's It's difficult because we have some parts of our business that are subscription, and mean some that are perpetual. And so, like, when we take this like, hybrid approach, we're kind of like we're kinda mixing and matching metrics a little bit. It's like we're taking an For description and then we're throwing in like a an Lt cal for our perpetual revenue. So maybe diving into the to the Arr and our cal side of things. If. We have it may be helpful like, look at this together. If we can. Definitely me just throw it up in or Yeah.
+
+Host 2: That'd be awesome.
+
+Client 3: Okay. Alright. So And the and the total P l tab, this is kind of like the the current, like, run rate number, which is just Yeah know the last month times twelve. Right? Sorry. Second So it's just the last month times twelve. Now We we'd want something more sophisticated. So for each row, so for example, if we look at annual, and monthly. Rows for the for the monthly, we wouldn't want just the last month times twelve. This would need to be you know, whatever the it'd be the toll active subs times you know, the average revenue per subscriber or whatever is for the monthly subs. Alright? And so we need to somehow bring in the this bucket. Total active subs count or whatever it is. Some... Somehow into Mosaic. So that's either that's either through Google Big. Or it's like, some sort of, like, it could be, like a a a an interim step would be like a Google sheets that literally just brings in, like one row. It's called bike. You know, monthly subs Mr r or something like that. I don't know. I could be Because I think did you all have integrations with Google sheets? Is that an option?
+
+Host 1: So we don't have an integrate but if you have it, then we can upload it. So we can upload anything. So if you guys Okay.
+
+Host 1: Now i'm from Big weary, than we hear subway mosaic.
+
+Client 3: Yep. Okay. So Something like that could be potentially an option.
+
+Host 2: Totally yeah. But possible bit open for a second in our app. And then I'll walk you through what our customers typically do when they're just need you stop screen.
+
+Client 3: Okay. Oh, sorry.
+
+Host 2: Yeah. No worries. Alright. Cool. So Alright. So within the app, just create, like a brand new report you have the ability to create protocol custom financial statements. So if I click on this report button, I can click on our income statement. Out of the box, this is just gonna be your Gap financials. Right? What you can out actually do here also do is add in, any metric from any other source. So this is where we can click metric, type in Mr r, And this data for your Mr r would be derived from your big query file. So taking your active subscriptions times your Arp. And this number would be different than your call it. Recurring revenue, annual lies from Quickbooks. So that's how we like mirror or mix and match different data sources and create your kinda like Sas p.
+
+Client 3: Sorry. It's... It's down at the bottom.
+
+Host 2: No. You can move it.
+
+Host 2: Okay.
+
+Client 3: Yep. Can you can you then create like a run rate Eb dock based off of that.
+
+Host 2: Yeah.
+
+Client 3: Absolutely. So you can still, like, take... So then because then the same concept would be down for our operating expense. Line item. So if we wanted to run rate all of our operating expenses. So just like, take the last month times twelve we create like, a run rate Eb number.
+
+Host 2: Absolutely. One of our larger enterprise customers so cheap, this is like their income statement. They have, like, bookings, Arr retention, and then they have Data. Metrics like the revenue, Cogs, gross margin, they look at their Op by department.
+
+Host 2: Then they have operating income, adjusted Eb dot numbers, and then cache metrics and then other saas metrics. Yeah. So we can absolutely create this view for you and then even do budget actual or variances.
+
+Client 3: Okay. Okay. Nice.
+
+Host 2: Yeah.
+
+Host 1: And Maximus actually it might be useful just because big q is secondary snowflake redshift shift. It would be... Like, the timing is kind of like a consideration here, it would be an upload until we have the integration. So just to show you how that process works, if whatever you guys can download from Cs v. It doesn't have to be a certain format either we'll take all the rows and columns, and then those are actually attributes that you can slice your data by. So this is where it's really to be beneficial for you guys is uploading any dataset and then creating any kind of custom metrics off of that dataset. With no like, sequel logic required. It's gonna be really easy to build out these metrics.
+
+Host 1: And then you can use them your top line. Half as well. Okay. Hunter would you be okay with upload for your big data? It doesn't sound like it's actually that much that we would need. It's just number of customers And then Is that actually it? Some our customers all you need in your forecast but obviously, reporting is a little bit different.
+
+Client 3: Yeah. I would just wanna take a peek, but I mean, I I don't don't envision using this tool for, like, everything. Like, as we think about, like, all of our subscription metrics and things like that, like, it needs to be, like almost like the financial aspect of it right.
+
+Client 3: And it creates our streamline are month end process. We're not doing this stuff every month. Like, we're currently doing it. So that's why I don't I don't wanna, like, over. That's why we've never over complicated Quickbooks. You know, Quickbooks doesn't have you know, every single subscriber that we have paying them because that's just like not necessary. It just kinda has the high level financial details. So Yeah. That's kinda why i'm almost thinking... Yeah. I mean, it's probably, like only a couple rows that we need to bring in Yeah.
+
+Host 1: I would that's a great way to think about it because you guys do have Rb bi. So we're not trying to duplicate that work especially when there is that live integration now.
+
+Client 3: So yeah keeping this within the realm that makes sense is honestly, very helpful for us.
+
+Client 3: Yeah. K. Can I ask you, like, how do we I... Like, I totally hear you that, like, you feel comfortable with it and things like that. Would just be sort of a shame to get into things and then realize like, oh, it's it's good. But like, you know, there's, like, this aspect in this part and we can't do that and like we can't look at it this way. Like, how do we let we make sure that we're really kinda squared away from all those odds and ends before we before we kick anything off.
+
+Host 1: Yeah. Well, we definitely would bring our data team as a next step. So Maximus is kind of like technically scoping the finance car, but our data team does the financial... Or the does a scoping of, like, the date part. So we could move to that step next, but Maximus is there anything as far as even a question, like, do you have me, like, questions around anything that you saw in the model?
+
+Host 2: No. It's... I mean, it's super standard. Our demo company is also Quickbooks. It's like something that I update and managed just monthly. To you kinda like run a company behind the scenes, and then everything is really standard. From my perspective. I think what's powerful about these financial reports is if I just click like, income statement, no populated it below. These different categories and roll ups these are roles that you create during the setup process. So would really eliminate the noise all of your Gl accounts that you may have like, bucket or broken out. And can give you more of a streamline visualization for example. But if you want to expand any of these or edit any of these? Like up to you to customize it. So you know, if for example, you wanted to click into Op. And you wanted to break this out by Gl account. So we're looking at it by account category, Hey, let's also add in Gl accounts. It's a couple clicks to add in that level of detail here. And then if you wanted to, you know, instead to dimensional it by call it department? Or using like a class field. As you get to adding in different classes, you click department and then you can also add in shell accounts. That's what I like the most about the tool. Is, like, being able to create these different visualizations really quickly. And then this data just synced in through Quickbooks. Instead of maybe doing that manual manipulation we're like copying and pasting in, November, you gotta make sure you didn't add any Gl accounts two chart accounts. You gotta make sure the accounts integrity of, you know, the rows and columns lines up to the prior month. Mosaic does a lot of that work here for you. Yeah.
+
+Client 3: So And Amber I don't know if you have audio yet, but So some of our if you go back to our spreadsheet, like, the gl accounts that we have on our operating expenses like, the larger buckets. Are you able to look at it? Like, the what you just showed is, like, the tick below that. So for example, like, we have if you... Yeah. If you open office supplies, yeah. We've got a couple there. And so each one is gonna have each one of these. So we're able to bring those in in the same style that that is shown here and what you just showed in the last field.
+
+Host 2: Exactly. That's a part of setup. So what happens during setup is we do what are called account category mapping So this is where we're gonna pull in all of your Gl accounts here on the left. And then you're going to create roll ups or categories here on the right. These are completely customizable to you and you can manage or add However, many you want, but there's just a way to bucket our group your Gl accounts into different roll ups.
+
+Client 3: So for like, office expenses as an example here.
+
+Host 2: That could be You know, like, your roll up here for office supplies. It includes computer supplies, it includes small equipment, and other.
+
+Client 3: Then in mosaic. Okay.
+
+Client 3: Yeah. Good yeah. Go ahead.
+
+Host 2: Sorry. Yeah. Hey Jose. You would just filter. By those office expenses and you can just drop in like, what are those specific accounts? That roll up to that office expense category.
+
+Client 3: Yep. Can can you look even a tick below that too. So, like, let's say like, you bought computer hardware from, like, two vendors all the time.
+
+Client 3: Could you look at the P and L that way as well, so you just isolate the vendors within each account name.
+
+Host 2: Yeah. Totally. We pull in the detailed down to the transaction level. So was pulling like that expenses example, That's only filter for office expenses. And then here's where you can click into the accounts. To hear our individual accounts. And then you just click on vendor. And then you can drill into those vendors within that account.
+
+Client 3: And if they're prepaid, do you know if they show up the same way?
+
+Client 3: These are like very specific questions, but I'm just bring something up that always happens.
+
+Host 2: Yeah. So that comes under transaction type And then this would break out if it's a journal entry entries. So if it's prepaid, or if it's a bill.
+
+Client 3: Got it. Okay. And would the journal entry be would it be showing up as sort of like, a one time journal entry or would it show up? Okay. I see. Yeah. Yeah. So theoretically, if it's you know, over twelve months, it would show up. Pro rat for each month.
+
+Host 2: Exactly. Yeah. Okay.
+
+Client 3: It's good to hear. K. Cool.
+
+Host 1: Thank you. Maximus correct, and I'm wrong, but I think the what we got from the verizon model is that it's actually lot more simple than a lot of the ones that we typically do just because it is so based on Quickbooks. So We actually feel really comfortable with that piece of it. So Are there any... I guess, would love to address any, like, land lines that you think might come up? Where you would be like, hey, what after do this in, you know, aside excel or paying this a mosaic or Yeah. We were a look look like Yeah.
+
+Client 3: I mean, I think Probably the the forecasting side would be, like, still like, Tb d, but I think I think that's okay. I mean, probably something we're we're we'd have to learn how to use the tool for and obviously say like, we're kinda getting through the twenty three forecasting exercise anyways.
+
+Client 3: Mh. But I wanna I wanna think about what the specific rows would be that we'd be pulling in for to to get us to that sort of, like, Mr r type cap for the subscription side. So then i'll spend a little bit more time thinking about that Yeah.
+
+Client 3: But I mean, other than that... Yeah. So certainly feels like you're kinda able to to do a lot of this. I guess, one question would be, like I know you all work very closely with a lot of b b companies. This is god's like, on on an early look at a D type company, like, is that on the road map for you all to to start expanding out and to to d sig?
+
+Host 1: That... So that's exactly why we took this call really is because b is our next Ic that we wanna open up early next year because with the database integrations and the custom metric builder we're now not limited to a certain Ic and that is the next one that we're looking into. So it's it is really helpful for us to understand like, what your guys needs are, because that way we can kinda get a sense of, like, obviously, you guys aren't everyone, but like, at least a small sample size of what is needed. So I would say, yeah. And, like, with that, I I don't force from seeing your as model. We don't really foresee anything that would cause major complexity But since it is a consideration, I'm actually gonna see, like, if there's anything we're we're to do as far as just, like, little bit of risk avoidance for for you guys. On that, But like you were saying before, Define your Mr calculation is gonna be super helpful because that is, like, our next call with technical scoping is gonna be data team asking, okay, how do we create an automation around this? How do you guys find this? Where is that source of truth come from and what's the logic that we need to build. So that definitely is a a good next step.
+
+Client 3: Yeah. I mean, I I want to I want us to get to a spot where like, we feel like everything is is in fact doable, and like we can prove that out. You know, of course, before we sign up for a year or something like that.
+
+Host 1: So If that's part of that, I think...
+
+Client 3: Yeah. Something like that would will make sense. Cool.
+
+Host 1: So know we're like, up against almost the holidays, So... But we can do a scoping call next week if you guys available for that. Otherwise, we can push that to January.
+
+Client 3: What what would that look like? Exactly?
+
+Host 1: So I'm gonna bring someone from our data team. Probably me Gertude, and she's just gonna really wanna understand any kind of metrics that you guys are bringing extra data sources from making sure that you guys really just have definitions And, like, how do you define Mr today? Are there any, like, one off adjustments? Do you guys do like, what's a typical calculation, like, should us go kind of down like a line questioning to to make sure that we can create the logic for your your. Sounds like it we definitely can with the upload from big, but Data just likes to know what's coming on the pipeline. Make sure there's not, you know, something in there that they're gonna end up not be able to support. So it is also for validation on both ends.
+
+Client 3: Okay. Got it. Yeah. Makes sense.
+
+Client 3: I I am around next week. I mean, I could maybe do something. The twenty first.
+
+Host 1: We have a ten... Let me just make sure it works for my calendar. data calendar here at ten thirty. Yep. Ten thirty Pacific time on the twenty first.
+
+Client 3: I can do eleven.
+
+Host 1: That should be fine. Let me just check her calendar. Okay.
+
+Client 3: And Amber, I don't know if that works for you as well.
+
+Host 1: She has a one on one which I might be able to book over, but maybe we can we just do a a one eleven thirty.
+
+Client 3: Sure. How long will be?
+
+Host 1: Like thirty minutes. Okay.
+
+Client 4: And that's just specific time.
+
+Host 1: Eleven thirty Pacific time. Yep. Is that work for you Amber?
+
+Client 4: I can do that.
+
+Client 4: Happened scenario. Got another meeting. Right up against it, but I can do it.
+
+Host 1: Awesome. Yeah. Well, I think it should be fine. But awesome. Yeah. If you guys just have an idea of how you guys are typically and any other metrics that you like, the alphabet metrics that are a little bit more nuanced. That'll be helpful, but, of course, like, if it does and it being a a good fit and we... We're with you guys will do a more to test during a limitation.
+
+Client 3: Yes.
+
+Host 1: Also never an invite and we'll go from there, but glad that we're able to validate this part.
+
+Client 3: Yeah. Yeah. Thank you both. Yeah. I really appreciate it.
+
+Host 1: Of course, soon.
+
+Client 3: Sounds good.
+
+Client 4: Thanks.
+
+Host 1:

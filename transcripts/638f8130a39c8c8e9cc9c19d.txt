@@ -1,0 +1,209 @@
+Host 2: Everyone, ice age, Hey.
+
+Client 3: How's it going, guys?
+
+Host 2: Good. How are you?
+
+Client 3: Doing pretty good About Thanks for taking the time.
+
+Host 2: What where you coming from?
+
+Client 3: I live in Atlanta, Georgia.
+
+Host 2: Oh, great. I'm. I mean, miami me florida down.
+
+Client 3: Okay. Nice. Yeah. Jealous of the weather down there. It's like, cold and rain here. So Well it is pretty it's like, a nice little eighty.
+
+Client 3: Yeah.
+
+Host 2: Awesome. Well, it's it's it's great to meet you. But by way of a quick, well, the team will be team flows. So we're building we're looking right down into sales today. And so we'll just looking to ramp up on the industry and learn on the value and play and in. And I I saw think I found you online. I think it were living a review about cla on g. Yeah. That's right. Yeah. So just generally, if you able to feel about you and Cla and what you like about it and and what you don't like and on and. So perhaps we can kick it up with... Can you tell a little bit more about you. What do you do and what does your do?
+
+Client 3: Yeah. Definitely. So I'm an account executive here at full story. So work in our sales department, specifically. Our growth practice. So Smb right? The selling to companies from with one employee, so I I believe about two hundred fifty. And then full story in terms of of the service and products that we offer. It's product analytics and session replay. And so we've coined a term in and all of that as digital experience intelligence. So a lot of folks that find value out of full story would be, like, financial services companies, e commerce companies, right, people that understand what their user base is doing, where they click where they navigate, which features are being utilized in the website.
+
+Client 3: Or mobile apps. And so we can do that with some qualitative data. Right? Session replay, one part of of our offering and then also validate that with with quantitative data via that product let side.
+
+Host 2: Yeah. I there always food story here. We all love. Foods story was slightly too expensive for us. And how big you switch now?
+
+Client 3: So we've got about... I wanna say, just about six hundred employees Believe That's Yeah.
+
+Host 2: That's that's very big this become that... Than they expected. Great. And and tell me about the. How did you find out about it in the fields space?
+
+Client 3: Yeah. So Cla it was just... I wasn't involved in decision the decision making process, the evaluation process, I believe my boss was involved in the evaluation process but we added cla our tech stack, probably three to four months ago.
+
+Client 3: I honestly can't even remember now. I've been a full for you. I remember now what tool were using before that. I think we might have just been using Salesforce. But but since we've added it, it's been it's been really helpful you know, love using it. Are... So I just wanna clarify are all competitor to Cla or or it or...
+
+Host 2: Probably opening not. We we we'll again, we'll train to wrap our heads around the End entire industry right now like, sales and enable implement and cell suit and and god knows those are lot there. You know, we we we may at some point, you know, that would be, like a in a year at least like make four into kind of like, forecasting value prop. Right now we're already just, like, looking to understand the landscape, basically, get like, the delay of the land. Yes. And and so when do you use kari for?
+
+Client 3: Yep. So main use case for myself as a sales rep, and then I can go through, like, people above me as well. Really I'm hopping inquiry every single day update next steps on opportunities, it saves me a ton of time there. The Ar amount of the deal Right? The... Whether it be a best k steel most likely or commit for forecasting purposes. Super helpful, any one on one i have with my Rv is my... Who I directly report to we're always hopping and Cla to review different opportunities I'm working on review my forecast that I've submitted. Match that up and and figure out how I can back into to, you know, my quarterly my quarterly quota, And so that's the main use case for us. I know there's, like, dashboard tabs and other different revenue intelligence stuff. I don't really use that. In my day to day, but I would say the main two are forecast the forecast tab and then opportunities.
+
+Host 2: And the function of the opportunity tab for you is like easily they just crm basically.
+
+Client 3: Yeah. That's that's where it adds the most value for me as a wrap. Saves me a good bit of time and in terms of updating our Crm. And then also, we we don't we had like, a another tool for our forecast, but now We so use Cla, and so that's the other the other portion of it is is just having a forecast because My forecast goes right to my Rv who then presents all of the reps on our teams forecast to our Adp. And then that Adp right port reports up to, like, our head of commercial sales. Cro you know stuff.
+
+Host 2: Do you say that the the the the very prop of easily deleting your crm was more important to you than the forecasting value populated today did to get that right?
+
+Client 3: Yeah. I think it's more important for me. Right? Because it's it like, directly aligns with what I'm what saves me time in my day to day. So, like, our pain point before was just spending a ton of time going through Salesforce, which is as slow as can be. Right? And updating different fields within failed Salesforce. And so And then also not having, like, a view of just a clean view of all these opportunities I can quickly get to to maintain deals that are in cycle. I think that's the main value prop over the forecasting specs, but I realized that the forecasting aspect is is super valuable for know, our my sales leaders above me. So Great.
+
+Host 2: How does the focusing aspect work?
+
+Client 3: How does the the forecasting aspect. So from what I gather. It's essentially just a tab that you open up, and then you can put it it'll populate all your all the fields of each deal you have. And see you'll either have been marked as best case, if it's like a deal that, you know, is is best case to come through. Maybe there's other competitors involved. Right? Like, that's a best case deal. And then there's like, most likely deals which are right, Like, We've done everything. We they specify we're the vendor of choice. Now we're just doing, like, legal reviews to to to finalize everything. So that would be marked as most likely and then commit. Right? It's they're ready to sign, just, you know, sending over the contract, things like that. So we have all those that are automatically populated in Cla and then from there, you can just update your numbers. And I'll give you, like, a little check mark once that's all done. And so we need that know, to be submitted before any one on one my boss likes to have that done every couple of days. But we're just, you know, updating those fields given our commit number most likely in best case and that automatically populates at the very end of that how you will stack up in comparison to your quarterly quota and and monthly quota as well.
+
+Host 2: So it's using your own manual input to forecast.
+
+Client 3: Mh. Correct.
+
+Host 2: Yeah. Reason, I thought it was using some Ai magic.
+
+Client 3: No. Not... I mean, so I'll I'll plug in those numbers you know, based... It'll automatically give me a number. Based off, like the best best case of what all the deals that I have for or most likely or commit, But then I'll I'll confirm that number. You know, click enter there. Right? And then it... And then it populates my monthly or quarterly quota from there.
+
+Host 2: Wait. So I'm a be confused. So it does come up with it's number, but then you just validate in your you manually, But there is there is at item. Is that the idea?
+
+Client 3: Yeah. So it automatically populate all stuff.
+
+Client 3: Fields. On the right hand side, of the platform and then and then you just you just confirm that essentially.
+
+Client 3: I see. So you can add you can add, like, if you... If there's other deals, that you have that aren't really what's says opportunities or maybe you have a deal under pipe where you can manually go in and edit that.
+
+Host 2: With all your favorite things about Cla?
+
+Client 3: I think it's just right, like ease of use is the first thing that comes in line. So for me, like, I sell software for a living. So I know that things that aren't easy to use and the whole team can't find value out of it. Just gonna be stuff we're not kinda. And we're not gonna, you know, use and and drive further adoption within the company. So I think that would be the main the main thing that it's super easy to use. I can get to the information that I need quickly. So it saves me time. Right? And then the third thing is I think it just serves as a good a good I guess, macro for lack of a better word of just everything I've got going on. I think it helps me forecast like in my personal life. As well. How much commission I might make this month or quarter which is which is super important.
+
+Host 2: Well all the things you like least about cla?
+
+Client 3: Only first, purchased it. They have, like, the Ui was super clunky. It seemed like almost like an outdated version, they recently updated that and so it looks a little cleaner now. So that was maybe something like but I was, like, wait. This is what's kinda shitty, honestly. And they improved over the past month or so. That'd be the first thing to come mind. I would say, there's like, a couple fields that I have to log that have to go into Salesforce for that you can't update with inquiry. So it'd be nice if there was, like, a a more full integration so where I could do everything, literally with Inquiry, for the most part with an the opportunity. I get I still need Salesforce for like accounts, right, leads, contacts, stuff like that, but if if it could do literally everything terms of an opportunity like, launching even like, Msa or creating a new quote. Directly from there. That'd would be great. Because right now, it's it's like and it's it's an extra step. Of like, going from Cla to Salesforce. Right? Create a quote. Send quote to a customer and things like that.
+
+Host 2: You have other there examples of things that you tell to... You starting to book the yourselves?
+
+Client 3: Yeah. So to move it from like, we... And I'm sure most most Saas companies will have like a a similar Salesforce flow. So deal... If it's like just in that qualification stage, you can get it all the way up to educate. The educate stage. And then after that, you'll need a hop in cla to move it to evaluate And for us, this is... It might just be an us thing and other companies don't have this, but you need to, like, update the onboarding path within Salesforce before you can move it to evaluate. And so that's usually we have it and evaluate once they're, like, doing a trial or a Poc. That's when we need it in that stage.
+
+Host 2: I see Got it Do you have a sense of harvard cla gus?
+
+Client 3: Yeah. Since I wasn't involved in purchasing decision. I I wouldn't building.
+
+Host 2: Yeah. So it's all good. They don't least their pricing public. So I'm I'm curious I also just saw their website that today they offer a conversational intelligence feed as well. Do you use that as well?
+
+Client 3: I don't. We use Gong And so I don't know if it's if it's similar to their conversation intelligence new feature that they just added, but don't currently utilize that. Yeah.
+
+Host 2: What do you think of gold?
+
+Client 3: I love gong. Yeah. Gong great. Think Gong sales loft and Cla are probably the three tools that we use that full story that I get the most value out of as a sales rep.
+
+Host 2: How do Gong and Cla compare and use desk for you.
+
+Client 3: I think they're... I mean, gong beats, beats clear out, and it's probably just like a bias in my mind of, like, I constantly go hop into Gong and find it more valuable for the fact that I can listen to what exactly what I was saying on a prior call to get me prepped for that next call with that prospect or customer But I think Cla, right is like, a close second to almost where it's probably. One to one comparison, but if I had to say, I would just gong provides a little bit more value in my opinion.
+
+Host 2: And that's because I'm I'm I'm I'm I'm not quite got you. You'll used days of call.
+
+Client 3: Yeah. So so Gong, right? Like, I can't I mean, I guess we could record those sessions and save them another place, but I get a lot more value out of being able to go back and listen to calls and better prep myself for the next call. Versus clarity use case, right? Like, popping into that opportunity. Maybe I have some notes I could read those notes, but it's just great to hear like, exactly what that prospect or customer said. I think that's why it beats it out in terms of of value or perceived value in in my mind.
+
+Host 2: What kind of things do you look for you when you when you listen to full you listen to a call, like preparing for the next one.
+
+Client 3: Yes. I mean, any, like, discovery call I have with a prospects. In order to prepare for, like, our our demo call. I wanna listen do things that they mentioned, like, their top pain points so then their business. Wear full story were they thankful, so might be able to add value. I like to hear, you know, this we have a term of, like band. It's an acronym, so budget, authority needs time, and so those are questions in that acronym that I like to ask just to just to get that information, then also I the main goal of any, like, just gonna a recall. For us, as a sales team is to understand the compelling event. So why they're wanting to buy whether it be like they want full story for a new any new products release or feature rollout. Right? Like, and I wanna understand their user base from there. Those are some of the things that I wanna prep for before my next call.
+
+Host 2: Do you have an example of when is the last time that you used Gong in that way?
+
+Client 3: Yeah. I mean, really daily. Right? Like unless unless I have a good recollection of that call, I'd say if it was somebody I'm met with and we're hopping on another call today to continue discussing commercial terms and contracts and pricing proposals. If I have, like, a good recollection, I don't need to go back and reference that call, but if there was say, a call I had with a prospect a week ago, and I'm prepping a deck to share and present for our demo with their whole team. I definitely wanna make sure I'm going back and listening to our first call just to make sure I'm you know, providing a lot of value. Not wasting their time on that call. So all like good stuff.
+
+Host 2: Yep. What? If anything we take for something to replace Gong for you.
+
+Client 3: Yeah. I mean, for me, it's since I'm not involved directly mean, I'm sure I'm I'm... I'd be involved and I have been for, like, different evaluations for not not for these tools, but I think or something to replace, Gong, it would just need to have the same feature set, and then maybe a more ambitious product team that has more interesting or compelling product road roadmap. And so maybe if there's like an additional feature that we find value for right that we don't get with gong. That would be interesting or maybe just a different approach of how they do things. That would be interesting then it also always comes down to how easy is this service to use, Like, there's nothing more annoying and frustrating somebody that sells software to to use a product that's like super clunky. Like I mentioned, Player used to be So... Yeah, Say those things.
+
+Host 2: You've mentioned a ambitious product map. Is there any specific issue that that you're looking for that you'd be excited to see.
+
+Client 3: I mean, I think the the conversation intelligence thing that Gong just recently rolled out was super exciting for me to see. So now like, all it automatically will give me some, like, Ai predictive and insights of like, hey, you mentioned You mentioned this in the call. We're gonna make sure like, we're gonna send me an email saying, hey, you mentioned this, make sure you follow up. Sending them this pricing proposal, for example. So I love that. And I think it's still on beta. So I mean, just things along those lines, I can't think like, any specifics. Right? Like, I don't work at on Kong's product team. But, yeah, that would be just something as an example.
+
+Host 2: So to answer your initial question about, like, do we consider all ourselves or cla compared two? No, But we we very much consider ourselves the Gong you do. So, like, that's that's the current product. That we're working on is is, like a intelligence tool. I'd love to show you actually like, what we're working on. Do I share my Screen. Can you see my screen now?
+
+Client 3: Yep. I can see it.
+
+Host 2: So love I love to walk you through a few a few things and head to get the my values. First of all, feel free to be brutally honest here. If this isn't good at i don't know that. Don't be afraid of building off feelings in any way.
+
+Client 3: Yep.
+
+Host 2: This is So and it's better. Right? So it's it's pretty young. So but but this is the the the view right now will you can... So this is where you can see all of your meetings. And then this is what you can see the meeting details. So here, you can watch the recording. You can comment on it and then you can you can watch the transcript and here you can see the different insights about this demolition. What do you think about? Any fields reactions?
+
+Client 3: Yeah. I mean, it looks like it looks like the very similar to gong I think. Yeah. I mean, I think there's right, like, not a lot going on in terms of, like, color, it's very clean the transcript that yeah of is is definitely helpful. That's something I I don't really look at I think it sits in a different place. That you have to, like, open up within the call. So I think it's nice to have that actually there at the bottom. So if if you maybe don't hear them exactly, you can read that and follow along. And so if that automatically, this is just something that I would find interesting at this, like, automatically moves forward with you as the call goes along, that would be really cool as well. So... Yeah.
+
+Host 2: Yeah. Mentioned those there isn't much here in the way of color is that's a good bad thing.
+
+Client 3: Yeah. I think it's... I think it's right. Just like by personal opinion. I I think from, like, a psychology perspective, Right. Like I'm certain colors, maybe a evo like a calming effects. And so Gong color scheme, just like, when you open up the platform, It's like, builds that brand in your mind of Gong like create revenue intelligence tool. And so maybe that's something to as y'all continue to iterate. Explore different color schemes Ui changes and and maybe have focus groups bigger than just myself, right to to validate what so makes for this sense.
+
+Host 2: Got it. So bad but I feel like your phil reaction is like like, you like the the Gong Cola skin better.
+
+Client 3: Yeah. Yeah. This seems this seems plain to be brutally honest.
+
+Host 2: Please. Yeah. Absolutely totally. I agree. By the way And is this is less plane than it used to be. It used to be... Used to be a lot more playing than i've fighting for gall. So I'm glad glad to hear. I'm not the only one. Okay. I love. I'd love to walk you through a few things that that we do that that Gong doesn't... All all few ideas here. So one of the them is we summarize the meeting. That's number one. Number two, we connect to your Crm and we connect to your different fields in your Crm. Right? So heal those next step, you know, in our case, pain pinpoint of managing a remote team, but You can see Here, this is my salesforce. And here, these are all the fields in my salesforce. And I can set select any of this fields for the Ai to the care. And then at the end of each meeting, and you can also see in my slack, this is how it works. At the end of each meeting, I received an notification in my stack, well I can also we have to, like, side during my meetings. And I I can... Basically, the Ai automatically suggests crm update for me. Right? Based on what it heard during the conversation. Does that make sense?
+
+Client 3: Yeah.
+
+Host 2: So that's the bill to. So again, number one is the summary number two is the Crm suggestions. Then the three, and again, this one is more aspirational right now, but similar to what Gong. Does that you just mentioned, like, we're going to be able to extract the next step except we're also going to try to help you that next step. So for example, we are going to draft the follow after the meeting. For you. Based on what was said during the good decision, we're gonna draft the email but hey, bob. Thank you so much for making the time. Abc, this is what you talked about. And then, you know, you can edit it if need be, and then you can send it when it's where you do. What what do you think of this of these differentiator versus gong?
+
+Client 3: Yeah. I think it's super it's super interesting. Question for you, does it compare like, Have you heard of this chat, Gp It's like predictive speech, and so is this similar to that? I'm I don't have a technical background so. That's why I'm sorry it actually that good yeah.
+
+Client 3: Yeah. That's. Yeah. To me like, I was I was just reading up about that or what a podcast about it and And I think that is super compelling for sales reps.
+
+Client 3: Right? Because that cuts down on the time. Even further that we're gonna spend updating our Crm if this already has that predicted speech because one one thing for me and, like, I'm sure as all continue to to look for new customers. One thing I would focus on is is this is a direct pain point for me is my a who's is above my Rv. Always wants to have very detailed steps for bigger deals that we have in pipe. He always wants to have in the path to closed section. Of Salesforce, like, what are the specifics in terms of why do they need full story? What is their six carrie legal do you look like paper process, how have they bought software in the past? What are they two to three main pain points we found and so having all that maybe if we talked through it on discovery call it automatically populating that within those fields to the right hand side would be super valuable because I always find that to be really frustrating. To fill out those fields and then while I'm on this this tangent. The... We also have to fill out the command of the message fields within Salesforce for deals that are, like, bigger than I wanna say, like, thirty or forty k. So those are also super time consuming and super annoying.
+
+Host 2: Let's go out. What do is time consuming in?
+
+Client 3: The command of the message fields. And so that that might just be specific to our Sales, but I I don't believe it is. If you just look up, if you probably google it, Salesforce will you what all those fields look like, but it's just a a very long list of things like you know, what are their main pain points? What's their... So some of the things I just said in in terms of, like, the path to close so, like, what are their main pain points what do they feel they'll get the most value out of full story with. Legal security Right? Buying processes just stuff like that. That makes sense.
+
+Host 2: So then between... Between these three then, like, again, number one is the summary number two is the Crm suggestions and then three is like, the the auto email drafting until the meeting. How would you rate each of these three in terms of usefulness on a scale of one to ten?
+
+Client 3: Yeah. I think the auto email draft would be probably the first one. And then the other two that you mentioned you mind you're repeating?
+
+Host 2: Yeah so one of them is, like, summarize the meeting for you. So like, we help you just like, schemes through the summary real quick.
+
+Host 2: And it's second one is we suggest Crm updates for your automatic page. So like you save time and updating crm.
+
+Client 3: Yeah. I think auto drafting emails is the most important for me selfish. Right? Like, that takes that puts time back on my plate the most. But secondly, just summarizing the meeting overall. I think. Right. Right?
+
+Host 2: Also. Let me keep an eye on time. I know, I know almost over time. This was not the agenda for this spinning. But since you already the user, would you didn't interested joining the better here of this product.
+
+Client 3: What was the product again?
+
+Host 2: So this... I mean, this basically gong. It's like All gong that, like, your meeting, transcribe them and in the future drafts emails for you and all with that stuff.
+
+Client 3: Yeah. I mean, I I think it's it's interesting and and worth exploring the only thing. Wouldn't be I wouldn't be able to to, like, start a trial with any software, I will say, we've pretty much eliminated, like, all spend for new vendors. So I don't know if we're probably a good potential customer for right now. I think when that changes I'm definitely happy to to let all know because I'm always write down to try new pieces of software, that might be more valuable. But yeah.
+
+Host 2: So We're not looking to sell it just yet while I can in, like, really early private beta right now trying to, like, figure things out and I'm like, nailing and crafting a build experience. Even once we already, you know, I think right now one of the differentiator was thinking about gong is actually just being qb. Than it right my sense that Gong cost to fortune, and so, yeah, I mean, everybody's is like, tightening of the bell right now, and you say gonna mean. So Well, just thinking of being much build than it. So pressure regardless. But, you know, if if you're interested, would have to have you in the beta.
+
+Client 3: Yeah. No. I mean, that be something I would have to i'd have to check right, Like, from... I don't wanna get in trouble from like, like a security perspective. Before signing that signing up for any data. Right? Where y'all are looking at our data. That would be something I would need to check it on first, but was definitely super informative and and happy to to stay in touch down the road.
+
+Host 2: Yep. Definitely. Let me shoot you an email with that and feel free to follow who will deduct to anyone internally. Yeah. I mean, obviously wise, I mean, we will that to get so to compliance, I twenty seven thousand one so the global will find on that. Yeah. I can send that to you with, like, Did idea what for doing and and feel fifty to forward twenty one totally, but like, hey I've touch with this guy. They're building a gong, they're looking for feedback and you know, wrong term. Basically, what you get is like, you get free access to the product while as long as it's in beta, you get the ability to, like, shape the product you know, as as well, like, figure things out. And then when it's ready, you know, obviously, you will get a discount and actually think, you know, company will basically save money from Gong.
+
+Client 3: Yeah. No. Definitely. Two two things before and I have to get ready for another meaning I here in a bit. First thing. In terms of that, the the gift card. Y'all just doing that like V or are you doing that? Like, Amazon gift card. What's what's that?
+
+Host 2: What like? Doesn't I give called out for you.
+
+Client 3: Yeah. That's fine.
+
+Host 2: Also yeah. So I'll follow up by email and and send that to you.
+
+Client 3: Okay. And then other piece, I wanna make sure you mentioned the beginning of this call. Y'all up using log rocket over full story, just due to price. Right? Do you mind do you mind sharing what what plan you have with them and and what that that pricing looks like.
+
+Host 2: I forgot the exact pricing I think we're on the team plan we pay like a few hundred dollars of month or something like that.
+
+Host 2: It like. A lot.
+
+Client 3: Yeah. Okay. Well, reason. This account, like, y'all account is in another sales rep name. Not on my team, but If you don't mind, what I what I'll do is is let him know we have this conversation, we the end of our fiscal year is the end of January. And we may do some some abnormal discounts on our plans, then... So all you know, soft ask will reach out and and just let you know what you know, pricing might be the end of January. And if if there are any if you all wanted to make the switch then can definitely help there. But It great. Connecting go and and definitely wanna stay in touch and and help where I can. It seems like a really interesting product and and use cases for us are definitely there.
+
+Host 2: Awesome. Alright. Yeah. Thank you so much Adrian. And yeah, Feel free to reach out to when one Google account and Yeah. I mean, if you if you can make a a discount book we'll definitely look at it.
+
+Client 3: Cool. Well great talking you fine.
+
+Host 2: Alright. Yeah.
+
+Client 3: Bye. Thanks. Bye.
+
+Host 2: Next meeting is sending us up.
+
+Host 1: We shared someone else on full story in our beta program.
+
+Host 2: Oh, we do.
+
+Host 1: Yeah. His name's Mike lot I don't think he's been very active.
+
+Host 2: Mike x re recurring Yes.
+
+Host 2: Indeed.

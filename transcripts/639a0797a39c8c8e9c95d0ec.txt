@@ -1,0 +1,223 @@
+Client 2: Hey. How's going.
+
+Host 1: Great. How are you?
+
+Client 2: Good. Thanks.
+
+Client 2: Just fyi I open this come up, but I told her you were in pacific time because We...
+
+Host 1: This is the only time that worked. And I was like, i can't ask her do a meeting, you know, six Am.
+
+Client 2: So... Okay. Sounds good.
+
+Host 1: Cool. Hey seventy.
+
+Client 3: Tenisha. How's it going?
+
+Client 3: Doing well.
+
+Host 1: Awesome. Maximus, just in case he's needed i know he you know, you have new question the tool for him, but he's gonna join about ten minutes late. But great is from our data team. You'll meet again very shortly. We just like to make sure, you know, everything was good from a scoping perspective and so I'll kinda get back seat and let her take it away with questions and whatnot. I gave her the briefing of everything so far.
+
+Client 3: Awesome. Sounds good. Really quickly before we get started to Jason ever execute the Nda.
+
+Host 1: Through. Yes He did. Mh.
+
+Client 3: Perfect. Okay. Because I was gonna say I'd love to, like, actually show you our data and talk about like, some of the use cases. But just wanted to make sure that was in place. Awesome.
+
+Client 2: Perfect. Great. Yep. So like i said, From the data side of the house. So I lead our technical scoping practice today, my goal is just to get an understanding of how you're calculating particularly your top line metrics. So with let me know that it's it's of your it's you're selling the hospitals for the most part and you're it's selling Like, if you have five hundred patients, or five hundred kids and kind of that's that's the structure and it's That's more of a guaranteed revenue, and then there's also maybe some usage alvin on top of that. I'd love to get from your you're about like, a little bit more understanding on how your revenue model is structured, so we can get better understanding of how we would build that out those egg.
+
+Client 3: Perfect. Would be helpful to look at Rp p l.
+
+Client 2: Sure. No We can do that Alrighty.
+
+Client 3: Let me just log in really quickly.
+
+Client 2: And I know you're using nets nets sweet and Salesforce. Right? Yes okay Perfect.
+
+Client 3: Alrighty. My not it's a little slow today. So Don't i me alrighty. So I think this will give, like, a very clear picture of, like, how calculating top line so, Can you see mind nets sweet? Yes So to Leaandra point earlier but like, recurring revenue is more like a guaranteed stream. So we sell four different products technically. So complete is like, our kit with peripheral, core is just the tablet. mobile is like a mobile app and invoice is like Iv solution. So there's all the license revenue, which is basically that per per item. Recurring out. So that's all the license fee and then tied to, like, the hardware pieces, We also have that recurring lease revenue. So that all rolls into this recurring revenue line item The other two pieces to this are patient and inpatient drug are both services. So that also rose rules up into recurring revenue. Ask you talk about other revenue sources. We have hardware sales, so just like harbor purchases. For the same part of line ends. Care connect, which is a clinical monitoring service that is utilization based, so we input the usage month of month, Emr integrations. Some of that is and some of that is variable, but it's under recurring revenue. Similarly with implementation fees, that would be like a one time cost and then are just, like additional services slash client credit.
+
+Client 3: So that makes up our entire. I. I Okay.
+
+Client 2: So your source of truth for for recurring revenue and and non recurring revenue is nets sweet, not Salesforce.
+
+Client 3: Correct.
+
+Client 2: Cool. And then when you're... So say, I purchase the core lease ...alright. I I saw in the quarterly revenue bucket. Are you building that out on the transaction level? Or are you utilizing contracts within sell for we've within that sweet. I know they have a lot of different options, so I like to get an understanding of how it's actually built in nets week.
+
+Client 3: So we have a few ways that we built this. So we have we utilize subscription. So that's typically for our recurring pieces. So to not point about core least, if there's a consistent, you know, number that we're charging per month, we will plug it on the client subscription run it. Generate every month that it generates an invoice. So this subscription level detail is importing for that use case. Then we also have different deferred revenue clients. Okay. So we use the safe search bind. There's a couple ways that we we do deferred revenue new. One is b one one invoice and then spread the invoice over time. So as you can see from, like, this health system was spreading it from two one twenty twenty two to one thirty one twenty twenty three. That's off of a single invoice that were able to spread that revenue. So from, like, a a period recognition piece, it will just like affect it over that time frame. And then there's another one which we're trying to get it away from which is like a journal entry revenue i I I don't know. Let me see if Jericho can join this, but he can probably explain this better. But basically, this is also different deferred revenue, so it's paid up front. But we do like, a journal entry in order to recognize the revenue for this. I don't know if that makes sense.
+
+Client 2: Okay. Yep. Yep. That so that makes sense. So for for these journal entry ones, that's also in recurring revenue or is that not recurring.
+
+Client 3: It is also recurring.
+
+Client 2: Okay. Cool. So... So I like there's a couple of different ways in which the data is being stored and and that's we... As it broke it out by by each account has a different kind of flavor if it's a subscription versus an invoice versus Journal entry, Or is it kind of all over the place?
+
+Client 3: It's kind of all over the place.
+
+Client 3: So that have, like, parts that are, like, deferred revenue parts that there at the subscription recurring. Parts that are the journal entry, it does add a lot of complexity. So Looks like someone's joining.
+
+Host 1: Cool. I asked Maximus to join as soon as possible just in case it could be helpful Yeah.
+
+Client 3: I that's why i asked is Jericho. I'm explaining to them the different ways that we recognize revenue, so I just showed, like, the subscription level detail the deferred revenue from the invoice for them the deferred revenue from the journal injury.
+
+Client 4: Hey, guys. Yeah. So the... Can you guys hear me okay?
+
+Client 4: Excellent. Yeah. So the stephanie. I think the the deferred revenue from the journal entry is pretty much done. No. I think we do make like, manual entries for, like, we help or something thing, but as far as that like automated journal entry amortization schedules. I don't think those haven't been doing those anymore. So that might not be an issue.
+
+Client 3: Yeah. I mean, I know we still have a few clients on this. And I know this off. So I just wanna make sure we capture everything.
+
+Client 2: Yeah.
+
+Client 4: I guess the question for Mosaic, are we able to handle that type of structure. Are you guys able to pull that information?
+
+Client 2: Yeah. So that's what I was trying to get a better understanding of is is how it's all struck And my my primary concern is if we're calling from subscription and reply from invoice and reporting from the journal that we're gonna have some double counting. So I wanna make sure that we have some kind of clear lines in the say on this is pulled from the journal entry entries. This is called from invoicing and this is from subscription. So that we don't have that accounting issue.
+
+Client 4: Yeah. And the the only other thing do is the the revenue posted to the income statement is just a journal entry from our red rec automation. All the details actually go into deferred revenue by at the customer client level, but as far as, like, on our income statement, that detail is only a automatic journal So you don't get the detail from our income statement, you get it from our deferred revenue out everything has to get processed through there because we have so much activity. So I just wanna highlight that as well.
+
+Client 2: Okay. So everything runs to that deferred revenue account two, Yes.
+
+Client 4: So we... Everything goes into it, and then each month, everything comes out. And so there's a lot of going in and going out, but the customer detail is actually sitting in deferred Okay.
+
+Client 2: Got it. So...
+
+Client 4: Yeah.
+
+Client 2: For for building out our our top line model and and we we think of top line in kind of two of buckets because we have the recurring coming off and then we have the non recurring revenue that will go into a metric that we call scheduled revenue. And recurring revenue also goes in there. But trying to figure out What object, I guess with that we it makes the most sense to pull that data from. Because like I said, my concern if we pull it from so many different sources, is that ultimately, we're probably gonna be double to having something. So is there any consistency in the way these Like, even if if you're creating a subscription, does that ultimately end up with an invoice? That we could pull the rib rack start nine from the invoice.
+
+Client 4: Just wanna make you wanna to see if there's a a consistent thread here.
+
+Client 4: Yeah. So the each invoice or anything that hit the income the revenue accounts, they do have a revenue recognition or revenue Associated with it That is in, like, the back end.
+
+Client 4: But, yes. We... If something for instance, if we have an invoice that the customer paying twelve months upfront Well, run the background set up, but then that revenue arrangement that's associated with the pet invoice, we'll update that twelve months. And so maybe There's there's an opportunity pull pull from there. The other thing I'm thinking of is maybe a day search or something that we can pull from, Are you guys capable of doing that?
+
+Host 1: I think Frodo last time we can't do safe searches.
+
+Client 2: Yeah. I don't believe. So but if the the revenue elements, is a good that's a a a a pretty strong object that we pull having pretty successfully. As long as all the revenue does run through that that revenue elements, then we should we should be able to get it. But... The the ones that are concerning hear the ones that are just added to the journal stephanie was saying about... I think before you going So if that...
+
+Client 2: But it sounds like that is maybe going away. You're no no longer gonna be doing that. How what's the plan for kind of changing that does this line over to to not just throwing it into the journal but as such.
+
+Client 4: Yeah. So a lot of our cell reps they, you know, we're we're trying to curtail how they sell to customers, but if they wanna both that deal, sometimes things are out of scope. So I could see us still sometimes doing manual journal entries, did do you agree stuff?
+
+Client 3: Yeah. I I just don't want to, like, that we're gonna get rid of it because I know there are those one offs I need it. And it's also still running through, like, twenty twenty three some of our clients. So I I wanna make sure that it's captured okay.
+
+Client 3: If it's helpful. In nets week there is this report that basically is a consolidation of a different, like, Ken accounts, broken up by customer and, like, the different revenue tied to those different streams and it consolidate all the different ways that we wrap revenue. So the journal entry, the deferred from the invoice and then the subscription.
+
+Client 2: So I don't know if that.
+
+Client 3: Is helpful Yeah.
+
+Client 3: Is not know.
+
+Client 2: Sorry. If you go to edit that or edit this search, I think it'll probably give us understanding of how the data's is coming together, maybe?
+
+Client 3: The piece of vest severity Got.
+
+Client 4: No. I it's gonna say, is there someone on the on the call from the side that be able to tell us yes or no if this would work, for revenue connection with that Yeah.
+
+Client 2: That's what I trying to set out right now.
+
+Client 4: Okay. Okay. Perfect. Okay.
+
+Client 2: Oh, okay so I figure forgot where this is pulling. I mean, we... So one thing that I have seen in the past is that we'd pretty much just pull revenue from the journal. And and that that works for all your historical recurring revenue. The problem is you can't you usually can't see what's going forward.
+
+Client 2: You would be able to see if we pulled from say subscription level. So one thing we could do here is kind of a hybrid approach, which we've done we've done in the past. We pull all of the historical recurring revenue data from the journal. And then all of the go on a go forward basis, we pull it from probably on the subscription level, unless there are other in voices that would have forward looking data. What I think does. So we would pull that probably from the subscription and I I I'm certain that this is gonna... This is not gonna be the most accurate build to be honest. But I'm trying to try to see what we can do. To Gertude, is there a chance, like, that any of it could be pulled from Salesforce if like, for the go forward Like, wouldn't i that be accurate to pull from Salesforce, Stephanie?
+
+Client 3: Honestly, from a revenue perspective, it's much more accurate that sweet.
+
+Host 1: Got it.
+
+Client 3: When you say go forward, like, when you've talking out with the forecasting piece of, like, Yeah.
+
+Client 2: So like, currently we're in December So for December and Previous, we are deploying from the next week journal and then going I guess, it even more November because the december closed yet. But And then December and forward would pull from Salesforce or something like that.
+
+Client 3: Got it. And it need to be the same transaction type in order to do it. Like, it can't be coming from is like the data the data and mass is sensible enough to like, know how far forward to extrapolate. The recurring revenue piece I just... It's it's coming from so many disparate places. So I think that's where Yeah.
+
+Client 2: But for my concern. So that report that you were you were sharing that had all of them consolidated in a one report. It was that nets be out of the box report or did someone create that report?
+
+Client 3: Create it for us.
+
+Client 4: Okay. Yeah. Our nets is pretty heavily customized. I don't know if Stephanie should we, like, maybe me with came from craft in and the most eighteen, caters like our Nets architect. It's our third party admin. I don't know if maybe you guys and heard together could find a solution, but I think it's pretty important that we to get us out before move forward, you know Yeah.
+
+Host 1: Totally. And Gertude, should we potentially bring anyone else from our side on? Like, I think Frodo was kind of in nets sweet expert Yeah.
+
+Client 2: I mean, anyone... If there if you know other people that know sweet well, we can bring them... Them man, I'm my more my concern here is that since there are so many different objects, I just wanna make sure that someone like it sounds like Kate probably knows what the... Criteria are for pulling from each of these different sources to bring it altogether. Because we can we can pull from multiple sort like portions of nets and and stack them all on top each other, but if there's any information that lives in in multiple, parts of it, then then it'll be double counted and we won't have accurate results. But it's like... I mean, it it it seems like it's still since this report was created, but I just don't know how to how to see how this report was created.
+
+Client 3: Yeah. And, unfortunately, like reporting in nets is kind of a nightmare for us.
+
+Client 2: So, like for us.
+
+Client 3: We don't even know exactly.
+
+Host 5: Definitely it seems like it it should be easier. It's like all the start date, all the end dates are in there, all the amount. Are in there. I'm surprised I can't just spit out like a report with all of your revenue by month and all the deferred revenue.
+
+Client 4: By customer. Yeah.
+
+Client 4: Yeah. I think a lot of it is because we're heavily customized, we invoice and arr and what's coming from multiple different sources. So sometimes we invoice from a sales order. So there's rev rec from a sales order Sometimes from a journal entry, some that's from an invoice sometimes it's a amortization schedule of a adrenaline entry or an invoice in the revenue element. So it's, like four, five, six different things that it all comes from that even our third party has struggled to help us get that proper reporting like Stephanie was saying.
+
+Client 4: Yep. So it it's a pain in the butt.
+
+Host 1: Got it. just looking at the schedules with Frodo and Gertude. I know you have a call with Jason today, but we wanna make sure that we can do this. So Do you have time Friday at And I don't wanna make it too early for them. Like which time ten thirty Am, and we will block out an hour just in case, Yep that works for me.
+
+Host 1: Okay. Cool. And then I can invite You too, Jericho and then you guys can write kate to it.
+
+Client 3: Oh, yeah.
+
+Client 4: Jericho are you Yes. You guys have something I already have a immediate at ten to ten thirty. You said ten thirty?
+
+Host 1: Ten... Yeah. Ten thirty to eleven thirty your time. Easter.
+
+Host 1: Thursday. Or sorry, Friday.
+
+Client 4: Oh, for Friday? Okay. Yeah. I I thirty On i'm fine. Sorry about that.
+
+Host 1: Perfect. Okay. Cool. Yeah. And then so if there isn't any else that we need Gertude, I mean, you have something you, you can send over to me. I can over. And then we'll have Frodo and anyone i'll around to the call. So wash it. That way we can I'll be on the same speed about what we talked about today.
+
+Client 2: Yeah. Would it be possible to to loop locate in and and see how that report was generated. So we can see if we can kind of duplicated on our end.
+
+Client 3: Okay. Reach out.
+
+Host 1: Okay. Cool. Yeah. You guys just add it to end. Right Cool.
+
+Client 4: And then So we're real quick that covers revenue What about steph, Did you guys go over expenses or cogs or Arr or anything else?
+
+Client 3: Now is that something that we wanna dive into to feel Do you think it's do you think there be any issues that information, I guess, where would like the Arr come from is that from subscriptions or from Salesforce So I would feel So I think part of our difficulty right now is like, because we bill in arr Not street is typically more accurate.
+
+Client 3: For like, for the clients were live. In billing in that suite. So a lot of what when I'm like trying to reconcile and information. I could go back between back and forth between Salesforce and nets speeds. So like, if we have a description or an invoice generated for a client. I will lead the Arr based on what's in that. But then, the clients that are not yet. In that speed, I will Salesforce. I was we were kind of hoping that Mosaic would be able to kind of marry the two and i'd be able to identify you know, like, if the is not in nets would be, like, are we able to pull the from Salesforce Salesforce versus if they are not going it. From now sweet.
+
+Client 2: Is that would be what would be the scenario where they wouldn't be... They would be on Salesforce, but they wouldn't be in in that week. Is that if the they haven't closed yet?
+
+Client 3: No. If we have not started billing them. So we typically give them like a fifty day grace period before we start billing. So track they are a client. They closed the deal all of their information is in Salesforce Ar is calculating in Salesforce, but we'll be having built it out in that sweet so their Arr is not there.
+
+Client 2: Okay. Okay. So Typically how we would we would kind structure this is if we're pulling all of the the Arr arr revenue from nets week, then we should we try to keep it all within the the bounds of one store system because as soon you start to mess their mix or system. That's when you different levels of information, and it can get... It can get very messy very quickly. So but we also build out booking and pipeline metrics. So I'm wondering if you would be able to do it from a a booking metric. Perspective and and model in top line that way. Leaandra in Maximus. Let's... Let's maybe ask a cs about that. If that would be possible. Made just on that. But that... That's how I seen that work well as this had yet to be to hit next speed this is yes to build. But we have... We closed in So here's this booking for this amount of Arr, so you can layer that data in with the next sweet data, Got it That makes sense.
+
+Client 3: Okay.
+
+Client 2: So the the key there we would have to, like, which let's Maximus double check with Kate on on making that we're not counting like we're... We're taking this of preparation for bookings and we're taking this from next week. We don't wanna continue to keep this once it hits next we. For what I'm thinking here. Okay. Okay.
+
+Host 1: With a linking identifier, but between nets and Salesforce, be able to eliminate that double accounting issue if we can just say like hey, this pleasant in Salesforce. In as we now. Eliminate it.
+
+Client 2: Yeah. If there if there's something... Because I'm assuming most of the salesforce stuff is gonna be the stuff that lives in those subscriptions. Right? Yep. Okay. So there was a link between us such transcription object in nets to you whatever the opportunity is. That would be helpful. Is... Do you have any automation built between Salesforce and that sweeter zone manual?
+
+Client 3: So there's technically Oh, no.
+
+Client 4: I just gonna say steph this probably we're gonna get to is that the we don't really have much connection historically and sometimes the opportunity doesn't think over because we're we're still trying to iron out legal connection between Salesforce and Nets with our Rev ops team. Okay. It was that that what you're gonna say step?
+
+Client 3: No. Well, I was gonna say, So sales orders, so, like contractual items that but clients are, like, closing the deal for that information flows over into nets, but then we build out a description based on that information that isn't necessarily tied to that sales or so you lose that connection. Once we build it out. But the way that we do tie things back between nets and Salesforce on the account level, so there's a nets Id that ties to a Salesforce account. But a lot the way that we book deals is on the opportunity level of Salesforce which adds further complexity.
+
+Client 2: So... Yeah. Yeah. Okay. So I'm wondering if if maybe we take a slightly different approach to this. So we we have the the very section Salesforce in nets suite, everything like that. And basically, all that data flows into Mosaic on our on a very raw level. We start that data in a database specific to your instance. And then we have levels we have scripts basically that sit on top of that, that create all these resources the drive our metrics. So with that, one to go to more out of box wise are the Hr one and the and the Erp so the nets sweet side that will follow the same ideas every time. It's it's out of box you connect them and a lot of this data shows up. So I'm wondering if we can call the revenue from our the Erp general ledger revenue. And then build out Arr from from Salesforce and so you'll have both of them because you'll be able to say this is a recurring revenue account from the Gl. But you also have the salesforce level, and I'm wondering if that might make this easier because it it sounds like the nets top line build might be might be difficult. So that might be a backup plan. If we can't figure out how kate built it out in in net sweet.
+
+Client 3: Got it. Okay. Let me sit on that.
+
+Client 2: Okay. Yeah. Yeah.
+
+Client 3: That Just the just backup up options here.
+
+Client 2: Yeah. And we can also Yeah. Let's let's see what Kate says and then I think more information more of a a definitive answer on how we would build this out in that... Or not mosaic understanding of how it's how calculated and that's me.
+
+Host 1: Okay. Sounds I certainly invite... Yeah. I'm gonna try and get Frodo to Join and then we'll go from there. But thanks guys. Yeah. We definitely to get this out where we move forward.
+
+Client 3: Yep. Awesome. Sounds good. Appreciate everyone's time.
+
+Client 4: To see good knows jail.
+
+Client 4: Meet you too. Thanks guys.

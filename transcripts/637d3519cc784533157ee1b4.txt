@@ -1,0 +1,197 @@
+Host 1: Hey Enrique all these bots.
+
+Host 1: I know not Yeah. Hey I'm just curious, are you guys on Zoom right now? You on speak of you on Gallery you.
+
+Host 2: Don't know what that means, but there's two things at the top that videos and then you have a big video.
+
+Host 1: That's.
+
+Host 3: Yeah.
+
+Host 1: Good. So speak of view... Okay. So you see it two When he started...
+
+Host 2: Like, when Enrique started talking, it didn't change these.
+
+Host 1: We did it. It should.
+
+Host 2: Enrique start talking.
+
+Host 3: Test test test?
+
+Host 2: Oh, so interesting if you like or interrupt for a quick second, it doesn't change it, but it they, like, figure out if it's actually talking for a while.
+
+Host 1: Good Like, Yeah. These to that silk time today. It's crazy Also, Jed, the guy who you're trying to reschedule and basically said, hey, And Don't wanna reschedule.
+
+Host 2: But his email then you're were like, let's do it next week.
+
+Host 1: Oh, he says he doesn't want reschedule?
+
+Host 2: Mean, you said it's like, out for the holidays. That's what it sound like.
+
+Host 1: Like, yeah.
+
+Host 2: I think you said, like, meant like, all of the holidays. Like, December. It's it he said something about December.
+
+Host 1: I think it's said it's two weak in December. I'm actually not sure. Jenny is the one who since the email we accepted to you. Again who said you were sick this morning?
+
+Host 2: Me I remember being like, I think the guy said he didn't wanna do any of this. Oh, never nevermind. I read it wrong. Where is this? Somebody said something about like maybe in December. Maybe that's what it was. You gotta find some time next week. Although next week, you gotta be careful too. I mean, we're gonna have the team.
+
+Host 1: Yeah. Jeeves those actually she's my full. Okay. Let this he'd I mean. Eyes here. Case.
+
+Client 4: Hey. How's going?
+
+Host 1: Good. How are you?
+
+Client 4: Doing good.
+
+Host 1: Again. I'll type the dock. Enrique on the team product manager here.
+
+Host 3: Placing see again.
+
+Client 4: Again.
+
+Host 1: Great. I'll okay. So we all working on the boat. So it's looks like it's coming from your sales sports instance that's not on like... I think it's like on the stand plan or something. And we only were on the during?
+
+Client 4: We're on essentials right now.
+
+Host 1: That's right. That's right. So Salesforce essentials does not give access to Api.
+
+Host 1: Up which is it's fine by me, because we... It's still... The the part of the product that is still going to work is the one where we record your meetings and make them available for your thing.
+
+Client 4: Okay. Yeah. I mean, I mean that's the big part. Right? The We're on essential right now to do a lot the volume necessary to justify that increase cost yet. So Always reconnect the Salesforce part two later.
+
+Host 2: Right?
+
+Client 4: We have that.
+
+Host 1: Sweet. Awesome. Can you then share your screen again and we can use the setup that we started yesterday today and should I think you always good to go the last step is to invite your team.
+
+Host 1: So once we invite team can, also integrate with the calendar. Then we'll gonna join the meetings. And then we're gonna and i'll i'll show you how to access your your team's recordings.
+
+Client 4: And what What's the... What was the address again?
+
+Host 1: Oh, sorry. App. That sells ai dot com. That's the one.
+
+Client 4: Okay.
+
+Host 1: Oh, Brandon, how do we access the team invites that here?
+
+Host 2: I think like that part we. Can go to me... I don't think we have it like an individual page for that. Like, we've just basically, like, skipped up please skip to the meeting list.
+
+Host 1: Oh, Okay. Alright. So then trying to think out what's the next step on the i think if you just send this link here, if you said app that l Ai dot com to your team, They shouldn't be able to log on and if they're in the same domain space, it'll join your organization automatically.
+
+Client 4: Yeah. They're all airline metrics.
+
+Client 4: Alright. Sso.
+
+Host 1: Great. Would you would you like me to meet with them as well to I hold the hands anything goes where a goes wrong or or do you think they can have become here.
+
+Client 4: I I can do on our team call, which is actually in, like, thirty minutes.
+
+Host 1: Okay.
+
+Client 4: I can try to get everybody on it and then just if they that any issue is that gonna ping you, but Alright.
+
+Host 1: And and and like I said, geez, like, what I'm looking for here is like brutal illness honest feedback. Like, I we can try don't know now if like we're building the wrong thing. So Please feel know, don't hold that. Basically hopefully share with me feedback. And about will be pretty low it's like, just hear we me it exact. Like, all the hill we made it just doesn't installed, like a huge point employee. Like, I'm just very, like, like, my goal is to, like, blue away and build the ask product.
+
+Client 4: Right? And so I I i love for us to work the good and get there.
+
+Client 4: So how is it... Is it then I can i I don't think I connected Zoom or anything. Right? So how is it connecting to you connected your calendar.
+
+Client 4: My calendar, So And then it's just looking for the Zoom meetings because if it's Like what if it's a Google Meet or if it's a So it works with Zoom meat teams, Okay.
+
+Host 1: Wait. Actually for Teams, do you ever have teams like Teams meetings?
+
+Client 4: It's super rare. We do have we subscribe to teams, but we where we use it.
+
+Client 4: Got. Both.
+
+Host 1: If you use teams, you you you you should connect it individually to join it So meet and Zoom, just work out out of the box.
+
+Host 1: Teams require on one.
+
+Client 4: Alright? And then so it the then it joins that meeting as a guest What is that That's exactly right.
+
+Host 1: Yeah and it only joins external meetings.
+
+Client 4: Alright. Only external ones. Okay.
+
+Host 2: We have a thing in here that says meeting recording. Do you see that in Zoom?
+
+Client 4: Oh, here. Yes. In in I see it. Okay. Meeting recorder. There's three of them.
+
+Host 1: Those three of them google three we we all have all all interview take.
+
+Host 1: Okay. That's right. And I see webex Next year. Do you use that too?
+
+Client 4: No. That's for the other company.
+
+Client 4: So I we don't use that for this company.
+
+Host 1: Okay. Great. So I'm curious, like, right off the bat, like this this a product like that lets you watch the recordings and tracks. Insights and unless you did put your team and all of that stuff. You food is that for you ready be to like, other any properties like the Sales Ai think the like the digital.
+
+Client 4: Are you asking how that do I see that happen?
+
+Host 1: Yeah. Do you... How useful is that for you?
+
+Client 4: Oh, it's still really useful. I I mean, I've got a lot of junior reps. Right, that are just kinda getting started. So being able to coach them and and listen to what they're doing is is helpful, because I'll be able to... And then even just going back and remember your conversations sometimes they get really technical. And when somebody mentioned something, I have to go back and listen and try to figure out what they actually said. And make sure that aligns is example, there's a lot of acronyms that we use around like, Here. Whatever these are, that I have to know exactly when numbers go with what's what? And if it's it's not the right one, the salesperson wrote, messes up everything. So I've gotta go in and kinda listen to sometimes and back in make sure I've got the right notes. So I I gonna see that it's probably pretty helpful for at least us.
+
+Client 4: Yeah. Sure... And then even being able to forward that to our rc level teams that are working on the engineering side and stuff like that they went us sometimes here what we discussed what we what that customer wants. From a analytics standpoint. So that they can kinda tweak their dashboards and all that stuff.
+
+Host 1: So...
+
+Client 4: Yeah. I could see that be pretty helpful.
+
+Host 1: So so that is I was about to say that he's another prop that was thinking about which is like closing the loop between the the custom facing teams and the product teams Yep.
+
+Host 1: And so telling the product team like, hey, this is what people are requesting. This is what people go complaining about was this is what they like host from the product and on and forth.
+
+Client 4: Okay?
+
+Host 1: Yep yeah.
+
+Client 4: And we're in the process of building new products ourselves. So getting a lot of feedback from our customers and copying those and getting those meetings over, I think will be helpful.
+
+Host 1: Can you remind me how big is that Matrix?
+
+Client 4: So we've got about twenty five employees today, but on the sales side, the people that are mainly gonna using this. We've got now two Bd r, and then a Vp of sales and then two reps and myself.
+
+Host 1: And how do your deals call.
+
+Client 4: So right now, they are using Zoom or they're using... you know, if they're just outbound call or calling using I forget what the name of it. We have a apollo which has a dial in it.
+
+Client 4: So they outbound using Apollo.
+
+Host 1: Yeah. And Got it. I don't... So we don't integrate to the photo right now all to build up own data that we that we integrate with. Like we would record it and, like, all of these meetings we go to the same spot, the we got Yeah.
+
+Client 4: I I mean happy be really useful if it's know, recording those calls as well because A lot of time, you know, it's not necessarily immediate schedule their cold calling in and sometimes to start to position and you know, then they just take notes.
+
+Host 1: Yeah. And would it be useful enough for you to switch titles.
+
+Client 4: Yeah. I mean, if I get a... Evan that was a bit... That was one of my big things with with the follow was the lack of that. We we've looked into a few different times. We just had to pull the trigger on anything because most of the other programs that do that are more formalized, like call center type. Applications and there are two too expensive for what our needs are. All we just steve is that little recording.
+
+Host 1: Yeah. Well, that's that's exactly yeah. That's working on. Great. So again, looking for pm looking for real feedback, brutally and this feedback. Would you be up to join. We're bringing together right now, like a a sort of of design partnership. It's it's pretty lightweight it's like, one goal it once twice month like, depending on your availability and you can have any easy to talk about. We talked about two things. We talked about, like, one you'll experience so far with the product. And i you know, feature requests issues all of that stuff, and then, you know, we would show you what will work on with give us of time. What he for you is one you dot to the team, you know, and I call, like Ex goes in the fields and that's interesting too. You shaped to product so like, it's just beats skill use stays building. Three, what is number three? Oh, I mean, you get the product read until he's Right. Basically, like, three zero six months or something like that.
+
+Client 4: Yeah. Sure.
+
+Client 4: I I I do know that you know, this week like we're going to a holiday week. So probably not yet. Have the meeting scheduled today after day. It's where we're closed down for Wednesday, Thursday, Friday. And then we'll pick back up next week. So we do have meeting scheduled in. So we should be able to start using it then. Up until like close to Christmas and then shut down for a couple weeks again around Christmas time.
+
+Client 4: I would at some early meetings in there. In the next week or two.
+
+Host 1: Okay. We can put something on the books and if we don't have these thing talk about. We can cancel it on the meantime, We can also see. So there are emails Do you want us to find something now?
+
+Client 4: Yeah. I mean, I have my calendar reps so I could tell you.
+
+Host 1: Oh, wood. This does december seventh work for you? At one fifteen simple One.
+
+Client 4: One... Yep. That works.
+
+Host 1: Alright. I will send the invite then. Great. Well, thanks a lot keith. Yeah. Been how happy to assist anyway again.
+
+Client 4: Yeah. I'll I'll share the link of him today and then we'll see if should be fairly easy for them to go through. Alright. And then We'll see they connect calendar should be able to those calls.
+
+Host 1: Yes, sir. Alright. You so much, Jason.
+
+Client 4: Thank you.
+
+Client 4: I that's it.

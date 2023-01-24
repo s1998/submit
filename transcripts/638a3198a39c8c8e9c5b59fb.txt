@@ -1,0 +1,197 @@
+Client 1: It's gotta cold think it's from travel last week.
+
+Client 2: You sick the last few weeks, You sick the next few. We were just talking about in the office. It's like yeah.
+
+Client 2: Everything's going around see.
+
+Client 1: I everyone. I know Maximus. And Leaandra on a demo, caitlin coming Avi out. Okay. Think you just. Let's just dive in Cool. So just hop right into it because we never have enough time on so I wanna move pretty quick today. So wanna talk about a couple of the back points. We've We've seen come through the new customers recently. Starting with multi currency, There's been influx of customers who kind of have more specific currency needs. We talked about this a little bit. Not in the most previous one, but the one before that. So just wanted to refresh everyone's understanding of currency in general. And we actually did I think it was actually kind of a miss by us not really making this properly flagged in the sales the sales cadence stack for the requirements of scoping, Effectively, whenever you hear customers say that there's more than one currency involved, be plugging in Sc for for kind of a better deeper understanding of what the customer needs to do.
+
+Client 1: Because while we can support very simple use cases. Of what they need on a multi currency level. There are plenty of more complex use cases, I guess, that we we don't support either at all? Or very elegantly. Good example of this i of customer harbor great customer and not actually super noisy about this, which is nice, but His top line metrics are all in Usd. His financial metrics are all in Gdp. So we have the numbers. Right? The numbers are right in Arr, the numbers are right and revenue expenses whatever. Or are limited to a single currency logo. So Right now, there's that little little pound symbol that l with the dash. Is showing up on his error metrics when they're actually in Usd. Obviously, something we've talk to product about and are hoping for a solution on. But it's it's situations like that where not every customer is gonna be as gracious as as Rob has been. And it's still something he expects us to fix. But know, he's kind of about a one in a million customer because many customers would just be like, can't use you for any of my reporting, like, I'm I'm upset. Another example, like, going more specifically into oh, shoot here. Sorry, guys. Give me one second. I'm me pull up my notes. Alright. With elevated signals and quill, they essentially wanna be able to toggle back and forth between currencies. Yes. Not not functionality that I think we're even close having. Candidly. So taking a quick step. Are there any general high level questions here? I think that real key takeaway, is that when you hear multi currency from prospect. Get Maximus or out on the line to or not maybe even on the line, but to communicate with the prospect about what it is they need. It's that second question that matters the most second and third question if that makes sense. So yeah.
+
+Client 3: Yeah. Just to true this up then, Ken, can you frame up what exactly we can do then Yeah.
+
+Client 1: So what we can do is we can report in one currency very well and we can convert their numbers from other currencies into a single reporting currency. Also, like, just won't get into into the weeds on this. We found out last week that we actually... When a customer has We actually were so reliant on Usd being a key value that there was like, two or three customers that Nothing was right on. That's about to be fixed, but we can support one currency reporting Very well. We can even support like another instance of mosaic where they have other currencies?
+
+Client 1: But but Those two instances do not talk to each other. It's it's as if they're two separate companies, and we have no real way of making those instances like talk to one another. So if we need to build out top line. Data we have to build it out of both places. Now it's, like, a little bit more of a copy and paste function with some tweaks, Gertude, keep me honest there. But because they have to build the dashboard twice the model's twice. It's obviously not ideal. So we will... We want them At least center understand that if they if they do need it if they need it, they need to know that basically are gonna be two two.
+
+Client 3: Okay. Gotcha. So, essentially, we can just do consolidate the recording to one current see to put it super simple.
+
+Client 1: Yep.
+
+Client 3: Yeah. Gotcha.
+
+Client 4: Okay. I'll little bit more color on elevated signals that's like a sort... What we're gonna do for them, and they only need their Arr in in Usd for their investors. So what we're gonna do for them is just build a custom metric. This does not mean that we should, like, try to sell this, because it's just... We're not trying to do customize right now, but that's kind of the workaround on that we have. The problem here is that it makes the the bill lot more complex because we have to build everything out in multiple currencies. And it just makes it it just adds actual layer of complexity. So we're able to port elevated signals, and then callers kind of a mess right now, but We're able to support them, but it's it's just adding basically doubling work. For team. Yeah.
+
+Client 1: And just to close the loop. Bring your Ass in. When there's multiple pool currencies involved. So... Cool. So just very quickly on the intake form been a handful of inaccuracies on tech and consulting I just wanted to call attention, that we do use them, especially for creating kick off deck. Obviously, we have our conversation as well. During the hand up, which is important, but we do care about having accurate intake forms. So just wanted to kind of give everyone a little taking the rear on that and Also, I don't know exactly how this works, but I think you're all aware that it sends an email to us. I think there's like, I don't know how it works for you, but we don't get a second email if you make updates to it, So whatever you do that generates the actual email being sent for that first time. Please wait until it's completely finished before Let's see.
+
+Client 3: Yeah. Yeah. There's like a... There's button that says send email upon save. You could check the box or not.
+
+Client 1: Yeah. We do have access to Salesforce so we can go into it, but It just Generally, just appreciate if you wait to send the email until it's completely. Good to go. Questions there Cool. So quick little blurb on in hub as well. Sounds like there is some general mis in the sales cycle, not super clear, on if this is because it was moving fast, or there is just some general misunderstandings but we we're under the impression that it was gonna be, like a standard just Crm build, I believe Well, it was from house Fire Sales. I can't remember. But They'll also require Stripe. And it was really news to us on the scoping call that they need to stripe. Gertude you wanna talk about this.
+
+Client 4: Yeah. I can think put one... Yep. So I got on this. Actually, in in the into intake form, I believe it said Na for both pipeline and Arr. I can double check on that. But We weren't expecting to actually have to build type top line to them. Brad got on the phone with them and realized that they had Salesforce have hubspot.
+
+Client 5: And stripe.
+
+Client 4: They wanted us to build Arr metrics out of a combination of those and zero, and I was like, god not a good idea we're be counting.
+
+Client 4: This is a mess. Most likely we're gonna have to go Cf for them because they don't have any way of like deli what comes from Stripe and what does it? So we're gonna double out people pull from sources. And they're not super pleased about that. Trying to figure out if there's another another route we can go, but the the accuracy of the scoping is the the intake form is super important for a few different reasons. One, I look at that when I schedule who's gonna be scoping customers, the more complex scoping don't go to the people who have like, Kim Cosmo and you're ramping up on scoping. I'm not gonna send them one that's gonna pull from four different systems. So try to let them get their feet out of them. So it's critical that these are important, or these are accurate so that we can... We can make sure we're supporting the customer. And also it sets us off on the wrong foot if we get on the call there like, and we're like, completely blind. It's helpful when I can go and and be like, my understanding is pulling this from Salesforce. Is that accurate as opposed to... So how are you doing this? So it looks like I don't know Yeah.
+
+Client 1: And I I guess another context piece here. Because it sounds like we sold into the accounting team primarily And that when Brad got on the kickoff call with them a founder to showed it up, and they're are like, What the fuck is this? Like, what's most? So not really sure how that happened. That sounds like a mis assignment within that org specifically, but We just we just really wanna limit surprises. Guys. That that's it. We We don't say no to you guys. Very often anyway. So surprises we don't like them nobody likes them. And it it helps us. As long as that expectations is set, Typically, we can you know, make customers very happy. So Cool. Let's go to your guys feedback. I'll get... Actually, I'm gonna come back to the wow moments because I'm gonna actually show some gong snippets quick. So thanks for Selwyn, I think that one came from you. We're gonna talk about some the the vendor level stuff, and I'll explain it and then Someone called out how intuitive Mosaic is. So I'm sure you guys sell that to a certain extent, but there's a a hot for ease perhaps. I do wanna talk and Gertude. Sorry we didn't it sync up before this, but I wanna talk It sounded like Nick, you wanted us to follow up on some of the questions from the week of the last time we met. So apologies if I I didn't make it clear that we try to answer some of them. I do wanna specifically dive into the logic changes what is a logic change? For our team versus a metric calculation change. So essentially, the the high level answer is that logic that Gertude team creates and the actual metric calculation actually two separate things. The data that the data team normalize is kind of that that initial It's it's the resource. Metrics look at to then show you know, a calculation of some sort. So they exist in the different layers of the tool right now, the metric layer is essentially what's being replaced by Met builder. Gertude. If you wanna just kind of give a a synopsis of of what the difference is here, so they you can kind of wrap heads around that, I think it'd be useful.
+
+Client 4: Yeah. So kind of what I tell our customers on scoping calls like kinda I go through the the architecture of brings in data. So on the very base layer, we have all the raw data. So I'm just gonna say first, for example, we'll pull in all the salesforce data and that will show up in as the different objects. So opportunity will have its own table account has its own table. We bringing all that data. We don't bring all of it, but what what we need for the build we'll bring in that data and store that data in a raw and rod form in the customer's instance database. Then on top of that, we run our eye aggregation scripts that create the revenue schedule for revenue that we can build Arr metrics for opportunity. It filters out anything that shouldn't be there. Make sure that we're pulling the right amount fields, like, not all customers use amount, they use Arr Mr or whatever. So may like, add in all that that custom logic for the customer. That is kind of layer. And what that does is it spits out two different two different basically data tables that we use... We call resources. So we have the opportunity resource and the revenue resource so the two main ones on our team builds. All of the metrics call one of these different data table. So there is the revenue or the any resource and then what we don't touch is that, like head count and general and stuff like that. So all of the metrics rely on these data. So if the data and those tables isn't inaccurate, then the metrics are inaccurate. So if if we have a customer, like, a really common one that we'll get is they wanna have a couple of different ways of looking at their Fx rates. They error changes is the reason for that. They wanna have a static guest x rate and then they want Arr reach helped every month based on the Fx rate. So with that, also have to go in and add that logic into the into the table. So typically the the... They are too separate buckets, but they typically kinda go hand in hand because we need the... We need the table the underlying data to have the necessary data to build out the metric. Sometimes, like, if it's a a metric that already has data that exists, in the table then support we'll just build the metric, and our team doesn't necessarily like get involved. But anytime, there's additional additional data that's needed then our team gets involved and builds the metric. And then kind of on the reverse side of that, if all of the of all the data is actually there and and No. Additional... like metrics need to be built. But the customer changes how they're utilizing Salesforce. They're using a different field something like that. That's where a logic change or they completely switched to a different a different provider. That's a more of a lack change. That's where our team will go in. We'll do a full re technical scoping and and understand what changes they've made and and we call it a phase two aggregation or phase three four whatever has to be aggregation. And and so we'll but it basically is, like, they start from scratch. And we rebuilt them.
+
+Client 1: Yeah. And just like close the loop on this and, like, is layman's terms as I can think of If that customer says, like Arr is wrong. Right? And we're using the right, like whatever? It probably means that the resource, the data table needs to be worked on by the data team. Now let's say that I want to... My bookings metric and I wanna see an Ac d version of it. And I wanna see a Tc version of it. Well, that's actually gonna happen in this metric layer. Right? Because I want two metrics about one of them use this amount field from Salesforce? And the other one to use this amount field from Salesforce. So that would be a metric change as opposed to the actual data table change, that makes sense, Like it's it it's pretty dense, but hopefully, that kind of gives some Clarity, and we can definitely talk about this more in the future, it isn't. So a little early for for logic talk probably, but Cool. So let's see here. I'm gonna have to out of this. See if we can zoom through these quick. And, you know, what let me I have to do the share sound thing. Advanced sharing options. Because this current... The current model it Tell me if you guys can hear this okay or not. If not, I'll just send you the December can hear it.
+
+Client 1: Okay. This is helpful for me right now as I go through Okay. October and then I need to switch september. I've got their hurdles right now. Okay. And these guys always get So i'm see what started. Strange. Speak about. Sure. Sweet. Apple. Right. Correct. Wow. So i when they just say well for Online. Don't think we talking with our to it. Yeah. They need to do that in order to see the whole. Copy Yes. Something. Okay. Cool. So Let me take a step. What were they just doing? Or probably should send this before? They were doing a Bb a on their vendors from their current, like, operating plan against you know, their actual. What did she realize? You like, oh, I have some data integrity issues in nets. I want my accounting team to go clean that up. Value add. Also accrual. Like the... Part of the Fp, like kind of workflow is it at the end of every month, you look at the accounting teams accrual entries. Essentially what rules are if you don't know, is I prepaid Mosaic. Right? Six months ago, So, yeah. That cash went out then, but I'm gonna... If I was twenty four k, I'm gonna book two thousand dollars a month. To my P and L for twelve months through the life of that contract. So they need to... Is at P professionals, we tend to kind be the overwatch on the accounting team's accrual process. So it's a very normal Or it's a very, like, common f p practice. So the selling point, is essentially with the help of our vendor level Dba and just general vendor level access. Sorry link granularity in the data. You can help speed up your month and close process and hold the accounting team accountable for accrual. Right? Very important. Right? Because it normalize your expenses across the the P and L. So send me a link to this one we're running low time. Let's show the intuitive tool one.
+
+Client 5: And. And just really quick I get split up can can they... Can we break those down by department so we could could we recreate like, a department level vendor, Bb a, so that Okay.
+
+Client 1: Now. Yep. But as you notice, like, it is really work understanding that This is gonna show a lot hand. For customers. Vendor level tagging is, like that lowest level a tagging that happens in the Erp. Therefore, tends to have the most issues. Typically things get booked to the right account typically things get booked to the right department you know but vendors specifically, a little bit more elusive. Because there's a shit ton of them. So our vendor level, just the ability to tag a forecast to a vendor now is extremely extremely useful. Now I will caveat this with saying that It's a pretty manual process to build your model out at the vendor level right now? Like, it takes a lot of work because if you if you think about it, let's say I can't... It's like, a hundred material vendors. Right? So vendors that essentially are recurring and have enough of you know, high enough threshold where it's actually worth tracking them. That's gonna require a hundred rows individually. In the model. Right? So it is possible but it is tedious. The good news is you set it up once like anything was that you set it up, and then we're in you know, the fucking runs. So But let's listen to answer here. Here I need. I'd like the software so pretty it now. I I... I just had to share this little gonna to do. So yesterday, Actually I were going through the different models I prepared, so you could speak to a member about. And We were we ...i we were like, diving into Yeah. Some we were looking at things like what's the sales team had? I was like, Oh, no. I guess I have this sales marketing customer success. I might have to go back and book. Another. Wait, minute. If I just wish this year. I to answer anyway five seconds. Was case. Was like, I was like, so excited during the call? I. So that's a net new functionality. Right? That's kind of always been around. But it shows you that some of our core functionality that's been around essentially forever, is still super valuable. And you know, amber as far as I remember, they're not my customer obviously, They're like a a fairly small company I mean, you can see there there around what right now in the thirties on heads. So this type of functionality is gonna be particularly, like, impressive to to companies like that and should be. So Cool. I'll like I said, I'll send this link after the fact. I just free in record this. But oh, well. The last thing I wanted to chat on is head count drivers, So I I heard there's a little bit of chi chat yesterday about what the tops down head count planning doesn't doesn't do. It does not dynamically drive head count yet guys. It does not... There's no formulas to build as you've kind of and talks to about. So that's definitely feedback that we wanna make sure product understands that you guys were misunderstood what was gonna be ready and when? That's that's a a key thing that we should, you know, take away from this is that you guys need to understand exactly what things do and don't do. But have any of you have the chance to watch that Loom that mark whipped up yesterday? Yep. Okay. So That's basically it. With without the dynamic to just, like, do it in this place can you have to, like, copy? They're actually gonna have to download it the top line planner. Copy it and paste it in So there's still enough like, friction there to where it's not. It's not perfect. But I can't explain enough to you how rat valuable, top down head count planning is gonna be for our customers. As it is today, forget the drivers. Forget all about them. Think about the the effort that it takes to create that little upload did we pump into the head count planner. The conversations that have to happen around that. And then they have to, like, be very intentional and, like, got checked their this thing they're gonna upload you know, couple times over. Now they create these roles because these things are standardized models. They don't say like, oh, you know, I'm gonna hire one eighty, makes a hundred and five k and this one's gonna make a hundred and fifteen k. They choose a number, maybe it's a hundred and ten k. And then they just forecast that. And the fact you can just literally type numbers in, tab tab tab number, it is so freaking easy and it is so It's so much better than any plain who I've ever used. It's it's pretty simple. Like, when it comes down to, like, the mechanics behind it, but the value provides in terms of how quickly you can your head plan and scenario, scenario play head count plans. Is should not be understated like, Maximus and alison hammer the hell out of this in demos, it's it's gonna resonate. And while it's not everything, you guys might have hoped it would be? That will come there's actually a lot of groundwork that has to be late before we're gonna get there though. And that groundwork that's gonna be late is actually, like, incredible value in and of itself. Head cab drivers aside. So I'm gonna do this again. So next week, we are starting. We've talked about office hours Next week, we're starting a new phase two if you will of office hours. The Cs office hours, gonna be doing two a week now. They're gonna be every Tuesday and Thursday at ten Am Pacific and Let me, just call your attention to the actual application here quick. So we added it to Chameleon here. So customers will now be able to book this link. You guys can go grab this yourself to, If you wanted gonna share it. Oh well, shit. Be careful. Do not send this to prospects, please. We're gonna be going through the nitty gritty Mosaic and Unless you think that like we're not selling in this. Right? We're training So it's not gonna be the glamorous side of mosaic. It's gonna be the nitty gritty we're gonna come across like, inefficiencies. So But still selling this one. We want you to sell this is what I'm trying to say. We had... We're also adding three new topics in that we didn't have previously. So Anyways, We are at time if anyone has Any questions, I can stick around for a few minutes. So Thanks ken.
+
+Client 2: Jump for call. Thanks, Katie Krishna.
+
+Client 6: Hey, caitlin.
+
+Client 7: I one question.
+
+Client 7: Yeah. Everyone drops. I had a question on the head account drivers. So in my prior lives, we had dynamic head account planning where you're like taking a percent of revenue whatever to drive capacity essentially. Yep. Across like an organization, it's very typical with, like, emerging. What are you hearing on the our customer base? With likely series hey customers where they're saying this is, like, super value on.
+
+Client 1: The new functionality.
+
+Client 7: Or... Yeah. Yeah. The newest the new stuff, with stuff you mentioned.
+
+Client 1: Well, candidly, i I haven't rolled it out some more than, like, two because it came out yes today.
+
+Client 7: But... Right. Not not not on any, but, like, requesting to get this new functionality like, what you been hearing on the ground floor?
+
+Client 1: I think that generally speaking where our head count planner was is, like, It was pretty intuitive. Right? Or is pretty intuitive? But it's not super easy. Right? And I think I I think the biggest value add is just gonna be how quickly you can make changes, like, just like plugging numbers and know what I mean?
+
+Client 1: So like... Oh, I wanna talk... I wanna switch this start date. Back month. Like, no. Zero one, And, like I've seen a lot of customer models. Right? Like, their excel models. I would say it's it's a mixed bag, I would say about half of the head count models I've seen in Excel. Are in this format where you have a roll type with this dates across an axis and they're just plugging, like, numbers of hires into.
+
+Client 1: Okay. I don't actually know I haven't tested this yet. I don't know if it works for departures or not I don't know if I can type a negatives number into that yet.
+
+Client 7: I have sure I think he can.
+
+Client 1: I think you can too.
+
+Client 7: I'll have to let Yeah. You're right. I don't know. I feel like I seen it the demo that's why I was like, then All like, is that even Mvp functionality?
+
+Client 1: And like good yeah.
+
+Client 1: Yeah. I mean, we could find out pretty quickly. But In fact So when...
+
+Client 7: So when you implement like that model, are they like, oh, I wanna do I wanna keep the status quo of those drivers or are they more like, oh cool now, I can use sheets because it's way more or named employees. That's way more scalable.
+
+Client 1: Say that one more time.
+
+Client 7: So, like, the people who do have head account drivers. Right? And they're typing on at one, two, three per month.
+
+Client 7: Yeah They come to mosaic, Are they like, well I've always wanted a plan by play Roster. I just never did because it's so manual on time consuming, but now I want to. In a abolish the head count drivers or they still like, no. I like to plan this way. I wanna that.
+
+Client 1: Will they've had to abolish shit up and until...
+
+Client 7: No.
+
+Client 1: I know.
+
+Client 7: But were they like it's where they like, oh, I don't wanna.
+
+Client 1: I think there's still a place for bottoms up, I guess is what I would say to that, especially for, like especially for, like, near term planning, whether that's a year or a quarter whatever there's still very much to place a time at a place for that.
+
+Client 1: But I would imagine that going forward, no customers gonna bottoms up forecast head count. Past the next twelve months. But maybe you're not the next six months to be honest.
+
+Client 7: Yeah totally agree.
+
+Client 1: So I'm gonna hammer the hell lot of this with my customers. By the way, it does work. I'll show you quick.
+
+Client 7: Okay. So... Okay. That's what i was... I feel like I saw that in the day.
+
+Client 1: Even it even color codes it. Is kinda cool.
+
+Client 1: really?
+
+Client 7: Yeah. Loads down.
+
+Client 1: Here. And it's a And you can see that there's a two there. So I also personally love that if there's multiple It doesn't give me a row five rows for this input, it gives me one row with a little five. I think that's great because it makes us held a lot more palatable.
+
+Client 1: This. So Could you override this?
+
+Client 7: Could you like... So like, what you just made? Could you break oh I want the this this one timing to be off. Could you just like, double click on like the start date, from that beverages over right now. Have to go back.
+
+Client 1: Oh, on the bottoms up part.
+
+Client 7: I hope.
+
+Client 1: Yeah. I actually, I don't I don't think you can make any changes.
+
+Client 7: Here You can gotta go back.
+
+Client 1: Right here. You have to make changes here.
+
+Client 7: And any changes?
+
+Client 1: Yeah. So But Dude everyone's gonna use this. Like, literally, everybody's gonna use this. Brian, this guy whose model looking right now. He told me straight up that this is going to become But you see how he is like all the way out into, like, twenty twenty four hires here. He said... Yeah. Oh twenty twenty body then. He told me that he's gonna migrate his his forecast over to this. Within the next couple of weeks.
+
+Client 7: Yeah. Especially with, like, massive hiring plans like that. Just doesn't make sense to go one two like, one two.
+
+Client 1: Totally. And I just... I think it's the fact that you changing is, like, clearly clicking button Right.
+
+Client 7: Like, one to two one push out one, but, yeah, instead of, like let me change each individual starts update.
+
+Client 1: Yeah. Think about business partnering with this. When you're sharing your screen, and you're like, oh, Actually, no. Let's move let's move these two layers out an extra quarter I do wanna bring two hires from, like, six months out from now up a little. You know what I mean?
+
+Client 7: Just like yeah for sure.
+
+Client 1: You can like, do it together and, like, see the effect on the budget in the matter of like, a couple minutes. Not that you couldn't see the effect before, but now just easier to get to what...
+
+Client 7: Yeah. And then as you get closer to like, the to hire date you can like, take that one and then actually plan detail so it's like, it starting yeah fifteenth or...
+
+Client 1: Well, think about it too, let's say, fully adopted this. Maybe they're Not using. What's say or not even using bottoms up. Right? Just for this example, wanna do three scenarios for hiring? Right? Well, You could probably have this conversation offline on an excel sheet too with your business partner? Like, let's let's stress test like three different hiring plans if we hit these goals. K. I'm just gonna paste today. And I have to build a roster. And actually throws out. Like, I just I I think it's on the best thing.
+
+Client 1: We rolled out in a long time.
+
+Client 7: So Yeah. I'm still trying to figure out like, where to best place it all I been thinking at this point was, like, oh, it's for long term planning. Like, after the rolling forecast.
+
+Client 1: I would like the way would be song our head count planner at this point is that we have, like, best in class head count planner in the industry that we make it super easy extremely powerful and only getting more. So you know how to know, My... Here's my honest opinion is that if we can eventually start to bring Ats Yeah.
+
+Client 1: Data into the planning tool and have had count drivers. There'll be no other head player is better than us.
+
+Client 7: We called it, closed the workforce planning and had a plan, but here take like two months to standpoint implement. Just the head cap that had cancellation.
+
+Client 7: Yeah. Everything's tied in in like, like, forecasted head count goes in your Ats. Gets approved gets hired goes in the. Right. Yes. Comes back. Reconcile, and it's just like this constant, like, feedback loop Yeah.
+
+Client 1: Well, even when I was at Ty code and we were using the Sap planning for Sac we...
+
+Client 1: What we did was We have work workday plugged in enough to wear our new racks would come through. Is actually a little bit like Mosaic where I could version it in. Like I clicked about it then it came in.
+
+Client 1: But none of the head count recall was was automated. I was doing manual annual head Can't on every single month. Actually every two weeks. Is meant fucking you mess one little thing up, and it has his effect and then your business partner shooting.
+
+Client 7: About it.
+
+Client 1: Right?
+
+Client 7: Totally heated discussion and then...
+
+Client 1: Yeah. That thing happens.
+
+Client 7: Yeah. You know, least, you know, it would be I don't know if you're open to this because there's just more meetings, but, like, setting up, like once a month or something? Like, new product idea aviation. Like on what's coming and, like, what are the use cases you seeing it? Because I feel like there is a little bit of a gap between, like, Maximus and I Frodo, like, us on these new things and like, trying to sell it. Also also coming from like existing customers or, like, what they're saying? Like, this was five minute conversation was like, super useful for me. But But i don't know if you can't be open to Yeah.
+
+Client 1: For sure it would be.
+
+Client 7: Like it'd would be like a Cs Maximus and I from probably Frodo is optional, but he can join just to, like, i eight on especially with builder coming out There's...
+
+Client 1: We. We should also rain nice of.
+
+Client 7: Yeah. Sorry. Yeah. We do... We already do something with Steve.
+
+Client 7: Yeah.
+
+Client 1: So do we... We just almost see every single friday as a yeah.
+
+Client 1: But Yeah. With the changes that happens, I'm hoping that the entire kind of, like, feedback loop. Just moves faster. Yeah. Weird weak here, but definitely bullish on the future.
+
+Client 7: So Yeah. I know. No. I know. This was a week to be like i it's Friday. I need to like Yeah. The weekend to reach that for sure.
+
+Client 1: Oh, shit.
+
+Client 7: I'm late to alright.

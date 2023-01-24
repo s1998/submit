@@ -1,0 +1,387 @@
+Client 2: Hello?
+
+Host 1: Looks like i issues hopping on here.
+
+Client 3: Great. Perfect.
+
+Client 3: I'm Good.
+
+Client 3: You Yeah.
+
+Host 1: Yeah. Doing well. Doing well morning here.
+
+Client 3: Yeah. So This this her here or Yeah.
+
+Host 1: It Yes. It says Aisha is joining... And think just connect audio.
+
+Client 3: Okay. It might be, like, connection issues. Yeah.
+
+Host 1: Could be That's great.
+
+Host 1: Yeah. This will one see if she's able to get in Are things over there?
+
+Client 3: Good. We are having our first snow. We had our our personal like, two days ago, and like it's been snowing the whole day today. Hey.
+
+Client 4: Oh, hello.
+
+Host 1: Hi, Asia.
+
+Client 4: Hi Adi. So we have Pat here.
+
+Client 3: Yeah. Perfect like, wow, great.
+
+Host 1: Yeah. Pad with our our Cs team and really wanted to to hop on your never chat with you. Can you key hear us okay?
+
+Client 4: Yeah.
+
+Host 1: Okay. Okay. Good. Where were you calling him from?
+
+Client 4: Pakistan Got it Great.
+
+Host 1: Long was it we're all wrong different on different places. I'm in Reykjavik in the Us Okay.
+
+Client 4: Okay.
+
+Client 3: I'm in Sofia Bulgaria.
+
+Client 4: Yeah. We. Okay. Yeah.
+
+Client 3: But I've some about. I actually work with a team there because I worked for accelerator founder institute and they open a top in islam bag, and I was, like because their success manager. And yeah. So I've got bed before.
+
+Client 4: Okay. Okay. Good to now.
+
+Host 1: Well, I really gets you hop on here.
+
+Host 1: I I have us for about thirty minutes today and, you know, couple goals for the call wanna learn about the community goals at at Skip queue, what you're you're taking on over there And yeah, if orbit what I show would make a potential partner. Does that sound a good to you?
+
+Client 4: Yeah. Sure. So. Why don't you tell me about Orbit and like, you mentioned, like, other startups. They're using, how they're using Orbit and how they're, like, benefiting from it? So that'll be put also maybe, we can identify avenues then, like, looking at the example so that we're weekend. Use orbit in the same model, or then we could come up their own, like, the problems that we face and maybe discuss those with you.
+
+Host 1: Yeah. Yeah. Definitely. Me pull up a description here.
+
+Host 1: Yet. Happy kind of walk through the products and and what that look like in in in our I guess look at skip queue. It looks like yeah. You are training early stage developers to place them at start. Is that is that the big of the community, any context you can add there for us.
+
+Client 4: Yeah. So it's it's a cohort based learning. Right? So we we more like, facilitator see, we can provide the content and we provide the... Like, you know, Train them somehow at some point, we do get in work at some points we give them the content. And then we provide a community learning community, where they ask one another for help. And that's the problem that the facing, we give them milestones, the sprints that we have to work on. And so the the... The you know, they they have their weekly deliverable deliverables that they are the community for through and by, like, we're helping one another, so. And then we have our vetting process like once they've done with the content, and then it's our i that we read them we tested them on various aspects of the program. And once they like, graduate for us from, like, the... That probably on the training and the wedding, So then we schedule their interviews and try to get them replaced.
+
+Host 1: Gotcha. And it looks like you're almost acting like recruiter where you you only get paid if you place them. Is that right?
+
+Client 4: Yes. Yes. It's we're not exactly a recruiter because, like, gives you so many nonsense strategies as well. But it's about what we act like is we we were specifically trained, like, we we contact the company we asked for the needs and he's specifically tailored to their needs given their relevant relevant. Resumes and on. Yeah.
+
+Host 1: Okay. Makes sense. So it's... Yeah. Clearly ed tech in career development is are a couple of maybe just so I have some context as well. Something like your goals in your role, things that you're measuring things that you wanna increase with with connections. Can you shared any of those numbers or or initiatives or what these milestones look like?
+
+Client 4: Well, it's it's more individualistic my stones that been looking at? Right? So our... Even though, like, it's it's a cool based course but, yeah, the engagement. The learner engagement might be there but it's more more measured on the vetting process. It's more based on the process some metrics. So the those are individualized. Like, you know, so they they could be tests. They could be online test. Video based with... If you monitored tests, and they could be more continues or something and we are looking to automate many of those things in which, like, we they need to be a manual intervention because that is the limited for scale. So we are looking for, like, to how to automate that, but that that remains an open. Oh open at our end.
+
+Host 1: So when you say there's a manual limit event, you wanna automate, Can you tell me a little bit more about that and how it's related to, like, the vetting process or these interviews?
+
+Client 4: Yeah. For example, there's request that as the engineers to do Right? And I asked them to come on and king's meeting. And, you know, so... And each one has their own meeting. Link and they join in and they've given us link to the quiz. Open the quiz and the within time them they have to make you complete that. But how how do I know that they're not googling it up? By example.
+
+Client 4: I I have to look at the videos. So to be able to know And, you know... And and maybe, like, if even if they're like, doing something, there's some things that they're allowed to look up and some things that did not love to look up or, you know, for example, it could be... we've also encountered some people who are actually I could tell and they have they are using unfair means by not just nothing on their laptop, but I tell by the eye movement is something that they're trying to else than coming back to the problem and something we trying clean some rather than coming back to the problem. Right? So those... Like, I have to go through those videos manually to certain their health and, like, how how much reliable the vetting process would be. So even if the... Even if somebody comes up with a good stats, I would have to see are those that's reliable?
+
+Client 4: Have to go look at their videos. And, you know, to pass them. So that is the manual doctor comes in?
+
+Client 4: And I'm not sure we're still thinking how Ai could help in that. And another another thing that you're looking at is example, here we have to write profile. Every every engineer that we place. We we have to write profile for that. We have data. For example, you know, how how they performing in different metrics what is this score in different metrics? So how a profile can we auto generated using those metrics. But page each individual, Right again, right now we're manually writing those two files using that data. But how that can be auto generated to that is another I I would love to know how other text are using your services. Like, how how maybe we could look into him like how we can incorporate those measures.
+
+Host 1: So, yeah, That's that's helpful. We're we're other companies including ed tech are are using orbit mainly to connect members or students or people going through the program, so they can for accountability for churn to increase completion rates or to increase them getting to miles jones and increase activity. Those are the biggest ones. There is some onboarding that they're using them for, but the automation typically comes when you're connecting Yeah. Students or paid members once one or in a group.
+
+Client 4: Isn't there? How could Okay. Yeah. Yeah. Yeah. That... We we do have a high drop rate as well. You know? So in our programs. And, yeah, if that could be improved by a better connection. Like, if if we could see how... you know, so maybe, like, a cohort starts, like, four hundred. And after like three months, they like, a fifty left. So... Yeah.
+
+Host 1: So yeah so a high drop yeah?
+
+Client 4: Yeah. Yeah. That that job is there. So, yeah, if if somehow learner engagement could be motivating factor. A connection could be more wedding factor for them to pull it through. The training to with the training. So, yeah. I'd I'd like to know more about that.
+
+Host 1: Yeah. Yeah. Think Sorry sorry for the twenty questions. I i'm hearing a lot of that other tech companies are talking about dropout rates and motivation is a big one. So with your four hundred a protocol cold hard. Can I ask... Like, how often are you running these cohorts? Is this annual? Is this, like, monthly or quarterly?
+
+Client 4: Yeah. Yeah. It's quarterly.
+
+Host 1: Quarterly. Yes. Okay. Yeah. I can run through a bit of the products. Penelope, do you have any questions? On on your end with anything.
+
+Client 3: Not really. I I have some... Yeah. We can we can maybe share something about... Because h said, that they're actually having, like, data although of, like, the members of the cohort. So we can also talk about the custom fields and, like, pre populated data and how we are matching based on that. Not really. Maybe the only the only thing Sorry, I I think it means that in case you you mentioned it, but have you done any any connections before like, manually or Any tools?
+
+Host 1: Okay sure. I think you're in mute Yeah.
+
+Client 4: Lovely. Yeah. So I quickly could say that again.
+
+Client 3: Yeah. I was I was just asking and apologies if you have already mentioned that but I was just asking if you've ever done any any match match matching in between the the cohort call members or anything manually had been executing anything besides the networking sessions that you probably have before.
+
+Client 4: I I I don't... Maybe if he could elaborate you mean by matching, we do have, like slack groups, which on which like, interacting regularly?
+
+Client 3: Okay.
+
+Client 4: Yeah. It's posting their problems and this sort interaction going on a community. But we do have a community that that is in place?
+
+Client 3: Okay. Yeah. Yeah. I was I was just asking if you if you've done anything related to Orbit. Or if you've ever ever used something like orbit before, like, to connect to connect members for for any reason, whatsoever beyond a four months slack.
+
+Host 1: Yeah.
+
+Client 4: Beyond a four months plan. What does that mean?
+
+Host 1: You you have you're connecting through Slack Right? Is is any other way that... Or any other from that you used to connect members.
+
+Client 4: No.
+
+Client 3: Yeah. That was my question.
+
+Host 1: One more one more question for I You you did say, like, the the drop off rate, movie motivation, is something that, you know, is is happening going four hundred and fifty. How long has has that been going on and, you know, how does that really, like, impacted you? And making sure that students get value from skip queue.
+
+Client 4: So Yeah. That that has been a challenge from like since we started been about fourteen months that we started. And it's currently with ind about... We first used to run it on monthly cadence then then we reduce it release it to quarterly. So we right now, it's like we're about to end ind our ninth go. So Yeah. So that The this this challenge is like at the system challenge that we see you know. So this that drop off comes in and where they're sometimes it is there that, like, we do encourage them although like they should be... They should reach out on slide, but somehow somewhere they're you know? They they're not... They're not able to catch up. The material and they're... It's they find it hard to get around the challenges so they kind of, you know, drop off. So maybe Yeah. I better track them and better for offer, we'll to be able to offer solutions around it. So Yeah. I'm not sure what your products are. And i'm not sure you know how how how can you them.
+
+Host 1: Hundred percent. Let I think it's a good time for me. Thanks for that led high level review. I'll do brief overview of what orbit is and then I'll I'll kinda walk you through is like from a potential member experience, Does that sound a good deal?
+
+Host 1: Okay. Okay. Can you see my screen okay here? The overview? Okay. So, you know, just for some context, and in howard position this with some ed tech companies or even companies that are not in ad tech, but they have paid members We're connecting, you know, founders, employees, he needs to type a person that that needs to be connected based on interest for accountability. So First of all, orbit, we are in Ai match making engine and we're trying to do one to one in group connections as scale. So we wanna reduce your time making these connections to your end goal. So accountability increasing or reducing drop off rates or just, you know, increasing networking within your your membership as a value add. So three big things that we're doing to make that happen. One is we have this matching criteria. So we're gonna match people up based on areas of interest a role or years of experience really big to have a recurring match with a a partner and then they can, you know, increase course, completion rates on an tech form them or just have or big value from being a member of the community. The second thing that we do is a frictionless sign up there's no logins. There's no profiles. We're not another Slack, we're not another place for you members to hang out. We're simply a tool for you to use to connect them. And then the third thing we do is automated scheduling. So once they out a fifteen second form based on areas of interest or challenges or or what cohort they're in for for skip queue? We're gonna mash them up with a a partner either a couple times a month or once a month or however many times that they want to. And we're gonna make sure that conversation is really good based on their needs to their interests. And then we're gonna give you a lot of feedback on topics are discussing, how they're the world they're doing in that cohort based on this accountability partner, or how often you wanna engage in the future? So really high level. That's that's orbit. A couple of...
+
+Client 4: Five. Sorry good. What do you mean by accountability? What accountability talking about.
+
+Host 1: So I'll give a quick example of ka kilo here. So Ke we're matching up their learners. And I know this is a lot of information, but I'll this you so you you're to look at, but what I mean by accountability? So K tequila is using orbit run match making with their clients cohorts. So they have clients who have a lot of learners, and then they are using orbit to match up their members for learning development and accountability. So there's spending a lot of time making one to one introductions, they wanna increase that lunar development in in their courses or in their programs and orbit is a way for them to make those matches and get a lot of feedback in terms of what those number one. So that's that's one example of of what we do when I say you know, we're doing these one two hundred connections for accountability. Is that helpful?
+
+Client 4: I'm afraid not. So you know, and this maybe a process flow, like, what happened A person. What does he see? For example, I am I'm a client or maybe I'm a member. I don't know what's difference receiving the client and member. And, you know, so I if I member, what happens to me, I come in.
+
+Client 4: I do? And would experience, like, Okay.
+
+Host 1: Let me let me walk through what it's like so well you can insight partners here, one of our one of our clients So the first thing that they're members are gonna receive in this orbit exchange is an opt in email.
+
+Host 1: So, as you're branding, your logos, everything is customizable. And if you're already hanging out on Slack, this is... And you can you can ask them on Slack as well to Ogden in, but everyone's gonna receive an email That's typically the best way to engage with them. But it's your communication. So what happens is we explain what this engagement is about while we're gonna connect you and then we're gonna have an opt in date. So you set that opt date and then you have a date after that to connect members. So if they don't opt in that first email. Get a second email to to Opt in. Is this is this a clear first step for you, Asia?
+
+Client 4: Yeah. So so members who are members. For example at the engineer in our case, the engineers come. They the numbers.
+
+Client 3: Yes. The members the members are people from the cohort.
+
+Client 4: The client the client.
+
+Client 4: Okay. Yeah. Okay. Right. Alright. Okay.
+
+Host 1: Okay. So once they opt in to this email, The next thing that they receive is an opt form. So fifteen twenty seconds, you're gonna fill out information about them in terms of you know, there of interest, the role or time zone, maybe what they're working on and we're gonna use that to match them up. So within twenty hours after they felt this really quick and simple form. Gonna introduce them to a partner. So our Ai kinda does this thing to match up the right people. You can see this introduction, email here the receipt, and then you're gonna give us their name their emails. We're gonna put a calendar invite or an invitation rate in their calendar with the link to meet up. We can include their names, the linkedin if they give it to us. And a conversation starter, Any information they give us in that form about what they're interested in? Can kinda prep them that initial calendar invite. Once they click on that that calendar invite on the date that comes up. They're then take into a branded video platform. So This is something a couple of our our team put together. And you can you can change this with, you know, the member Zoom the Google Hangouts, but this is gonna be a default. And so yeah. It's browser based, they can use it on their mobile or their desktop, but they're gonna connect based on the topics that, you know, of the core that they're in any other areas of interest and challenges. And once that's over. They're then gonna get a feedback form. So did the chat happen that it not happened How strong was that conversation? We asking to rate it one out of five part average is about a four point three. It is four point three out of five. So pretty strong matches based on the criteria that we're asking them to choose from. We're asking them other questions. What are other topics that you wanna discuss next time? How often do you wanna meet? Do you wanna meet recurring with the same person? So a lot of good information to give you as someone managing all of these members in their cohorts, hopefully reducing that drop off rate. That is it from a member experience. That's the only thing that they receive on a monthly basis.
+
+Client 4: Okay. So how many is is are appliance do your client companies actually, do they have, like, varied number of areas in which their members are enrolled. For example, like so you you're giving them the option of choosing the areas ads of interest to how many interest client generally provide to its members.
+
+Host 1: We they give him up to up to seven areas of interest. So they can do less than seven years of interest, but up to seven.
+
+Client 4: Yep. Yeah. Yeah. So so what I'm Okay. So Right. So he I I could I'll I'll show you this opt form in what that actually looks like.
+
+Host 1: So this is what I'm just using from inside partners it looks like it's coming from them. It's just powered by Orbit. And so really simple information. Can we store this in your work space, and they don't have a profile on the platform. Let me just fill up this information. So name email, we typically ask him role company name so you have that type of information, or we don't have to ask them company name if they don't have company. We can take questions out. This is only relevant to Insight partners. Same thing with to Linkedin. We often ask it to give the member some context when they're connected. Can turn these questions off. Years of professional experience, really good things to match people people based on employees is also a question we can turn off if it's not relevant. And then we get into industry is a custom question. And we can wait these differently. We can see how many we want to actually choose. And then we get into topic interest.
+
+Client 4: These questions are customizable. Right? The options and the questions, they're all customizable.
+
+Host 1: One percent.
+
+Client 4: Hundred percent.
+
+Client 4: Right. Okay. So Okay. So one one possible application that I'm seeing of this is like, candidates, they're they're conducting mock interviews of one another. And right. So they could, like, they need to connect the who one one one challenge that we face is that you know, Like, have we just sign them, like, this week you're going to interview these people and they have grady the availability problems who's going to interview whom and one and when of is not available and when Other person is available or a time coordinator between just, you know like, give you availability times set my availability times and this could match me to whoever is available to my interview with that. Just like plan, if if you've actually and that's. That's also scheduling interviews. Right mark So Yeah. That that is the one application that I could see of this tool I not like... Our our members are actually really, like divided... We we offer two specializations at the moment, and they are divided into those two operations. Like So they they already grouped in specialization. Like, according to this in areas of interest or you might say? So What would they be based?
+
+Client 4: They already have this.
+
+Host 1: Go speak.
+
+Client 4: I'm sorry. I missed your a question.
+
+Host 1: Sorry. What would those two groups be that you base that you group them on?
+
+Client 4: Yeah. It's there's just... They will slow demos. And stack engineering. So these are the two specialization training specialization that we are. So those are cloud devops and full stack engineering. So so we we built... Currently they're right into these two and they have their own channels for interaction. So for Yeah. I could we could use that. I still see this so... What what is your pricing for this for the stool?
+
+Host 1: Yeah. We we do some pricing tiers and we have... It's based on the number of invites that you send every month and also custom criteria, the number of engagements that we do. I can share what that looks like. Are are you first, like, are you seeing value in orbit as a potential solution for skip at point.
+
+Client 4: I'm I'm Yes.
+
+Client 4: I'm I'm not not. Not something major. It it doesn't I I don't see it helps with our major pain. You know? But it it could help It could help add value on, like on the side side side pink that happen. I value you, but, like, what are the... Major paints are the pains? So Yeah. So those I I right now. Yeah.
+
+Host 1: So major pain is bedding, secondary pain is the drug drop off right once they're already been vetted in into that.
+
+Client 4: Yes. And Maybe that the drop off rate and I I couldn't I can't actually say I assist, like, how much the learning... How much better engagement would improve it? Because much is the drop of rate is also because content might be too challenging and they might have other that, you know, some people have, like, full jobs and some people are studying and to them night not able to allocate that much time to the training as the training demands. Right? So that is one reason. So and and, you know, the challenge of keeping up with the training content. Yes. Even if you have the time, that is another another aspect. So, yeah, it might help So but it it needs further study from tomorrow actually. So how much would that help?
+
+Host 1: Can you any any insight we often do with onboarding, Penny you does solution with the vetting process here.
+
+Client 4: Right?
+
+Client 3: Oh he just me actually.
+
+Client 3: Yeah. Basically, what I can say here here is that it's it's really good if you already split up like, people based on like the two groups that you currently have in different cohorts because this will actually help you once we start matching people who actually help you get a better, like better curated matches like, more targeted matches. Because once you have split up the audiences, which you you already did We're having these two cohorts, you'll be able to ask like more questions to their goals for their challenges And based on that, they will be better matched. Either for these interviews that you want, or the other thing that you can use Orbit four is basically also the mentor mentor charts. I assume that because you're saying that there is a very very big drop off rate So in terms of that, the the mentor chart is a very good application of the tool to your case because you can you can i actually add like tutors thirds and men or like the members of the cohorts like the students, you can add them together in one matching round that we can match them based on on what they want to achieve. So what what are the challenges that they have I assume that when we are actually improving or when when there is more support, these students are are are organic course support, the drop off radio will actually be decreased. So... And in terms of the embedding, not really. Yeah.
+
+Client 4: So... Okay. So, yeah, i we we could look into that. But like and said, it The urgent being, the other thing that that's is bear but we we could look at as a value addition, you know? It's something that adds to value. To that... Yeah. We could see how it Do you have a version? Not that we... So we could actually see that, you know how if tenth.
+
+Host 1: We we do... We do offer a paid trial.
+
+Client 4: Okay.
+
+Host 1: Usually or usually over, like a sixty day periods. So we you only we typically only offer one year annual contracts, but for Yeah. For instances we do offer, like, a two month pay trial.
+
+Client 4: Okay. Okay.
+
+Client 3: Like, over or two months over this two month by trial, you'll be able to test it with both of your cohorts that you have.
+
+Host 1: Right. We can get data and feedback and measure. Is this really helping in terms of motivating your members to you know, reduce drop off rates and hit milestones and things like that. So Would that be something I guess, yeah. Would that be something of interest situation.
+
+Client 4: Yeah. We could could look into that. Let me. So What I can do what I can do is the next step I know we're at time here.
+
+Host 1: I'll send over some information and like, that I share with you in the stack and maybe what that paid could potentially look like her to in annual pricing. And, yeah, once you had a chance to review, can see if this is something that might work maybe first thing in the New year is that is that a potential timeline if if all works out for on your end.
+
+Client 4: Okay. Yeah. Yeah. We could do that.
+
+Host 1: How how do you typically how does the team typically bring on vendors like this if this something that you when run to trial out wendell does you mean our customers our customers?
+
+Host 1: Internally, I guess you're you in your team, how do you typically to side to bring on a a technology like this to to test out. What would that process look like It's it's generally maybe we haven't been, like, trying whatever we're doing...
+
+Client 4: We've been doing in house and if, like, not actually to any any platform So we've been using the free version of Slack for now. And... Yeah. So... And whatever, like, whatever things that we do be developing them in house.
+
+Client 4: Okay. So... Yeah. Yeah. So problem now. We haven't already tried any platform.
+
+Host 1: Would there be would be anyone else at Escape q that would be interested in and looking at orbit in terms of, like, a demo in addition to you, Yeah.
+
+Client 4: If... you know, if I could I could make a use case of it, and I could probably sell it my colleagues. Right. So Yeah. It depends.
+
+Host 1: Okay. Yeah i'm do... I'll I'll send over this information super appreciate your time and and walking this through a bit more about about skip junior your paints would it makes sense to to regroup in the next week or so. After you got a chance to to circulate this with the new notes on the team.
+
+Client 4: Okay. And I'm not sure about the next week timeline. Because as I said, like, you know, I I could actually more... Understand better. Like, if I could show them how it could add value. Right? So I like present a use case. That solves one of our banks, maybe. You know So Okay. And and sorry I have to take this call.
+
+Client 4: Okay. Okay. I... So I we we get back on email.
+
+Host 1: Yes. Okay. Sounds good.
+
+Client 4: Alright. And Right. So maybe we can have a call next week. Maybe if you have anything to add so.
+
+Host 1: I'll I'll send you some times and if we set something up, that would be that'd be good. But so I'll put it I'll put a record at that time.
+
+Client 4: Okay. Thank you.
+
+Host 1: Okay. Take care. Thank you.
+
+Client 3: Oh, god.
+
+Host 1: Not not a great. Not a great use case, I think but, hey, we'll we'll see what happens, there.
+
+Client 3: No and and she doesn't really seems seems to understand what we are doing. I mean, this is this is the very, very starting point I I think they've never actually record of anything like that there. Which is absolutely you know, possible. But also the fact what she said. I mean, they're using a free like a free version of Slack, and they're not gonna pay, like, five bucks for full year hour, but What is the trial that we are offering?
+
+Host 1: Yeah. That's why I didn't wanna give her a price. If I gave her a price, she would never come back to us. Right? So I mean, Yeah. I mean, it varies you know, two... Some sometime we're doing two k for a two months trial then we would, you know, pro that up to five k annual, depending on... you know, they would... They would this will be central tier, for sure I think them at four hundred four hundred people.
+
+Client 3: Yeah. Yeah. Who's there in Pakistan. I mean, even even two thousand dollars for trial is is a bit too much for them.
+
+Client 3: So we take want try it would probably negotiate this this trial price with M million just so they can offer it.
+
+Client 3: I mean, it's or we can... We can help her offer Let's say, like, five hundred or one thousand. I mean, something not for for one round. Only just one round because we're offering like a trial of group matching, which is definitely like no less work. And we are offering it for five hundred dollars. And, like, two thousand a bit too much, especially like so I I did I did offer, like, A thousand dollar two month trial I think there like, a a high potential, like a ten k.
+
+Host 1: But I mean, I could just offer her, hey. Here's our essentials tier. The onboarding fees is ten percent. We don't... You only be hug for, like, a five hundred dollar paid trial for thirty days. We can run an engagement, that that's probably the best way to go with them.
+
+Client 3: Exactly. Like, no more than five countries. They're they're definitely not going to jump into it.
+
+Host 1: Only reason, like, there's a lot of unknowns here. It's like one You, do you have time? So I don't wanna hold your.
+
+Client 3: Have time, Don't worry.
+
+Host 1: Okay. Just like, I just wanted to, like, brief thank debrief a little bit. So like, obviously, el learning we don't exactly know like orbit the pain point of all our el learning because other people it's scheduling some people that cohort based somewhere not core based like for us, or myself, go these phone calls, like, versus like, a Vc or someone, There's not a clear delivery.
+
+Host 1: So, you know, ideally, I stay in discovery a bit longer and set instead into demo, But I mean, I I don't wanna do, like, a discovery and then set up a demo. So they have enough context. So, yeah. These are these calls with el learning our bit, you know, they're not as fleshed out. Right? But it it's a good learning experience. And, yeah, maybe you know, she brought the pay trial. So maybe that's something they're interested in in trying out with Yeah.
+
+Client 3: And and, like, also, I don't really think that she she's aware of what their... I mean, She knows what the pain points are, obviously, but she she didn't like she phrase him or like, define in a very way so that we can understand them. That's that's the big issue. And I was about also to mention like, margin. So it seems I I actually didn't know anything about that very voice.
+
+Host 1: Sorry. Vetting is like, an application to join the c.
+
+Client 3: Okay.
+
+Host 1: Like know filtering out the the right people for the cohort.
+
+Client 3: Okay. No. We we are not not the right too, for sure.
+
+Host 1: Right?
+
+Client 3: So we she she's been referring begging forth to these interviews that they're doing. That's why I mentioned the mentor of my teacher they of this seems like the most applicable thing to the their case, then I you want to mention groups because I I don't know how she she's was going to react to that because with the cohort, it's very it's very tricky. As we know that when we are having groups and like if they're are sharing and baggage exchanging information, there might be and stuff like and some other policy. So we are I didn't want to really inhibit or anything. But But... Yeah, just just follow up, like, I don't know what if you can decide the that on your on your south, like by yourself, but just speak to Billy Galadriel, and I would say, offer them, like five five hundred for or one month.
+
+Host 1: Basically five hundred opt, let's say, Should this should be very manageable for them to test out the product for anyone, I would say. Right? But I would I would aim it on there are the dropout rate and accountability for their mock interviews. Right? And mentioned like, hey, I know this isn't your main pain point but you mentioned this says something and, you know, five hundred dollars to explore if that's gonna improve, I think it, you know, a Exactly.
+
+Client 3: Exactly because, like, for wedding... Don't even mention waiting mean, we can help him with That.
+
+Host 1: Yeah. Yeah. That's that's that's why it's constant the first there's no... I figured there's... I didn't they have an answer for it.
+
+Client 3: Yeah. So what we can help them with is definitely drop through a drop rate. For sure. I mean, I think that having those connections and feeling more support, and you better know how to how to know, just explain that. An email. I I guess, probably course sarah like hubspot academy there they've mentioned it as well.
+
+Host 1: Yep. Go ahead.
+
+Client 3: No. No. No. Like, that that was at but, like, very definitely no Yeah.
+
+Host 1: Do you think I should send him that the case study or is it really not it's gonna confuse.
+
+Client 3: It's just confusing her.
+
+Host 1: In confuse.
+
+Client 3: So don't even it. I know... I mean, she she doesn't even know. I I wanted to explain to her other because accountability is basically feeling the support of people in your cohort. I mean, it's a cohort thing. And like, when people are going through our through the same journey, so they have accountability partner. They're literally, like, partners or like, members of of this cohort, but she she she seemed... She seemed to tonight have never heard of that term.
+
+Client 3: Yeah. So the the case that they might really confuse her mean, you need to...
+
+Client 3: You need to send your case. Do you have any anything like, closer to to their case, because she's going to... She's I bet she doesn't... Or she cannot explain our is. And Like in oracle sell or even the trial To her internal team she needs something.
+
+Host 1: I I could do it last end because they have developers in full stack, you know, but it's it's it's quite a bit I mean, you know, I don't know. Connecting their community for now also accountability, the according Galadriel. Maybe And maybe there they no quote last.
+
+Client 3: So this is also this is also one point in our basket.
+
+Host 1: I was send this... I was lesson Alright. I'll I'll I'll include you in the email so you're in you know, for sure. The conversation as it goes through. Appreciate you hopping up for support.
+
+Client 3: Yeah. Of course, of course, Greatly, do we have a little what is actually happening with with Cor sarah and Hubspot Those are those are accounts that Billy is is mostly working on with contacts.
+
+Host 1: I think we're trying to get Cor sarah at a free trying to get them involved at a free trial, maybe hubspot like, a really low thousand dollar page file just to get him using the product, we'll see if they can burn in q one. But Yeah. I mean, they're not even in our in our late stage pipeline at this point.
+
+Client 3: Yeah.
+
+Host 1: And they take forever. You know, there they're large billion dollar companies and they're you know, six months to decide on anything. You know, So maybe they'll come back to us in late q one. Keep on them.
+
+Client 3: Okay. And like, currently, how many how many deals we have closer to?
+
+Host 1: That are in el learning or just in general?
+
+Client 3: On just in January.
+
+Host 1: I can show you, like, a quick pipeline.
+
+Client 3: Perfect. I'm super curious. I was I was actually having a chat yesterday day with B and I said. I'm go, like, sales seems super... Like, very interesting. And like, we are very interconnected. With customers success. So It it...
+
+Host 1: So this is only mine in in crash pen and has her own, but all this is like in the December pipeline of Salesforce that combines us. But in proposal contracting, these are all the ones Ken diversity, pho. Although Pho just asked me about Meet c. So like, they're probably in fence. Calvary refresh miami, I'm hoping these are December, but, you know, if I bat a thousand, they'll all convert And then the fifth wall just raised the huge round, jun learning, is really nice. Probably not gonna get them until January.
+
+Host 1: Yeah. Yeah. In, I have a chat with them in January All these are are scheduled calls in a qualified opportunity. So have to move to compute. But this this is what it's looking like right now.
+
+Client 3: Yeah. Okay. I mean, we we have a lot of proposals done so sold this file.
+
+Host 1: We have a lot in proposal. Right? But I'm I'm... There's no in about and hopefully I convert, you know, a good amount of them.
+
+Client 3: Yeah. And like, it's basically this week weekend, like, next week. That we can... Like, next week if even next week is a bit, you know, like sluggish because it's super close holidays the.
+
+Host 1: Yeah. Hit December.
+
+Client 3: I know.
+
+Host 1: Know I'll I'll be chasing people throughout the holidays until, like, the very last day. We'll we'll see what happens Yeah.
+
+Client 3: Yeah. Same same with me for renewal. I I started... I'm not reaching out people for for march renewal, but I do... I'm just using the my maternity leave as an excuse. So hopefully, I I have a go with Anthem amazing a bit And last year, they renewed like for they renewed in December for for next year. So for this year, and they actually renewed for one year and a half. Not just one year. So I would try and push them and get something with them as well, but it sounds like they're they see a lot of bail unit it.
+
+Client 3: Oh, yeah yeah... Yeah. They they just love orbit. So...
+
+Client 3: Which is great. Because they're premium client and they provide a little to to us as well. Like, Erica who was our main point of before. She's now and She's now working for at atomic. And she was she was helping us a lot with all the better version tasks and everything. So so yeah, they really love lower but That's good.
+
+Host 1: That's good. Yeah. I can see the renewal you have coming through on Slack. So it looks like you have some good... A lot of coming through.
+
+Client 3: Oh, yeah. But I really wanted to, you know, just to renew a little bit more because, like, the said... Like, this quarter is it's it's it's not looking good. I mean, we we already have, like, fifty k turn plans. Which is ten thousand more than what we predicted. So Yeah.
+
+Host 1: We we do have some churning on pilots as well, like, radical Vc, like, they're in a trial, but they didn't convert into a five. So it Yeah tough. It's tough to see churn.
+
+Client 3: Yeah. Absolutely. Especially when you you when we are trying to hit a target, since January last year or even like earlier, And, yeah, we we definitely need if. We want to raise. So Yeah.
+
+Host 1: Maybe maybe the new product features are gonna be Helpful. I don't know. What do you... What do you finding is helping to renew?
+
+Client 3: Honestly it's the feedback of the members. I mean, the border features It's definitely it's definitely an advantage, and it's definitely something that been helping me a lot. But like you you can see with the product features. I mean, we were were supposed to have launched like, edit matches or we we promised clients that the much will be will be out by beginning of December, and it's still not allowed. You know, I mean, that's why I'm very, very cautious of always giving, like, any timelines or when clients are asking me I mean, I I usually say end of q q four, like, mid q or even I'm not using mid because if I say mid, this always goes towards the end of the quarter.
+
+Client 3: Yeah.
+
+Host 1: Yeah. I I Isolated a lot of things like q one, Like, you'll be ready in q one, but mean, Hopefully, that's the case. You know, Hopefully, I know that Jacob is super overwhelmed.
+
+Client 3: We were an now with low being away and like... I mean, I myself I'm lot just because I cannot do, like, very substantial stuff for customer success. I really want wanted to grow a little bit, know the team and, like all our processes and how I can actually substantially contribute.
+
+Client 3: Yeah. To look to customer success, and I cannot do that because I'm eighty percent of the I'm reporting and I'm, you know, communicating in between clients about product. And this is taking a lot of our time. But Would who would typically fill that role This this would be like client clients board customer tomorrow's support.
+
+Client 3: But I mean, we don't have resources now. Don't have resources to to add somebody else or maybe an intern or something. Yeah. That... That's why that's why on one hand, I really want more features out, but on the other hand, I'm you know, I'm I'm cautious because know that with launching in more features, questions and more books are coming. And this is taking all of of our time.
+
+Host 1: Yeah. That true with with big product pushes come more questions and bugs and stuff like that. So Okay. Well, I hope we finish out the year strong. I mean, that's all we can keep pushing, you know, Yeah.
+
+Client 3: I mean, we wish still have ten more days. So let's let's make some numbers.
+
+Host 1: Yeah. Good luck with it. Let know if any comes up, I'm i'm always up chat and anything Yeah.
+
+Client 3: Thank you, leave. Good luck with that. And yeah, we'll talk to Alright.
+
+Host 1: Alright. Thanks, Buddy. Enjoy evening.
+
+Client 3: You too.

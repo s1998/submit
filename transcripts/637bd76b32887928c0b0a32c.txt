@@ -1,0 +1,471 @@
+Client 2: Brian doing pretty good. Denisha. How about you.
+
+Client 3: Good man. Don't say anything you don't want. Recorded by Leaandra's Boss I don't forget.
+
+Client 2: Jumping on early.
+
+Client 3: This bot is gonna get us in trouble, man. We got. Gotta.
+
+Client 3: Got a band right now it's. Transcribing. This bot's gonna get us in trouble at sending it to Leaandra. It's gonna go on some small business companies database. This is no Bueno, man.
+
+Client 4: Hey guys.
+
+Client 3: How are we doing? Out, How's the weekend is good.
+
+Client 4: Yeah.
+
+Client 3: Nice man.
+
+Client 3: Preparing for that new cut for you.
+
+Client 2: Oh Yeah. For Thanksgiving. Gotta look fresh.
+
+Client 3: Dude, I think I'm going to Thanksgiving looking.
+
+Client 3: Not as fresh as you like that.
+
+Client 3: Hey, guys. Sorry, I cut you off out. What were you saying?
+
+Client 4: You did? Oh, I'm saying my kids were like, let's go do the Christmas tree. I was like, screw up. Do it.
+
+Client 3: Why not. Swear. I feel like ever since Covet, I don't know if it's just my neighborhood and like, Palo Alto, but I feel like decorations are just going up earlier. Everyone's going way harder because, like, people are just used to being at home. Does it feel that way? You're like, where you guys are at?
+
+Client 4: Yeah. People were doing, like, Halloween stuff. And like, then September. I'm like, Whoa, slow down. Yeah.
+
+Host 1: Did I have a month of decorations? If you're gonna put them up.
+
+Host 1: People are like no one does a lawn.
+
+Host 1: I still have all the spooky stuff. Or is it swapped out now.
+
+Client 3: Thanksgiving. Yeah, it's Thanksgiving stuff. So we got like, you know, the pumpkins that are Orange are gone. But there's, like, you know, Brown pumpkin gorbs, all types of yeah, you can probably imagine it just gracing it for impact on the Winter Wonderland.
+
+Client 3: That somewhere to children. She was asking to put up really early.
+
+Host 1: Where do you keep all that stuff.
+
+Client 3: Just shoved in closets. I mean, we're burst, not the seams for sure, but yeah, it'll be. A fun festive holiday season for sure. That's funny. Cool guys. We can probably go ahead and jump in here. We have a few things to cover because we'll have less meetings this week. Naturally, due to the two days being cut off, we'll stick to DL updates and we do have some. Role plays to do on the competitive stuff. We finish up with those. So if you did one last week, you're spared. So I believe Leaandra and Nick the only ones who went. So you guys are good to go. And then. Yeah, we'll dive into that. We'll clarify some feedback. Leaandra. Volunteers ourself up for feedback on that one that we were totally on our toes with right after the competitive training pretty much jumped off of it, hopped on a call. Guy asked us to compare against like Five Tools at once, so it was a good live rep. So we'll critique that a little bit, and then we'll dive into. A quick update on that and then pipe review. Just going into clarify that when we jump into it. But. Before I do so any call to the team if you guys want to hit on questions. Cool. Good. So let me share my screen here. And for those of you who haven't attended. We will give you a very quick overview here, and then we will do it live. Selwyn, I know you're jumping in this without a ton of heads up, but I got a feeling you're gonna crush it anyway, man. So we'll we'll show that here, but for context. This exercise we did. Shawn is probably pretty much only for you since you weren't there. Excuse me. Basically exercises to give an elevator pitch against like a list of competitors. We're going to ask you to, like, lay one landmine, so kind of ask one question or like call out something that they should, you know, make sure to consider when they're talking with the other competitor and then ask one question back to the prospect, ideally getting them to kind of voice why they also agree that we're a good, better fit for them. So I'll pull the scenarios up and we'll get going. And I'm tracking that, right. Rabindranath. Selwyn. You guys didn't get to go. Obviously, Evan, you can get to go right. Cool. Perfect. All right, we'll pull up the scenario three. Give you guys a second. Take a look at this. Here. Come in hot Monday morning warm ups here on Competitor One liners. All right, so I got let me pull up my phone for the one through three. All right, let's see here. Rabindranath, your first on my list. Pick it up between one through three.
+
+Client 2: One.
+
+Client 3: Cool, Evan.
+
+Client 5: Two.
+
+Client 3: Two. Series pick a number between one through three. One. All right, Rabindranath, you're up.
+
+Client 3: Awesome company bird Eye SAS small service component just around like setup fees and all that 125 employees decent size.org precipitate pain points here. Ar reporting is time consuming. And boards asking for advanced cohort modeling. They have like a transactional business. So that's really important for them. There's the tech stack, data, rails and causal are involved. Give yourself maybe like 1015 seconds to think about an elevator pitch, what a landmine may be that ties to their use case. And then a question back to have them voice it themselves.
+
+Client 2: Nice.
+
+Client 3: Whenever you're ready.
+
+Client 2: Sweet. So I think the biggest differentiator for Mosaic, the Data Rails and causal that you're looking at is really a way of thinking about FBA. So Data Rails causal gonna sit on top of your existing spreadsheet. And that's totally fine for a lot of our customers. But we're Mosaic is really going to stand differently. Is a standalone platform. And given your text back with Zero Salesforce, Rippling App Optics, Big Stiff Rancher here is that both of those tools really don't connect to a billing system like Fast Optics. So I guess the question would be back to you, how important would it be for you to have that Arr Data living in your FBI platform.
+
+Client 3: Nice. Okay, good stuff before I sign in on feedback. Anything back from the rest of the team here.
+
+Client 6: Maybe split out. Data AIL in Coswell you know betrayals spreadsheet like you've been working in a spreadsheet you really want to keep wearing in a spreadsheet.
+
+Client 6: And then causal. I still don't have anything good against gospel but Yeah.
+
+Host 1: You're also spreadsheet.
+
+Client 3: Yeah. Yeah. So this is actually a good point of discussion here. So we should avoid we should be careful who we call spreadsheets. Plugins or like spreadsheet. Interfering with a spreadsheet because. Data rail is definitely like there they call themselves like, you know, it's typical supercharging spreadsheets, all that. Calls, although they are a little bit more like app based, although a lot of times you're uploading spreadsheets. If you look at their demos and we have a good demo of this. If you guys haven't seen it, let me know I can send it to you. It is very much app based. So although there is some truth to that. As far as like, it's kind of built on, you know, spreadsheet. Potentially, it is like when you interface with it and what a demo would look like would certainly be an application. This is something actually that we're going to discuss when we talked about Leaandra's. Was that his objection handle in that call right after the training on Friday, we labeled Girav as a spreadsheet plugin, which wouldn't be entirely accurate. Like these tools will definitely have that spreadsheet, kind of look and feel. But you know, the ones that are truly baked into Excel are like Data Rails and Venna and systems like that. So it probably would be good to decouple causal like small business. And then like Data Rail, just like a true spreadsheet plugin. But yeah, the call out on SAS Optics is probably one of the better call outs here. I do like how you got them to voice the stats, optics piece being important. I think whenever you can lean into a data source that just flat out can't be brought in, that's super important. Could probably call it maybe two, maybe could a job at home. That like we're one of the only ones that integrate with SAS Optics directly just to really kind of further that. But, yeah, well done. Yeah. I would encourage you guys to be careful of calling some of these small business players just spreadsheet, plugins, even Gerald, that's not entirely the case. And there's demos online that can kind of show you guys that difference. Goal.
+
+Host 1: Schema is it is it bad though, to bucket them in that?
+
+Host 1: I mean like it's almost like saying like, hey, can you even tell the difference. Like putting them in that like lower tier bucket.
+
+Client 3: I think the reason why I'd be careful. I get what you're saying. It's like it's a healthy attack in that silo of a call. But I definitely feel like we get competitors, kind of we get those gotcha moments against them when they tell us they know when people phrase us as, like, oh, they're only out of the box, or they only do these things. Like maybe it's a helpful attack in that moment, but they speak with us that a immediately loses credibility. They kind of see that that's not truly the case. And you can bet Giraffe or Causal, for example, don't want to be viewed as just spreadsheets plugins. You know, they probably want to come off. I'm sure they pitch themselves as SAS applications and Native and, you know, modern, whatever. So yeah. It's more about, I think credibility. And then when they go and interface with that vendor. Does everything tie out that can harm our credibility immensely. I can think of I forgot who it was. We were running a deal. Where someone called out that we didn't have top line planning, and we were like, Well, that's funny. We showed you this, and it was a complete killer for that competitor, just because they felt like, now they're conversations with that a you're not legitimate. So, yeah, I would say the accuracy here. It does matter a lot. Yeah.
+
+Client 2: So, Denisha, I put in the chat. The competitor cheat sheet and so Causal is listed under Spreadsheet Addin. Should we move that like SMB vendor, then.
+
+Client 3: Yeah, I think it's a fair call out. I mean, it's it's a little bit fringe for me. Like if you guys look at their demo, like it is. My distinction with surrounding causal is that they're like, you know, Excel Base, but not like Excel plugins. You know what I mean? Like that they definitely have that looking feel to excel. So, yeah, a fair call out. I just think it's something that we could probably be a little bit more granular on. So that we can swing back on as far as the Docs. That's a good call. And yeah, I would encourage you guys to check out the Causal demo. I mean, there the demo that they have that they've recorded is very much like an app. So that's where, like, Colona spreadsheet base can be tough, although, yeah, you can bet they're on top of Excel. For a lot of the data sets, they'll be uploading and all that. Cool. More to come here, guys. Basically, Volvo quickly. So honestly, Rabindranath, I might be more of a hand to create a call out, but something that definitely at one point, I think was more true. But let's keep moving. Here. We'll just go. Evan. Next. Since he's number two. All Right, Apollo. Pure SAS. Hundred Ten employees. Similar here era reporting board asking for Advanced Kilhourt modeling. Next week. Salesforce gusto. Competitors are looking at the Oracle's that's like Net Suite Planning tool. To Raven prize. So ugly. Mix the players here. Evan, feel free to collect your thoughts and we'll dive in when you're ready.
+
+Client 5: So. So I noticed that, you know, you mentioned looking at a few of the other competitors in a space, the Oracle's, and then on the other side, sort of the Giraffe and Pry kind of like to think of those in two separate, almost categories. So your Oracle is more the legacy player built for those true enterprise businesses where the Duraban prior. More focused towards, you know, like. A smaller business, maybe not necessarily with those SAS specific metrics. So I guess my question to you is, you know, how much time do you and your team really have to have someone kind of handbuild these things with you as you learn a new product.
+
+Client 3: Nice, cool. And I call it evidence at the end that was kind of leading, like the support piece, right. As far as that we mentioned the colleagues that handholding gotcha cool. Yeah. I like the call outs for sure. On, like where they fit in the market. Ones on the larger side, you know, plugs in the Net suite, but like better for those orgs ones on the smaller side. When I think Giraffe, one thing I always like to say is that they're like, built for, like, third party, you know, accountancies and like, third party, you know, accounting firms. It just kind of calls out that it's just like it's just different kind of different and built for another audience, which I think is pretty important. Pride. Also, you kind of called out. Yeah. Just like smaller, I think prize one we can attack directly as just being like, not quite fully built out. Like I talked with someone that was valuable and cry, and they couldn't even sort by, like, the day like, it's like purely month out, like buckets and stuff like that. So like, it's a tool. That's very much an implementation, so it can probably be more head on there. It's also easy to validate that from a third party standpoint. Like the tools pretty green, very inexpensive and like just you know, like recently, you know, prominent. So, yeah, I can attack them in that regard. But, yeah, falling all the way here, man and Pry, I believe, was the one that was acquired by barracks called not mistaken. And I believe they're now suing them. So there's some weird stuff going on there. So. I'll confirm that. Yeah. Yeah, exactly. They acquired Pride. And then I guess now they're suing them. I heard that from Frodo, so not sure if I validate that online, but.
+
+Client 3: Facts. Indeed.
+
+Host 7: They're actually suing them.
+
+Host 1: Yeah. Holy crap.
+
+Client 5: Prior swing Brex or breakfast doing Pride breakfast.
+
+Host 1: Suing Prison information.
+
+Client 8: We wear Breakfast Number One, Acquisition, target. But they couldn't get a hold of us. They went and bought Cry another fucked and sealing the founder.
+
+Host 1: Wow, it's insane.
+
+Host 7: Too good to be true Han Shawn.
+
+Client 3: Yeah, right.
+
+Client 6: Hundred billion dollars for that piece of shit.
+
+Client 3: Yeah, it's pretty wild.
+
+Host 1: They're doing them for 90 million.
+
+Client 3: They're saying, Four, really. Oh, my God. Sent me an article. What are you guys looking at? I.
+
+Client 9: 'm still looking at some generic, it says.
+
+Client 9: Paying 90 million for TechCrunch Ping 90 million for ten person company that's just raised over 4 million over its lifetime. Represents a bold move for Brex.
+
+Client 8: I was in Utah with a bunch of the investors there, and they were like, it was the pure ego play by the CEO to buy this company. There's, like, no fundamentals at all behind it.
+
+Host 1: Okay.
+
+Client 3: I mean, if you can talk about someone being acquired and suing it's like if you're competing against Pride, I'd be saying email right now.
+
+Client 3: The example the company we use on our last slide burdaib. Our last company was getting sued by a bunch of folks, and it really helped us win deal. So yeah, let's leverage that.
+
+Client 6: Sorry, Selwyn. Good. Oh, do we have a it was is that like a news article or is that just like, off the record.
+
+Host 1: News. It's all over the news?
+
+Host 7: Yeah, it's all over.
+
+Client 3: Yeah.
+
+Client 3: Take over talks. Yeah, cool. Let's keep let's keep moving, guys that we can obviously very pry on that little extra sharing on top of what Evans said. But let's keep moving. Make sure we get Selwyn's in here. All right, Selwyn, observe. Ai pure SaaS larger. Orc we're gonna fit the employees board reporting, consuming monthly management updates. Investors asking for different scenarios to just really heavy reporting demands. And, you know, modeling demands as well. We're up against Pigment NetSuite Salesforce, gusto. Give yourself a couple seconds to collect your thoughts and jump in here.
+
+Client 6: Sweet okay. Cool. Yeah. So. For, you know, mosaics. You know, comparison against pigment. Here. I would say, you know. Our number one differentiator in this space is gonna be time to value pigment is the tool that we see is most similar to the space. Enough but the way that we get to you, your board reporting. Modeling and everything is vastly different approach. So for us, like we are really focused on this SAS environment. And so that helps us for SaaS companies. But it also limits the market that we're going after. But for pure SaaS companies, what we're able to do. In six to eight weeks is provide a ton of OutoftheBox value 150 plus metrics that would take a competitor. Like pigment or and a planet or adaptive something like six to eight months where they need to do a custom build. To get you kind of like a similar aspect there. So for us, the big question that you're gonna ask yourself. Where pigment verse mosaic is, do you have six to eight months to commit to a costly onboarding and time and resources. In that area.
+
+Client 3: Awesome. Cool. Definitely a challenging question. I mean, I think it's one that. Kind of they might be on the defense of with which I think is healthy in this case. So a couple new things that could be good to trickle in here. Involved in Selwyn in general. One is that we've heard pretty Headon that pigments just trying to not talk to folks under 500 employees. They probably still will at times, especially if they come inbound. It's just my suspicion, but definitely something that we could probably message against. They're typically not even taking calls with people less than 500 employees so they don't view as a good fit. They might be speaking with you, but just know that that's their go to market model. That also speaks to the kind of size of fit which you called out based on their needs here, I probably would have brought up analytics like, hey, although pigment may be able to do a lot of things we showed you today, please dig into like what that will look like. As far as time to value again. Kind of up telling what you said, Selwyn. And also administration data management. All that would be worth calling out as well, which you did in the context of time to value and all that. So yeah, good stuff. Couple extra calls there given time we'll skip diving into. Leaandra's Feedback here. I'll just tag everyone on it in the A team. It was a pretty good. I mean, it was right after, so it was we were definitely on our toes. I'll share some feedback on it just now, before you guys listen to it. I think outside of the Giraffes kind of spreadsheet plugin thing, which I think we could iron out a little bit better. I also think that. We could have asked them the question to voice it themselves. They kind of were like dogging the competitors. I think I leaned into that too much rather than like asking one more question how to voice it. I jumped into and could have done a lot better on it. And I think they had some real needs around collaboration. And that's one of the key pieces of our mosaic story is like leaning into the collaborative elements of the tool and why we're a good fit there. So we could have leveraged that, like very prom at pain point that they just called out. So a couple feedback there. But I'll tag everyone in that one and let's jump into Piper now for sake of time. Cool, thanks Guys, for. The participation there will jump into the pipe. In Slack. I'll be sharing what we're hoping to cover today. Or not in Slack. Excuse me. I'll do in the chat of the thing of the Zoom here. Thank you for all these links. Guys, I will grab these. So. For the pipe review I just sent out basically just give us an update on each deal and the percentage of closing each deal. I know we have like the Monday roll up but just feel free to tag any percentage to it. Don't need to stick to the buckets for this exercise. Call out where you need help this week again. Shorter week so that should be quick and then. If something isn't relevant, it's not we're speaking to please skip it and then clean it up in your pipe. Like at this point in the month we have basically a week left, so we want to really clean list of deals that we're attacking. So skip it if it's irrelevant and clean that up in your pipeline afterwards before the Monday update. We will go and order here. So, Rabindranath, you are up first. Any questions? Are you ready to go.
+
+Client 2: Let's do it. So. You're pretty looped into North Star, but this one basically. It's right at the finish line. We just need to get over their objection of wanting to be able to terminate for convenience. So sentiment out this morning we'll see if we can kind of get back on track with them.
+
+Client 3: Yeah, that was a tough last minute ask.
+
+Client 3: Several times have responded yet, but yeah, I know we're a mucks up on that Rabindranath, so we can keep moving it well would be a percentage if on it. I know that stuff given the news we just got.
+
+Client 2: Well, it was very high. I think we'll get over. This like I'm saying, like, 80% chance of close. I think we could overcome that need. There. Cool.
+
+Client 3: Awesome.
+
+Client 2: Gotcha. So. Zinc tree. There's ink tree. We have a brief vendor level forecasting demo tomorrow with me, Frodo and ow. And walking through pricing that we didn't get to discuss on Friday. I'm feeling pretty good about this one especially after the feedback we got from basis who can't integrate with SAS optics. Frodo was on that call. Frodo will be on this call tomorrow. So this is I'm thinking around, like, 80% to 90% close rate Frodo, especially with some of the pricing we had prepared that we didn't get to cover last week.
+
+Client 8: Yeah. I think that the one star on this is can we deliver a kick ass vendor forecasting demo and have good things to talk to? So, Al, if you can whip up something, I think you should take it for a dry run and just record a loom, share it with the group and we can provide feedback on it.
+
+Client 4: Yeah, that was. I was working on that actually. This morning. So I'm gonna shoot up our loom to you guys, and then we can make it crisp.
+
+Client 8: Sure.
+
+Client 3: Awesome.
+
+Client 2: Thanks. Yeah.
+
+Client 3: For everyone's knowledge. Yeah. Vendor level BBA is pretty much demoable now. I shouldn't say pretty much. I mean, I think it is. It's just something that we're brushed up the flow and probably a little bit of risk showing it, given its brands making new, but. Huge update for us between stacking forecast rows. Now tying it to a vendor and reporting on DBA. This is we'll be waiting for a long time, guys. So definitely think about that Headon. Next few weeks here. Once you start getting requested, demo that.
+
+Client 4: Yeah. We should probably try to push yesterday to come up with the template. Like, Add it to our comfort library. So that way we just pull it up too. So definitely.
+
+Client 2: Given Colombo our contact, there kind of. May say fair nature with this whole process. Until we hear something different, I can pull it back into November. Vitally we're syncing up Wednesday with the CEO and their new outsource CFO to walk through the QuickBooks Connection POC that we're doing. Feel pretty good about this under the impression that we can connect with folks that go smoothly and 48 hours that we give them access is enough for them to move forward with. Say 75% chance that close there given the CEOs feedback earlier last week.
+
+Client 3: Yeah. Excited to get one. Kind of ride, one of these kind of pod type things with you so more.
+
+Client 2: 730, so we're locked and loaded.
+
+Client 3: During Thanksgiving.
+
+Client 2: Or what is that, as planned. Interesting. Yeah. Mango meant we have the final demo with the CEO on the call. So this one will be the final step in the process. That was the biggest hurdle with this deal was getting the CEOs engagement. And so our Champions there finally got him locked in. So we're meeting today at two already. Have the pricing finalized. So it's basically getting the green light from that team, the CEO.
+
+Client 3: So I'd say, cool.
+
+Client 2: It sounds pretty good from based on the internal selling. Are financially. Brian has been doing so I'd say around 75% chance.
+
+Client 3: Awesome.
+
+Client 3: Superconductive.
+
+Client 2: No update on my end unless he sent a note to you don't separately.
+
+Client 3: No, nothing yet. Let's let's catch a base. Think on a player. We got to start. Yeah. You got to get all this little creative here.
+
+Client 2: Exactly.
+
+Client 3: Cool. We'll schedule. A sink and.
+
+Client 2: Matic.
+
+Client 2: In triple. Well, are both there the triple. Well, got the scoping call tomorrow, and we're meeting after this meeting with Caleb, just to, like, walk him through. The AR data from stripe. Feel pretty good about that as well. But also to sync up async Dilling because I got double booked with Zinc Tree and Triple. Well, so you're on the.
+
+Client 3: Battle. Yeah, we can carve a response, but we need to we could push out, but if we can carve a responsibility could be good.
+
+Client 2: Yeah. I think we should take that approach. Matic. We have a pricing called tomorrow. As well, based on our last conversation. If we could meet what he was looking to see. He's pretty confident about getting it in November, but haven't got a chance to sync up with him for the past couple of weeks. Frodo and Al are also engaged here like asyncrosala. So right now I'd say that's probably like 50% to 60% chance triple. Well, probably the same depending on how tomorrow's scope in colgaz.
+
+Client 3: Cool. Yeah. I think the biggest challenge is probably timeline. I mean, I feel like these are deals that we have a really good shot at winning. So I think as part of those calls we have coming up, just kind of putting that ask out there for what's evertripping process, like any blockers, you know, that would get us in the way of cap by as the incentives that we laid out.
+
+Client 2: Exactly. And that should be all of them.
+
+Client 3: Go. Let's keep doing our second time here. I want to sure make we're being quick. Get everyone in here. After you. Sorry. Last question for Iran. Any calls you help on additional like we got good coverage on it for you this week. But anything else to call out?
+
+Client 2: Yeah, we're good to go. They're all looped in.
+
+Client 3: Perfect. Leaandra, do you want Japan?
+
+Host 1: Yeah. Denisha, you are on this parallax call tomorrow, but I don't think you've accepted it. So if you are free, it's at twelve your time. Kelly Rescheduled from Friday.
+
+Host 1: That's right.
+
+Client 3: That's a sad time as the Triple Whale Scoping Rabindranath, which. I'll figure this out. Offline. Yeah. Leaandra. Sorry.
+
+Host 1: Go ahead. Cool. I mean, she said she's still really interested. It sounds like we're not to come down on Price, so definitely could use you on that one just since I haven't really been budging before. And talked in that sweet thing I would say. I want to say 60%. I took this out of target or out of commit to target. But I think that we still have a shot here. We just have to, like, work the pricing a little bit better.
+
+Client 3: Yeah. Let's catch up in our chat later today on that one cool, quick note.
+
+Host 1: I think this is pretty much good to go, but it's gonna be at the end of the month. That's the one that we had the call last week with. Maximus, and everything. Yep. That one. Yeah. I put that into commit. I think. And then. If you can scroll down, I also updated the notes like just now so these notes are all outdated.
+
+Host 1: All good. Base. I think this one's good to go. I don't know if it's gonna land at 25 or 24. I gave them 25. And some change for. Quarterly. But he's obsessed with Mosaic. So I feel pretty good about this one. Our calls on Wednesday.
+
+Client 3: You often support on that call.
+
+Host 1: I think it should be good. We have a really good relationship. It's at 08:00 a.m. Pacific Time on Wednesday, so I think I'll be good on that. I don't know if it'll come in on Wednesday, but it's definitely we're aligned to this month. I think it has a chance coming on Wednesday. He hasn't told me what he wants, quarterly or semi. I know yet.
+
+Client 3: What's the what's the agenda for the call mostly, though. Just checking in or.
+
+Host 1: Yeah, he already has a pricing. Just really getting. His answer.
+
+Client 3: It's pretty much it okay. Yeah. Do you want Lume on that one? Just in case. Like it. I mean, I'm free, so I'd like to join it. I mean, it's extra face probably can't hurt at that phase.
+
+Client 3: So he's kind of making decision on that call. Could be good to have an extra one.
+
+Host 1: Okay. And then a lion. This is the one that I want to talk to you about after this call as well. He just sent me an email and he's, you know, wanting a little bit less on price. I have 06:00 a.m. Demo with him tomorrow. And a CEO.
+
+Client 3: So.
+
+Host 1: I'll be in the dark, so I don't know how lighting is gonna work on that one. But should be interesting. But definitely want to get pricing sorted out first if I'm gonna do that. But he said he could do this month if we can just like work with him a little bit on pricing. He wants like 30K. 15k average over the two years so that's you know something I was going to talk to you about.
+
+Client 3: And then climate.
+
+Host 1: Is we have a meeting on the 28th. And it's looking good so far. It's at 200 or 22 if they want. Semiannual quarterly or something like that. Some kind of timing on terms. But I think we're the front runner here. It's more just like they're 20 person company.
+
+Client 3: What percent.
+
+Client 10: Lever they were going to that is something that like we would need. Approval on our guests. Actually just manage approval. Now looking at the contract term, just hearing that come up twice.
+
+Client 10: Just want to make sure everyone knows, like obviously it'll happen every once in a while, but definitely not something you want to be doing a very frequent way.
+
+Host 1: Yeah. Denisha knows about both these and their increased contract value for them. And they both. Really need them. They're pretty much both pre revenue.
+
+Host 1: Yeah, we're up to Tiny deal. Dealing.
+
+Host 1: I believe in this one. 5% for eight base and 10% for Climate club. And then I think I have one more that I actually do need some help on it's in the demo. I think demo stage. Yeah, anchor, Frodo, I tagged you in this gong. The girl at Anchor, who's a chief of staff apparently worked with Joan Beej, like, Super Super early at Untapped or Canvas or whatever that company is called. And she like, remembers them sick. We're all joined to remember her. But she was like, yeah, hopefully we can get some kind of like, you know, discount since. You know, I worked with you guys super early, and I think my CEO was an investor.
+
+Host 1: So. I have a call with him tomorrow. Would appreciate a note from you, Frodo, if you remember and can personalize it at all.
+
+Client 8: But I already started a conversation with her on Friday night on LinkedIn.
+
+Client 8: Her note was, yeah, my head of Finance, Adam, needed the call, and I was so excited that we're looking at mosaic. We're looking into Mosaic and Sage. Of course, I'm pushing for mosaic. But ultimately, it's Cassie's choice. Fingers crossed. But, yeah, we have a good dialogue going. So if you want me to say anything, Tara, let me know.
+
+Host 1: Yeah, just tell her that you like you told me that we'll give her good pricing. I haven't really thought about how much that's gonna be yet, but it's so Cassie, that's exactly what she told me on the call. But Kathy pretty much has a contact at Sage. And Lauren has a contact at Mosaic, and so. I don't know what Cathy's gonna choose, but I don't really. They said they might do both. But she said the reason why she was looking at sages. Partially for audit stuff because she's an accountant by trade. So it was kind of a weird conversation, but potentially could be both. Or hopefully Mosaic.
+
+Client 8: Cool. I just shot her the friendly update on the price stuff, so I'll let you know if she says anything back.
+
+Host 1: Cool, can you send me the wording on that, please.
+
+Client 10: They literally can't integrate to anything else. They won't integrate to your CRM area. So I'm definitely really pushed on that same.
+
+Host 1: Yeah. Unfortunately, they have, like, pretty much the messiest systems ever. So I don't think that even ours would be very helpful, but they were all saying that they wanted to get into the new year with, like, turning over a new. Leaf. So they're keep on saying they want to do things, but they're like, oh, but we can't. And so they're like, standing in their own way, in a sense.
+
+Client 3: And was what was said the reason why they wanted stage that could cause things specific.
+
+Host 1: What was that again it was like accounting like Revrec. And then also for like some analytics. And then the fact that I guess Cassie knows someone there. That's why they started having that conversation.
+
+Client 3: Nothing major. We consolidating. Would we even solid it to instances for them.
+
+Host 1: I don't even know because they said they don't. But then she was like, super interested in the consolidations process. And that's what I asked him. I was like, normally people look at stage, if they're looking to consolidate or something. And she was like, oh, well. It came out in the very end that they had a contact there.
+
+Host 1: And that's why I was like, Confusible time, and I've only had one other person comparing us to Stage, but they were also like, oh, yeah, that's what they said, too. But I think it's just the fact that she knows someone. They probably said, hey, we can really help you do XYZ.
+
+Client 3: Because there's moving forward with stage for like your court European, and there's moving forward with, like, Sage planning so that there kind of would be different. I get that like Sage ERP would have some benefits for them. And like Rhett and their clothes and stuff like that. But if it's planning and or consolidations is what's compelling them to move to Sage, we should definitely attack those. When's your next Callica tomorrow at eleven.
+
+Host 1: Pacific.
+
+Client 3: Cool. What's? What's the agenda? Exactly.
+
+Host 1: I was gonna present I haven't presented any like pricing aside from list yet.
+
+Client 3: And then that could be good to have. I could be good to jump on. I think that if it's one of these objections kind of like, Where's our business headed. We need an ERP system. Or do we need planning tool? Might be good for, like, a Frodo discussion. I can definitely jump on and attack them, but I feel like Frodo from like an authoritative figure could resonate there.
+
+Host 1: That'd be awesome.
+
+Client 3: I'm good. I mean, I can jump on also, I don't know if Georgia or Sorry, Frodo, you have availability on Eleven, Tuesday. All accepts because I could definitely help out but.
+
+Client 8: Yeah, I can move whatever I have. Then it's just a one on one.
+
+Client 3: Cool. That could be good. That's not the one. That's both kind of tutoring. And if we can get them up something we need to save them from buying. Sage, I think, is the Pain gold.
+
+Host 1: Yeah, awesome.
+
+Client 3: Anything else that I'll know.
+
+Host 1: Right. Cool. Yep.
+
+Client 3: Awesome, good updates. Cool. Good cars on your calls, too. Let's keep moving, Selwyn. You're up.
+
+Client 6: Yeah. So immutable. Your loop. Damage one. They got red lines back to us today. So this one's in a pretty good spot. They're waiting to get back to us on security. So yeah. By, like 80% 90%. They close in month. Just pending like security reviews.
+
+Client 3: Any. Where are they? Out of it again.
+
+Client 6: The us. They're Australia.
+
+Client 3: Okay. Yeah. That shouldn't be too many issues there, then.
+
+Client 6: Okay. Cool. Yeah. And then Lambda. Had you call with them on AO the other day. One of the main points of contact got back to me saying, like he thinks this one should go. I don't really think they're gonna close in month. Just given, you know, on the 21st, and we haven't even gotten the contracts. It was still kind of call set up with their VP of Finance because he was working through schedules. So this one's looking good, but I don't think it's gonna close in months. For this one.
+
+Client 3: And what's the next step, Sir.
+
+Client 6: That one. So we walk through like the model that we built with. A couple of our Champions there. And now we're gonna walk through the model that we built with the VP of Finance. It's been a blocker for them the whole time.
+
+Client 3: So kind of validating.
+
+Client 3: Okay. All right, cool. I'll put my head down on that one. I mean. Yeah, probably tough with the timing for still proving the value. But I mean, if we have our POC saying we should be able to get it done. I wonder if there's something we can do to get it in period, but. I'll grab going on.
+
+Client 6: Yeah, there's that one. And then. We just spoke, but. Map my customers. You know, we just kind of got work through pricing. What we should know pretty quickly. If that's a yes or no, like we just got it basically just like, give them the offer. For pricing.
+
+Client 3: Okay where they out of to also just curious.
+
+Client 3: What about us, right?
+
+Client 3: Yeah. I'm just trying to see who's international in case just no one who's gonna be working. Rest this week or not?
+
+Client 6: Yeah, they're North Carolina. Cool.
+
+Client 6: City. Glance. I'm talking with them today. They had their head down. Heads down for a while. Working through some month and closed stuff so I should have a better update for that one. After the call today, but we've been going back and forth with them for a pretty long time now, so I would imagine they should be close to making some sort of decision. As for like what's going on. But. Yeah, those are. Those are the main ones for this month. We have a follow up call with a wrong go that could move quickly. It's not like a super big need for them like they're finished in NetSuite implementation. But this might be one where if they like the product, they like the tool. We can get them to sign a contract.
+
+Client 3: Maybe give a month or something.
+
+Client 6: It's kind of like start in period, but. Yeah. That's where that one's at and then stream. Stream spin off the radar. They got back to me just like last week, saying, they were like, super busy. With like board meetings and monthend clothes stuff, but trying to get them back on the books. I'm gonna have George and. I send them. A note just like get them woken up. And to get some stuff scheduled for stream but yeah rest those probably should.
+
+Client 3: Okay. Cool. Yeah. Please update that. And then on stream. Jonadge makes sense.
+
+Client 8: Kodiac real.
+
+Client 6: Cody. Actually probably a close last.
+
+Client 8: Saying that for the last three months. So just close it.
+
+Client 3: We. Go.
+
+Client 3: Yeah.
+
+Client 6: We had another call with them, and like they were starting to come to the realization that, like no planning tool is gonna perfectly solve for. Everything that they're looking for so that one might be okay. But I can close it.
+
+Client 8: Yeah, just for the context here on why this stuff matters. The 151 days open. Will sand beg our sales cycles. So when we show the stuff to investors, if they're like, oh, wow, you guys have a 60 day close at 25K average. That's not so good. But if we actually end up closing this stuff. In 151 isn't in the data. Then suddenly the data looks much better.
+
+Client 6: Okay gotcha. Now.
+
+Client 3: Cool. Awesome. Any all Selwyn.
+
+Client 6: That's it for now. Okay.
+
+Client 3: Great. Nick.
+
+Client 3: How we doing here.
+
+Client 9: You know that one was looking. Good now up in the air. Because they were supposed to get back to me on Thursday. If. The. Exit team was gonna prove this he thought at that price it'd just be green lit though he got back to me late on Friday night and said after I asked how things went. He's at our conversation went a little bit differently than I had planned. A meeting in person with our investors on Monday to discuss in more detail, I'll let you know how the conversation goes. So my plan is obviously to get some information today. We still have to scope this with Caleb because they're using nutsuite. So I'm just gonna use my touch today to say, hey, how did things go here's a couple times? You know, if things. Conversations progressed. We should knock out this scoping call to prepare for a smooth kickoff. So more information there. I'm kind of in the dark.
+
+Client 9: V. Seven. I just hit her with a note today asking, hey, should I just tell? Should I? Is there any chance we sign in month or. Should I let Denisha and Frodo know that this is more likely for December because she hasn't responded my last two emails. I'll get a response from her this week.
+
+Client 3: Yeah. Cool. Yeah. Let me know. I mean, we've got enough exact touch here. We're like pretty much anyone in the company touch here. Has she's talked to before? So can be posted there.
+
+Client 3: Yeah. I mean, I think we just kind of got this one in or out similar. I mean, kind of shocking to I mean, 120 days in the pipe. So it's a good call as well.
+
+Client 3: Yeah. And then, Cassada, are we still. Just.
+
+Client 9: Oh, wait, sorry. I'm jumping ahead of you. I push that one. He please push that one to remember. He.
+
+Client 3: Yeah. So the only one that's.
+
+Client 9: Potentially, we could pull in here. That I haven't pulled forward is on fleet just because he hasn't got back to me since what I thought was a really good conversation where he thought he's gonna be able to get things approved. Still need the scope. But I'm gonna get his cell from Ashley right now. Or I pinged her hopefully. I checking slack. I'll be able to get his cell and Ping him, but. That one I should be able to pull in if we just need to Hag on price of it.
+
+Client 3: Yeah. I mean, it's worth noting. There a bigger.org I mean, their procurement process, even if we get a yes, like right now is going to be very challenging. So also a lot of US based employees. So I would say. It's probably one of those ones that if we do get any good progress, ask them who's out of office what's their procurement process and like, really do that as a critical. Criteria for if we should think about this one coming in or not. Yeah that would be tough but gotcha posted.
+
+Client 3: Cool. Awesome. Nick. Anything else on your side?
+
+Client 9: Or is that about right?
+
+Client 3: No. Is that a dream on Fleet?
+
+Client 9: Yeah. Those. Cool.
+
+Client 3: What happened to onboard.
+
+Client 9: She pushed out. We center the. Note from you I swung back. She just said, hey, I've got my hands full from coming after. Back from Vacation conversations are progressing. Well, Nick, but. Right now is not the time to push the project. With the CEO. So she pushed out our touch base for the last week of November, so not likely we'll be able to pull this one in.
+
+Client 8: Okay, but still positive.
+
+Client 8: And then yeah, she.
+
+Client 8: Said more data also pushed. Is that still positive? Just not in month, correct?
+
+Client 9: Yeah. He responded back. There was a second time he pushed. And I said, at this point I just got aggressive where I was like, Hey. Any chance you guys sign in November here so that. We can align your timeline by getting live by your end of fiscal in January. And he responded back like, Alas, sorry, Nick, no. But. And so I just responded back saying, Well, we should talk the first week of December then, because our pricing model will be changing. So that's a play that me and Denisha talked about for a lot of these. Deals is getting communication from him. That pricing will be changing and making it a little bit more concrete to start driving urgency on some of these so that's my next play. For Ombud, Cassada, and a lot of these that are just sort of just keep pushing out. But yeah, on the calendar for both Cassada and Ombud. Still, last week of November, 1 week of December.
+
+Client 8: Okay, and then last one is Trinity. They're just waiting for SAS optics. No. Is that like a cue one deal or December same deal.
+
+Client 9: Actually. Discuss this with Denisha. Their CEO is implementing SAS Optics, and he's not leveraging the advisory team for this. So the advisor asked, hey, do you want me to start helping on SAS optics. He said it'll be a December deal if he gets involved, if not more likely for January. So I agree with kids and saying, hey, will you fill the CEO in on our pricing changes? So that'll be my next touch with the email from Denisha, and we'll get them on the board. So this year, I think they'll sign this year in push. And then implement in January.
+
+Client 8: Cool, thanks for that date.
+
+Client 3: Yeah, tracking the same things. There. Cool guys. We're a minute over. Please go ahead and update the pipe. Or actually the forecast sheet. Enterprise before end of day looking for a really accurate list of deals here. And if you want to hang around and update us, feel free to I won't let everyone else go there just for sake of time. But yeah forecast sheet, please update before end of day and yeah, good song.
+
+Client 8: Appreciate everyone, Denisha, before you hang up. What's? What's going on with Vitally? Are they gonna sign with us.
+
+Client 3: So. Yeah, it's trending. Well, but we basically are doing that. Poc piece during Thanksgiving. So POC is probably a rough way to put it. They basically didn't buy on Sandbox. Well, they kind of did, but they wanted Sandbox and their own data. So we just said, hey, we'll combine these for one. We'll give you access for a couple days with your own data. They basically phrase this as a trial. So it's like a three day trial where we just gave them access and then terminating it. So that's the game plan there. I think we get it. It's just they need a little bit of validation.
+
+Host 7: What about customer references? It's like those don't work. Feel like that should work.
+
+Client 3: Sorry. You're saying that would work.
+
+Host 7: Well, we can also try that, you know, if they don't get enough. From the sandbox.
+
+Client 3: Yeah. Yeah. I think there's a fallback. That's okay. I always try to avoid that just for the sake of, like it. Could it go perfectly well, maybe. But we've had some issues with them in the past. Just people tend to dig in pretty deep there.
+
+Client 8: But. What type of data are you going to connect for them.
+
+Client 3: Just ERP and then they're gonna do an Hrs upload. This is this is my understand. This is very much in flight. Feel free to jump on unless all our markets and that you guys lived in on this. But my understanding is connect ERP HR CSV upload, give them a few days to plug around with it. We have a call scheduled to set expectations of like any free day trial in this space. It's not going to be able to like build your model accurately, but we can at least show you the time to value get you familiar with the tool. They have a fractional CFO that wants to be involved now. So it's kind of a multi product approach here. Any objections on that side? You guys are any author.
+
+Client 8: When you connect the ERP data, there's a lot of setup that you have to do to make sure the categories and stuff are actually mapped before it's useful. So if we don't have somebody walking them through setup, they're probably just gonna be like, what the fuck am I looking at. Yep. So I think it's worth a shot, but. As long as we have the right rails and guidance around them getting access and going through the setup.
+
+Client 4: Yeah, I was. So I was thinking. I was just talking to Eman this morning, too. We set up this instance this morning. So we could take their email that they send out to new customers and then, like, break it down even further for directions of, like, hey, look, you're gonna you want to plug in the day of we're gonna go on in the meeting, we're gonna look at categories and then pull up the report. Haven't thought through it yet, but something that has guidance to what they're actually gonna do.
+
+Client 8: Well, so are you leading the charge on this one now?
+
+Client 4: Yeah, I am. But Mark as well. So we both are.
+
+Client 3: Cool. Forage up to Evan. Any other calls? Guys. Sweet if anyone else wants to do miable chat deals but appreciate everyone. Evan. Didn't see much on here. I think we're tracking the same stuff. Any, any calls or anything you could pull in. Anything worth working out in here.
+
+Client 5: So the one that has a chance for. This month. I mean, Amplify is maybe it depends on what we can do both with, you know, Vena and with pricing. So I guess our catch up on Monday. With Daniel will really kind of be the deciding if we can get a contract out, you know, same day or later in the week. And then for open this afternoon. That depends on how the demo goes as well, whether or not it's a it. 's a potential for even going in month and then I don't. Yeah, nothing else unless we can get tendelo across the line. And then that's that's it for me because everyone else is. A wait and see and then bonnet still have times out.
+
+Client 5: To try to catch up on a proposal. But he opened the email with the time several times, hasn't clicked the time to meet yet. He's in the UK or I'd Ping him again but.
+
+Client 5: Yeah, it's really just amplify and open.
+
+Client 8: Denisha, have we list of trials like does it make sense to just go on trial with Pandula? If that's the only way you can write it in here.
+
+Client 3: Yeah. So that's what we floated. If you recall, we flood to that trial at 28K with them. And then we gave him some free months to, like, try to, like, eat it further, a little bit down. But yeah, that's what we flooded with them. They basically push back and said. That's not enough at the price point and asks for more. So I Kevin and I. Think I left you off this email on purpose. Let me know if you I can dig into it, but I kind of challenge him. Like, hey, let's you and I huddle up for, like, an author record conversation, just gonna basically tell him like, we're not, like, in the business of suing our customers. Therefore, we need one year commitment, and you're opt out that's based on criteria. Is not feasible for us at a lower price range. So it's just it's Groundhog day with these guys. So yeah, I'm basically just doing kind of off the record negotiation with them. Just as a play, basically to get them off their. They basically want the trial. 22k. So that's a pushback that we're hagging through.
+
+Client 8: Cool. I would say just try to lock it up by the end of the year, the best price you can with the trial.
+
+Client 3: Yeah, I think so. I mean, we've we've done that. We've wrapped up their model. We validate every possible corner FBA process, like we can do most things. It's just these guys have two failed implementations with other planning tools. So I'm hesitant to go too hard here just because, you know, I get We're not Madonna, but you fail to implement them. You build implement queue. It's like they need some ownership on this. And for a trial. Customer. They're not smelling great. So, yeah, kind of trading a little bit lightly here, but definitely pushing for it. Cool. And then, yeah, we got pendulum. Obviously. Bonnet keep attacking. I mean, obviously having that guy works in like three weeks cycle.
+
+Client 5: So it makes sense.
+
+Client 3: There. And then, yeah, open. Take a stab at today amplify, but we're gonna email, so I know we're unlocked stuff on that one, but Yep, cool. Frodo Lizards AI Any final calls from you guys.
+
+Client 8: I think I'm good. I just sent you my notes in our Select.
+
+Client 8: Awesome cool mode?
+
+Client 8: Really alive.
+
+Client 3: Yeah. The spending for yourself. Just kind of waiting for that to be alleviated. It's been a pain in my ass, but yeah, sending freeze came in last minute, and then he's basically not responding to like, are we still the preferred vendors so kind of chasing him? I mean, anything in my pipe now is like we should not be betting on because by nature they're dragging their feet. With the exception of Mantra, he just said he couldn't do it this month, but I'm still trying to shake him down. That one probably has the most legged out of anything mode spending free, plus the already kind of dicey fit is not making me super confident.
+
+Client 8: Yeah, and I would agree. I would just get it closed out. And if it does come back to life, just reopen the app that we are self cycles don't get fucked.
+
+Client 3: Yeah, that's a good call. Yeah, I'll close mode, and then just shoot them out and kind of let them know, like, hey, gave me when you're ready. Yeah, I'll do it. My pattern generally. Buy some ones

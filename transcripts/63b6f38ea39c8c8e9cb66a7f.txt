@@ -1,0 +1,439 @@
+Client 1: Petunia Jericho, Good morning.
+
+Client 1: You. Okay. Yeah I can hear you now.
+
+Client 2: Alright. Alright. Hey Is this My talking to Eli?
+
+Client 1: Yes.
+
+Client 2: Indeed you are right?
+
+Client 2: Meet you too. I'm... Can you give me, like, two minutes. I wanna help on real Quick can just I need like, two more minutes is that okay?
+
+Client 1: Yeah. Absolutely.
+
+Client 2: I'm just gonna put myself on mute, and I'll be back in, like, two minutes.
+
+Client 1: Great. Hey. You later, you are you on years? Oh josh. You.
+
+Client 2: Alright. Alright. I'm am back. Can you hear me Excellent.
+
+Client 1: Not clear.
+
+Client 2: Alright.
+
+Client 3: How's it going? Yeah. Good. How are you?
+
+Client 3: Are you in in the car I am I'm sorry.
+
+Client 2: It's been been a weird damn. I'm actually kind of on a weird stem a little bit not nocturnal right now?
+
+Client 2: So I'm just wrapping up my wrapping on my day.
+
+Client 1: Yes. No. No problem. You're what phone you have. The camera is fantastic. You're like the most crystal Clear, I ever seen anyone on a call.
+
+Client 2: Just an iphone I might have to opt update a software or something.
+
+Client 1: Alright. Well, Jericho. For hopping all. Let's say really excited to need you work with you. Figure great way to start and give some basic introductions to who we are.
+
+Client 1: My name Eli. I'm gonna be your customer success manager. My whole job option is to make sure that you get the most out of Jose experienced success their product. You're gonna meet members of the data team during your implementation. You've already met racing. And you're gonna work with them on configuring the build of your top line? But when it comes to forecasting visualizing your data working with your Hr of, of your point of contact. With the support of. A little bit about me I I spent my whole career and Fp and a for software companies. I work three different businesses form Mosaic from series B to privately equity owned. So I've seen a some good family ugly. A how to build a report and Bb a, etcetera, etcetera, and think was a great option, I'm excited to enable you the store help you get some success So that's me. Email like, just yourself little bit.
+
+Client 3: Yeah. Sure. So my name is. I manager our Cs team here. I've been at Mosaic for over two years now I initially started my career P c as an external auditor, so I have my Cpa, and then I transitioned into consulting, doing mergers and acquisitions, did similar M and a consulting work at Pd o, and then I in here. So think of me as an additional resource. Throughout your onboarding process as well as thereafter in addition to Eli and that super excited to kick off with you both today.
+
+Client 2: Cool. Heck you. Yeah. I have a buddy that went to want to be Oh, really?
+
+Client 3: Yes. Nice what what i group was here, you know?
+
+Client 2: Honestly, I can't remember. I I can't remember where he want either. I say buddy. Like, we we were casual, very casual friends Yeah. I was planning on doing the kind of the banking tracks Sorry Mh did a couple internships and was, you know, I so you finance it.
+
+Client 2: In college.
+
+Client 3: So Yeah. Nice. So based out of. I'll sure Curiosity see.
+
+Client 2: Based on Utah You.
+
+Client 3: Okay. Cool. I'm in I'm in La.
+
+Client 2: So Okay. Nice.
+
+Client 3: Introduce yourself as well done.
+
+Client 2: Yeah. That's you. I'm actually trying to join... Well I need to be on my computer we share some slides we can talk through them but if you wanna see him that is worthwhile.
+
+Client 2: K. This meeting is being recorded. Think I'll be able to join for my computer now. Can you guys hear me?
+
+Client 1: Yeah. Correct Alright.
+
+Client 2: Alright. Awesome. The cameras kinda weird isn't it? K. So, yeah. Yeah. Intro. So... Yeah. I I told you that I studied finance in school. Was planning on doing the the investment making track, ended up working for a a company called Ra which is actually, one of our competitors here at order protection. Was there for a couple years and then kinda did my own thing was doing some consulting for and and then got connected for You got connected with the the founders shared order protection and and it was kind of a good fit. Originally, I wasn't I I I told myself, I would never be an employee again at when I left out but i ended did up ended up being kind of a good fit.
+
+Client 2: So I feel like it's mean, I think of my myself is, like, kind of founder her. I mean, I'm not but, you know, employee number one, it's been been of fun So been here about ten months now, And really... I mean, I was focused on product for a while. For all of my time and now starting in the new Year, I'm kinda back in the the finance track that's what we need at this point with fortunate to find a... you know, somebody with a couple decades of product experience to kinda lead the the product now. So now I'm pretty focused on doing the, you know, sort of the individual contributor work to start on the finance side and then try to find and kinda build out the the right team from there. So awesome.
+
+Client 1: Excellent.
+
+Client 3: That's very cool.
+
+Client 1: Excellent. That's great. Thank you for that context. Okay. At this point of call, we like to just go down the roster the personas that we know order protection, Make sure there's no one that we're missing out on that's should be part of process.
+
+Client 1: We know here. Point contact you're gonna be building with the Mosaic. Harrison down the line, I imagine less tactical tool, but we'll be viewing dashboards, analytics, outputs, Is there anyone else that we should know about this stage.
+
+Client 1: And I'll I'll caveat you out that By saying, you already had a a scoping call with Brace in the sales process.
+
+Client 1: We're gonna set you up with that data team, and we're gonna dive deeply into the mechanics of the top line build. So the nitty gritty of the logic, if that's not you, we'd love to loop that person into the conversation. With the data team Totally yeah.
+
+Client 2: That'll... That'll be me for sure to start out with, I probably we'll invite Rachel, she's kind been doing a lot of stuff. But one of which is some some data and, like, dashboard in Our tool. Which is meta a database. And I think she'll be valuable kind of on this project moving forward. I mean, really, what we need to do is you know, hire some true Fp people. In longer term, but But, yeah for now, I think that's probably what we'll do. Harrison yeah, like, said you won't be super involved in, like, building things out, but we'll definitely have opinions of of what he wants to see So Okay.
+
+Client 1: Excellent. Makes sense submit. Thank you. So very quickly. Go through the and call and make sure it make sense you. Right? Start out with outcomes Alignment. We've gotten some notes some detail in sales about what you're looking for with Jose, But just wanna confirm that we are on the right track. Talk to you a little bit about your reporting process, your tech app. And the call with a project plan overview and then so solidify some next steps.
+
+Client 2: Yeah. That sounds good.
+
+Client 1: Awesome. Order protection. Very interested to hear a little bit more from you on your business model. Listen it's your call with crazy, and understand the high level of the usage based pricing really your revenue has tied to the revenue of your customers in pretty concrete way. I also urge you new to potential subscription offering in the near future. So I love a little bit more background on existing. Product line and them what you're building to.
+
+Client 2: Yeah. Totally. Yeah. So I guess, do you... I mean, I I guess, maybe I can just started the kind of ground level. So, yeah, essentially, we our sales process, like our clients are the e commerce brands that we work with They, you know, that that's Like, when we when we sign a contract with on the e commerce brand, we consider that a sale for us even though the revenue comes from the end user, the... Our our clients customers. But So we install... Yeah, our order protection widget on the client site and then their customers check out and can opt into order protection. And then they pay you know, one to ten dollars for order protection.
+
+Client 1: Right. That makes sense.
+
+Client 2: And then...
+
+Client 1: Oh, okay. Got. No. I was I was gonna say that... I know that you look at and forecast recurring revenue, and that's that's pretty much based on estimates of the size of the e commerce business, knowing that there's gonna be some fluctuation month a month in in actual revenue.
+
+Client 2: Yep. Exactly. Yeah. So from an annual perspective, it'll be pretty easy to forecast. I think more tricky and I think a little bit more useful part we'll be forecasting from an operational perspective, at least, we'll be forecasting months to month revenue. So that we can have you know, a better idea of, like, cash burn and and meets from a like, on the monthly level.
+
+Client 1: And then correct me if I'm wrong. I believe I heard you allude to a pure Sas components being added to the business model. He tell a little bit about that.
+
+Client 2: Yeah. So that will be Definitely definitely on the road map. It's... We're we're not. Necessarily super close with anyone on that product.
+
+Client 2: So probably won't be part of our initial build out, but Essentially, it's just a true Saas product where a company would license our soft wear and or insurance licensing, and they would pay us, you know, x amount of dollars per month or per per year. For that licensing of the of the software and more insurance licensing.
+
+Client 1: Okay. Cool. Makes sense. Thanks for that. That's helpful. At this stage we have some pain points outcomes. We'll run through the list in particular order. The key thing here we would love for you to tell us a if any of these are not important and be if there's is something important that is not called out here. So we can really dive into objectives make sure that we're lines. Number one, access to kpis centralized dashboard, you can trust some key metrics that we're aware of firm runway. Recurring revenue. Is there anything else that stands out to you especially important worth calling out right now, special attention to.
+
+Client 2: I'd say, like, churn, but that's a really... I mean, nothing that we're, like, really focused on is is not gonna be out of the box. Aside from that sort of forecasting monthly, component. And that sounds like actually is out of the box based on prior conversations, but I think most of what we want is gonna be very very out of box. So those are good sort of like north star metrics to start with.
+
+Client 1: Yes. It's... So to clarify they're forecasting is... I wouldn't call it, I would call it out of the box. We have a whole top line model where we will help you build that forecast.
+
+Client 1: So, like, we'll walk through the specifics of it, but it's not a the box case. It's very user specific. Right? So we will build it to your business.
+
+Client 2: Okay. Cool Okay.
+
+Client 1: That's helpful. newborn need package cadence. Tell us something about that. Maybe timelines there if there any would be helpful.
+
+Client 2: Yes. Our first board meeting will be this month. So it'll probably be a manual data pull for that. First first board meeting, but Yeah. I mean, ongoing, like, we'd like to have ideally would like to just be able to share a dashboard that gets updated in real time. There's no manual updates needed. Not even, like, uploading of, like, Csv or anything. But yeah, Worst case scenario maybe some uploading of Csv could be for the time being, but... Again, yeah. Pretty pretty straightforward. I think just, like metrics that we you know, pulled for the series a pretty standard pretty standard metrics. I mean, nothing that we will already have like an operational perspective.
+
+Client 2: But I mean, I guess really any insight you guys have on you know, kinda nice to haves for a a board and or like, investor group would be be very helpful.
+
+Client 1: Yeah. So so we have both a pre built template and some collateral on for reporting best practices, Some of the, you know, key items that people usually discuss and what cleared. In our follow email, i'll do that.
+
+Client 2: Cool. Thank you. Yeah that'd be great.
+
+Client 1: And then this The last items we discussed the top line model. Is essentially this revenue forecast. So we know that's a priority month month specifically, so we'll make sure the drill to that training. And then planning through say model is it seems like that's probably not as immediately important as some other items, like, getting a board report up and running seems like one a to me. Is that a fair Assessment.
+
+Client 2: Yeah. Yeah. I think so. Yeah. I guess that lasts point on the planning I kind of view that sort of tied into the other three. But, yeah, there's definitely some like specifics that we're, like, looking for looking for and then there's other things that we'll I'm sure joined that list when we're we as we you know, growing. Move into the future.
+
+Client 1: That makes sense, Smith. Are there any other a objectives and b timelines that are worth calling out addressing. We haven't a covered.
+
+Client 2: I don't think so. Really, I mean, this is my main focus and and we have been lacking in this in this area. It's been hard for me to adjust if I, like, my personal time, like building out a bunch of, you know, models in Excel and or processes in our Bi tool they would be moving to something like this. So Yeah. I'm I'm really... Like, I'm I'm ready to to move forward as quickly as we're able to I'd love to hear that.
+
+Client 1: We love moving even fast. So we'll we will we will match your speed.
+
+Client 1: I promise you.
+
+Client 2: Sounds good.
+
+Client 1: Actually, you, do you have any other two any other final questions come here Just one quick tactical question.
+
+Client 3: I'm assuming you guys be looking for a department forecast. Is that right?
+
+Client 2: Yeah. Yeah.
+
+Client 3: I think so. Okay. Are you guys using classes in in Quickbooks?
+
+Client 3: Yeah.
+
+Client 2: Related to departments right now.
+
+Client 3: Mh.
+
+Client 2: Yeah. No. I don't I don't believe we are.
+
+Client 3: Okay. I know that you guys haven't connected yet. I'm curious to see your chart of account structure. Is your charter account structure For example, like, salaries dash r and d, salaries g a. Do you have, like, gl accounts with those naming conventions?
+
+Client 2: Yes, I believe we do I don't know. I can't... Mean I should This is good. So I did my computer by the way, sorry for the weird camera. It was my first time doing the Zoom feature and it is no deal.
+
+Client 2: I probably won't do it in the future.
+
+Client 2: No.
+
+Client 1: Okay. Yeah it's like a Russian dashcam.
+
+Client 2: Thousand. Okay. So if you give me two minutes here, I can Yeah.
+
+Client 1: Take time.
+
+Client 3: Then we'll be able to see once you connect to Mosaic, but just wanted to ask because that is what will enable you to have department forecast. So...
+
+Client 3: But it's the use of classes or maybe you've named your email accounts with, like a dash department, nomenclature, We definitely recommend using classes.
+
+Client 3: It's much more scalable and cleaner and your charter accounts will be much shorter.
+
+Client 3: There is some historical cleanup. That you could do in bulk associated with that, but It is the best that recommend, but we could definitely still do a department forecast even without it.
+
+Client 2: Yeah. Yeah. Okay. And I guess, when you say naming convention our do we have the ability to just take specific Gl accounts or the point of the naming convention so that as we add accounts, like it'll scale up automatically. With those accounts So So when I was referencing naming convention.
+
+Client 3: So sometimes, like you'll see folks that... They'll have four salaries accounts. Right? So, like, one is for R and d, one is for G a, one's for S and m. And so... And they'll do that for, like, free Gl account that is allocated to multiple departments. Versus using classes there's just one salary uc account and then in the journal entry, like, you could allocated out to the different departments. And so as result, your chart of accounts is much shorter and cleaner. And it's more scalable. And we have, like, a a whole mapping exercise that we can block you through at the end of this call, so you're gonna be mapping your departments. And when you use classes, it's it's easier and clear to do allocations.
+
+Client 2: Cool. Okay.
+
+Client 3: Cool. Think that all I had. So I think you go on to the next slide Excellent.
+
+Client 1: Thank great question here. Thank you for bringing up. Your current top line reporting process know from your conversation is where that. Authorized on that since billing information which you are pumping into both Quickbooks and snowflake. It looks like the the first way we're going to look at doing this for with Mosaic is the data in Quickbooks. What I'd like to get a little bit of understanding on in terms of recurring revenue reporting, what is your process today? Like, how are you doing it? Right now In terms of, like, the reporting of the of the revenue, like, like, the thing that we're using instead of most work right now?
+
+Client 1: Yeah. Exactly.
+
+Client 2: Pretty much our Bi tool, which is meta base.
+
+Client 1: Okay. So you're pumping the data and you have some lock within meta database to you know, Track. Revenue Yeah.
+
+Client 2: Yep. Exactly. Well, actually, that's... No. No. No. Actually, you know, I apologize. That's not really true because the way we wanna... Like, our our true like, the Arr number that we would pull for investors, actually comes from, like closed contracts. Which may not... Because of the nature of like, when we realized revenue may not like, we may not have any revenue. Even when a contract is closed and when we count it and Arr. So really, I think that data would live in both for so for recently closed close contracts, it would just be in Hubspot for existing customers with revenue, it would be like a a forecast of revenue based on they're exist if they're their revenue history, if that makes sense. So...
+
+Client 1: See.
+
+Client 2: Because there... And the reason we wouldn't wanna use, like, the culture, like, the forecast, the contract forecast, for existing customers is just because once we have revenue, you know, we can now be a little bit more accurate than just like a contract forecast number.
+
+Client 1: Yeah. If you... The the most recent file that you've used to do this calculation. I I think there's gonna be specific interest to and where you draw line, in terms of, like, recent contracts versus existing, That is all going to be essential for our data team to understand.
+
+Client 1: How fill this out within.
+
+Client 1: So I'll prompt to you on our follow... Email, which is sending over that file and and making sure the call you have with them. You have it up is is gonna central.
+
+Client 3: Okay. So This really pertains to the historical side of things. So any existing customers that is what our data team will customize for you. Some of you guys who's contracted. And what They'll do is they could customize both Arr and contracted For you. And then you could build out a forecast separately in our top line planner within the financial model, you know, however you'd like. But what they'll really build out for you is is the historical side of things.
+
+Client 2: And that can, of course flow into the forecast, that will know, eventually d, but Yeah.
+
+Client 3: It's really just a focus on actual here.
+
+Client 2: Okay.
+
+Client 1: Correct me if I'm wrong here. How you're thinking about Arr You are kind of blending together to data sources. There's the stuff that you know about. You'd seeing their billing cadence you're making a forecast off of that, and then there's the brand new stuff. What you're calling from Hot hubspot?
+
+Client 2: Right. Yeah. So we we include Yeah. Yeah. You you you said it exactly right. We we include both in our Arr number and just the way we forecast for for existing customers versus just recently closed customers is just different because we have revenue, it's more accurate obviously, to use the revenue that we have and forecast into the future. When we don't have any revenue then we just use, like the the forecast based on the stores annual order volume and a assumed attachment rate. For for the orders. You know, So if a store's order volume, for example, was a hundred thousand orders every year. We assume that fifty percent of customers will opt in and we have a two dollar Sku then then that would be, you know, a hundred thousand and and arr, but that's a pretty rough number that we use.
+
+Client 1: Okay. I base with with Gertude and understand what was the result of your initial tech call?
+
+Client 3: And and the logic that they're planning on building out, and we'll see if another Another call is needed.
+
+Client 2: Cool. Yeah. So it's Got it.
+
+Client 2: I I was just gonna say to answer question very directly. Our current reporting process on on a true Arr number is very, very manual right now.
+
+Client 3: Okay.
+
+Client 1: And and I think the the scoping, it was more of a a sales proof of concept scope. I don't think it has a fully depth Types.
+
+Client 1: So I actually in the chat Jericho. I just sent a link to the scoping calendar where you can schedule that meeting. I I recommend you do that right now because I think in terms of need to build. The final office we're looking for here, getting on top of this top line logic, is gonna be priority one.
+
+Client 2: Okay. That's great. To know. Can you include that? Sorry I'm Again, this my first time with the Zoom feature I'm not seeing the S.
+
+Client 2: Okay.
+
+Client 3: They should be like a a little about at the bottom of the Zoom screen there's showed mostly, like a little red notification, Do see that?
+
+Client 2: Sorry. I'm very familiar with Zoom. I'm not from familiar with Zoom in the and their tesla just got it. And it's that Zoom app is very weird.
+
+Client 3: Okay.
+
+Client 1: I just sent a link to your email.
+
+Client 2: It's like perfect un title email.
+
+Client 1: There's gonna be a find more detail, but, yeah, did let's schedule this now because it is it is gonna be important.
+
+Client 2: K.
+
+Client 1: So take it minute.
+
+Client 2: Oh, yeah. Yeah. Okay. We do that real quick.
+
+Client 2: Looks like Oh today is the fifth. So the next one available is the twelfth looks like.
+
+Client 1: Yeah.
+
+Client 2: Because there of weight do... I just... Go ahead.
+
+Client 3: No I was gonna say if you wants something sooner. We could ask the team if there is something available.
+
+Client 2: That'd be awesome. It'll be really great.
+
+Client 1: If you don't mind putting on the calendar, don't move it up, but just so they I think that'll happen it. Stay of mine too.
+
+Client 2: Okay? Yeah. I was gonna say I I actually miss misunderstood what you're saying earlier in the morning too, if possible, like, sometime before ten Am mountain time if that's possible.
+
+Client 3: Okay. Yeah. We could ask the team. They might have some thoughts.
+
+Client 1: Okay. Great.
+
+Client 1: Now it's a pretty natural time to walk you through so flow of onboarding because i Question one more question.
+
+Client 2: How What what what do I need to have ready for that call for it to be effective again? Just yeah. Maybe you can say it all again.
+
+Client 1: So that manual file that you referenced for your latest air account the the one where you you're using to data sources? Have that ready for the call. Also sending it in advance is good. If you wanna follow on the email that we send you That would be great.
+
+Client 2: Cool.
+
+Client 3: just really quickly. So what what the team is gonna cover on that call is understand what your arr logic should be. And so I know you mentioned that should come from Hubspot. And so, you know, you're most likely gonna pull up how thought and show one of the key fields that we should be pulling from dates amounts, any sort of nuances your logic. So that they could build it out on the back end for you and then that file that's what you consider to be your source of truth for Arr by customer by month, and that is what we'll tie out to after we built it out. Typically what results from that process is there's delta which means that we'll need to modify our logic. Or maybe there's is cleanup up that needs to be done and have hubspot. It could be a combination of too, it really depends but we'll continue to iterate on the logic until Is fully reconciled. So really that call is just meant to to deep dive into your logic. Say, Wanna have hubspot up and, you know, I'm sure you're already familiar with the the fields. If if someone else is more familiar than i want them to be on the call. As well. And and, you know, they'll they'll just ask for your file as well if you send it over to us, we'll we'll share with them.
+
+Client 2: Okay. That sounds good. Cool.
+
+Client 1: And in terms of moving fast a little bit more about your the whole implementation flow because there are a few different personas you're gonna be working with so we find it worthwhile to take the time to really drill into everyone's doing. This scoping call will actually start at the bottom. This scoping call, these are you know, this is an ideal implementation timeline. It's not a hard fast rule. This scoping call week one is with the data team. That's exactly what we've been referring to. Gonna go in on the logic of your Arr builds. Following that call, they're going to right out the logic and ask for you to sign off on it. Once you give your approval that this is the right way to think about it, they have the count correct. They're gonna build it out. And then they're gonna ask for you to validate the bills. And then from there, there could be some back and forth tweeting. And so we have a final Construction, The reason we like playing this out is because it is a highly process a highly humidity that process. Right? We're you're gonna have to work back and forth with them pretty consistently over the next few weeks to make sure to build is fully accurate. So we like calling around now. Just setting on expectation. Making sure you're aware of that flow. It'll also go gets to it on their call. So they are building out the actual logic for your pipeline. Pretty tall. Everything else when it comes to Erp Hr reporting then all forecasting So revenue forecasting in the future, top line forecasting in the future. You're gonna be working with myself. Now. So we'll schedule training sessions. We'll send you a ton of collateral and we'll work with you to rank on all of these facets at the tool. Office hours. I wanna call them out now. We hope them twice a week third ten Am Pacific on Tuesdays and Thursdays. Six rotating sessions of the basics of our tool. So the the fastest way to quickly is attendees because these are essential in the sessions that you would have with myself you've been. I would start.
+
+Client 2: Oh cool. Okay.
+
+Client 1: So you have a live Cs on the call. You have other customers and they're just walking you through the basics of Mosaic. They're walking you through analytics of building dashboards, and then the four components up our forecasting model. So it's the top line, we can statement head. Balance sheet. A great resource. We also have knowledge base. We'll show you how that looks, but you can as you're playing around in tool all on your road. You can search our knowledge base articles and learn to get guidance from there. So async learning is is key to moving quickly in tandem with the time the bus.
+
+Client 2: Cool. Yeah. That makes sense.
+
+Client 1: Awesome.
+
+Client 2: Can you... Can you send or are you able to send invites for those office hours? Or do I just need to out of my calendar or is there, like, a link or something Yes.
+
+Client 1: So what I'll do is I'll just follow ups email I said you. We include all the links in park, like, or built out. Email failed just get it to you right now. Just said it You can see the itinerary for each of the calls. You have to click through you to sign up for each individual meeting. We recommend doing it though because even if you can attend, we will send you the call recording Oh nice.
+
+Client 2: Okay.
+
+Client 1: So definitely leave it as session block of each of the rotating topics I I i I would sign up for.
+
+Client 2: Yeah. That sounds great.
+
+Client 1: Excellence.
+
+Client 2: Or sorry, real quick one other question. These numbers at the top, are those typically weeks?
+
+Client 1: Yeah. Yeah. These typically weeks.
+
+Client 2: Cool.
+
+Client 1: Okay. Got it.
+
+Client 3: Yeah. I was just gonna point out one of things. So you I touched on us a bit, but you know, we're gonna have sessions that may typically we meet with folks on a weekly basis. For, like, an hour, but what's super important is to make progress offline in between our calls you know, we're gonna send you training materials to review before each of our calls, super important to to review those. You know, we found that folks that that do review those and come to the calls prepared with questions. Onboard much faster and and therefore have quicker time to value. So really just wanna drive home, you know, making progress off line and then, you know, we could just spend our call time answering your questions. Others prefer sometimes more of like, a handheld step by step approach. We're happy to to match your learning style, but you know, it really really hinges on on offline work and then you know, we can on the calls, however is most allowable for you.
+
+Client 2: Cool. Okay.
+
+Client 1: Cool. The last comment all out here. We like to frame sort of the the training cadence that we is envisioned for you is few weeks, this is the best practice way to really ramp with the tool.
+
+Client 1: We talked about connections connecting your data confirm that all of your accounts departments both in your Erp your Hr are mapped talk really the today clear. So once we set that up, we'll focus on Erp head historical reporting. So this is our analysis component. It's the visuals this does is is gets you can familiar the output outputs sets a really good frame of reference. Four model. Right? So you can really get a full view of your data. From there, we'll do head count modeling with do income statement modeling. And then once the top line data is ready, The data team's is building out. Will model your top line up. So that comes last because there's a longer... There's a longer built.
+
+Client 1: Okay. That makes sense.
+
+Client 2: Yeah. I think so. Yeah.
+
+Client 1: Cool. Guess like, we'll continue to go over this flow as we meet. Going forward. Excellent. So next steps. We have capital of majority the stop. Right? Scoping calls in schedule. You're gonna sound for off hours. You'll connect your data That's key. And then we'll send you a follow up with both the prompts in how to connect your data and then a few other tasks said you can complete before, we next week. Wow. Sorry. The mouse, on I need to get a new mouse. The scroll things and say.
+
+Client 1: What I'm gonna do now is critically happens to your instance. And show you a few things. The first thing I call out we referenced our knowledge base. You'll see us send a ton of articles, trading materials as we collaborate. All of these materials also live within the app. So if you are on a page of the active question, A great place to start is to click this question mark at the bottom left of your screen, support. These resources are dynamic. So as you navigate to different sections of the application, we populate resources that are relevant for where you are. So if you're in head count, it's gonna be head company services.
+
+Client 2: Etcetera cool.
+
+Client 1: Yeah. If none of these labels stand out to you, as relevant into what you're looking for, you can click this knowledge base right to here. And it's gonna take you to our knowledge base. Right? So you can search documentation, You can use keywords. And then you can also click through and structure a search. So If you click through, you can see We select an analysis. Here's an overview. But the left hand side, it gives you a key in a queue for everything that's available to you. We love calling this one out. This is our Metrics boss. We get a lot of questions here on What this this metric made? Here is. All of our definitions laid out. So as you're navigating, lean into knowledge base. It's it's gonna help you ramp. In a very big way So that is knowledge space. I'll also call out if you lose that office hours like, sometime here, we link to the link send you our contact support future. Rs support is mainly dedicated to like, little Ui models, if you think something should be worked one way, but it is it like, little product usability items. Blog ticket it. Submit describe going on. They get back to you very, very quickly. Items that around, like strategic components of your bill like, hey, how do I build my top line forecast, etcetera? That's to work. You're gonna be doing with this off again.
+
+Client 2: Cool. Okay.
+
+Client 1: Now, those are the basics. Do... Even, you think we should just visit data management really quickly.
+
+Client 3: Yeah. I was just gonna test company.
+
+Client 1: Yeah.
+
+Client 2: Can you give me one sec just finished charge?
+
+Client 1: Yeah. Got.
+
+Client 2: Okay. Can you guys hear me?
+
+Client 2: Alright Alright.
+
+Client 1: So When you were connecting your data, you'll go your instance. You'll click the screen down here data management. We already have connected data flows? This is what it's gonna look like when you're done. But there's a wizard that's gonna prompt you to how it connect we will focus there. Once you're connected, the mapping that we're talking about are for both your Erp and your Hr. So what you'll do is you will click into the Erp button. And you're gonna wanna focus on account category mapping. And department metrics.
+
+Client 2: Okay.
+
+Client 1: All this screen data is coming from your system. So this isn't valuable. This is the source data. What you're doing is you are categorized on your accounts. Mo jose takes a i about it with base accounts that we have You can manage these accounts you can add new. You can change the name. Etcetera, right? In this in this gray bucket here, And you're just gonna wanna go down the list and tag the proper categories property. Right. That's gonna allow consistent reporting. Forecasting throughout the tool. Using the account categories that you use for the business. Department mapping drills into the comment that Email was making earlier on our all use class type, or do you have specific accounts for each department. Right now we have department mapping enabled, so that will see that there's class Right? The default will be account mapping. It's gonna look very similar to this. And let's say you have five different departments five different sales accounts. Right? You're gonna map Engineer... So sorry. I didn't sally. You're gonna have engineering salaries you're can map to engineering. Customer support salary methods customer. Sport etcetera. To make sure, which is the best process, we'd love for you to connect your systems take a look at to of few guys.
+
+Client 2: But this was just like a quick run through of of of how the process looks very high level.
+
+Client 1: There's more detail and also reach out questions. Do you have last off, I know we're... I know at time.
+
+Client 3: I'm sorry. Let me. No. I don't think so. I think that that cars that we should touch on head count mapping if we haven't already and See if I was gonna ask Oh, sorry.
+
+Client 2: Go ahead.
+
+Client 1: That's a great call. So you will be uploading head count via a Csv output It's a similar process. That's what this pile is this represents Csv account upload. What we'll do is we'll send you the file that you're going to structure your head count in excel file. And instructions on how to load it into mosaic. Once you have done that, you were going to have to map the departments of the head count within your head count load, and a key thing to to think about if this is not already the case, isn't sharing there's one to one parity in the department structure of both your head count and your Erp. Just the departments in general, also ensuring that everyone in customer support Their salary is actually getting booked to customer sports salary of Erp.
+
+Client 1: Okay. If that's not the case, we're gonna have a disconnect forecast. Something to think about continue to drill into this, you know Yeah.
+
+Client 2: That sounds good. Remind me the timeline on when when they're Rip connection will be ready.
+
+Client 3: So we don't have a connection. Right now. We are in chats on becoming a... We're we're in chats with rip on becoming a partner of theirs. Just keep in mind, they are looking to charge like you as their customer. A fee, so it it'd be like, per employee per month. I think it's, like, ten bucks per employee per month. Just to pipe your data out of rip it into a platform like Mosaic. So there is a there would be like, a a cost involved, but where we're still in in discussions with them. So we don't have a timeline right now. But for right now, you know, we do have the Cs upload, which is obviously completely free.
+
+Client 2: Cool. Okay. For some reason, I thought, was it said that it was on the near term road map, but maybe I was remembering something else. Yeah. That's... We can... yeah. It's not a not a big deal we can That may been stuff like is referring to because I know we discussed that as a as a possible ingestion.
+
+Client 1: Form for your billing. Data if Quickbooks didn't work.
+
+Client 2: Cool.
+
+Client 1: Okay. That is on the road map. In the near term future. But, yeah, really not as much.
+
+Client 2: Yeah. That sounds good. I'll look forward to that email. And like I said, I'm I'm gonna be focused on this. I'm gonna try over the next few days get get everything done that I can. I guess I'll look out for your response like, gonna chat with the team on the the time of that call?
+
+Client 1: Right. Yes. Yes. Absolutely. I'll also send a link for you to schedule another time to speak with myself. So we can, like, really drill into data connections we were talking about. And make sure that everything makes sense for mapping perspective. So we'll move that time up. They'll send out for you. That'll come from or someone in the data team? Or and then look for the link in my email to schedule additional time. But that's Cool.
+
+Client 2: And remind me for that call do... Will I need to have anything ready or is that kind of you walking me through next steps or That'll be in my email.
+
+Client 1: It's mainly gonna be connecting all your systems and taking a stab at the mapping instead we just walked through.
+
+Client 3: Okay. So I our first... So I mean, we're gonna send you training materials that enable you to complete your mapping ahead of that call. It's pretty intuitive. Folks find that you know, they can do it offline on their own. And if you have questions, we could definitely address them. What we'll wanna do is spend the bulk of the call walking through our our first our first really, like, official training. And so eli the plan is analytics one. Right? Erp head count historical.
+
+Client 3: So also... Yeah. So it'll be covering Erp head count historical dashboard, and so we're also gonna send training materials around that for to ruin renew ahead of time. We definitely wanna encourage you to take a stab at starting to build those dashboards. Again, we have a lot of out of the box templates to give you a starting point. You don't have to start for Scratch if you don't want to.
+
+Client 3: And so we could spend that call just going over your questions. And and walking and through some of those templates, if you don't get a chance to review ahead of time.
+
+Client 2: Cool. Yeah. I'll I'll do my best to to do it beforehand.
+
+Client 3: Do we wanna actually to schedule it now do you have your calendar available?
+
+Client 2: Yeah. I'm actually now driving.
+
+Client 2: Okay. But Alright.
+
+Client 3: Yeah Worries. We'll we'll send the link to schedule Awesome.
+
+Client 2: Yeah. That'd be great. Well, and should I schedule it for, like, just Asap?
+
+Client 3: Whatever... I mean, you just wanna give yourself enough time to review the training materials for I would say mapping will probably take you I mean, you can you can copy and paste all of your accounts into Excel and, like, map it in there and then copy it back into Mosaic. And so I would say that exercise will probably take you... I don't know, thirty minutes. But it depends on the your chart accounts. I'm not sure how how big it is. How complex might be. And then well Okay.
+
+Client 3: Okay. Cool. Yeah. So... It'll probably take you around thirty minutes to my both your account categories and your departments. For your Quickbooks and then your Cs upload. And then in terms of reviewing the pre chain materials for Erp head count dashboard, I would say that's probably another thirty minutes. And then, you know, you'll wanna spend time. actually building out those dashboards. So you know, could take you... I mean, dashboard takes, like, five minutes. But, you know, as a new user, there'll be a little bit of a learning curve. Style You just wanna give yourself enough time to to dive into all that.
+
+Client 3: So I guess when do you think would make sense to meet again?
+
+Client 2: Maybe maybe end of this week or beginning... Wait wait. Today Thursday wow.
+
+Client 2: So... Yeah, Probably mid next week. Okay.
+
+Client 2: Reasonable.
+
+Client 3: Yeah. Yeah. It works.
+
+Client 2: So awesome For then.
+
+Client 2: Yeah. And the other the other call sounds like maybe not quite as more just like knowledge of our business. Right post the stuff for not getting mosaic jose. So that's all.
+
+Client 3: Okay. Cool. Yeah. It's really knowledge of Arr of hubspot of of your pipeline bookings fields So there's not really prep work to do ahead of that Awesome.
+
+Client 2: Okay.
+
+Client 3: Great. Well, it was great Meeting, Jericho. We're super excited to to get you kicked off here. And if there's anything that we can help with in the meantime, feel free to to shoot us an email. And and will help i think.
+
+Client 2: Okay. Yeah. That sounds good. Thanks so much. Appreciate the appreciate the time. So we get this get this rolling.
+
+Client 1: Awesome Thanks.
+
+Client 3: Thank you.
+
+Client 2: Take care.
+
+Client 3: Later. Alright. Bye bye.

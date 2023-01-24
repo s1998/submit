@@ -1,0 +1,497 @@
+Host 1: Eighty. How are you doing?
+
+Client 2: A flow.
+
+Host 1: How's going. Can you hear me?
+
+Client 2: Yeah. I can hear you.
+
+Host 1: These things giving week. Are.
+
+Client 2: Yeah. You also. Yeah. I'm doing well. I'm doing well. Is weak. But, yeah, Things are things alright.
+
+Host 1: Yeah. All these all things all less busy as thanksgiving week.
+
+Client 2: What's that?
+
+Host 1: All things move or less busy than usual during thanksgiving.
+
+Client 2: Definitely not less busy know, things maybe start winding out a bit in December. But, I mean, there's enough people that are not winding down to keep you busy, you know.
+
+Host 1: Yes. Okay. Alright. Well, doubly grateful poll time then. Let me make the most of it. Okay. So agenda We've been grinding the hall that we built it in eight weeks and we are onboarding better distance. So right now it's free until we've like, build something magical. Our objective is too, Like my I'm not trying to sell you to anything. I'm on a little and I wanna get select marketing. So I would love if you could give us stuff now. Like, give us feedback. And the feedback like, the bar feedback it's pretty low. Like, I I don't wanna just hear if something I wanna hear if something is not magical. Does that make sense.
+
+Client 2: Yeah.
+
+Host 1: Alright. So holding also direction it's like we started it out and we still do that. We Ai generated Crm suggestions. And that's working. Right? So that's awesome. But then in order to build that, we have to be able to bat The jones of calls And when we did that, we started to show it to our But they told us like, hey, since you haven't a bat deal recording vehicles and transcribing them can I please the recordings? So that's more similar to perhaps familiar with solutions like Sure.
+
+Host 1: Do you do you use it?
+
+Client 2: I've used Gong before I use Chorus before, and then I currently use fire dot i for any transcriptions Oh, it didn't realize that But what do you think on it?
+
+Client 2: It works.
+
+Client 2: I mean, it's much cheaper than Gong and chorus, and we don't use the videos. We just use the audio transcript transcriptions and know, it's good to go reference them if we need something, I can share with any clients that we have. I can turn on video. It's very cheap and then Gong Gong is more useful for, like, identifying like, specific keywords and then it it'll link up the Salesforce, You can manage a pipeline with thin Gong, which is super nice. Chorus is just high quality recording in videos it's really good for, like, sales managers training their employees or like, a a directory it's not right now linking up to Salesforce, like Gong is doing. But we don't need video or Salesforce integrations with our video. So like, that's why the cheap version of fire just works really well for us.
+
+Host 1: Interesting. Awesome. Okay. So... And do you use payoff lights or all your meetings?
+
+Client 2: Every meeting besides like these types of meetings and internal. So, yeah, Basically, they'll it'll join my my demos.
+
+Host 1: Alright? Well, I I as you get Dell i'm also I'm piloting everything out there. So Firefly is grain out and it's supposed still like more more than people in this call.
+
+Client 2: If possible Okay.
+
+Client 2: Some coaches, like, some sales coaches use grain and they like it. They'll be using it for years. But yeah. Cool. I've used... I've used everything.
+
+Host 1: Which is most important to you between scratch pad and fe.
+
+Client 2: They're both important to me because they do different things If you had to pick one, White why?
+
+Client 2: Don't see why they have to choose one because they do completely different things. They don't overlap in any way whatsoever. So I mean but if I had to choose one tool, let's say for budget purposes, it would be stretched Why?
+
+Client 2: Because it's more valuable to manage my pipeline and scratch pad for follow ups and notes. Whereas fire are interested to have Got it.
+
+Host 1: Got it. So that is that last thing of thinking of building since we're building that. So again, we have the thing that sits with you on your meetings. And then we'll we're specialists is that we're using Ai on top of what we feel during your meetings. Step one of using Ai is updating your Crm Step two is helping your next steps. So follow ups you'll summarize and all of that stuff. What what what would you think of that?
+
+Client 2: Yeah. I mean, if it could integrate I'm trying to think where I manage my next steps is in scratch mode, but therefore, it's in sales for. So if you were to integrate know, your next steps based on what you hear in the meetings and put it into, like, a custom object that I that I use in Salesforce, and then it'll... It'll send it to me in my scratch pattern, I can manage, you know, my pipeline and next steps I'm creating notes for them or updating god's. And it could put it in there, so that would it be useful yeah. I'm gonna say, hey, by the way, you mentioned x y z. You know, because I don't ever go to... Just like Scratch, but allows me to never go a Salesforce, you know, I never go to fire flies either. It's only there if I need to share something or get me information, but it could say What fire doesn't do I could say, hey, By the way. Here's some a few talking points. You had in your phone call, here the next steps. I probably could have these notifications to sent to, maybe in fire. But that would be nice to have I don't see a downside to it.
+
+Host 1: Yeah. What what kind of next step do you do? Because I'm wondering whether whether the Ai could not do the next steps for you, but just one step field of doing that. Right? Like, hey. Like, these the next steps like, just is this what you wanna do, Like, click to do?
+
+Client 2: Yeah. Do you want me to strike what my next steps look like?
+
+Host 1: I'd love that. Yeah.
+
+Client 2: Alright. So I don't manage this in fire flies. Right? Here's my scratch pad. And so I just did a demo with latitude two yesterday. And I can update their notes here and and then I sync them to Salesforce. Right? That's all synced to Salesforce here. But if I click on that opportunity for latitude, and I can manage everything. I can manage, you know, the pricing, the steps and then my next steps. So I scheduled our next chat on December first, And I I just did something on the contract that they have. So my next steps Or December first, my next meeting, And then internally, we did actually discuss this on the phone call. It's just for me to say, okay. If they sign this week, blah blah blah. But that's just one example of probably managing my next steps. And then if I go over to, like, cavalry here, And I click on that. My next step for we did not discuss the demo we discussed it, but we didn't schedule anything. So my next step is get that demo then I need a lot the twenty two Two pricing. This is stuff that you wouldn't get in that transcript Maybe it could because we did discuss this you know, so maybe this is stuff that you could transcript What does it deal for you to look in the pricing?
+
+Client 2: They would have to sign by end of year lock in twenty twenty trip pricing Otherwise, our pricing goes up in twenty twenty three.
+
+Host 1: And and and get next demo next week. Is that, like, sending an email with your availability that third stuff?
+
+Client 2: Yes. So I already did. I already sent her a follow email. I didn't mention I mentioned here's the twenty twenty two pricing. I probably did gus our pricing goes up on the phone call, but I did mention that in email again. And so I... My next but literally my next step is not this. This is, like the next action item, but if I go into the task for Clara, And then I go into a task I have for her. An open activity? My Next step is to Follow Already did this. Already followed up i to update this. But my next step would be to just checking with her after, like, say, thanksgiving to So my my next step with Clara as a contact is to follow after thanksgiving. My next step with the opportunity is to get that next demo with her. Which is same thing as Clara. But I'm I'm manage these a bit differently from, like, in when my sales manager looks at the opportunity, they know I have a clear next step. But me When I have a follow of task with Clara, this tells me that I need to follow up with her to get that next demo. Right?
+
+Host 1: And Is there anything that is that is said during the meeting that we the lowest feel but that is the next step.
+
+Client 2: So these are the basic notes I have from the meeting The answer is likely yes. I'm trying to move this thing. So here's some notes that took from our actual meeting This is an important. This is an important This is need to sell...
+
+Client 2: This is what we mentioned with the meeting. As a next step.
+
+Client 2: Got.
+
+Client 2: So that's you know, she did confirm that yes, it could be end of year. I mentioned lock in price thing she mentioned she to sell it this week during her off to our higher ups. So I've sent you some case studies which I also mentioned, you can probably pull out from the transcript. And then this is also discussed. So all of this was discussed and this is the clear next step. So answer the your question, I think that's a yes.
+
+Host 1: So how useful would it be for you? If, like, the Ai was like hey. You said that during the meeting. Do you want, like, drafts the email for you and, like, could something on the books for you next week?
+
+Client 2: So the question is what I want you to direct an emails for me That's right.
+
+Client 2: To put it in the books next week.
+
+Host 1: And like, already ready to be sent, basically to whoever to to to your prospect.
+
+Client 2: I already have that. I mean, mix max does that for me. So let's say if I pulled in Clara here, And I get my templates I have a...
+
+Client 2: Let's say, post demo rep, no agreement. This is my email to her, and I'm gonna modify it. So Let's let me just delete this thing. Already have this email sent that I can modify. In here, I I can modify the date here. I put this in there. It's already mentioning in her company name. Mix next does that for me quite well already.
+
+Host 1: Got it. So so that it wouldn't be useful, basically. Because that's... Okay. Let's so the huge need. Okay. Yeah. Alright. Awesome. Alright. Well, thanks so. Thanks for patience and my questions. Let me send you the link to access sales Ai Can you share your screen and click that link, So I can walk you through the floor.
+
+Client 2: Yeah. In just on that last point, yes, it would be useful if you did this, but it would just be in alternative two mix max. So like, mix me didn't exist, it would be valuable if you provided that. Right?
+
+Host 1: And and would you be better than wheels so the same as big back like Like, we we showed it to you after the meeting. It's pre written it's ready to send.
+
+Client 2: Yeah. Long as it here's email, and I can modify some things. You know, because you give a template, and I can hundred percent. Right. That... That's exactly what Mix max does it would be good if I could go into my email or you show me a thing and I and I click on it, and it automatically puts it in a draft in my gmail because that's what Mix Max does. I can just pull the template and then modify with her name or all the merge tags that I have interesting.
+
+Host 1: So Let me let me show you something else that we're working on, and I'd love to get you back on it. Again, I'm not called brutal illness feedback here, which we had take your by, which is great. Okay. So the idea is that this window here because leads to sidecar gong. Can you see this?
+
+Client 2: Yeah.
+
+Host 1: This would open automatically after your meetings. Right? And so you had meeting with stock industries and it's like, hey, like, all of these green stuff is automatically generated by Ai. Just like, hey. This is what I wanna do do Crm like, are you good with that. You know, you can edit it, you can reject or if it looks good. You can, like, sync it with your salesforce. Basically, the idea is that the same windows, you wouldn't even to go to your Gmail because the same window would show you the email. So, hey. Like, that's the email. I think you should send right now. And you can modify it right here and and send it right away. Is that is that better will the same as if, like, we'd be pre an email your gmail?
+
+Client 2: So if I was able to So yeah. It's it's a good... It's a good email would be good if I could... It was like a snippet or something where I could If I've I clicked the button, and it automatically drafted the email, and it already had their the contacts email in there they had the subject line. They had you know, the merge tags. So if this was a template they used or whatever. I mean, I don't need merge tag if it's already the content in there. But it pulls in their name, The company name all that stuff with the Yeah. Yeah. That would be valuable.
+
+Host 1: Is would be... How would that compare to to mix back in your mind? Whether way sane?
+
+Client 2: So it's almost the same in that when my call done, I take my notes. I transfer my notes from my ready notes into scratch pad. I update my next tasks. I update my next steps with the opportunity then probably I am going into my Gmail And then I copy and paste or email or if if not already in my Gmail just start typing an all copy paste set in there.
+
+Client 2: And then from Gmail, click on the templates, because mix max will go into my Gmail and I click that template, and it automatically populates I can choose to all of the templates that I have. Right? And then I can modify it. So that's my steps. And so if you're saying you know, forget all that stuff here's the template that we think you should be using based on your talking points, it would still walk some things in there like.
+
+Client 2: So maybe this will be good as a snippet.
+
+Client 2: So it's like Here's what you mentioned as next steps go use your mix max template, but be sure to mention this stuff in this what's i. Maybe just like a copy, a copy into my That'd be a good way wait to work with my current process.
+
+Host 1: Alright. Well, great to hear. Awesome. Okay. Let me let me un onboard you to sell the item. Can you share your screen and open that link? Yes.
+
+Client 2: So sales ai when I activate this is gonna join my meetings.
+
+Host 1: That is right.
+
+Client 2: So what this alternative to Mix max? Or I just have it join with... I mean, sorry. It'd being all alternative to fire so I... It we would turn off my Fire for a while just have them both join.
+
+Host 1: That's right. You could you could have both and there is a setting on Zoom so that participants that don't have a video or hidden. So that they don't put it your view. Of you or your right. Of your Okay.
+
+Host 1: Oh, yeah. You got a click note fixing that. This because it's a meeting in the bit. I gotta click on the banks. And Yeah. So that's so that we can see You're just So that's what you gave us access to when you saying that there go.
+
+Host 1: Yeah. Is that... How how do you feel seeing this? Is that, like, too much is that comfortable point?
+
+Client 2: Well... Yeah. I mean, you know, typically allow the I do use where I connect this way, that doesn't show up. And I have tried to use this up with like Google sheets. Add, once well nest stuff will pop up. And I won't implement it because of that because most most software where that doesn't show up.
+
+Host 1: It makes sense interesting...
+
+Client 2: I don't wanna use it.
+
+Client 2: Look now.
+
+Host 1: What hundred percent Love it. Oh, I see. That's pressure. Well, Yeah. So that's for that because you signed up with Google. So we Right? But let me see if there is a way for us not to get the information.
+
+Client 2: Do you want me to... I think you just have to verify what's Google for that to go away in somewhere way, but You want me connect my Salesforce here?
+
+Host 1: Yeah. If you don't mind. So that's so that we can update of sales. Again, we never push any of update with that you'll say so. But yeah.
+
+Client 2: Yeah. And if this does something where it can with something that we're already doing. I can I would just I would just take this off in case something is gonna reflecting I figured out. Right.
+
+Host 1: Yeah. Yep. Again, so gives you very granular controls. Okay. So that's the magic of of what's going on here. So this is the thought where you tell me which fields would you like would you like us to take care of? And I love it if you could walk me through what each of these fields that you going to check means to use. That we can, like, train our Ai on that.
+
+Client 2: So... Sure. So we take care of, you're gonna edit these fields in my Salesforce after a call.
+
+Host 1: Well, we're gonna I'll tell you to do that. But they touch anything with that you're say so but yes.
+
+Client 2: Okay. So you're gonna say can we edit this, and I say yes.
+
+Host 1: Exactly. So next step, for example, it's like, hey. Like, from what we've got from the call, the next step is going to send an email. Is that right? Oh you oh your cool that sending that to your sales?
+
+Client 2: You said send it You said you can send me an email asking?
+
+Host 1: No. We would Yes. So you will receive easily and email or snack which whichever prefer. Think emailing what you would prefer because you told me you you didn't want stuff in Slack. We're gonna I send you like, hey. Like, realized the meeting you just had with bob And these all the updates we think you should make to see right.
+
+Client 2: Mh.
+
+Host 1: Mh. And you can for each suggestion for each field, you can either except edit did or reject Okay.
+
+Host 1: So you're gonna say should this is the change.
+
+Client 2: In so. Yes. And then you automatically populate the change.
+
+Host 1: That's exactly right. Would you be more useful if, like, what I'm getting it right now? Like, if that's up on that screen that you're looking at right now. Like, is that is this missing an explanation here or gonna what fields would you like us to intelligently update.
+
+Client 2: No. I think that that makes sense. I mean, it's good to clarify I mean, that that does make sense I mean, obviously, it's a first time user, I wanna know really what that means. Right, But sales will automatically update the fields. No. That that makes sense.
+
+Host 1: It's feeling like at released should we add something to that screen that goes something like hey, we'll they do that with that you'll say so.
+
+Client 2: Yeah. Say, maybe just add one more line where you know, before making before making these changes, Yeah.
+
+Client 2: We'll put a check in place for something like that. But yeah, That that would should be really helpful. Because that when you s it to me, okay. It... It's a little bit easier from you to say, let's just click next step. Right? Let's just click some things. And.
+
+Client 2: Okay. Stage And then so if I say stage I'm gonna basically train Ai after calls to suggest what it does. I mean, what if I click stage how would that actually Okay. You're gonna have me pick from it.
+
+Host 1: Yeah. So there are two things when you do any time anytime you check any of these, those two things we can do. We can either train the Ai so that they can eat feel from the google conversation, what is the next step? What what is what is what is that field? Like, the value of that field it should be? Oh, we can ignore that field and it's still going to be used because again, you're still received an email with like a web pool. So it's gonna be like an easier way for you to take that field. And we'll just get told the Ai know that field. Like this is for the user to fill up.
+
+Client 2: Yeah. Yeah.
+
+Host 1: Okay. So.
+
+Client 2: Familiar could be... This would have to be This have to be a better process to replace scratch pad. So that that that's at least for me, right, in order to do this because I'm I'm updating this up as a part of my next steps after every demo I do. So the question is would this make that process even better? That's that's for me the question. Right?
+
+Host 1: What... In what way is this falling tool can build strike pattern?
+
+Client 2: I don't know yet because I don't I don't exactly know this is the process place, but Like, when I go into scratch pad here, And then let's say just filled out these notes.
+
+Client 2: This is right after meeting. And I click on calvary I'm updating the next steps right here. Again, i'm already in there taking notes. And, like, I just do one click. I'm updating the next steps. Right?
+
+Host 1: And then here's the stage boom, I'm just updating the stage right here.
+
+Client 2: We take any other information that I need to send internally. And then, like, here's the next steps, the stage is done. My close date is done. I'm gonna go into Clara And if I have to update any information that I have, like, here's her title, let's make a title real quick.
+
+Client 2: Okay. Boom. It's done. And then I need to add her to whatever. Any contact lists, Let's say i need to make a next step with her. So I need to make a follow up getting the next demo bugs. Or I'm gonna create a task, which I already have a a for or I need to let's say.
+
+Client 2: So I just update that due date. Task is done, and it's gonna notify me in my task list here she is. Today followed with Clara. As as a next step, So Scratch pad does a lot of really great stuff for me. And I'm already doing... I already have to write these notes manually because I have to get them off my pad of paper. And I'm already updating all this stuff like very quickly. You know what I mean? So the question is, when I do this, it's gonna send me a thing to update your next step Is it better than what I'm already doing, which is already quite quick. That's the question Right?
+
+Host 1: Totally it that's all I it feedback. Hey let me share my screen with you to show you where that looks like that's going to stop your screen sharing. Well, it's it's... Well I show you earlier, basically, Like, you're gonna be in the meeting one please.
+
+Host 1: Yep. And I difference friends with scratch by then. By the way, I mean, what you showed me is pretty impressive let's that does look like, pretty fast. So it's gonna be helpful for it to be done fields. But will difference with strike values that Those two differences. Number one, we open ourselves up with the medic. I told the meeting. So you don't need to do anything. It's probably not major scratch it's just from you tab on Chrome, but that's that's one thing. Number two, don't even have to type these things. So like, you you... And your meeting you hang up Boom opens. It's like hey, like, this is this is how you should probably feel at these skills. You know changes, basically.
+
+Client 2: I accept it.
+
+Host 1: That's right.
+
+Client 2: Okay. If I don't like it, can I not accept it?
+
+Host 1: Yeah. So you can click this button here you see reject Got it.
+
+Host 1: This is... You just reject it or, you know, it's almost right, but not quite you can edit it.
+
+Client 2: K.
+
+Host 1: What what do you think?
+
+Client 2: Yeah. If it if it suggests good stuff. Then Yeah. And and if it doesn't, I can just edit it. Like I'm already doing.
+
+Client 2: Yeah. Yeah.
+
+Host 1: So how would that come get scratch bad now that you know that you know that I manage everything in scratch pad from, like, tasks and follow ups.
+
+Client 2: It's right my browser I don't gotta open up anything. It's just there with all my other tabs that I've I to you, like, slack and all that stuff. So is really convenient where it is. And then If I've to send them to the Salesforce, it's a really nice integration I can update Yeah. I update, like, the stage or update know a call disposition where hey this call is finished And, you know, or it was canceled. Or was a no show. I update that and then I can updates. Yeah. I mean... It's very similar to scratch mode.
+
+Host 1: I think it that where it sits.
+
+Client 2: Yeah.
+
+Host 1: And and what it doesn't do that scratch does is it it it won't give you access to your pipeline. Not yet. Is that that feels like it's a big deal for you, like, the feature scratch pad.
+
+Client 2: Well, this So this will to.
+
+Client 2: The opportunity And therefore... Let's say I'm doing this a long time scratch pad. I can still go to scratch pad and edit my pipeline. Based on the changes it made here. So it it could circle back For sure, that is a huge advantage using scratch pad where I can visibly look at my pipeline. Yep. This would be Yeah. This would just be another way to make the updates that I'm doing, like post call. Which is exactly what sales is for.
+
+Host 1: Me open minded again. We we we... Our goal is to is to block away. It's like, anything we need to do to do that, you know, including this pipeline you. I think that's we'll probably in the building that I view frankly. Okay. Can you show your train again and and let's go back to the fields. Okay. So next step, that's probably one that we wanna ignore. So I mean, you could check it. No. Next actually that is one we can do, but next stage of current stage. I think it should also check it, but we should, like, I I... I'm going to tell the Ai ignore this one, because that's that's really something the ai came the call.
+
+Client 2: I like the probability one. That is a good one amount I mean, all these would be nice if if you put it in there based on what I said. Right? Because This is a manual task that I hate to do.
+
+Host 1: Yeah.
+
+Client 2: So you're seeing if I say The thing is, I could say, our ranges five to fifteen thousand dollars annually. What are you gonna put in the amount here?
+
+Host 1: Right I what the Ai is going to do today, I don't snow But we can we can make it do anything. So what what would you want need to do? If you said five to fifteen.
+
+Client 2: That... This is kind of like I don't always have to update the amount afterwards. But it's almost like, okay. I said five to fifteen k. They said, okay. We're looking at these features. And I said, okay. We don't discuss the amount. But I know what when they're looking at. So it'd probably pretty tough one to put in there. You know? You might have to read my mind once some while, but If I said our range is five to fifteen k, and we don't say I'm thinking ten k or something if we don't say that, just put in the top. Always put in the top range. Right? Put in the maximum number. I can always you know, back out of it.
+
+Host 1: Okay. So I mean, that's exactly the the kind of that I love and wanna get now because that's trivial for us to like tell the Ai to do that So within the next month. Okay.
+
+Client 2: You said stage, definitely pick that one.
+
+Host 1: Yeah. Well, because I assume you you update this one. I just gonna the Ai to ignore, but I don't think it will be able to know from the call where the stages amount, you to take the maximum if there is a range, probably same i'm gonna you to ignore I don't think it can. You can know Next step is really good at.
+
+Client 2: Oh let's do But I I I wanted to set it with good and useful for you.
+
+Host 1: For, summary, I've done really really with bad too.
+
+Client 2: Where is this summary? I don't Don't update a summary.
+
+Host 1: It's it's a field of social. Of description made to summarize the goal. Be like, oh, like Lee Bug doctor x Y z. This guy had concerns and again in a week Can you show me where that is in Salesforce?
+
+Host 1: Yeah.
+
+Client 2: Because I'm not... It's just not a field I I typically use. Right?
+
+Host 1: Good to when is this? Oh, there's some notes. If you go to opportunity, Do you wanna go to the...
+
+Client 2: The opportunity send?
+
+Host 1: Yeah. Yeah. And go to Yeah. Description. That's the one. For you. So in that summary description.
+
+Client 2: Oh, oh, oh, right here.
+
+Host 1: Yeah. That's the one.
+
+Client 2: So this is typically a description of the lead. So if I say our lead came from outbound. Or a lead came from inbound. It's an empty well, and she tells me, oh, I got referred from Where did she get referred from? She got from B platform So that's that's what I put in the description here. Is the lead source. It's that's the only thing that we do with description.
+
+Host 1: And is that something that's said during the meeting?
+
+Client 2: It is It is And and what kind of question do you ask that leads to that serving being office?
+
+Client 2: Where did you hear about Orbit?
+
+Host 1: Okay. Alright.
+
+Client 2: And I know it it might not align with the other just transcription that other companies use says great We can we can take of The ai to company to user start the company.
+
+Host 1: So, yep.
+
+Client 2: Okay.
+
+Host 1: We go that into the the fields.
+
+Client 2: Yep. So do you want wanna to keep june turn that one on.
+
+Host 1: Yeah. Was. Yeah.
+
+Client 2: Okay. Anything else that would make sense...
+
+Host 1: To you, any fields that you'd update we can help you with. What's what's this one?
+
+Client 2: Community type So one thing that's super useful told me here is the kind of question that you that leads to this so the kind of context which it pops up during the conversation.
+
+Client 2: Sure. So Yeah. It's... I mean, it depends. It's, like it's like things that I mentioned, Like, So our our type is the type of customer And there's way too many in here. I don't even know why there's so many in here, but it's like How many portfolio companies do you have or investors That tells me it's a Vc portfolio. That tells the Ai I'm talking to a B portfolio. Or if it's a paid community, like, how many paid members do you have? And, okay, you know it's a paid private community. Or if I say the word customer community then it is an enterprise company Those are usually the only ones that we do or a customer community. Yeah. I would say these three Or probably lose video. Or if I say, are you a nonprofit and this nonprofit then it goes in here. That's these other ones I I just don't often do.
+
+Host 1: Okay. That's.
+
+Host 1: Yeah. Alright?
+
+Client 2: Yep. What else deal risks, pricing here, I update, but I don't think that's gonna be relevant. Opt date That's all post. Yeah. Those are probably the main ones that for now would be good to test these other ones are Yeah. Afterwards. Alright. So save changes.
+
+Host 1: Yep. Go ahead. Optional. You might not wanna do this because you told me you to keep the wavelength back. It's up to you. I recommend doing it. I think it's better below the email. So when I showed you this just like think that the next to your meeting that's available next week. Until then, we show we send you a slack notification where see our was already applicable.
+
+Client 2: Like I connect Slack, it creates a new app inside Slack, it'll... It'll tell me that new app or something.
+
+Host 1: That's right.
+
+Client 2: Yeah. Sure. Let's do it. I mean, if it's good to check that out.
+
+Host 1: If you don't... If you don't do it, then we send you an email, but it's you. Yeah. You don't have to do this if you don't have team in meetings. Up to you, yeah. You know how to do this just yet. We can Alright. We recommend the app so that that thing that it just showed you pops up. After I you meeting. That's a better thing that's slack basically.
+
+Client 2: Alright. Is there is it like a chrome extension that In is it always something I downloaded to my desktop?
+
+Host 1: It's it's a thing you done not to desktop. Okay. What do you think of that?
+
+Client 2: I I mean, I like chrome extensions, so I don't have to download anything. It'll just add it to my chrome, and it I don't gotta worry about this situation But I'm fine with it. Like, I do here know a vid video is good. They have a chrome extension, but they also asked to download if you want to same with Zoom. I don't have to do this stuff. But I do it Yeah.
+
+Host 1: There reason why it can be a pro extension is that the C extension wouldn't be able to plug itself a zoom meeting. Right. Will only be able to plug itself into google meet meeting because Zoom is outside of Chrome.
+
+Client 2: Okay. So fire flies, I do have chrome. I don't I don't went adam Chrome and I don't have a desktop. So fire flies is going into my Zoom without anything Yes.
+
+Host 1: We can also do that because we wouldn't be able to up the site after you meeting.
+
+Client 2: Okay.
+
+Host 1: The thing I'm not using was that this this thing is six hundred and seventy megs. It's it... I I it's not good, well, we're gonna make it a lot later.
+
+Client 2: Yeah. It's taking quite a long time.
+
+Host 1: It's taking a long time.
+
+Client 2: So i think the the only thing that I'm not gonna like is that it's on my desktop. You know, rather than, like, Scratch pad is just in my browser here. So it's nice. You know, I can just navigate a different things because thing.
+
+Client 2: That it's on my desktop. You know, it's just... It's just in my desktop versus browser. That's it.
+
+Host 1: And so that's super useful for feedback. The thing is that when we are in know, desktop stuff, we can do so much more I feel like a bit experience. So it's a little bit more like an upfront gust it's a one time thing, but then it's just a better experience that. What that is it real fit for you? So for example all, the kind of better experience is like site that pops up we can do a virtual stack basically.
+
+Client 2: The question is Is it a better experience in my desktop versus the browser?
+
+Host 1: It is. Yeah. Like, again, the site call point something we can't do in your browser. Popping up this thing automatically meeting. Just go do that in your browser.
+
+Client 2: Okay. Right. I mean, it would be better my browser.
+
+Host 1: Okay. Is used feedback.
+
+Client 2: I mean, I've zoom here Right? In Zoom, I never open it. You know, because I don't need to open on my desktop. Although I can if I want to. Right? And Zoom probably likes that I have this my desktop, because it improves the experiences in some way, but I mean, I never open it. And it and it does its thing without me needing to open it. So, like, which is not part of how manage apps typically. But that's okay. Like my notes, I'm always opening my notes So it's not like I'm ave verse tour using new screens on my desktop.
+
+Host 1: Yep. Know it will work without desktop lab. But it's it's it's a better experience with it. That the second step.
+
+Client 2: I'm.
+
+Host 1: Scope You... Yeah. I just sent an email to the engineers like, this shouldn't be. Six hundred megs. Those are wheel, it's like, fifty megs. Was create again so I see what the the install process with like It says my screen sharing k.
+
+Host 1: You're just sharing you browser. So I can't see the rest. Like I can't see what's a bank. Okay.
+
+Client 2: I just get. And then I guess what's what's next to open this?
+
+Host 1: Open Yeah. Oh, okay. So then open out. Oh wow. Okay. This is not good What kind of compute deal do you have?
+
+Client 2: I have a Mac.
+
+Host 1: Is it an m one mac?
+
+Client 2: An m one Can you click on the Apple menu and do build this back?
+
+Host 1: It. Okay. So you can you can close these and you get up a or a sixty four the Dm.
+
+Client 2: This one.
+
+Host 1: Yep. So this is why it's seven hundred next. Okay. Yeah, then you can just paste this here.
+
+Host 1: I think that's good. No you can click, you know, there go. You can also checked it because I eject button next two locations at the bottom. On the left here.
+
+Client 2: Go okay.
+
+Host 1: Yeah. If you hear oh.
+
+Host 1: Yeah. Okay. And now if you go to your applications, You can open Until. Yep. That's the one on the left here.
+
+Client 2: It like it's opening in not my chrome.
+
+Host 1: Yeah. Because it's Interesting. Yeah. Yeah. You you should just buy till for this navigation there is a way to make it your chrome.
+
+Client 2: K. Interesting.
+
+Host 1: Alright. You can close it. That's good to go. So from there on, Sales a ai will Join your meetings. And suggest Crm suggestions, Crm dates. And starting from next week pull at the side to so. Until then it is going to send you slack notifications.
+
+Client 2: Okay. So it's gonna it's gonna join my meetings Where where can...
+
+Client 2: Where's that setting in Zoom where I can, like, hide these these note takers. You said there was a way.
+
+Host 1: Do you wanna say a screen to you?
+
+Client 2: Yeah. Let's let's do that.
+
+Host 1: sharing up chrome.
+
+Client 2: How can I I just share my screen.
+
+Host 1: Yeah. So if you open zoom, and then you go to Zoom that Us and. In the top left. Top.
+
+Host 1: Alright. Yeah. High.
+
+Host 1: Some preferences.
+
+Host 1: See it. Video. The left, I think you can hide non video participants.
+
+Host 1: Also recommend I'll know that hu yeah always hides the sales because otherwise i two polish all like, check i myself out.
+
+Host 1: High sylvia you. That's... Yep. I mean, this one's up to you. I just... I I find you tracking to do it myself during meetings.
+
+Client 2: Interesting thing. That's good to know I can do that. I've never got any settings so I'll have to...
+
+Host 1: I also recommend... I mean, there like an Hd d seeing here so that you can send it an eight train to people. It's it's gonna reduce your battery life, but it is it is better.
+
+Client 2: Okay.
+
+Host 1: Alright? Well, Thanks a lot. Yeah. I mean, feel free. Do I find you on Slack what's the best way for us to to be the email or slack?
+
+Client 2: I am a I don't know if I'm in the the the.
+
+Host 1: I I see you here.
+
+Client 2: I mean?
+
+Host 1: Yeah. You're in you nice slack. I mean, I can... Whatever is best for you. Like.
+
+Client 2: Hailey up in Slack.
+
+Host 1: Alright. So is easier.
+
+Client 2: That works.
+
+Client 2: Check out up the Slack notifications. I will try this thing with my next meeting. Hopefully nothing goes wrong in it. If some... I can always Can I toggle it on and off if I want to? Or whatever you wanna talking on.
+
+Host 1: If you go to app dot sylvia ai dot com does a setting, and you can ask it to stop joining your meetings.
+
+Client 2: Ai dot com.
+
+Host 1: But Frankly, I mean, it's not the affect it's a bit of it. Nothing will go so wrong. You will wanna to tell you that. Like, the worst case, the real thing that can happen is like, it will make crappy suggestions and you just want to play them.
+
+Client 2: Okay. I'm sure nothing will go wrong. I mean, if something we're like, I... you know, I don't want to join a meeting. Where do I tell it not to?
+
+Host 1: Right you? Got... Yeah. You remove them. You click on the trash next to Google calendar. And to do it.
+
+Client 2: I see so I have to trash everything. I can't, like, choose meetings you would only do that?
+
+Client 2: So Fire allows me to do that. It's like a little toggle button.
+
+Host 1: And I already any any meeting that's my own domain And it will automatically not join and then it'll it'll toggle it on and off.
+
+Client 2: So that would be amazing. You know, it's like, Like, I don't want to join this blog podcast. It's internal it's not a sales meeting. It's an internal meeting So we know and you know when Fire because you're using it. Right?
+
+Host 1: That let's see where it toggle this stuff On know.
+
+Client 2: You can go in there and check okay. I'm verifying that's it's not gonna join this meeting.
+
+Host 1: So it does join on the External meetings Can you realize we got a points that out somehow? And we should let you like don't. Any specific meeting.
+
+Client 2: Yeah. Like, I don't know what i fire flies. But you you were using Fire, but look in my meeting?
+
+Host 1: I that to it, but I never already.
+
+Client 2: Okay. It's gonna join my June meeting, but it's automatically not joining these internal meetings, but I can toggle on if I wanted to take notes on that meeting, but I don't. So I'm gonna turn that off, but it's still joining my client meeting today.
+
+Host 1: Alright. That is super useful.
+
+Host 1: Super all do the same. Awesome. Alright, Lee. Like I said, so I'm I'm eager to heal That if it doesn't work all if it doesn't bring you in a video, very deal to feel about it and and, like why you using that is I will let you know I'm I I think I'm already giving you feedback.
+
+Client 2: I'd like, think the product's is great. I wanna help you out. Right? So I'll you is slack is as anything comes up I appreciate it.
+
+Host 1: I also wanna make it right but you... By the way, no other fine I'll just be super a faster but like, what's needs for you? Pre to the product full three, six months as long as it takes for to become magical. You know, the ability to shape the product and, you know, kind of put those conversations. You know, like, you access to a team that's, you know, built in field.
+
+Client 2: Yeah. No. Those are those are great. I mean, that's all that's always helpful.
+
+Host 1: Awesome Alright. Well, thanks.
+
+Client 2: Yeah.
+
+Host 1: I.
+
+Client 2:

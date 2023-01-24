@@ -1,0 +1,575 @@
+Client 2: Last time.
+
+Client 2: Yep.
+
+Host 1: Point.
+
+Client 2: Yeah.
+
+Host 1: That way, it's starts...
+
+Host 1: It'll that.
+
+Client 2: Gotcha. But when we think about reporting too, right, like, I think, we get super complex and super fast. Especially when we're thinking about these really large carriers like an American Delta united Right? It's not simple it's hard. It's complex. It's super detailed, and we've gotta go, like super deep. Surface level data is nice to have for especially a smaller suppliers we've gotta go a lot deeper and I think that's where we're challenged because we're we're constantly having to look at so many different data sources to try and under performing especially in some of those more complex contracts.
+
+Client 3: So right know what what is the data sources you guys use?
+
+Client 3: Like, get all these different elements on.
+
+Client 2: Primarily, we use our So their agency Tool is what we primarily use in the Us. We do supplement that with our own data. We've got our own proprietary, let's say dashboard. That we have, which we track all of our let's say bookings. Right? So we do we use that, but I will tell you that that was built more for client placing. Right? So clients are using this data and this dashboard to look at their performance. Not exactly built originally as a company. We didn't build up for airline performance. And so it is challenging for us to use at tags, and so that's why we supplement that with someone like arc has an agency Tool where we can see it rolled up at the airline level.
+
+Client 3: Right. Okay. Cool. And and how many your themes Stacey for the Cases?
+
+Client 4: We have I'm a rather small, but robust team. So it's growing So I'm... Yeah. My robust. I'm looking to hire two additional analysts in twenty twenty three, I currently have three under my agreement remit right now.
+
+Client 3: Okay.
+
+Client 2: Gotcha.
+
+Client 3: Cool.
+
+Client 2: So I think we went give you guys two little background from analyst perspective. I think we went from probably a dozen analysts prep pandemic. To three. Now trying to get it back up to five.
+
+Client 2: I'm sure you've seen that across the board. We have a lot of analysts. We do not we do not intend to hire back a dozen people. And so for us, we have to be a lot smarter. We can't just throw bodies at the problem. We've gotta find ways that we can solve for it using technology.
+
+Client 3: Perfect. This was great inside because, you know, one of the one of the big challenges that everyone's having is resources? Not just, you know, not just a scale of upon but finding the right people i'm sure you guys have the same neither.
+
+Client 4: But they're not applying a Bc right now.
+
+Client 2: If you know anybody, if anybody on your team is looking for a job, calls.
+
+Client 2: Please.
+
+Client 3: It's funny. You also. Right? Any country we talk to at the moment is the same. Like where are the people? It's like, you know, the... What is that that movie where snapped in the population disappeared it's model Yeah.
+
+Client 3: So we we wanna definitely sort of change that focus there. It's working smarter, no matter. And whether year three zero five, we, you know, we wanna wait make sure that you comfortable where you can hit that level of information and the requirements that you get. Because all the noise, oh the the the grunt... The data crunching from our side is done, So so our our endpoint is handing you finished reports and and datasets then you can then use to sort of query may need to go map map forward. So your should not really be crunching data if this those will data, But of eighty percent data twenty percent advisory, it should be adviser where they're actually telling you guys hey, at this here's an opportunity here's a problem. There's what we should look into know, And I think that that transition that is happening now, as to where it should go especially. I don't know if you guys are finding the same thing. Think the last few months in the last time years that... I mean, there were no contracts contract with the airlines, but suddenly is a flood because they've been sort of rolling over quarterly or three monthly contracts. Right? Now they're giving Anyone's like oh, let's get a context complex. Yeah. Right. It's fits sweet me.
+
+Client 3: Yeah.
+
+Client 2: It doesn't feel like a bug christmas on our. I know by the way.
+
+Client 3: Crazy, but no. The airline airlines are just going bang. And everyone's getting these contracts and we... I know our team's been getting ping others saying, hey, get all these contract. So we have been working in the market for a long time in different markets all over the world for a long time. We understand the challenges around it. And we also know how to deal with So our system has got everything in there it should be able to be pulled out and and used. So I don't actually focus on three main areas. One is, of course the context and send, I'll I'll talk about that. But then the challenge around your data points start with that data, you know, how do you say... How we can consolidate where it comes from how you can use it your list and also globally if you wanna scale that. And then the last point around don't know if you sort of interested in customer analytics and customer information or insights at a customer level. So I'll focus on these three areas. If you have anything else, Please keep free let me know if you want me to focus on and and please keep jumping in and it been longer day end, but Please make it interactive.
+
+Client 2: I.
+
+Client 3: I'm not shy.
+
+Client 3: If you can't tell.
+
+Client 4: So I have a question and maybe you covered this on the last call that you on I read But what is your data source? So where do you get all of this data that you are consolidating crunching making lovely for us to potentially utilize Yeah.
+
+Client 3: So there are three data options with the primary one. And I think for Bc, this is more appropriate is using for the Us market, the audio plus funds. I don't if you get the audio plus files. I know you're using the art tool. That's... That's a little bit different understand what it tells and when it doesn't. We use the aria plus five? And then for non Us markets, globally we used the Bs file. Okay. I'm sure you... Bc something with has these files probably We came over of them.
+
+Client 2: Because we dashboard and we're...
+
+Client 2: Yeah. I think we have explored. Right, and I think this is why this conversation that is important for us to have is we've explored, do we consolidate that ourselves? Right. Right now, it's all piece milled. Right? We've got rest of world uses one thing. We use ours. We've got our own Apis we've got, you know, Do we consolidate all of that and build it? And put developers towards it. Do we buy? Always write builder by Yep.
+
+Client 3: Well, couldn't this we already built it.
+
+Client 3: So i and I'll show you in a second. So that that data set is using the E Aria plus and then the Bs p hot files. And with, we have account like, we have several customers in the Us so they will once you sign the pivot, we already start, like, they'll set they've got and they'll transfer the files to us. So you don't have to do anything. With ninety five percent of our customers in the other markets i'll outside the Us, they have given us access to B link. So the hot files get generated on B link. So when it's kind, next aware, we can go... Our team goes in and full set down and processes the data. So once you set it up, it's literally no touch know you know, it just happens in the background adi team pulls it out. Unless... You know, you you decide know you want sort manually and you send it to us by F ftp. That's fine well. Okay. But that's how we pull the data. I I think that's where when we use other if you don't wanna use these sources, we can go to other, like, G and understand, but this is the most clean. And And the reason you prefer the drc and the Bs dies because it's gone all the refunds coming through Ac and, idioms exchange, and for Nd c most airlines are settling, on Ps or. So we're picking up that as well. There is a bit of an exception with some markets in some airlines, google settle on the Rc. But it's not a huge volume at this stage. I don't know. This are all up years or nd seating thing. I mean that's another to our conversation as well.
+
+Client 4: Late day for that.
+
+Client 2: Because it's so small. I think we park that for now. And we would have figure how we get that.
+
+Client 3: Yeah. The the line is not strong enough there.
+
+Client 3: That's right we need vodka for that conversation.
+
+Client 3: Hey. That's what we edited it from that meeting recording.
+
+Client 3: Alright. So what i do is i'll I'll jump in and show you guys let's... I I wanna start show you the screen and what it looks like but we So can we look at how that information can be shared as well? So should come up with with my login screen. Mh. Okay. So basically, logging is very simple your email address in your password and you hit log in. Now depending on access level, and this is where you can sort of see... And just got using in other countries. But every on a say location can be processing access And the level of access can change. So if you have for example, people within a single country or you have, for example, people in in pacific, who just need pacific markets, then they like is only that. So you can decide what access you wanna give to different people in your team? And if you... Of course, you guys called the short so he may have all countries as well. Where the information is escalated globally and you can you that in a single currency Think is converted into Usd or which can we kinda see profile and we can sort of see that as well. So you have both and start off here with the Australian being a home market of course. And and get into that and I'll show you what it looks side. So we have I mean, it's been built only number we there's a lot of information pretty. But everything is preset dashboard supports graph. This is all been many options jump, and you can get into the details here. So so in terms of data access, you can go back into historic data, I think E there's no limits in terms of half a backlog hugo go. So A lot of our customers and newer ones have been asking for information from twenty nineteen onwards or just to play that baseline, because as you can see, I mean, this this dashboard with gives you not just ticket revenue and number of passengers but our system goes through as a pro engine. So it takes a every coupon and flags the floor revenue you dates, see the flow menu estimates in terms of dates and the loan segments count in there as well. So if there are for example using, Data refunds exchange tickets. They go back in there so of rem rev the systems line every week when you get the file. We process it so that the original refund tickets somewhere out the phone revenue, if that exchange gets to re process those and put them in the right travel dates and travel buckets. And and we can present that that. To to center give you fair idea of the dinosaurs sources in How is sort using it? And how are we gonna present it? Any specific questions that's in aggregate.
+
+Client 4: So in other words, we send you a list of our ia or Wells, and that is then what we see here in aggregate.
+
+Client 3: Yeah. So you can dive write down. Right? And I'll show you that as well so actual language jump in this one. So if I go to slow revenue, graph. Say you've got graphs and got reports for everything. So this is totally regrets. Every report all your item members are map here, but you can still link it back to your line of business. So you can have your... Do you have a retail ring at all?
+
+Client 2: How it's only Okay.
+
+Client 3: But if you have different divisions, I don't know if you have, like, a marine there is and some sorry you Okay.
+
+Client 3: So are they grouping item numbers like that? As divisions. It's mixed it's mixed all over the plates, but I I I would say that we probably...
+
+Client 2: If we wanted to, we could group them. I mean, we usually have like, a odd per client because we have such clients.
+
+Client 2: So wanted to... There are some that for the Sm market that we kind of group together, for the most part all of our large corporates have it their own.
+
+Client 2: Okay. That was we wanted to.
+
+Client 3: Okay. So you can list, you know, call candidate.
+
+Client 2: Which would be interesting by the way for us.
+
+Client 2: Yeah. That we don't have to make Okay.
+
+Client 3: And then show you you can actually go into the details per customer and they don't have individual id number. And how you can pull that information on. So that's... You can just click... So you can say, I just wanna look at this category or I wanna look at you know, so like just filter it to that or you wanna sort of look at an individual I number performance and data.
+
+Client 4: How often... Sorry. How often does it get updated? So if we wanted to run weekly ports. Is that possible?
+
+Client 3: Or is it more monthly?
+
+Client 3: It's updated weekly. Okay. So thinking if there's any accept... I think every market is It's weekly Vs everywhere, E is weekly well. Quickly as well. Yes. I don't know if there's any mark left anymore that do I don't think it's not So we were looking at weekly trendy, we would be able to pull this right, as assuming mean that...
+
+Client 4: Just the time of the Bs arc update.
+
+Client 3: Yeah. So so the data here in the pre reports, are monthly presented.
+
+Client 3: Then. Okay. Then you you have the ability to pull it out on a weekly basis. Again, I'll show you that Again.
+
+Client 4: Sorry. Not trying to get into the weeds. Just curious if there was a way to filter.
+
+Client 3: That's okay. I'm just showing you this, for example, so this is just cutting away to this transaction report area, for example, where you have coupon this thing or ticket thing. So this is the ability for you to pull out every we coupon every transaction you can put in your details names, pull out you know, for particular item number iv i remember. Some some elements are there and with others you can sort of click and and create the details and you can pull it out. So what then happens is you're able to... There's a download option here. Once it's ready, you'll be able to download it. And then this is what you look like. So this is a coupon listing thing so it's gone through every pretty much everything it so you can see the twice, but that's that's a a pro coupon. So it show the the ticket number the P that not... The... Not just the ticket carrier you also have the market and credit carrier. And then it'll give you the transaction type tool codes if any fay databases It will flag if this is an exchange ticket get with the x or if it was... This is... There's an original ticket it's been exchanged for something. And so there's an exchange to get related to this ticket. So shows you the related ticket number. The the the related ticket number, your flight number i be so map a lot of airlines with there rb ability to the cabin. So you have the cabin class as well. Then the flight date, the flight origin destination, And then all the the related values for that and it says just fair because if it's for example, you know, if it's next change the, it's refunded to wherever sort values those zeros are because it's been taken out. So we have that level of detail you can jump into and pulled out. So this is something you can use because you can they trains your few queries here and pull out those based on because you might have very complex requirements. Right? You might have I wanna see data issue from the last six weeks but the flight they needs to be from, you know, phone putting little week or whatever. So you can do any of those then you're can payment tools or whatever.
+
+Client 2: On the collapse of service, are you getting that from Arc or you Do not.
+
+Client 2: Yourselves.
+
+Client 3: No. It's the class Ib You be happy?
+
+Client 2: Yeah.
+
+Client 3: From the source data from E and and B. But we are mapping the cannon economy versus Yeah.
+
+Client 3: Which is not always... It's not the easiest thing to do for us. We updated quarterly and things can change but more of less gives you a pretty good idea. Because everything built here is to help you drive an advantage for the airlines. So firstly, I guarantee you go airline will have this information like that as quick as you do. The second is is the depth of information you can go into. For example. Me just take this one. I'm sorry. Have graph. Right? So say you're sitting with Emirates. And you wanna have a Chat with emirates and say when sort of doing on that airline.
+
+Client 2: So do wanna have a chat with Them?
+
+Client 2: Right.
+
+Client 3: And then you go in and say, hey, It's look at what we're doing on business class. On you guys. And then with from two clicks, you have the business class revenue, and then you can say we can also show you the number of passengers so have the yield information that you're served checking. And then clicking that gives you the breakdown by How. So you can say, hey, Look we're sending a lot of old fashioned icloud with none of these. And hey, I want a special fare. And then we can give you a high yield on your C and j. Right? So depends how we use information and this is where again, going back to our original discussion about having you analyst So be the the story tenants to tell you where the information is we... I mean, what is very common and I don't know how you tracking at the moment because I know with They are saying, they're giving you the data and a level. There's no. There's no market. There's no. Correct.
+
+Client 4: There's plated and operated. Right?
+
+Client 3: But but it's not sort of pro every sector. Is it Is that what?
+
+Client 4: Sorry.
+
+Client 3: It's not pro each coupon. Is it?
+
+Client 4: Ticket the only.
+
+Client 2: Yeah.
+
+Client 3: Right. And and that's where this is an advantage speakers because what it does it is the ability for you to drill down at the market level. And then if you want sort of restricted to, which is you the middle is is American Airlines. Yeah. But the the flight number is someone else. So you can actually have those options here. So we do the combination of them to say I want was ticket, American but flown on Qatar.
+
+Client 3: Exactly. So let's say wanna see kronos marketed is k Right? So Emirates marketed and then you can drill down any screen say, wanna see Qantas operated. any combination. Right? Very quickly. So that gives you the advantage of being able to sort of look at actual slow revenue because of the numbers that the airline airlines presenting is different to what you're getting Firstly, they'll always say That's not operated by us. So. It's so unlocked you don't know. So it's our metal. So in the contract where you because those in them. But we sort of have that mapping then you can quickly put that together and say, hey, hang on seconds. This is ten numbers. That make sense because we've actually drilled it down that. So you are able to drill and that very quickly. And you can analyze things and and I'll jump a little bit few don't mind just bear with me. This area here Of course year top three, you will find No problem. Or top ten fifteen ten. But always surprises people when we first funded recordings many other airlines are getting there? They're cut with without under the... It's under the radar, because you ticket on the american express. So you take it in on United. Lu fans getting a lot of update revenue or single bay airlines is getting a little revenue because of their, you know, style lines to know go changing and and there's so much revenue leakage that you're not getting paid on. Where just approaching those airlines and just showing hey two million dollars you know, or ten million dollars last year. Bang. That opens a contract straight away. Is that's... I don't know how you guys approach that, but this is the first payoff, like, really, really easy. You know, and different markets will have different carriers of course. But There are a lot of airlines that are presented by Gsa was so much under the radar and there's revenue going there. You can pick it up the reason. You know So maybe let with two hundred contacts.
+
+Client 2: Yeah we don't have a lot of visibility into this, I think outside of frankly what the carriers tell us.
+
+Client 2: Like I think we have the data, I think it is very challenging for us to get to. There's an easy way for us to get to it today.
+
+Client 3: I think everybody is in that board. Right. And and the issue there in also alone. I mean, where do you... Which one is the approach and we you done not just with the visibility because you just you're relying on them. But then here's the cash to to the onus is always on T or the agency to go to the airline and asked for the pump. Know exceeding I think.
+
+Client 2: Of course, why would they pay for some if that might be why and nobody's asking for money.
+
+Client 3: So this this is a bit of flank everything that you do when you look at the the a carrier or a cabin or which which phone is going to which market carrie. Again, just quickly click click and give you that, and then you can drill down the transaction retail that you need to...
+
+Client 2: How do you calculate flow revenue?
+
+Client 3: So we're using two methods. The first one is be using the back calculation box. So it's going... Which is which was a very long project for us because it's not very simple to do because the data that comes from the fact.
+
+Client 3: Varies by G by market by. I'd be were able to sort of our engineers able to pull that information now in passes. So that we have over about ninety same plus of the tickets being pro using that and a combination of mileage straight program. So it's a combination ninety percent would be on on the fake construction logs and then mileage.
+
+Client 2: And what's in that box? Like what data comes across there?
+
+Client 3: In that box, it sort of breaks it down by sector the search surcharge in the mileage of the applied the turnaround and and the and the plus plus or I and ended The reason that is a very potent and source of information is you could have earlier, we didn't have that couple of years ago.
+
+Client 3: We would use mileage primary primarily for pro preparation. Right? But let's say you have New York sector. Outbound is in is in kilo class and return is in Class. So what used to happen is using managed to sort of prod it equally, even though we had different travel. But now with the instruction notes. We actually know that, let's say, hotel plus is higher value see know, it's sixty percent of the value could ticket And the kilo hormone outbound is forty percent. So you we can connect she waited correctly as the airline airlines zoom as to what the value would be on that return sector and we are differently. To create some more high accurate of level of pro exploration menu measure that remedy.
+
+Client 2: What about taxes, search surcharge You have that slow way to break that out if we need to Oh, yeah.
+
+Client 3: Yeah. So every every report turns out of the box and graph got the Y wire, of course. Wants to another the white ui and the other taxes, but If you wanna get the detailed taxes, you can go into the transaction level what's pull And we can actually can specify which taxes you want as well.
+
+Client 3: I think if you say put here, oh, I wanna see this your text. Yeah. Then it will sort of show you the your text. So multiple tax tools you wanna put. Different ones here. About. You can keep adding and it can pull that down in a transaction order. So I mean, I mean, the depth is very, very high very quickly and. I mean, you can go right down do something like this.
+
+Client 3: You can pull and it, you know, take image, and you can query every ticket So you you have full control in terms of what level of depth you wanna go into to interview. No problem.
+
+Client 2: And you show me scenario not physically, you don't have to show me make but if you do that Great. But can you tell me on a carrier whatever we can call it whoever emirates. Which fairs were a Bc fair, special fair, commission bliss commissioner fair. Kinda. There's a special tour code that's usually attached to it. Can you show me if all of the bookings that were made using that commission code or tour code and associated revenue. Does that make sense? Like Yeah So I mean now what you're trying to get at is a commission of a percentage of that Great.
+
+Client 4: Is that year? Okay. Yeah.
+
+Client 3: So there are multiple ways of doing it One is using the contact model in setting it up once in forever. And then it just keeps coming up. And you're gonna have to keep billing The other one could be there for example for... Let me go into something like this. Where you have a pivot report You wanna create a pivot data form And that pivot report is has the ability to give you the slow destination based? Say you're creating a new one. We don't want number of passengers if you wanna weekly you can have, but let's it's only revenue, we want to have that on emirates. U. And you want the tool code. So either you gonna upload a file or you can say, two or whatever it is that you wanna put in there. You can add that in. Or you can put some things with so you had special special family Bc d starting in there or some the middle it's basically, whatever it is. Right? Mh. You can add my cards and create this. So once... And you can select all the different elements it could be for based on the whole group, or you might say... Oh, it's only uncertain item numbers. Not all the item numbers. We want tax, no tax, And then you wanna have departure because you I don't know your conditions where have special specific commissions on patient departure and return dates and all that. So you could sort of pulling in everything from departing from feb is gonna attract that to being of March I don't know what they simple in there. Let's say. That. And then I will see the ten dates and So You select that and then you choose other the people use you go give that information too. Say run the report once it's done, you are able to go in and you can pull down that information including tool code and fairy details anything. In here. And I got something and it sort of shows you You have commission.
+
+Client 2: Amount?
+
+Client 3: Yep. It's. In pretty much everything. So the go that's the commission. So we built that and I just pulled out around one thing and then you can pivot it it and you can look in information have we pulled out by tool code or whatever, so i didn't have a tool code in there in the data. Or demo data, but it's there. So you can pull that. Problem. So that's one area. Then there's is a transaction report where you can pull that information tele is the funding on you. Which is a set and forget stuff as well, which is preset reports. So you learn data. So if you don't mind jump into this for a moment, So we with with the contract module, and I'll come back to that in the moment. But let me just jump into Is it? Yeah this Let's see it agreement with Qatar. I just pulled that up because they've got some of the craziest. I losing in that contract. And do like, what? Doesn't there a really good mind know these things for Is incentive or dis intended for?
+
+Client 3: You can we an app and some sometimes.
+
+Client 3: But we we noticed that some of the elements that come through. And what I'm showing you is one of the reporting of this have. I don't know if keith in my. Cover that would be also have reporting service, maybe load on your airline contracts and generate reports every month. And this sort of is covering that. So you can have your do it as well. And this sort of shows you to break breakdown of I mean, we've changed the numbers and when the is very very real. They they have breakdown by by I think, different on different phase and there's around the world worldwide and it's quarterly and it's just... I just not strike after that. Elliott let my team be with you know, as our solution team then puts this information together like a summary of what's break. So it's one contract where has been all now there's, like, multiple targets it's that they breakdown right. Yeah. It would be like fair databases tool codes desk destinations, partners knows what else. And then give so summarize it here and then it sort gets into the detail of what the target levels are what the estimate is. When the airline reports it back, you can put it in there. So you can see the difference between what those projected to what is real. Which is gets really interesting if the differences are high because we can clearing and questioning the airline. And you have a number of challenges I don't know how many airlines have customers of channels home Airlines and they're are always a little bit shocked at the length of death to produced because this is based on transaction level data. So every coupon can we produced to say, hey, this is our numbers out, can you please just prove it? Or tell why it's different. So that level of files or semi shifts, so your whole negotiating you know, your, strategy, and your tactics will change. Dramatically when you have more information set out. But you can break that down not just a graphical level we can go down to any individual tab level, and then you can get that at a cumulative aspect as well, plus generate all this in Excel and So It's... This is an example of what how we presented. In the system itself, you have this contract model once loaded. You have the ability to sort of track everything here So this is the target that's been set up on the tl level. When the value is coming on every week, it's updating you're performing against the time? And on... And it's already tagged that this is in tier four. Out of eight levels is sitting in tier four. If you click on it, you can see cumulative revenue as well. And then when the Airline reported number comes in, you can compare that. Be, of course several months ahead. Airlines as you know take down own sweet time is to get that data. That you you will be able to see And this is the challenge as well.
+
+Client 2: Right? If you are people sending you so how does that work? Our is an agency sending you the reports says they get them and then you're loading it. Or actual we can load it or if you your team doing it.
+
+Client 3: Your team can loaded it.
+
+Client 2: Oh, they can we can load on our end. Yep.
+
+Client 3: I know you can load it or we can load in. But everything is set up for it to be very easy.
+
+Client 3: Yep. And then there's a comments option here as well, which if you see these dots you can click on it and, you know, See is later go. What happened? Oh, that was a pandemic.
+
+Client 4: No fine.
+
+Client 3: And then you can sort of have all that what it cause a repository for continuity because it's always easy to lose that datasets and use information or sitting everything saying in different excel files and in in say, emails. But when you say you have a, you know, a team building up and new people coming in and some people leaving, you at least have continuity of information all in one area globally different markets. And then this comments, are very interesting to keep that right on. Right? And then I'll show you how it's loaded. But if you go this is a graphical presentation, and then there's the the reports area as well, so you can go in and pull that information out in a favor of detail, again, in a tableau format, where sort of shows you the target the estimates, the actual the income levels that I estimated from And this is where it sort of shows you your tiers that have been loaded different ranges from here there. And then it's sort of color codes that that level where you're in, which is dynamic. Right it go up or down depending on each month, how you hit that value. And we have a forecast module. If you create a forecast in that forecast model, we can link it to that focus so you might say, visiting sitting in tier four. Can we hit files and you wanna hit tier five what is the difference here?
+
+Client 3: Once our forecast what's still different, let's look get it cumulative. So we can see how much money we go to sort dig it in it just And then me hit the level. So there's a failure of information that you have here. This is better comments now. And then all this information that you you see you can go in and say let me If you want integrate it more, you're going to the individual level and depth of information where you can pull out every particular every coupon from there, which will give you that transaction little reporting for that contract. You know, So So like I said, that so long.
+
+Client 4: Can I ask a question on the on the targets so that comes from the actual contract. From the T. You load those targets like that so you had that first graph, right, with the different colored bars.
+
+Client 3: In moment. Yeah. Sure how it's loaded. So if I take something like this here, and just cheat big one of which is pre created. But you can go in and you sort of choose to create italian a visit you going and say don't have?
+
+Client 4: Loan like do that? Or you would do that?
+
+Client 3: Well, we can do that there's there's a recording so it's So like I said, what I presented a bit earlier, this report set comes from the data loaded. And we can offer that as a service.
+
+Client 4: I don't know... So that's from Qatar or that's your reporting for No.
+
+Client 3: That's important. So Will give you the contract which has one contact with multiple target points and everything... That's our. And you sign it. We go in and i into so load this. So they will break that down into twenty targets. On that contract. And then say, okay. This target is for just putting... These are with pair of these whatever. And you can create that using this visit that you see here. Wait allows you to do that. So we our team can do it. Or if you feel your you want your team to do it your team can do up to you. So that's... So we've sort of have let help So we can We have it as a service.
+
+Host 1: So we can either do it as a one time thing we're reloading to contract as you get them and we we loaded it in you know, then you pull their reports as you want them. Or you can do it where we load them and then we also provide you those reports. On a set frequency based is usually monthly we produce all the reports for you so that you don't have to analyst. Doing all of that work. We actually do that as a service. And then we can say you those or packs. Like what you saw with Qatar. We tell you one for every single contract that you have.
+
+Host 1: Okay.
+
+Client 4: So like, those targets came because in the qatar contract, they were specifically stated as Tier one equates to a million dollars tier to three million dollars. Right? So if we have contracts that are not specific revenue targets how do you calculate that? As a target then.
+
+Client 3: I mean, based on what it is. Right? Some of them could be just you're getting commissions if you hit a certain revenue of it's a destination based as well count.
+
+Client 2: Right?
+
+Client 3: That Right. So it's like I said, it sometimes you might use the contract... Like, a majority cases if it's so maybe all that with complex conditions, you know, in here, I'll answer that in a two step places if you don't mind safety.
+
+Client 3: No. No. So if you for example this you using for more complex elements so reporting contract. So they have fair restrictions two code restrictions. You know, there's Rv restrictions. Is all that they have all the restrictions too deep appliance and you go in and use sort of input that information. Say that this a do all your item numbers so be like item numbers. You put in the details of your market carrier. And then you say pay, you know, in your contract you are excluding these pretty It is because they are not getting paid. So they exclusive. Right. So you've put that in... So on that manual data is gone because the system will read that in say again. Every week it's updating based on these conditions. So fair basis, we can put in or, you know, i know you were saying that you you have... You wanna see based on tool code. Even if it's not a contract, you won't have send reports for that tool code and the fare combinations that you can set up here. It's not tired. But, you know, you just still getting the reports without having to do anything six at once. So you can sort of put in those tool codes here. And you know And then you set up those tier levels and stuff. Then. So, yeah. I mean, it's it's fairly straightforward and easy to do. It gives you automatic email notifications If you if you wanna have if about seven bowel limbs say if you if you're ten to send below. A pretty target. Are above if you were go on to old phone, depending anyone what want.
+
+Client 3: You can sort of sort up putting in that in and you can get a monthly accumulated basis in terms of variation on Sorry I don't wanna get into a detail here.
+
+Client 4: But... No. I'm sorry. And I feel like I asked a detailed question just because I'm curious about the complexity of our contracts. That fit. Because I think that contract module is sounds really cool. So right so I'm trying to understand the complexities and what's in there and how it could be built in.
+
+Client 4: I think that would be something that would be useful.
+
+Client 3: Yes. I mean, would say eighty percent this should cover it. We have an advanced contract module we loading in which will cover up more elements Some of the things that you have, for example, the number of passengers coming through you might wanna use a combination of the contact data And, you know, some of the other information here. So this gives you number of passengers at an level. Some of your other ones could be based on destinations. We have this revenue and passing number by destination. I mean very...
+
+Client 2: This pretty... You can exclude also, because I think some of our contracts I'm just trying to think of some of the more complex. Right?
+
+Client 2: Yeah. It's not just stray, You know, you gotta hit this revenue. It is For this entity. However, that is defined there is goals associated to it but and includes these o and d's, but it excludes these twenty And then those twenty have their own. Right like It gets complicated equipped. And then in those entities O, then it goes down in to, like, in class of service, you get paid this versus that, like it... There's layers. I... I'm sure you understand like, it gets deep quickly. It's not just hey. You got it in a million dollars.
+
+Client 4: Really?
+
+Client 3: It it's a simple industry on completely man it is in every way possible.
+
+Client 3: Like, what is... What you guys ma'am? I I asked saw the errands airlines like, what are you trying to sort of measure... Like, don't understand the reality behind audio are you're a small air I give got such a complex. They don't care. What conditions are.
+
+Client 4: We are simplify and what they do is they actually make it more difficult.
+
+Client 3: And because someone in the head office has a little degree and they go. Hey, you know what? Let's all this don't know. I don't hear it. But yes, the flown destinations in there that you can go in and sort of just trying to see where you do squiggly, but we can sort of have all these conditions and then it sort of brings up somewhere the... Yeah. So you can say, do you wanna include the origin Yes. I wanna see all the flights from you know, North America included are will also have these particular countries, and I wanna have destinations into Europe and and should it be wise say? Yes? We can So I know the this it's not... The challenge is not the system. The challenge is firstly interpreting what that contract says. Because and our team notes it and we've seen all sorts from all this and parts of the world. They will usually spend a favor of them going back to lot of questions then you will probably go back to your part, what is that clause mean? Does it mean this? Or does it mean this or does it mean this And they will know. And they have to go back in there or so they'll come combined with some. So it goes back in forth so understanding that concept is very i time consuming but that's where we spend a lot of time making sure we got the right elements. And then we send that out. Sometimes it's a combination. So one of the one of the I would say it's cool, but one very cool things we up was this trip q report. Now it it so doesn't sound very cool, but what it does do is the ability you sort define monthly sector point of point journey types, and then we have to pick and have this qualification is to what is around the world? What's a return ticket? Is around the world can start anyway for a customer menu and go any around in this way, on that way, how do you pick that? So we were able to sort of define the levels. And then excuse me break it down into different parts, so we can create a report called somewhere sip report. And pull this out to you that's great more. So the q report takes the dataset. It sort analyzes it and break it down. So the whole trip is analyzed on that very. That whole journey. And then that's broken down into different elements. So you don't... You have not just your updated ticket carry tool codes and or in destination, but it breaks it down by the actual journey type where it's written return one a multi sector point to point are the primary carriers which are the market carriers or credit carriers? Booking classes if some... Some of the super complex contracts, you might combine this dataset along with the contract data and then you went sort to come whatever we pull out elements and then present an informational... Some super complex. Sprint. The information are there. It's... you know, like I said, the advanced contract would the con model will cover eighty ninety percent of your scenarios, but sometimes you might have to go into that depth where you put out two three different data and link it together. It's all we did assisting.
+
+Client 2: I have like one million questions, so I'm gonna try and prioritize my questions.
+
+Client 2: But sorry I keep writing things down.
+
+Client 2: Oh my god.
+
+Client 2: Please... Okay. You also have a tool for airlines. Correct. And what type of data are you providing lines. And where are you getting that data? Like, what's the data source that you use to provide airlines and what do they use your tool for?
+
+Client 3: So if you flip it around from the hindsight side, they wanna see their market. Right? So there is the direct channel in the indirect channel. And they want... We get the data source again from E seats it's called the test file. For the Cat yeah low actual cat, see it understands.
+
+Client 3: And the... There's the hot file concept is actually from the end right by the first stop file was generated for the airlines they in their revenue management system. So they use a hot file as well. So we are using the same source true that goes into their revenue management system. Which is why our numbers a pretty.
+
+Client 2: And you're also pulling for Ia while I'm assuming something or no.
+
+Client 3: No. So our focus is purely, you know, their sounds. We're don't giving is that question related to comparing the market?
+
+Client 2: Or I mean I'm just curious, like, what sources you're using there versus here. Sometimes we struggle with airlines are looking at one set of data, and we're looking at another set of data sometimes we don't talk the same language. But it's it's stuff... It's just good to understand Curious just what you were using. Like, I've heard everything from airlines versus their system, some you what's a call Benjamin?
+
+Client 3: Yes. Yeah. They're are very there are holes in those in the market data. So what they're using the V is to see your performance again say Dvd and and see the boutique and then hey, you guys are sort of saying more on we and using as service. But but you know, those are very they're are caps because they don't cover all the data. So the... So you if you ask him the questions around, How do you know how many numbers you're looking at related of data? What about if we in that on your partner carrier with us line that and then passenger. How is that in there? Have you asked them that say time.
+
+Client 4: Write that down Arena.
+
+Client 2: We're having a a a similar debate right now with the carrier.
+
+Client 3: Hundred percent. Like this is ongoing. And and I'm where, like, I don't get it how the Because... Well, let's put it this way. The airlines can wield a lot of power. Just because nobody's question, ma'am. Right. And they they've been able to use that power. Now we've had very very... And I can we can share case studies and keep this pain on on website you can send me something, but the view challenge airlines is from the smallest player due to be able to challenge a carrier on their numbers. And the bigger players on the agency Bc can you can bring bay weight on it. But in a smaller players we've been able to go back and this number is all gain more out of the challenging then. Now one of the things for example we found an airline a pretty carrier based Asia, then let's there was a numb... This continuously gaps in the numbers. So one of our agency customers they went in and looked at it, and they found all the exchange tickets came in with zero value. And then like, how is that even possible? Where is that where's the money or, like? The original ticket value, we paid two thousand dollars. That's not meeting reflected. And this is a large carrier, and then they called them red ended. Right? And they have to drink sorry. And then I paid them call Was how is it all possible on that? You know, this something like that is really ridiculous. And then the other one, which is a hate point. Should you guys go we rewrite this stuff. Is the pay market share. Right. I don't know what fair about it.
+
+Client 3: Completely gobble. Right? You're building out complete numbers based on potential routes and don't rubbish. Yeah. So for our customers, we tell them hang the. Use this. So we we we give them the ability to counter the airlines with what we call true market share. Estimated rubbish market share this is a true market channel. Now this is your own data. But let me show you how you can completely change the dynamic dynamics in your conversation. Say you wanna actually look at Again, it is vary by carrier right question. And and I'm bit passionate and find right just I love it.
+
+Client 2: I need to.
+
+Client 3: I feel.
+
+Client 4: Really intrigued right now.
+
+Client 3: Insane. Like what? How it? How can you legally inside the damn thing? And so let's look at this. So we know Okay. Wanna be saying. Right? We're sending... Let's... You can go to any depth I promise you you blow the carry away. They won't have enough if you if you spend just thirty minutes preparing before your meeting. You go a little bit more, you can just just flawed and with the data that that you have with this. So you got... Okay. Are resetting into the Europe. Let us look at which airlines we're selling into Europe. Right. Bang. Here's the market share. So they can build any number. But you can go hang on second. You what what your number says, this is it. We can go to every ticket and pull out every ticket and we can show you all of the numbers stacks are. So we are saying this our market sharing that's your true market share. Not made up market share. Not only that, you can go to that next level. We within Europe, We can actually tell you with cities we're flying to. Right? So that carries is how you can see with series flying to. Within that. Then you can say, hang a second. And going back to emirates. Been the recorded set saying right?
+
+Client 3: That so you've By city, you're saying, in the same, we didn't even know agents is coming up there. How are special leaning? Because we are saying a lot. On your carrier. In that. So we within two, three seconds. Like I said, you're Your analyst. I mean, you guys will buy this a lot of your yourselves I'm sure, but Analysts should really be supporting you guys with these cases where you're going there's a huge opportunity is sending a handle and agents compared to last because you know starting gonna data as well that you can go and compare. You go. Why can we get some better this? Or if you're arguing on the market share. This is your real market share. And you can don't be cheeky and manipulate that as well because Sometimes, you know, your revenue might be down, but you're sending a lot of passengers across. Because they their face. Right? And that's coming in later off of next year. I'm pretty sure we all this crazy travel rushes over. So you're able to go in and say them Listen we send more passengers your way even though the revenue was lower, than any other airline and you can back it up with numbers again, down to a ticket level and show them how that's made out Right? So you use the levers that you want and and pull it out. To the extent where for forget they airline airlines when you're actually trying to sort of look at what sectors you wanna support? You can go into this. Sector reporting.
+
+Client 2: Lost. I'm sorry. Bye that it's showing my baby and the... I'm sit by a window and he just picked up our baby he like Have you have you considered or do you do any integration with Oa g data to look at schedules, and capacity we did have their own plan free and pandemic wait at the moment now, Have to we construct a map for next year.
+
+Client 3: Then we go.
+
+Client 3: Okay. But... So you find me up with the airline airlines Oh, yeah.
+
+Client 3: I gotta show you this stuff.
+
+Client 3: So you can go into any level. Right? You can... So this is a sector reporting where I'm pulling on every sector just put on one and just show you how he can sort of influence, not just your tactics but also your your customer side. So your airline side. So I'm just pulling out this is showing you everything from sydney sector. But let me pull out, for example, the angeles. Right? And then within that sector, you wanna analyze so to give me one line of revenue, but then if you take that, It's giving you our market share on that particular sector by carrier gap by numb... By passengers as well. So you can sort say Oh, that's what we're doing. Let us... Why are we down at number four for American We have well deal they should be gonna be at number two. I know. You can sort of and analyze all that. But if you wanna get into more details, you just click one more button. Breaks it down add that Point d sector by carrier by cabin, for bypass flask, dominique. And then clicking takes you right down into the individual phase. It is selling on that sector bypass. So You can go back to American Airlines Do you know you got delta But all these selling all these other fares that I'm way more complicated you guys are telling us giving us... And how do you expect us to make that make the target if you're giving us these Rubbish Yes No corporates. So you can I we should just start using rubbish more often.
+
+Client 3: I feel.
+
+Client 4: They do.
+
+Client 2: It's a nicer word I feel like that some of the other words we use sometimes to talk about our airline partners.
+
+Client 3: I'm keeping it pg as well.
+
+Client 4: Yes.
+
+Client 3: So you know what i mean, but you have the ability to sort of very very strong upon and have the agent and negotiation and bring no airlines actually don't relay. Airline thing the on moon this time around that area. Of course they do. Right? It's like the oblivious to the rest of the the market in the world. But you bring this in and you present that is very hard to counter factual information. You know, you tell them this is how it is. Yeah. You know. You can wipe out some of the names with the carriers. Know not... Because you can download every report into Ex excel. And then you wipe it out and then you go... How do you tell to that Tell me which of your other other agencies handling yours all this, when you had this level of competition doing in that market of that sector. What like, what can they say? So i there's always that ability for you to push back with different data events and data points, and this is where I mean, you could sort of say, hey, you know, you I don't know how you want to sort structure impact we could offload all the contract loading and reporting to us for the contact pieces, but use your more efficient to actually drive that value added part for your business where you're using them to say construct discovery the tactical gold points based on this. They can give you these points to go back you can use all with with the carriers, you know? Yeah. And we have I I don't know if if I should be covering this in this step keith... Sorry I'm still blown the time limit way. But then I need to be honest as we probably it's been the next three hours done.
+
+Client 2: And I about minutes?
+
+Client 2: Are you passionate about it too. So maybe finish that up and then I have a question On just next steps, because I think we have long list of questions still.
+
+Client 3: I'll just do one very quick. Just covering what I say about, pulling up customer related datasets nine. So even if you don't have dedicated iron numbers, you could go in say... I mean, go life. We probably have data give. Have a number but you say you wanna sort pull out all the information so com for a particular a division, or cross center level or... Yeah. Whatever it is toyota can go in and so say, I wanna have a little information you can actually pull out a little bit more than matt...
+
+Client 2: How are you that's So you're at a n level, which will get to your client. Correct?
+
+Client 3: How are you doing?
+
+Client 3: Yeah. So we need data feed that comes in from your systems.
+
+Client 3: Yep. Which has the ticket number and the customer code, and we have a master file from you, which is this is and cool. Well, I see or whatever. And then we link up the ticket number. To our system. And then that's linking up. So you can on the front end, very seamlessly we pull out all this information, which gives you something like this. Right So And the the reports that you generated at that level can bring across the company and the the cost center. And then gives you this really cool reporting. You can pull on new company level that shows you you know, different corporates and different customers at Airline, Cabin, Whatever you want. And switching you know? Sorry we can say by line by my company five month. You can Oh, that's Yeah.
+
+Client 3: Make will yeah.
+
+Client 3: Fantastic.
+
+Client 3: I see return only or we wanna look at from what are we selling from a certain to a certain location. Now where these guys planning to... Forget the airlines, let's analyze that... you know, the different So this destination, and then we can analyze which carriers they using the different locations, you know?
+
+Client 3: Oh, they're using to Hong Kong all these carriers with and how can you can consolidate there and which is the best yielding and blah blah blah.
+
+Client 2: Yep. Can I ask a question because We have, like, one million things we could still cover.
+
+Client 2: What can we do as next steps? Do you guys have any kind of test access that we could play around with as we're thinking about all these questions, like, How do we best get our hands dirty. And actually, see what we can do with the tool.
+
+Host 1: We can do a couple different things. We have a paid pilot program. It's this. About. But just about basically to help us load some of your data. Then we can give you access and that way you can use your data.
+
+Host 1: Alternatively, then we can also just give you access for a short period of time a week or two. We play with existing data test data.
+
+Host 1: This data type stuff Yeah.
+
+Client 2: How much is the paid pilot?
+
+Host 1: So that depends what you wanna load.
+
+Host 1: Us to well let's say, like, two or three months of data, which we can do we could know, for you say I don't know if you wanna pick a You have a quite pin Yeah.
+
+Host 1: Credit. Look at go market basically. What's... you know, it's maybe Us market for you.
+
+Host 1: Yeah. Most of your stuff is there. If we just do, like, a a quarter or three months, i would should give you enough to get in there and see the differences month to month. We we could do that for, like, fifteen hundred. Would like that. Three month period.
+
+Client 2: And give you just it load your system in there.
+
+Host 1: And I think if you have a lot less data or or something we could I could play with that a little bit.
+
+Client 2: Yeah I just know that Us is your biggest market.
+
+Host 1: And it's probably a lot isn't here that we would have to process now if we're doing You know, I can get in notes if you said to move forward then I can give you credit for what you pay on the pilot.
+
+Client 2: For right. Gotcha. Yeah yeah.
+
+Host 1: You your out.
+
+Client 2: Can we... Can we start with test data first. Let us book around. I think we probably have a laundry list questions, and then we could add to that list Let's get some of that kind of clearly defined because I think my questions vary from super in to, like, how you guys handle global roll up of this digging up? And I think that would be helpful for us to get some of those answers. And then we can decide what do we do do we want to just test three months to on test two years so we get see year over year, do we wanna test multiple all points of sale so that we can see how that global roll up looks like. I think we can define that, but I think we just... Let's let's get our hands dirty and just poke around a little bit because you guys have a lot going on on there.
+
+Host 1: I gotta say. There's a lot of information.
+
+Host 1: Yeah.
+
+Client 4: It's cool stuff too with the grass and the data.
+
+Client 2: And... Yeah. Yep.
+
+Client 2: Yes. It just is gonna take a second for us to digest.
+
+Client 3: Yeah. Just just wanna talk to about the roll very quickly, you know, this all countries which sort of consolidate globally on dataset. When you go in here, for example, it's showing Usd, So it's taking everything every coupon and the... It's taking the exchange rate of the date of ticket issued, So even in the week it's it's breaking it up Guarantee, the airlines don't have there that monthly exchange, which is again rubbish.
+
+Client 3: Going to any element here. And this is quite popular as well if few and I'm sure you guys have regional contracts on the currency. Or, you know, you wanna sort of look at your consolidated global support for the carry. You can just pull out and say, hey, this is what we spend. All the world, all the markets and you can sort of show that. From using that consolidation.
+
+Client 2: And we may want to do something like that it's to say, look for test. So we're gonna pick a carrier ticket it. Right? That's super complex that's across regions and across countries and throw it in and see what happens. Right? Because right now, we don't have a way to view. Like, I can't easily go see how much revenue we've made on delta globally.
+
+Client 3: Yes. So you'd have to for your test, then and I will give us your hot files in the File. Files from couple of different markets, then we can combine it and show you It looks like How do we get that date?
+
+Client 2: So just How do you get it?
+
+Client 2: How do we get the data to you? We have to go through our for the test case. We would have to go through arc and have them send the aria data feed, Yeah.
+
+Client 3: Dana know so you you just go and say we wanna set up the aria plus files. Their metrics can access and it copy saying when you make those requests are layers with with Drc guys as well get that data feed setup so will come to us. Once he's sign it. Then they'll send it across every week and historic if you say they'll dump all the historic files in there. These fee That's a little bit more like, you like to approach each Ps for that market or region. So let's say, Canada. You'll have to talk to B I think they they sort of florida up, but they deal with Canada.
+
+Client 4: I don't know.
+
+Client 4: These makes perfect sense.
+
+Client 3: Exactly right guys. And the... Again, the historic data for Canada is only sixteen months. Why don't ask me? Other markets you won't get going back to you. So you have to go to every Dsp I think there's an email right, for each country that you right to be and say, hey, You want the store, and you want hot files setup. And then you ask for that to be set up historically at know? So that one will then down harder.
+
+Client 3: Evening.
+
+Client 3: Yep okay. And we you'll have either pull it out and share that. So give us access be a feeling for each manner.
+
+Client 2: We are gonna have to do a little digging. Let's start with test access. You're gonna have to do longer than two weeks since we won't be her two weeks.
+
+Client 3: Sure. I mean, or we started after the first the year which will be here.
+
+Client 4: Yeah yeah.
+
+Client 3: So wait... I mean, I think Bc where our customers through another group called Cd partners in a failure.
+
+Client 3: A while ago. I think they've left the City partner group. Would you getting Australia data helps?
+
+Client 3: There Yeah.
+
+Client 2: Just it. Yeah. You have it, I guess that's better than test data.
+
+Client 3: Yeah. Because then we'd need the okay from guys we've signed the contracts with. But I think that shouldn't be big deal.
+
+Client 2: Yeah. Find their names.
+
+Client 2: Yeah.
+
+Client 3: Down.
+
+Client 3: Oh Bc here might be having hard files that getting generated anyway. If they... I don't they they're doing on digging. Right? So they should be having funds that can be easily accessed.
+
+Client 2: If you have the connection, let's figure it out. Right? If you're already collecting the data, we used to but it stop because they're not part that Cd partners group anyhow.
+
+Client 3: It and let me find out Okay.
+
+Client 2: Funny we can ping our our Australia So Yeah.
+
+Client 3: Yeah. Sure.
+
+Client 2: They're awake now. So so zero awake.
+
+Client 3: I'm I didn't put plan.
+
+Client 2: What was the company? You said Cd, ct.
+
+Client 3: Charlie tango. Yeah.
+
+Client 2: Django. What is what is our?
+
+Client 3: Ct partners is like cons, the consortium much of travel agents. And I think Bc was part of that group. I don't think that part of it. Forty a now. But Yeah. Anyway, I'll I can take around.
+
+Client 3: But, yeah, if you guys figure out one place way to give us some data. Then I think everyone likes to use their own test data.
+
+Client 2: Yeah. I know. Well, I think it's it's a a better reflection too. For us, it's it's our own data, but it's also picking out a couple of agreements that are pretty complex to see what you guys can do.
+
+Client 3: Yeah. So I mean, the trial can be a little bit more like, if you really wanna test it out because we just do couple of months. Of data. And keith telling, you might sort of jumping here. But we could sort of have... Let's see pick become one year or two years of data. Because if there's phone revenue elements involved, you need that phone then we confirm from two years data. But then you could say, hey, here's a contract and acting loads and gives you the whole back the whole thing. Yeah. That is more comprehensive or if you just wanna play around with the test dataset said, you can use three months of data. Yeah you can play the next to you how you wanna Yeah let's.
+
+Client 2: Let's let's look at that. We we'll take that back we'll also find out how we're gonna get that data to you. I wanna find out from Arc what it takes to set up that Aria file to you guys. Yep. Right Not technical, but know.
+
+Client 2: You got you get my flow.
+
+Client 4: Right?
+
+Client 3: Yes. Yep.
+
+Client 2: Let me first do a little digging on that.
+
+Client 2: You know and we can figure out, you know, what that test would it put?
+
+Client 3: I mean, the other option is using G data.
+
+Client 2: Which is we don't give Gb access.
+
+Client 3: Yeah.
+
+Client 2: We have. We don't get G access We do have it in item.
+
+Client 3: We we... Well, we've gone some back to the future little bit on we're using the old a r, m i r i r funds. So the way it works is we we create... There's a there's a program where use sort of copy those final down in the folder, which cleanse it, so we don't have any of your There's no passage name no credit card no personal information. That gets processed in that sort of program at your end, and then it gets transferred to us to server. So that's another option, but I would not recommend it because it doesn't have all the Bs or E transactions in there Yeah.
+
+Client 2: Could you take r api.
+
+Client 3: Maybe, but then it'll be it'll be billed think if you are looking at a longer term, we should look at that definitely.
+
+Client 2: And I guess, it depends on the cost. Right?
+
+Client 2: Is free for us. Right? Yes understanding that you guys would have to build to it.
+
+Client 2: And there are some costs associated to it. I don't know how much R are gonna cost us.
+
+Client 3: Yeah. We'll I'll have... I mean, I'm not the technical. It's gonna ever my tech guys all in discussion the about what we get and how we get and all that. But yes. I mean potentially, we could use that and then over a period of time. I mean, you could start out with these and E c and then transition that out. And replace that over period time with the guy don't be scared It's nice.
+
+Client 2: Oh, no.
+
+Client 2: They would require work you guys Obviously Like...
+
+Client 3: Yeah. I'm just... Like, our team is, like already got six by now.
+
+Client 3: Then. So will we took have planned that working be living in advance and we can definitely look at a transition line. And and we would probably at some point need that for in this ticket you as well that are not settling on correct Right.
+
+Client 3: Yeah. You. How many... How many of those are saying outside of Bs and E?
+
+Client 2: Much probably a couple of carriers pretty light on bookings so it's something crazy, but Okay.
+
+Client 2: You know, I think it depends on how much of this is gonna increase through Nd? How much of us are gonna sit outside of Arc in the future. So yeah.
+
+Client 3: I mean, the third data source is... And I would say Api from Is one thing but you might have your own data warehouse. Which and we have a format that we use for... If you don't want the first to then you can pull give us the data in that format.
+
+Client 2: That we can do you know, flat files, data feeds, an Api, like, we've got our around us that as well. I I think it's like we've got all the data. Sometimes we struggle with what do we do with all that data? Yeah.
+
+Client 2: So we could give you the data. That for sure. That we have.
+
+Client 3: I think what we should do is once you guys have sort of played with it and we've gone past the evaluation stage where you know, you guys are okay with it. And wanna to sign up with us. We probably have a session map how it what what should it be? What should be the meaning source data, which is a dataset and then what's the final how does it look like?
+
+Client 3: You know Yeah. We will cross that cut costs for you guys. As well where you don't have to pay Vs and E.
+
+Client 2: Right?
+
+Client 3: That's right. Right. It and Cbs is great for sorry historic stuff. Because your... The markets are so dynamic at the moment, the negotiation And show you guys on referring to some baseline but the changes from last here this year, and what's gonna happen next year. It's good to have it started data. So that... Those two sources. Are good from that. Yeah.
+
+Client 2: Let us do a update. Let's find out what it's gonna cost how it looks. And then we can decide Well, how do we test.
+
+Client 3: Sorry we count it lot so Don't know what makes steps like key down some of those kind yeah.
+
+Host 1: Well I... So we wanna try to get that access to a a test data trial. Zoom we'll we'll get that in the works... No It's christmas time.
+
+Host 1: So... Yeah. I'll offer that.
+
+Client 2: So in January before we play with it. So I think for us next up give us test access, let us play with the tool we will come back probably with one million questions we will consolidate that. And we can decide, you know, do we handle that an email we wanna hop on another call and go through all of our questions. And then I think that will give us a little time to think through and investigate under dan. Pass the test data how do we potentially get our own data and test it out.
+
+Client 3: Yeah. I mean, once you get access there's so many different elements in there, which probably will get lost in some of the elements you know, we of course, can go through a million questions and, yeah go through every it. But hopefully, this demo sort of gave you a bit of an idea is student build the robustness of solution and how deep you can go and what you can come? Yeah.
+
+Client 2: Very I think even some of my questions are just even scenario Right? So I think we can also... As we're playing with it, if we don't see something, we'll throw out scenarios to you. We wanna do y z cannot be done.
+
+Client 3: Yep. No problem. Yep.
+
+Client 2: Cool.
+
+Client 2: Well. This was more exciting than I had into subpoena at the end of the day.
+
+Client 4: Thank you.
+
+Client 3: That's a great compliment.
+
+Client 4: Nice way possible.
+
+Client 3: I was thinking you're gonna say where's my.
+
+Client 2: It's next. Look, I mean, I stayed thirty minutes past one that's wine.
+
+Client 4: That something.
+
+Client 3: No. That's fantastic. So thank you for that. Thanks for your interest in support it and you know I get carried away sometimes, but thank you.
+
+Client 2: Important nice to see your passion for we obviously share the passion.
+
+Client 3: I can see that Yeah. Thank you. Great. Thank you.
+
+Client 4: Thank you. Appreciate it.
+
+Client 3: Awesome.
+
+Host 1: Follow I'll into do that. Information so that that you'll be able to log in and Awesome. Then as you have questions support you can reach out.
+
+Client 4: Okay. Perfect. Thank you.
+
+Client 2: Have a good day.
+
+Client 3: Thank you. You.

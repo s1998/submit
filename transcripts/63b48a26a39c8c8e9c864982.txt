@@ -1,0 +1,233 @@
+Client 2: Hey. How's it go?
+
+Host 1: Good how are you?
+
+Client 2: I'm going well. Got a lot of stuff going on here.
+
+Host 1: I know what's going on here. I think it's It's an occupational. This is like we built so many bugs light. And because we test them all the time, they they multiply Happy new year. How was you'll new year.
+
+Client 2: My new year was was great. How about yourself?
+
+Host 1: It was great. Thank you so much. But will you from again?
+
+Client 2: Philadelphia there.
+
+Host 1: Great. Awesome. Hey, matt. I forgot, we left it up last time. Are you currently using Ce?
+
+Client 2: I am not.
+
+Host 1: Got it. And and why is that? Did we have you? I'm sorry. I just actually forgot the.
+
+Client 2: I don't remember either.
+
+Host 1: Okay. Alright. So let me real both you then if nifty Is it is. So again, building on the eye it's said it's a intelligence gen solution, do you do you use Gong currently?
+
+Client 2: No.
+
+Host 1: Got it. Have you started using gong?
+
+Client 2: No.
+
+Host 1: You said I start?
+
+Client 2: No. Yeah. I don't use Gong. I've never used it before.
+
+Host 1: Got it. Do you do you have a sales?
+
+Client 2: No. I my well myself and one other person.
+
+Host 1: No I got. And and and you know what gong is done.
+
+Client 2: Yeah. It's for recording sales meetings. Right reviewing them with your sales team essentially?
+
+Host 1: That's right. Yeah. Like, helping you like, gucci shield and Is that why have you not like, considered buying down for your company?
+
+Client 2: So I i've two businesses. Right? For One of them, I would say that we don't do enough of them are recruitment business. So we do like recruitment out sourcing, if you will, so basically, the companies that are trying to grow that are trying to hire people hire us to do their talent acquisition for them. And then the other one is services business. So the one that does the recruitment, it's myself another person. I would say that the majority of our work comes to referrals. We've had a lot of success in the startup field that we've worked in. So we haven't had too much need to do a ton of outbound work. We're moving possibly to doing more like outbound work, but again, majority of our work right now is from inbound leads, which again come in the way of referrals. And then the other business is just myself. So in terms of coaching. It's not that, you know, like, wouldn't be coaching anyone on anything. It's just for myself, and I don't have a huge need to actually, like, review the calls that I'm making because most of the times when I get meetings on people's calendars, they're closing. Think we're a ninety eight percent close rate right now with the meetings we've said.
+
+Host 1: When do you sell again?
+
+Client 2: Services slack services.
+
+Host 1: What what do you mean by flex services?
+
+Client 2: So we help companies optimize their Slack or slack my of my. From like, Slack business plus or pro to to enterprise greater or enterprise select.
+
+Host 1: Got it. Okay. Awesome. Just curious, how how do you those value you? Is will math.
+
+Client 2: How do our customers find out about a stop? It's word a math. I mean, it's it's word mouse. It's also just general outreach from us. We work really closely with Slack and with some, like, Slack partners. So I don't know like, if you're familiar with, like, the slap Slack ecosystem or Salesforce ecosystem. We work really closely with account executives. So when they're selling their deals they bring us in in their deal cycle to help them essentially accelerate it. So if they're trying to sell to someone, they're unsure about, like, how that all work and what the the cost implications would be. We come in to basically offer our services as a good way to help them close the deal and then The app directory, we have a lot of closed customers in that realm. That Basically, when they buy apps from the act directory, they need some type of service work done. Whether there be implementation of the actual app itself or they need us to like, again, there's there's kind of a number of things that have come from those relationships. So again, it's it's it's very similar. It's a lot of referral based work.
+
+Host 1: And so I'm I'm trying to figure out whether, like, because we're, basically generally building dot rail Ai trying and to figure out, like, what that means how much we help like, make the value out of ai. What does a slight vibration consistent for you. Do you do exactly when you might slack to price breaking?
+
+Client 2: Yes. Are you familiar with enterprise grid?
+
+Host 1: No.
+
+Client 2: Okay. So Slack, so do you guys use Slack today?
+
+Host 1: Yeah.
+
+Client 2: Okay. So so basically they're Slack business there's the Slack Pro, which is like base model. Slack business plus, which is like a step above, and then there's Slack enterprise select or enterprise grid. Enterprise Select on enterprise script both offer like, a significant Is a significant change in what type of security they for companies. So for us, we work with a lot of healthcare companies that require certain hipaa compliance regulations to make sure that all of the Phi that they're sharing. Between them is like, very secure in their work. Enterprise grid is a Slack offering that allows you to have an unlimited amount of workspaces, but with the same user Id. So for me right now, right? Like, I don't use enterprise grid. But if I were to share my screen and show you my Slack, I have about fifteen different workspaces that I'm in on the left of my screen. They're all under different user Id. So some of them are on the same email address, some of them are not, some of them on just individual email addresses that I've done one off for. Of them are just really sandbox workspaces to kind of test things in. And then when I have enterprise grid, I can essentially create all these workspaces, but they're all across same user Id. So I'm able to access all the workspaces with the same user Id and then kind of communicate across workspace. With different connected channels. So what we... A lot of times end having to do is helping him companies that have usually through acquisition own multiple different workspaces, and take them all from other business plus pro and migrate them onto to one enterprise grid workspace, because it offers a lot of, like, I would say like, global controls throughout the workspace. That you can kind of tweak, but it's a lot different than owning four or five different individual workspaces you're owning it all in the same org, if you will. And then you can kind of control from a global level what the permission policies are. And then migrate rather than, you know, kinda modify from there. But when you migrate them, there's a lot of prep work that needs to get done. There's also a lot of post migration work that needs to be done to make sure that things operate efficiently and the no permission was kind of lost in the migration. So again, there's kind of a number of things that are built out through that process.
+
+Host 1: And and and and how variable is the process for you to do how much does it vary?
+
+Client 2: I would say pretty significantly. Yeah.
+
+Host 1: It's It's definitely...
+
+Client 2: Yeah. It... There's definitely differences in, you know, kind of how the stuff operates. You know, how many workspaces if they're, you know, yeah. There's a lot of stuff that goes on for sure.
+
+Host 1: Do you think it's automated poly?
+
+Client 2: I'm sorry Have you looked into automating?
+
+Host 1: That don't the work. How much time does it take your point migration?
+
+Client 2: It depends how complex it is. Depends how many workspaces they have down either they're going to. For acquisitions, it's a lot more complex. Right? Because you have to basically create a standardized log across the board. Right? When I say standardized login I mean it really has to be builds on You have to build a certain way if to created a standardized log through like, some type of S provisioning. Or an Sso like applications whether it's O, whether it's google or whatever that is. Right? So if you're going through an acquisition, it's usually a lot more complex because there's a lot greater chance of data loss. If you're a company you've purchased five, like, I have a client right now that they they own six different workspaces because they want different workspaces, but they didn't want to pay for enterprise grid as they were going because they didn't need it. Now they need it. Like, now they found that like it's much more beneficial for them than having all of this in different areas because it creates so much additional work for their current team to manage. So they want it all under one enterprise grid where they can kind of control what's happening across all of their data Right? So really, that's what really determines the complexity of it. I would say that at the moment in terms of automating it, I wouldn't say there's a ton that we've really found that we could just automate a lot of it go. A lot of it requires, like, facetime of, like, actually understanding, like, why the system is built this way, what it needs to look like at the end state and what it looks like today.
+
+Host 1: Got it. Okay. Okay. So sounds like this we're clearly is not available. Do you find yourself doing any work? Like, you like I wish I always had someone else to this for me. Missy said or anything.
+
+Client 2: In the slack work? No. Not really. Because a lot of the stuff that we do is just customized. Like, right? Think it's not I wouldn't say for the Slack stuff, There's a lot that I do that's... That's repetitive. I would say maybe on the They've doing the recruitment side of things. There's definitely some work that's repetitive, but I wouldn't say repetitive to the point where it's it takes a large amount of my time if that makes sense.
+
+Host 1: What kind of work?
+
+Client 2: Just outreach. Right? So they're gonna like you know, for hiring people. Right? It's like, if I need to build if I need to build... It's like, very much like sales. Right? It's like i'm building an outbound cadence for potential candidates for a position. Like I need to understand like, who the profile is of what I'm trying to reach out to, like, the particular candidate that I want and then what the variables are out side of that. And then once I build that profile, then it's a lot easier for me to just kinda standardize it. But, like, what I'll usually end up happening is that i usually have to use kind of a number of different applications to get like I usually like three or four different applications to kinda find people, which to me, you know, again, I'm kinda doing the same thing on each different application.
+
+Host 1: How much of your find that to be that we most approximately My time, not how much.
+
+Client 2: I don't do that. I mean, it's not like not doing that on a regular basis. I have one client that I do that for. Just because, you know, I've helped them scale from twenty to hundred. So, like, they're you know, someone that I work closely with, But outside of that, not really, I would say not too much of my time.
+
+Host 1: Got it. Always, like, other person's time, or it just like this is not something that you have to very often as it business.
+
+Client 2: No. Yeah. It's it's definitely my team's time. They definitely deal with that on a more regular basis than me. And I would say if I look at, like, their week, I don't know maybe about eight hours a week. Maybe one one of the five days if you will?
+
+Host 1: Is that something... By the way, I mean social that download, but, like, if I'm will to get that down to, like, zero or something like that. If I will, like automate that for you completely. Something that you'd be willing to pay?
+
+Client 2: Yeah. I just don't know how that would work. That makes sense.
+
+Host 1: You would feed the system, your criteria and we would... I assume use these applications to like So generate leads and then finds that protect information.
+
+Client 2: Roughly. Yeah.
+
+Host 1: Right? And how many mean, I assume then this leads go into like, one google or system like that.
+
+Client 2: Yeah. No. They all go into... They'll go into an Applicant tracking system Well, yeah.
+
+Host 1: I mean, basically the way we're... Like, I mean, I have sit down with your team. And probably like shadow them as of doing this. Like i understand exactly what's happening. And again, right now, we're looking into like building is, like Ai built system. Just like an Ai that can basically don't do anything for you. Right? And so we would teach the Ai to do this. If this is like, running the, but not even that p if it blown the away, but the kind of stuff that Ai can get out today, if if if if if it's then, we can get the Ai to do it for you automatically. So we'd say your team eight hours a day or something like that.
+
+Client 2: Interesting. Yeah. I mean sounds interesting to me. I don't... Yeah. Don't. I don't see why it's not possible. Yeah. Just I've never seen it done before. I mean a lot of the stuff that, you know, again, I think that we do is like auto to to an extent. Right? But I've never... I have no experience in like, the automation space, so I don't know the... I don't know.
+
+Host 1: If we will to this for you again, suppose we take this down for, like, eight was a week for, like, thirty minutes of week or something like that. How much would you be ready to pay for this? Like what would be, like, on the expensive side for product like?
+
+Client 2: So let's see if you take Let me I'll do number. Give me one second.
+
+Host 1: I'm very curious with kind of master writing to. Assume be hold things in like, hourly only rates your please.
+
+Client 2: Yeah. Roughly. So probably If you're gonna reduce eight hours to thirty minutes, I don't know. Thousand dollars a month? Fifteen hundred depending on how complex and how much like, time it would take for me to actually Thank. Teach people how to use it. That's what I think is the bigger issue for me. Right? It's like, me personally. A pretty good understanding of technology. I would say some of the people I work with on a regular basis maybe not.
+
+Host 1: Suppose it's like stupid to be simple basically basically I read the companies to build an Ai employee. Like, it's someone that's with you on Slack by email that you can invite meetings can ask to do that for you. So ask easy it to users an employees.
+
+Client 2: It sounds really interesting.
+
+Host 1: Can I shadow your team as they do that like thing? You be comfortable introducing me Let me talk to them first.
+
+Client 2: I don't why not. I wanna, like, you know, again, like, make sure that they're okay with that.
+
+Host 1: Even if so if done that, okay. Basically, I would like be fly the wall like on will do for like an hour or something. You're doing that. I'm also happy to just, like, jump on the call them and, like, how talking through, like, the the process Yeah.
+
+Client 2: I don't I don't I don't see why not. Like I said, let me let me speak to them a little bit further and think about it.
+
+Host 1: Sweet awesome. Great. Well, I I don't think makes it sense for to talk about the speak, but I it doesn't seem like the isn't a need for you for this kind of solution.
+
+Client 2: Okay I mean, I'm asking you.
+
+Host 1: To like there is. It doesn't seem like there.
+
+Client 2: So if I remember correctly, I think the list time you guys were working on an automated note taking technology.
+
+Host 1: Yes. That's right. So upload the Salesforce if I remember correctly, That's correct.
+
+Host 1: Yeah. Oh, was that... Yeah. Well, I mean, that's something that's working right then. I it those So that is that something that you would have in useful?
+
+Client 2: I mean, I think that would be the that was the most interesting thing that I remember from our previous conversation Correct.
+
+Host 1: So there is also one picture of acquisition intelligence that we offer. So can you see my screen here?
+
+Client 2: Yep.
+
+Host 1: So... Yeah, We record your meetings. We trans lines We take notes for you. So we summarize them. Then we be those for you. Based on based on what we do during the conversation.
+
+Client 2: Okay.
+
+Host 1: Is that something that you would have vegetable?
+
+Client 2: What was the cost list again? I don't remember.
+
+Host 1: It's... We're still that out at seventy five dollars ago use malt is what thinking right now.
+
+Client 2: Yeah. I mean, that sounds that sounds realistic.
+
+Host 1: Well, the available thousand then. We don't sell free for like at least a few weeks because it using it right now, but Can you share your screen and I'll send you the link to?
+
+Client 2: I can, but what you're gonna... You're gonna ask me what are you gonna need for me to share with you.
+
+Host 1: You... So I I we for you to sign up to it Is sustainable set up area.
+
+Host 3: It's set up.
+
+Host 1: So I would... I would need call you to sign up to it and connect you three things calendar so that we can join your meetings, connect to all salesforce so that we can update it. Connect your slack it. You can send you notifications time.
+
+Client 2: Okay. Got it. Let me... So that is not something that I have. Total access to and I need to get my admin get up for me.
+
+Host 1: Okay When would you like us to get back in touch then?
+
+Client 2: Give me the week. I'm just, like, just getting back from being off for the last week. So me kinda get set up here with that. And then you can get back remember you talk like a week.
+
+Host 1: So good, how that actually we we put some time ten it until next week and I can give you eighty price and you can invite anyone of your does the recordings of things.
+
+Client 2: Perfect. And then what remember last time he spoke there was all...
+
+Client 2: you and I I think officers spoke we didn't speak on a zoom meeting with last time we spoke in a virtual environment last time.
+
+Host 1: Yeah. He's spoke that in the virtual sales.
+
+Client 2: Yeah. And so what is is that's related to this though? Correct?
+
+Host 1: K that that that's a a a product that is separate, you can base with it or separately, and it consists of basically like, shadowing you'll still see at the hills calls.
+
+Client 2: Got.
+
+Host 1: It can also be used as like, a built office of sorts.
+
+Client 2: But, okay. So maybe maybe my question would be is how to how are you related to both of them? They're both, like, products that you're you and your team developed. Is that correct?
+
+Host 1: That's right. Yeah.
+
+Client 2: Okay. Alright. Any other... And is the virtual assistant another one that you're working to develop?
+
+Host 1: That's right. Figuring figuring things out the competitor say yes we have a lot of single though we're probably going to reduce these threads and just focus on like the Ai side of things.
+
+Client 2: I'm sorry. You're gonna reduce what?
+
+Host 1: We're gonna reduce some of those things that they have on the store like that and like, shut down view of these products. Including like, for the space, I think we're going to shut down soon. And the... What we're going to focus on the Ai side of things. Hence my questions today Got it.
+
+Client 2: Okay. That makes sense.
+
+Client 2: Yeah. My Tuesday, Wednesday of next week is pretty flexible well. Who's wanna to drop an invite and then I'll put people on it.
+
+Host 1: How is Are on specific?
+
+Client 2: No. I'm eastern.
+
+Host 1: Okay. How would how would want I would four Pm is still... We're pointing to lead. Would Wednesday at like, I'm still confused. Because I have a flight and it's Po when it is would Wednesday at the Pm work.
+
+Client 2: Perfect.
+
+Host 1: Alright. Beautiful. Thank you so much. I'll send you invite by the way.
+
+Client 2: Great. Sounds good.
+
+Host 1: C and I'll give you... I'll give you the a price so you can you can you can add add one.
+
+Host 1: Okay.
+
+Client 2: Cool. Okay.

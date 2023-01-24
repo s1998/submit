@@ -1,0 +1,485 @@
+Host 1: Maximus, Was Jericho's joining.
+
+Host 1: Hey, Jericho.
+
+Client 2: Hey. Is How's it going?
+
+Host 1: And how you? One time?
+
+Client 2: Yeah. Yeah. It's been a while.
+
+Host 1: I I wasn't expecting that email, so I really appreciate you thinking of me and and then reaching back out. Congrats on the.
+
+Client 2: Yeah. Thanks so much. Yeah. We weren't we're expecting you really yeah worked Like doing raise process, but got connected with these investors and just kinda worked out. So, yeah. We're we've been hiring a bunch obviously, like, burn is top of mind I really trying to kinda my my next book is personally is gonna be sort of the P a function hiring and or really, you know, some of the individual contributor work needed for it. So yeah, we're trying... We're trying to get and I'm not a huge fan of traditional Excel models. So Yeah. Potentially excited about Bubbles x.
+
+Host 1: Got you. I hey Harrison nice to meet you.
+
+Client 3: I definitely potentially excited about Mosaic is a great.
+
+Host 1: Love to elaborate on that. I thought you guys doubled in head counts i've from nine to eighteen. That's one, really exciting. But... yeah, I guess, So since we didn't really do a proper discovery call, like, we normally do and I do wanna look at you guys to the tool. We kinda like we're thinking doing, like, a discovery demo call. So we'll get to the tool, of course, but would still like to really understand what exactly aside from, like burn. You guys are looking like, what challenges you're facing today? And really just, like where we can fit in here.
+
+Client 2: Well, it's do. Yeah. Do you want me to start off with that?
+
+Host 1: Or that'd be great. K.
+
+Client 2: Yeah. So I mean, really childhood. Challenges wise, kind mentioned there, like, we've got a very static model if we want you know, if we want, like, true forecast analysis, we've got like, a million things that we need manually update kind of traditional Yeah. Just pretty static. Archaic some models. So that's like from an operational perspective from from a veteran's perspective, again, we don't have real time or really grade insight into burn which... And and the reason we care about that is, like, we wanna understand hiring decisions. Might really you know, obviously, we wanna be in the sweet spot of, like, we don't wanna be just not using any of the a capital we've raised, but we wanna still you know, stayed true to our sort of bootstrap roots and, like, be smart about how how we're burning. So obviously, like, time time to to solve, you know, cash runway run rate. And therefore hiring decisions based on that. Is top of mind for me. Aside from that, just like traditional Saas metrics, we got some pretty solid dashboard set up in meta or, like some more simple stuff, but, you know, more like investor friendly, like a ideally, like, if we could share like semi public dashboard. Not not public the wrong word, but just to like, investors, that would be awesome. So... yeah.
+
+Host 1: Okay. Well, no. Definitely. And then jump in a second here, but that's all recording base, which we're gonna start with the demo with. After quick slide deck, but is there it needs around the forecast side, like, you know, twenty budget, building out your revenue forecast, things like that.
+
+Client 3: Yeah. Revenue forecast gonna be nice. And, you know, c Think the basic stuff You guys are probably trying do the same step as we are.
+
+Client 3: Cool. So the do you know Adam long about? A front.
+
+Host 1: Yeah. He's at now.
+
+Client 3: We just hired his daughter actually.
+
+Client 3: Shit. She's... She. She was a dumb when he who's was over a demo, and then she's that is had a product for a second. Like, oh dang. We're gotta give this guys call in.
+
+Host 1: That's hilarious. Oh, yeah. We'll definitely let him know. That's that's I mean, thank you heard for reconnecting us, but that's pretty cool. Yeah. So we'll quickly get into a couple areas that we're gonna focus on today. I bring Maximus he's my engineer he leads the demo. And if you guys have me more technical of question He also has a finance background. So like you drawn. Also investment banking at, you know, a life ago or so. So can get technical there, but I'm assuming just And this might be an incorrect assumption, but just because you guys are smaller. I know you guys have, like, some usage component, but is Op I'm assuming is very simplistic right now, and it's just more focused around revenue is what you guys need forecasting.
+
+Client 3: I mean, we're gonna be going into our series b next year. Is doing, like, sixty million rounds. So I just gotta get kinda prepared on know, the financials that people would expect on a series b we were, like super over prepared for our and originally trying to raise it as a seed and we ended up doubling like, what we tried to raise. Wanna go into the beads then you know, same, like, overly prepared I mean, all the financials that people works back Nice.
+
+Host 1: Love to hear that. Alright. Cool. We'll we'll definitely go to scale with you guys. So have to rip us out and replace it in, you know, a year or so. Cool. So one thing just kind of a line around the whole golden mosaic and like make sure that you guys are spending lot more your time these Driving the business forward doing your fundraising, Really all those like, high impact. Rather than having to spend a lot of your time, like, doing that more data manipulation and getting to a place where you get your metrics. Because that is pretty low level and then you have certain also from there. So The whole point is to really automate the whole process You guys... Last time we talk using Quickbooks in have hubspot. Don't think you got an Hr system. Do you have one today?
+
+Host 1: Which one do you guys use?
+
+Client 3: Rip?
+
+Host 1: Perfect. Okay. Cool, rip... Yeah. So we can plug into that up for there is a caveat rip likes a charge on a per user per month basis for integrations. So one way that our customers get around it is just by uploading, which is totally fine. And just really wanna help you guys scale your business in a more data driven way. So that way, you have all this data it takes a really long time to actually get anything out of it because there's just so much to do. And so Gonna get you guys to that place where now you're doing the analysis. And then also help you guys if feel a lot more accurate, a lot less prone to air because we're taking out as spreadsheets. And then, of course, getting you guys all your key metrics exactly what you just said, Jericho, we can have you guys have dashboards. We share them out with investors, with certain commissioning. And then also just have a whole company a line around Kpis. Then, of course, building out all your models and Mosaic. Doing your scenario analysis, which I know fundraising requires a lot of that and investors require a lot of what I think is the most important here is making sure that finance is not a black box people don't know what's going on what their budget is. You guys actually collaborate with people who are gonna help make decisions in the company. So I think that we are this awesome but it has been six months. So I'll quickly go over, like, really where we came from. So our three c cofounder over here on the right, were among the first finance tires of pal and scale that team up from around eighty employees all the way towards Ip go and we're dealing with a big data issue. So they actually were growing really fast. Had changing environments and how there licensed some nice note data. To implement adaptive and airplane which I know Jericho you use adaptive in the past. A horrible experience with it. It execs we're not happy with the output. So they essentially ripped out both those tools you know how expensive they are. And create the v on a Mosaic at pal. So eventually, these guys left and went on to other finance teams at other B Saas companies. And quickly realize what they thought at a time was a pal issue. Was actually just a B b Saas issue where they didn't have a great tool that was able to change as the company changed. So when they Mosaic. Obviously, there was a huge market for it, and that's how we landed on our, you know, series b sixty million rays and pretty fast. So what Go ahead.
+
+Client 3: Let's wait.
+
+Host 1: Yeah. Went from f to founders in about three years. But let we'll walk through three steps today. So starting out with a process, just helping you guys understand how granular we get our data. Because it is really important to how we differentiate yourselves in our guest scale with you guys. And then we'll get the reporting layer, which is... It sounds like a big need right now for you. So we'll definitely get as Z as you guys want. Then we'll go to modeling, it does build upon reporting. And this is where you guys will handle all your printer models out side of spreadsheets. Cool.
+
+Host 1: Awesome Oh, sorry. One one question for Maximus gets into it. Anything that as far as, like timeline. Just kinda curious, like, Is this like a... Just wanna see what's out there type of situation? Is there anything that Is maybe be a big fire for you Harrison. Or you Jericho, that would be like, hey, this is a a thing that we could actually implement today and wanna do sooner because This is addressing like a big priority for us.
+
+Client 3: Here to hire Leaandra as and account executive, Jericho?
+
+Client 3: I mean, yeah, I guess probably, like, hiring and calculating, like, burn on the head count is, like, the first reason? And then yeah, just like, preparing for Series b financials.
+
+Host 1: Awesome. Yeah. I'll actually send you guys some case studies on those afterwards as well. Definitely mo if it's gonna be a big pack lot. Cool Awesome.
+
+Host 4: So we'll kick off with the integration process here really foundational to how Most works, how this sausage is made. So it'll we'll spend about five minutes explaining how it's done. The key takeaway here is that we do have native Apis into your core source systems. Quickbooks and Salesforce. So you just log in with sorry, Quickbooks and Home hubspot. You log in with your admin credentials. Pull over all that relevant data into the tool in about thirty minutes for that first time sink and then really from there, Mosaic will become that essential source of truth for all of your financial information.
+
+Client 2: What's the real quick... Just on... I see the payment section there. I we use authorize out there. Would a little surprised if you agree with them, because they're they're right. What's the benefit of integrating your payments in addition to like, your your accounting system. You know, things already categorized all stuff. There a benefit to create both?
+
+Host 1: Not everyone has billing solutions are really more for customers at are self where they have, like, you know, this started for free or or something like that. If you're invoicing your customers through Quickbooks, then they're really for it.
+
+Host 1: Or how guys building out customers?
+
+Client 2: Yes. We... It's automatic really, but we do create invoices in in Quickbooks. So all the data that is Yeah. Yep. Any any data that exists in authorize on network what exists in Quickbooks as well?
+
+Host 1: Perfect. Yep. And we'll actually show you a couple templates that we have on that just because having the dating books really does help us show you, like, overdue invoices, c whatnot.
+
+Client 2: Mh. Perfect. Yeah.
+
+Host 4: Awesome. Any other questions here with just the connection process?
+
+Client 2: No. No from mind. Cool On the Quickbooks mapping process, what we're gonna do here is log in with your Admin credentials.
+
+Host 4: It's a cloud integration, and then we're gonna pull over all of your transaction detail vendor level details. We're gonna do a mapping process where we pull over all of your Gl accounts here on the left. And then we're gonna map them roll them up into these categories on the right. Categories are completely customizable to you. So really however you wanna to visualize this data to board to your next investors to your Ceo, etcetera alright. You'll just do that within the tool. Takes about two to three hours end to end. We'll sit down with you during setup and then hand you through this process, but just know as you scale as you add gl accounts through chart accounts as you're using like the class fields in Quickbooks adding departments you'll be able to add those into Mosaic and self boy.
+
+Host 1: Are you guys using the class today? Quickbooks for departments.
+
+Client 3: Yeah.
+
+Host 1: Okay. No worries.
+
+Client 3: Cool And as we've learned recently, Quickbooks is even great for multi billion dollar company It really is.
+
+Host 4: With hubspot, key takeaway here is that we customize your instance a hubspot, we pull in any custom field, any custom object I really wanted to sit down with you and understand what those are. And then Mosaic will pull those in for you.
+
+Client 2: Awesome Awesome. Okay. Assuming this is like it... Yeah, pulls like, deal data to help with, like, Arr forecasting things like that.
+
+Host 1: Exactly. Yeah. So we'll get all the pipeline level data. Really these fields are also great for like, slicing and d data. So if you... For example looking Arr and where slides by product line, if you have that. Build in hubspot, then we'll be able to use it to segment your data.
+
+Client 2: Great yep. Cool.
+
+Host 4: Cool. So with that would jump into the live, this is called the Analysis canvas It's part document part dashboard. So think about anything that you can do in like, Google slides Powerpoint notion, Google sheets you can do here in the tool. Correct? Like, notes takeaways, action items, what have you? But the power the tool starts when you hit the plus button on the keyboard, This is where we have over a hundred seventy out of the box financial metrics. Sas Kpis, Kpis, as well as pipeline level metrics for you. So you just type in a metric name. Maybe it's your Arr as an example, your Arr changes, And then, Harrison, I know you mentioned customer acquisition cost and let's also pull in your acquisition spend here.
+
+Host 1: And burn. Cool.
+
+Host 4: And. Awesome. So once you hit confirmed, we'll pull all these metrics onto the canvas, it's completely customizable to you. So you can drag and drop these charts. You can change the size really however you want. Then because we're integrated to your underlying data here, you can always drill in those individual customer level details in any given period.
+
+Host 1: And these calculations are gonna be set by you guys. So you know, these non Gaap financial metrics like Arr, definitely bespoke to how you guys calculate them. These are what we're we're gonna understand during the implementation process. And then our team sets up everything in the back end, to create that logic. You guys will never have to coat out a Mosaic. And to maintain it also no coding either.
+
+Client 2: That's great. Is that pretty the maintenance side of that? Is that pretty self like, we're were to slightly adjust the way we are calculating arr or something or Would that be, like ongoing. Like, do we have like ongoing integration help there, I guess that's two separate questions.
+
+Host 1: Answer to that is actually yes for both. So you guys definitely can have it be self serve. But if you guys did wanna pull in our team, you have unlimited, you know, ability to utilize them. Definitely don't need to, like, hire consultant or any third party to change these metrics. But if it is i mean, I think right now when we do handle most of the metric calculations, but we actually are coming out with custom metric bills or adjustment to the weighted of metric is built the logic behind it. The time you guys go live unless you're playing on, you know, starting today, it's gonna be available. So it actually was released on a webinar any Yes. Sometime this week, so it's literally brand new.
+
+Client 2: Cool.
+
+Client 3: It's probably asking because of the... you know, like, right now, our model is usage based. So our revenue will fluctuate from one month to the next. You know, like, black November, we obviously like a huge amount of revenue. So you gotta maybe be doing some type of like, linear regression or like, C analysis to kind of forecast in the future.
+
+Host 1: Yep. Everything we're going through first in this analysis canvas is past in present reporting, and then we'll go into the forecasting. And we look over the forecasting tab. But one thing that I have questions for you guys honest it is usage based, everyone kind of does this differently. Do you guys report on Arr, Do you guys revenue? Like, do you guys consider be occurring because a lot of companies that are not really recurring say it's occurring because it's you know, how their investors want it to be reported, but how do you guys find that?
+
+Client 2: Yeah. We view it a lot closer on the spectrum of, like, through like, one time revenue compared to like a recurring contract, we're a lot closer to, like, recurring contract partially, Well, mostly because our revenue is directly tied to the brand's revenue. It's not like they could just, like, scale a seat down or scale their own usage down. Like, only reason their usage would drop is if their own revenue is dropping. So really, like, you know, our our incentives are, you know, directly aligned there. So we call it... Yeah. We call it recurring revenue. And and really, we think about it as revenue even though like a varies month over month just because of the of commerce, but, like, from year one to year two to year three, those numbers will look similar aside from obviously like, growth or or clients. So So... Yeah. Kinda Yeah.
+
+Host 1: However you guys wanna do it. Definitely if you guys did have, like, a a subscription the component, and then you want to look at Sas versus non saas separately, we could definitely do that. We have a lot usage customers. So definitely not anything new for us. But Markus why we click into the product line. Or show like a product line breakout. So these are where all those different fields that we mentioned on... We can bring from hubspot. And then enrich your data and have you guys be able to, like, view it. Have a way you want.
+
+Client 3: When my my say using classes and Jericho for Quickbooks or like the platform. They are versus transactional usage charges and Even like, if we launched the consumer subscription, Yeah.
+
+Client 2: Yeah. Leaandra Maximus. I'm assuming what we could do is just so because we're not using those today, like, we could just maybe utilize those class names going forward. Or tags or whatever we would use to segment them in this tool. And then we could say, like, if it's null then it's considered usage revenue because that's our core business model. And then if there's another value then it would be some other metric, is that would that be feasible we wouldn't have to do a massive like data update updating all our old invoices with those tags. That makes sense asking.
+
+Host 4: Yeah. Absolutely.
+
+Host 1: We also can, like, if you guys have a source through today that you already trust and have everything burst out, and we can ingest that. And then going forward, you could just, you know, make it more of a initiative to have your data have... Have your source data To have all the information. But yeah. Cool.
+
+Client 2: Well, that's great. Yeah. If you can do if if the tool natively yeah. Supports like Null value is one product line and than any other type of product line has its own specific tag that would be the ideal.
+
+Host 1: Pretty sure we can do that because our data team sets up the logic behind every single one of these. Like, with you eyes based on what you tell us.
+
+Client 2: So Okay. Cool. Awesome.
+
+Host 4: Awesome. And concept best practices that are Cs team can share with you like, one thing that we do internally. Is just under this data management globe. You can effectively download any of these rows columns these data. So if you wanted to, like, download your opportunity data, into, like, a full Csv with all the columns all the opportunity histories and then just fill out, like, a certain column. All at once really quickly instead of doing that in hubspot or, like, doing that Quickbooks, then you can re upload it into the tool.
+
+Host 4: Cool. So a lot of ways to, like, tag your data without having to actually do it in the source system.
+
+Client 2: As much as possible wanna of avoid like manual uploads. But that is that is a cool... Like, does that... Is that a two way is that sync in Mosaic. Obviously assuming just there.
+
+Host 4: But Sorry. You would you would upload it back to Hubspot.
+
+Client 2: Oh, I see. So you have like, the source. Like formatting automatic cool. Cool. Yeah. Cool.
+
+Host 4: And then last thing I wanted to walk you through here is, like, cohorts. So you know, for the series b i'm sure that investors are gonna wanna look at, like, cohort growth year over year, and just like, azure acquiring new customers twenty twenty, twenty twenty twenty twenty twenty one like how those grow over time. So this is a chart that a lot of our growing businesses are are definitely showing to their board. Great.
+
+Client 2: Is there any special tagging needed for that functionality or is it just... We could just do it based on, like timeline, like, when it was when the deal is closed or something?
+
+Host 1: Exactly. Yeah. So this is one area we're auto your data. Just based on what you have in your system for a deal close year or date or...
+
+Host 1: Right. And all of these charts although they look great for, you know, drilling and anyone else in the business, he just wants to trends. If you want to dive into this little bit deeper Jericho, can always swap these to a table. Add in, you know, a couple layers deep and then do some investigative analysis if investors are asked like hey, what happened in you know, twenty twenty one, why, you know, the growth slowed down or whatever may be. Can really quickly get down to background level detail.
+
+Client 2: Super cool. Oh you broken down by... Well, It's great. Mh. Well.
+
+Host 1: And then flipping over here, we also said you have all of these pre made template. So if you did, you know, we have what we just on all these important metrics, but if you did just wanna get started a lot more quickly and you don't, you know, you wanna take the five seconds it takes to look up all these metrics. We do have all these different dashboards that are created specifically for the things that you guys are asking for. Course like burn multiple. We have, like, a full saas metrics. We have cash flow, which I think is probably super important and then also operational efficiency. Which is kinda of like old standard for what investors are looking for.
+
+Client 2: Yeah. Could we go to the the burn? Sign of things and see what that looks like And he'd like, to operate like, how we would set that up or or just understand it in the mh.
+
+Client 2: The tool?
+
+Host 1: So literally, as soon as your Quickbooks data is connected, all of this information will pull and populate for you guys. So this is an automated dash word, you can drill into any of these bars, of course, just really great to share out. Like you were saying would, you know, julien in other exact level or investors that he wanted to. But can have everything defined for you, like, all these different metrics, they have definitions you guys can yourself, but just gives you you guys a really great insight into every literal ever point of your business. Just zero hundred.
+
+Client 2: From the sorry from the forecasting perspective, you know, like, as we get no, additional cash into the business from like exit from the existing round or, like, current... Like, yes. From a forecast perspective, how does how does, like because obviously, there's, like, big one time events, like, revenue i'm assuming there is some automated functionality, maybe we could modify that manually that will be a question I have. For now, I'm trying to understand, like, totally things like a one time cash infusion or if we decide we wanna take all like, a debt from like, a that provider like, things like that. How we include that at the forecast.
+
+Host 1: Yeah. It's a great question. So kind of to bridge the gap because we handle that on our balance and we can actually have, like events like, fund races and debt financing and things like that really quickly before we get there because do wanna show you how, like the analysis in forecasting all comes together. To the... isn't update. Yeah. Perfect. So this is kind of exactly what you were saying where you have this like, dash that you can share out with investors. So Mosaic is unlimited viewers a users, so you guys can bring anyone internal external the tool, This also does a really great job showing how we actually mirror other datasets. Like Arr account expenses runway away. Again, you can share this out with that one, but then the powerful part about this is for your investors instead of just showing them, past in present reporting, which a lot of like, you know, Bi tools, maybe your meta Salesforce does, we actually we go beyond that and since we're about to flip over to the forecast side of the tool, can overlay the future forecast on the same. Well. So that way, you know, you can say here we're trending towards a really big q four know q wine is a little bit slower because of seasonality but that's on par with what we typically see.
+
+Client 2: Cool. Okay. Awesome Any questions on the reporting layer before we flip forecasting.
+
+Client 2: No. I mean... Yeah. I I just thinking through like, how this will work. Logistically to set some stuff up, I'm sure that's simple and we don't need to just spend the time doing that right now.
+
+Host 1: Yeah. We'll go through implementation at the end. It definitely is you went through adaptive implementation, it's nothing like that. That's kind of trying to avoid. So it is a lot more out of the box. That's our niche is like this Beauty b Saas space. So because of that, a lot of our functionality is already focused on that. So we don't have to build it up from scratch every single time.
+
+Client 2: Cool.
+
+Host 1: Harrison any thoughts from you on the reporting layer?
+
+Client 3: Yeah. Looks good.
+
+Host 1: I don't wanna assume, but I think that this does what you were asking for as far as needing all those metrics for fundraising?
+
+Client 3: Yeah. I mean, see. Yeah. I guess we gotta, like, look at the templates and then figure out, like, you know, what we need to customize. But... Yeah. We're looking for, business updates basically. Especially, we're... you know, gonna start Having board meeting, so that can also be helpful we're, like, quick slides in the Board meeting business update you?
+
+Host 1: Exactly. Yeah. And you guys can print go ahead.
+
+Client 3: Guys do you guys use this for your own board maintenance or resin?
+
+Host 1: Yeah. I mean, I think that's actually one of the reasons why we were able to secure one really top tier investments serves and funding really quickly was because message were asking founders for questions, and they were able to get them answers like within a couple hours. And they were like, wow. Usually should take days to other analysts and, like, we were just able to, you know, turn around those answers and get a little bit more granular with it.
+
+Client 3: Yeah. Awesome. Yeah. I mean, like you said, we use meta database. We have, like, replica it is stuff like, database, and we have some reporting dashboards on revenue and things like that. But I think, like the formulas will be valuable. Like, know, having out of the box, like, calculations And this is the format a little bit. Or geared towards of financial looking slides. Totally.
+
+Host 1: And we do... Since we do pull in on hubspot, you could... Like, there's a definitely a really great workflow through here as well. We can go through it if you guys wanna see it, but there's pretty much. Insights beyond what's within Salesforce, we actually pipeline pipelines snapshot on as that way you guys can see how deals are moving along. But one thing that I will say that's a big differentiator from finance using, like your meta, your Bi tool is just the fact that typically, you want your data scientist to be focused on the product and that side of things and not on, you know, creating the metrics for the finance, so this just gives them more bandwidth back on their plate, and then you guys can get exactly what you need the buy side. Cool. Oh wow. Maximus this Dashboard what looks different from last I saw. Color look brighter. Cool.
+
+Host 4: Awesome. We'll jump over to the forecasting part of the tool. So this called the model's module first thing Wanted to call out is how to create a new forecast within the tool. So You click on this green new icon up here at the top. It says this new model, you type in a model names maybe this is your Fy twenty three to twenty four budget. And then you do two things. You just need to pick when you wanted it to start. So when do we pull in actual as of? And then how far into the future do we want to forecast? Now once you click create, oz, Something think that is unique we're gonna spit out a baseline scenario a fully integrated three statement cash flow model. So it goes out to the forecast end date in this example twenty twenty four and it starts in October. And the way we're able to do that is by taking all of your actions from Quickbooks all of your head counts data and just run rating everything into the future to the end date. And what you're gonna do is go into each one of these tabs and then make specific assumptions based off of the way you wanna model your business. So really just giving you the framework for the model out of the box. And then you'll go in and make those individual assumptions. Any questions, we'll walk through each one of these components individually. After this.
+
+Client 2: Yeah. So it sounds like it's sort of the same So I'm I'm picturing like, okay. We we create this model now then in a month or two months, we wanna update it to be you know, to move essentially like historical versus future. Marker, can we just do that? In the settings or do we have to create a toll model or how does that work?
+
+Host 4: Yeah. That's actually the bread and butter of the tool here. So you'll see everything in white These are your actual from Quickbooks. Everything in green, That's your forecast. So this model is through October. You can do two things. Maybe this is like a model that you wanted to publish and memorial and have to do budget versus actual against? Or maybe it's just a model you wanted to roll forward for the next month. You just click edit model details. Then you would just pick November and then you just hit upstate.
+
+Host 4: Oh, it's great. And now we're gonna pull in all of your actions from Quickbooks through that new date.
+
+Client 2: And we haven't gone over yet, but I'm assuming we can, like, manual you modify things. If we edit that date, we'll let that override any manual changes we've made or no.
+
+Host 4: No. So all of your assumptions and all of your formulas would stay intact. The only thing that changes is the the actual are pasted over that forecast.
+
+Client 2: Okay. It just the only ones that existed already. And maybe you're getting to this. But... So for example, if we wanna add in you know, additional cash infusion equity or debt. How would how would we add that into to the forecast.
+
+Host 4: Yeah. Great question. You do that on the balance sheet? So this income statement planner, this is gonna pull in your income statement directly from Quickbooks all of your Gl accounts here bucket it into these groups. On the balance sheet, you'll see all of your balance sheet accounts here. And then to create that cash event. Here you'll see like, our cash and equivalents roll up with all of our cash accounts. Into the future. You'll hit events You'll click create a new event. This would be a fund raise you pick when you want that fund to happen. So let's say August the twenty twenty three. It's gonna be one month. And then you just add in the debit and the credit. So take our cash account. And then we'll pick our stock account. Awesome. And then we have guard rails around the tool. So if you type in call it a million in cash and then ten million in stock. Wanna actually be able to make that entry. Then the all. So we make sure like, everything ties out for you. You click confirm now you have that fund assumption. If you go to the balance sheet, you can see that fund raise.
+
+Client 2: Well, it's great. And then... Yeah. And then that's what where you're talking about that. Event would stay Would stay there no matter of what changes other changes you're making?
+
+Host 4: Exactly.
+
+Host 4: Cool. Yeah. A lot easier than doing it in Excel for sure.
+
+Client 2: Yeah. I guess now then now I'm thinking of, like, hiring forecasting. Obviously, that's, like, we may not wanna type in, like, sixty different hires like, how would we how would we forecast higher Mh.
+
+Host 4: Great call out. So two things here. We're gonna pull out all your existing employees and white. So these are all of your actual. Then down below, this is where you drop in that new hire forecast. There's a couple different ways you can build it. You can do a bottoms up approach where you click add a new hire. Maybe you want to add in like, ten hires total. You can copy and paste this in from, like a Google sheet or a spreadsheet. So if you already have this data, and something else. This is just an example sheet that I use you can copy and paste it in like, super quickly. Or you can use a tops down forecast. Where you're just creating individual profiles and individual roles. So maybe this is like your account executives, in your sales and marketing department what say a a remote full time. And know, they have a a certain salary. Then on this top down profile, you just add an forecast here. So you say, hey. Pick that a. I just created. Was at one in February was at two in May, and then.
+
+Client 3: Yeah. Can't doing anything around the sales? Like, I mean, they're eighty k days, but they're I've expected to hit on target earnings of one sixty.
+
+Host 4: Yeah. So here, you can build in the variable pay. And then you would just do this monthly. If they're paid by plan.
+
+Client 3: That's always like static amount.
+
+Host 4: Yeah. So If you wanted to create more of like a dynamic commissions cal, that goes on the revenue forecast. And that can be linked to your bookings number. So as your bookings number increases or decreases, or you're making different forecast assumptions. Than their variable pay. Would also increase your decrease.
+
+Host 1: Yes. So this is a static amount because it's more like, hey, when we hire someone we're accounting for, like, know, a hundred and sixty thousand Ae cost or whatever that is. For the salary expense in the future, but then with actual and if you did have people in seat, can definitely have your commissions income statement account, linked to your top line planner, that way you can have. Mh.
+
+Client 3: So it does it based on historical on the commissions account, like Quickbooks.
+
+Host 1: So some people actually will build out commissions. Like, depending on how complex the calculation is. And if that is a pain point, we can definitely, you know... Understand that and see where Mo can help. But in this example here, What we can do is, like...
+
+Client 3: We we you a... We give a percentage of net billing to the account. So, you know, maybe we charge a hundred k, but then We have to refund, like, thirty k in order. So then net is seventy k. And then like, a a or get, like, ten percent of that. Or. And then Sdr are, like, a little different they're based on, like, meetings parked and something like that.
+
+Host 1: Yeah. So you guys could actually create that calculation the top line planner, and then once we do create that, we can link it but just give you an easy example. We can just click you know, pull in billings and do times point one percent. One other cool thing that we didn't go through on the analysis Canvas is that if you guys are paying Ae ease based on when you guys get paid, sharing out that billings and collections template is really helpful. That way they can stop asking in finance. Like, hey, they pay do they pay. And you guys actually like, hey, here your account, and here's when they paid and Now you're gonna paid.
+
+Client 3: Yeah. We're we're working on that right now with Meta trying to build out a dashboard and even like We have external commission only referrals to or people referred us an account, you know, they they would like get a four too. So maybe less granular less granular. But Anything like that?
+
+Host 1: I mean, if if the information is coming from How hubspot, we can definitely build that. Mh.
+
+Client 2: Very nice. Okay. Yeah. That might be a little easier than up. So these... I mean, we're already part of the way through that But that's... Yeah. That's great know. And i'm assuming we could just...
+
+Client 3: Like, how are we, like, in there what data sources are we're getting that from Jericho, Like we're obviously not getting the commissions from, like, hubspot. We're trying to calculate commissions, but we're getting that from Like, authorized dot net or how are we calculating net billings?
+
+Client 2: From our database? Because we're calculating know the on the back end we're calculating what like, the actual bill amount is. So just pull that number and then apply a percentage to it. Rachel I've been working on adding the deal... The the the rep to the deal so that can be fully automated. But... Yeah. I mean, either way we need the rep with the deal. If we go something like this or Just keep that. On the middle side.
+
+Host 1: I i definitely think there's value and bringing it into the Mosaic, i just because we can link to the commission's counts, I mean, you guys definitely can... If you're already doing a meta database you know, keep you that. The the one big value out here is that don't know exactly i'm gonna works, but for most the i tools, it does require licenses per user. Whereas Mosaic is unlimited. So if you guys, you know, scale and, you have a lot of aes ease, getting everything more of them a user when they're not really using it. They're just kinda, like, looking at dashboards. Could be a lot easier in Mosaic. And you guys had to use Snowflake?
+
+Client 3: Mh. Yeah.
+
+Host 1: We're actually gonna be in a room with In q one. So we'll be able to pull all that data as well.
+
+Client 2: That's great. I mean, we pretty much just replicates. Everything into. So if we can integrate directly with tools that were up getting to stuff like anyway, then know. I mean, maybe our data team would like if we're connecting to snowflake rather directly to this source data, so that could be that could be valuable.
+
+Host 1: Yeah. The benefit of connecting directly to snowflake rather into like, a meta base is that if we're connecting in Meta, we're at the mercy of your data science seem to create things of meta, whereas and Mosaic, connecting to snowflake, you guys can create anything you want with that data without having code and without having to rely on them. So just better to get that raw data. We are kind of approaching that Bi space with still having like, a focus, but with our custom bills are, able to really do the whole job without having to, like, have the technical resources to maintain it.
+
+Client 2: Yeah. Yeah. I really like the out of the box functionality. So... Yeah. Makes sense to me.
+
+Host 1: Quickly when I touch on here how we are driving some of these Op accounts forward because it is really extremely flexible and not sure how you guys bring it today, but it it can accommodate pretty much anyway method of doing it. And then we can go into the top line planner.
+
+Host 4: Awesome. So one thing was will do is calculate your historical averages. And then also calculate his dynamic fields. So in this example for your software subscriptions, You can click in and see all of your vendor details. Directly from Quickbooks by the accounts, so you know, like, exactly what you've been spending on. And then you can choose different historical averages here. To trend this cost out. And every time you roll model forward for the next month, these fields recalculate. So you're always using and up to date average. And then if you wanted to, let's say, forecast this per person, instead it per month. You can do that as well. And then you can also add in custom amounts too. So if you wanted to budget, maybe it's fifteen hundred bucks per person. For their the next year as an example, you can create those different drivers here.
+
+Client 2: Wow. Is this what was the jump here? Was... Was it like, people who use Excel and then come to this. Is there like, third part like I'm just looking at like, this is this is like the the future for sure of of modeling. Is it like do most of your customers you switch from, like, excel sheets?
+
+Host 1: Excel or other you know, other more like wait Fp tools, but mostly X excel yeah or she.
+
+Host 4: Cool.
+
+Client 3: This great that we didn't have to build this product on because our thing is, like, way last complex than this.
+
+Client 2: And Just...
+
+Client 3: If I just raise, like, way more money and not to build this That'd be great.
+
+Host 4: Yeah. Finance is definitely complex. I mean, like, we're building every single day. It's crazy how many nuances that you need in a tool like this.
+
+Client 3: Harrison gonna have, like, great engineers and you have great kidding ideas.
+
+Host 4: From my adam coaching your whole team.
+
+Client 3: Saying, like, Yeah. It it seems like your engineers have to they quite a bit of the financial logic into the code. So the balance of, like, working with, like, a finance guy with a engineer to, like, make doesn't work Any questions on this piece or I just like to see how that arrives at like, a nice clean number, like, how we used these models to to arrive at like, for example like, burning x per month or we have actually out of x months of runway, like, how do we arrive at that those sort of end and member goals.
+
+Host 4: Mh. Can do it a couple ways. So You can always change the time periods up here. So maybe you don't need a model a monthly basis Jericho, and you just wanna see, hey. What does it look like quarterly? Or even annually. Can just update the time periods up at the top. But every single model has what's called the model summary. And this is really like know, the visualization and the output. Of all of those assumptions that you built out. So it's your head count forecast. You know, by department by role, what your expenses look like for the foreseeable future, things like much are you spending per person over time? What is your cash or runway look like into the future, You know, how much are you burning by quarter? By month. And then what are your revenue assumptions as well as margin assumptions. So Pretty much anything that you're forecasting, you can pull on to this output page. Just like you can on that analysis canvas. And then always can just produce the financial statements for you. Your income statement, your balance sheet. And then your cash flow.
+
+Client 2: How does this work? Is this... Like, does this have a one Like, one to one relationship with the the model do i like, each model has its own like model summary.
+
+Host 4: Mh. Yeah. So each model has its own model summary. And then the powerful part about this is you'll see these scenarios and we'll walk through how to create scenarios in a second. But once this framework is bill Then you can toggle between those different scenarios here really quickly. So if you wanted to see you know, aggressive hiring case. Just click apply. And then all of your charts and graphs will just update with that scenario. Yeah.
+
+Client 3: And you can do like, different revenue projections, like I high low revenue, projections and Mh.
+
+Host 1: Areas. We actually have side by side comparisons. So one of them is top line comparison, looking at eighty percent versus a hundred percent and then all the downstream metrics that you guys care about from that. So Of course, Arr is like the main driver of this, but then how does our customer can't be affected by that, what's our cash balance as a result of you know, maybe not full attainment. So you guys can pull on along really anything you wanna see here to compare.
+
+Client 3: Is that a show Ac?
+
+Host 1: You guys could do that yeah if you model that out on the top line, far as like, hey, what if we have... Twenty five k Versus twenty six k or whatever it is. Could do that as well.
+
+Host 4: Asp ac. What's as Actually...
+
+Host 1: Good question. So if you scroll over the definition average sales price back deals in given period.
+
+Client 3: So within say, like, the last six months, that'll look at the value of each deal. And that's I'm assuming from, like, actual from like Quickbooks.
+
+Client 3: That i yep associated to customer. I doesn't show anything... I'm sure to shows everything by way. Like getting use to the metrics, But the like, actual versus forecast as like, you know, some sometimes are aes well forecast deal is like, a hundred and eighty k, and it turns out today like, you know, hundred and twenty k or something does it show the actual or forecast.
+
+Host 1: So if it's We have actual versus forecast for your budget, but for ae forecasting since they're typically overriding that data in Salesforce. We do show snap pipeline snapshot. So actually, maybe we could. Because we're pipeline snapshot the pipeline every week And then I guess if you drill down to the deal, then you can pull up the one deals and compare them. It's a little bit of a workaround, but it is something that we could create custom. But we would need it defined by you guys like, what, like, at what period do you want us to pull the comparisons. So like, if you're talking about forecasted a deal is at the moment they forecasted is it, like, the week fore it closed. It's always better for you have field in in Hubspot to define that, but yep.
+
+Host 1: You guys needed we had work through away.
+
+Host 4: Yeah. But Harrison, this is definitely a way like, Leaandra said keep the reps accountable. That's really like what it's best use for. So here you're looking at your pipeline by stage name, but then you can also just add in the filter of each rep. So here, you just click on the owner fields, and then we'd pull in all of your individual owners from Hubspot. So here we can say, hey, Let's just filter it for. Beyond. Right? And then now you're looking at only his pipeline over time. So you can see you know, hey at the end of the month. Like, did his pipeline just drop drastically. Right? Didn't he just push it out to the next month. Because we're taking a snapshot every single week.
+
+Client 2: Sounds was like there's a lot of stuff like, yeah. It seems like everything that we what. Is like pretty easily accessible anything think that we there's a lot that we could also add to our repertoire of tools pretty quickly. Seems like Yeah.
+
+Host 1: That's the the goal. It's a level you guys that way, you don't have to spend your time doing this. Because it really would take, you know, months to kill this data. And then to update it would take, you know, just as long.
+
+Client 2: Right.
+
+Host 1: I think last thing is just quickly to walk through the top line printer. How are you guys projecting at your revenue today?
+
+Client 2: Manually?
+
+Host 1: And what's your strategy behind it?
+
+Client 2: Oh, oh. Yeah. So this will be tricky. I think I kinda doubt that there's, like, data functionality for this, so we may... Like, should be how you guys think about this. But There's two components. There's our current customers. And then new customers obviously, but In terms of our current customers, we... Because things are cyclical for our mers like the annual revenue. If it was just on that on an annual basis, it would be for would be super easy. But, like, on a monthly basis, like, like one of our brands, for example, they do Well, I mean, Harrison we were just looking at them. They do probably eighty percent or ninety percent of the revenue in the month months of November or December.
+
+Host 4: Yep.
+
+Client 2: Super simple cyclical cool. And then there's others that are like more groups like, you know, they do they have good summer months or they have good winter months. Every... Every brand we'll typically have good black Friday time Monday. So Essentially, we So I guess just to sync thing answer your question. On an annual basis, we take a growth rate on when we're forecasting on a monthly basis. We'll take a like, sort of a baseline We'll take the annual number and make it a monthly number. And then we'll adjust we'll add like, a a adjustment percentage based on the month that it is. So you know, if it's a high high growth month, maybe there's an additional twenty percent that month. And then a a month that's like a low month, maybe we'll decrease it by ten percent so there's... Yeah. There's... And and again, that's different for different stores. Like, maybe we'll have, like, four or five cohorts words of like if it's if us if my brand is tagged as this, cohort, like a good good summer month. Then it generally follows this trend. If it's a holiday brand that they'll follow different trends. If that makes sense.
+
+Host 1: Yeah. No. That that doesn't sound too complex. The thing that would definitely help as if in your hubspot, you guys had a tag for, like, how you guys categorize that? Because we can pretty much pull in anything from how to spot Assuming that you guys you're using hot hubspot. Here and then filter down by that tag. And then apply whatever kinds of seasonality you guys see with them.
+
+Host 1: So this top line planner is the most flexible part of our tool. It's much like an integrated spreadsheet that sits on top of all your data. You can query any of those metrics from the outside of Canvas. Apply them here, like, for example, net dollar retention, you know, you can pull in accounts from Hubspot, do you pull an opportunity level data, and then know, build up your model exactly how you're doing it, but just in a way that's easier to roll forward. Can build in waterfalls here It's super powerful.
+
+Client 2: Cool. Okay. Let's... Yeah.
+
+Client 3: I mean, I think of it as like I don't know. Like, an increase in percentage by month. Like, as we have more years of data, obviously, will see trends more, but, you know, we if our if January is a one in November is the for always, and we can just do it, you know, increase in percentage for projected revenue for that month like we we know that it's gonna increase by four. That's how we always did it in e commerce was, like, adding those multiples by month. So Yeah.
+
+Host 1: can do and do often is if you guys were interested in having us validate your model, we could send out a mutual Nda. Can look at it and just be like, yeah, this is pretty standard. Like, you guys will definitely lean on our Team a lot. We have White glove service. So any questions you guys have, like, for any use case? Just ask we can typically, the tool already has a way of doing it. mh.
+
+Host 4: Yeah. And like, Black Friday, cyber Monday, holiday shopping, that's much like the busiest time i year for you guys. Yeah.
+
+Client 3: Yeah. So far. Mean we started really just started ramping revenue this year. So it's kinda hard to tell I just much our first full year of revenue. Wasn't just, like data Yeah.
+
+Client 2: So I I was the the Guy for the for the Cro route for forecasting head count and very pretty similar business. We yeah. I think we expect... I mean, if if we're doing just like a general forecast, I think, like a you know, not breaking it down by customer or by customer cohort. And I think, like, just a pretty simple month monthly overall seasonality of work. Long term, I'm sure we'll wanna be able to, you know, pull broken down my customer top line number, But maybe, yeah, Maybe we would just start pretty much doing Jebediah what Petunia described. Just like a pretty simple, like adjustment number by month to the top line. That could be mean, that could be. Just like it started quickly, I think.
+
+Host 4: Yeah. It's it looks like this when you start... So it's really like a blank shell where you have the ability to start from scratch, but the powerful part is you can pull in any metric, like, your revenue. Directly from Quickbooks as an example. You know, filter it down for your software, your subscription revenue or like usage or platform fees? Really easily here. And that just built it up like month to month. Using formulas or using growth rates.
+
+Client 3: Yeah. The way that I had used it too for, like, e commerce inventory planning was that each customer could have a different forecasting style. So I guess that is gonna like Jericho was talking about like They have one customer that is highly seasonal in q four, and then we have another customer that's more, like static throughout the year. And you can kinda select, like, which customers are in each profile?
+
+Host 4: Mh.
+
+Host 1: Can totally do that. I kinda curious how many customers you guys have today.
+
+Client 3: About fifty.
+
+Host 1: Okay. I mean, you definitely could build it up customer go by customer and apply their own seasonality. Obviously, as you guys scale, it'd be kinda hard to keep that going. But if you want to, you definitely could. Or you guys could, like, bucket them into tiers, maybe break out your top ten customers talk fifty and then had the recipe be like more know, one together, you have total of ways do that. And the logic and language we use around this is just like excel cease logic, So you don't have to learn new language like you wouldn't like an adaptive or whatnot, when you are building this up.
+
+Client 2: That's great. Yeah. We probably would wanna do it that way where we're, like, forecast thing. A little bit more manually the top ten or twenty brands because if we're, you know, getting good for signing the the level of brands we are that those brands will you know, be we're pretty heavy heavy centralization of revenues? But then to rest, yeah. Just like group into the buckets or something.
+
+Host 1: Perfect. I know we only have a couple minutes left here... I mean, I don't have a hard stop, but I definitely respect your as a time if you do. We do wanna go through implementation and pricing, but just from seeing the tool, I mean, do you think this is potentially something that you guys would wanna get, you know, moving on Sooner, I know we're up against, like, two weeks here for that of a year, not about even a possibility. And I don't wanna push if it's not, but know that we're up against, you know, some big goals and can definitely work with you guys on pricing a bit more if it is something that you guys are open to.
+
+Client 3: Yeah.
+
+Host 1: Okay. Cool. Awesome. Let me share my screen. Cool, so Maximus, I know it's a little late for you. So if you get a drop off, I dismiss you. Got it.
+
+Host 4: Jericho Harrison excited to to chat soon.
+
+Client 2: Yeah. Appreciate Maximus.
+
+Client 3: Yeah. Of course.
+
+Host 1: So as far as implementation goes, it really should be relative seamless. We definitely will wanna go through a scoping call after this. So just like, you know, go through any nuances that might come up since you guys do have, like, that usage and seasonality component, but, you know, it should be fine. Our team likes to know what's coming on the pipeline. But really, we'll get into a much more detailed scoping. Much more details to go be joining for my phone so.
+
+Host 1: Cool. Perfect. During implementation, that'll just help us understand like, what kind of watch of you guys put to those non gap metrics, like group top metrics and whatnot, your Erp and your hr they just Jericho...
+
+Host 1: Okay. Perfect. Your Hr data will flow in pretty much same day and all those templates associated will also flown same day. So if you need your like burn multiple, like, immediately, you'll get that like, first thing. And then from there, all the top like metrics, we're just gonna match it out your source of truth to make sure that you guys trust what's coming out of the tool. In that going forward, you also know, you know, what's coming on is accurate. And then our cs team will definitely walk through getting all your models and Mosaic to a place where you can roll them forward. As well as creating all those dashboards for whatever purposes you guys need them for. So this will process typically takes around four or six weeks. So that's our average. So can get you guys up from running you know, well, within the first for the year. And you will have three teams on our So we definitely... like I said, wanna make sure that you are handheld through this process to the extent that you wanna be our data architects get involved for everything. Crm related and billing related if you're billing ever changes out of Quickbooks, or, you know, goes to a billing tool. And then our Cs team is gonna handle everything from sort. To the life your mosaic partnership. So really anything you guys can definitely meet on them as advisors as well. All of our Cs team members are either prior Fp thresholds or Big four. So it can always ask them for best practices. You know, benchmarking, as you guys grow, what you should look out for and what metrics should be tracking to. Our support team is for like, tickets and bugs and whatnot. And it sounds like you guys will have a direct line to our product team as well through and daughter. But really the whole the whole goal here is to help you guys be success full. So if there are any milestones coming up like board meetings or investor meetings that you guys need certain reports or something for during implementation. Let us know that we can prioritize that, we'll back into need to do on our end, and we do have a bunch of training materials. We have one on one training. We have a knowledge base, throughout our tool, you'll actually get prompted with, like posting blue lights to learn out our features. We have webinars and we also have office hours. So a lot of different ways to interact and and get more facetime if you guys want. Cool.
+
+Client 2: Any questions?
+
+Host 1: Any questions on implementation?
+
+Client 2: Not from my end, now.
+
+Host 1: Cool. When more you guys thinking would be a good time to implement So as you give us the best deal on pricing, Alright.
+
+Host 1: Cool. I can do that. So just to show you guys what you guys actually fall into Smb tier, which is already a discount itself. And then we'll work for you with you guys from there, but everything went today is in our bundle and that is full tool analysis and planet or analytics and planning, the only other option is an analytics only, which means no planning, which people like you know, need the planning part. Typically, if you were... If your series a was announced online or if you guys were above thirty five employees. This is the rate you guys have fallen to Is thirty two thousand also with the podcast more implementation fee. It is all in it's all inclusive, unlimited users unlimited scenarios and data. And this implementation be will never ...come up again. So if you guys change your tools, me to implement maybe Salesforce, you want to pay this again. But for you guys at Smb, we do start you guys out with pretty much a well, five thousand dollars left the software and then two thousand hours off implementation, but like you said, like, if you guys can make a decision here before the end of next week because technically, we do have a holiday. That is we're off between Christmas and New Year's.
+
+Host 1: You said, yeah?
+
+Client 3: That's what we're also up we're also off there in that time frame.
+
+Host 1: Nice. Yeah. It's it's becoming more common which I appreciate. I never had that off course. So I really like it. But Yeah. So here is where it typically lands. However, I just know from, you know, talking with seems deals coming through and, like, you know, I have some deals that I'm also trying to build right now. Where we can definitely eliminate the implementation fee. So guys won't have to pay for that? One thing that we do is we actually offer two months free So fourteen month contract for the price of twelve, to help us keep our Ac a little bit higher. But to help you guys get a lower annual anyways cost. The floor to be able to that is twenty three thousand for the this bundle. So it comes out to twenty three times or divided by fourteen times twelve, comes out to an annual amount of nineteen seven. So that would be your guys all in cost for the first year. And that's pretty much like, you know, the best deal that we do is for implementation the two months free and additional off. So you guys will be essentially getting offer list price over ten thousand off plus the annual amount that is coming off as well.
+
+Client 3: Harrison so we gotta gotta have a pricing in our sales deck.
+
+Client 3: Yeah. We gonna hire less.
+
+Client 2: First we'll get implemented then we'll wireless hey.
+
+Host 1: I have a question for you guys. Completely unrelated and definitely wanna talk about pricing, but You guys have a proper recording right now?
+
+Host 1: That's fine. Do you guys have a sales team?
+
+Client 3: Oh, yeah.
+
+Host 1: You guys use a call recorder?
+
+Client 3: We've been using Fathom Loma.
+
+Host 1: Okay. I haven't heard of them. So I bring it up because I have his relationship with this guy who's... He's he's a founder he's creating like a a much cheaper version of Gong and like, I know Gong super expensive, but I we use not all gong. But he was asking me if I knew any small companies I needed it, and I actually have to who I do know that we're asking me about gong pricing. And so if you guys did wanna I think you could honestly maybe even I don't know about free, but I'm on a beta. Something that if you guys wanted that, it is super helpful sales reps and could introduce you tim. But santa upon conversation yesterday, that's why It's top of mind for me.
+
+Client 3: Yeah. Yeah. Sounds good. We we will use outreach and hubspot, but without have anything that does like talk analysis, Adam. We'll like, take your meeting and transcribe it pretty well. Let's you, like, jump into any point in the meeting on... like, if you wanted to search for a specific or something you can like, jump in the video. But Know people Talk pretty good that gone.
+
+Host 1: This is kind of similar. Actually, let me see if I have on here. So have one actually internally, but I have one here. And So it does exact same thing. It's like... But then it also has these metrics as well. So he is really trying of build like a gong, but knows gong is like, you know, really expensive and people always wanna make the cost for it. So I can definitely enter you guys and sure will be, like, super cheap. Probably beneficial.
+
+Host 1: Okay. Yeah. Back to the you know, original part of the conversation So, Jericho, and both... I mean, both of you guys really and Jericho, what do you guys think about the pricing and and timeline.
+
+Client 3: I mean, if you're saying that's the best price, you can give us all believe.
+
+Host 1: I mean, is... The best price that we can do as far as Yeah. I mean, know the levers the only... I think that we could yeah might have been a...
+
+Client 3: I think it might been a little cheaper less than we talked like in the twelve hundred range.
+
+Client 3: What is told?
+
+Host 1: So our prices definitely went up. And I think Why have mentioned that to Jericho. So I try to be transparent about that.
+
+Client 2: I don't remember that. So we want the old pricing Okay.
+
+Host 1: We definitely were never in the twelve hundred range because our old floors were still that they were the teens that they were high higher than that. So not fourteen four. If we did go any lower, we'll one I would have to ask for Which I can definitely do. It doesn't matter, we will lose it two free months And I guess what's most important for you guys is that some people really care about timing of cash right now, is it just like cost, just straight up number or what's the most important lever?
+
+Client 3: Yeah. I just cost Okay.
+
+Host 1: So Let me see. I mean, I I think I can match this analytics price. Don't know that I could go below twenty, like, twenty pretty much is our our new floor and that isn't for the full bundle, but I'll see if we can get twenty thousand if anything on top of that, like, if we cancel still do a free month or something, can do that.
+
+Client 3: That you said it was nineteen seven. There's Nineteen seven is with analyzing out twenty three.
+
+Host 1: So twenty three thousand divided by fourteen times twelve That annual analyzes to nineteen seven. So it it's kind of the same, but it helps us maintain our floors while getting you guys like a lower monthly.
+
+Client 3: Okay. Mean, see what you can do, we can we can sign by the end of the year, if you can get us some some good pricing in.
+
+Client 3: Yeah. Let me you can maybe maybe we can throw a pretty gong thing in there to you can start using your friend to upsell?
+
+Host 1: Yeah. I mean, I'll I'll definitely... you know, if you guys get that for free, which I think just asked to be on the beta and he say, okay, and, you know, provide feedback, then that'll be my little view You guys work with a lot of com companies?
+
+Host 1: We actually don't because typical like, our niche is b to b Saas with no component it. So we're gonna be getting into B, but I think we're starting with B apps and then inventory is a little bit difficult because we don't have inventory tracking in our system.
+
+Client 3: Got it. Okay. thing because, you know, if you had any referral clients or something we could get your commission on.
+
+Client 3: I know I actually...
+
+Host 1: I know some of my friends run like e ecommerce stops or like Shopify. We actually do have a pretty tight relationship with tap card though. I don't know if it's competitive you guys, but nice.
+
+Client 3: Actually, I got... I'm friends of Enrique to see Oh, alright.
+
+Client 3: So like, Fashion nav, I was there first customer. I I was the Cto fashion of and then got. So definitely working closer then we're actually working on our integration with them right now.
+
+Host 1: Oh, nice. Yeah. I... So before we... Mosaic used to utilize third Vp of sales now, a sales consultant from Jose before I started, but... And then I worked at a company called patient pop and, like, all those employees went to have part. So, like, I know a bunch of people there No reason. But... Yeah.
+
+Host 1: Right. But, yeah, let me on pricing. I think i Gonna ask for twenty k. I don't think we can go lower than that, but I'll see if we can do any, like, incentives on top twenty k. And then Next step would be a scoping call. We Harrison, I don't know if you wanna be on the call you don't have to be. But Jericho, would definitely wanna have you on with our data team, just to make sure that everything looks good to go. And we could do that tomorrow Monday.
+
+Client 2: Oh, great. Okay. You Monday. Well, What time works best for you?
+
+Host 1: I have Right where are you you're in Utah?
+
+Client 2: Yep. Yeah. Mountain time.
+
+Host 1: I'm free at nine thirty am amount time, ten thirty Am eleven and eleven thirty.
+
+Client 2: Is this pretty in like work working session? Like, like, are we talking like an hour or a half hour.
+
+Client 2: Half hour. Or less. Half hour. Okay. Yeah. Let's do nine thirty.
+
+Host 1: Cool, I will send an invite And then by...
+
+Client 2: Know what I forgot... It's not calendar, but I think I actually might have another meeting then. Sorry. We actually do eleven?
+
+Host 1: Sure. Yeah. That works perfectly. Yeah. So send a thirty minute invite, and then I'll send you guys both. I'll try and get some pricing answers have a impromptu your call my manager right after this. And then send you reform we can go from there.
+
+Client 3: Cool.
+
+Host 1: Thank you. great talking to you guys. Thanks for reaching back and we'll connect again very soon.
+
+Client 3: Yeah. Think Leaandra. Thank you.
+
+Host 1: Great. Rest of your week.

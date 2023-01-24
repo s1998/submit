@@ -1,0 +1,345 @@
+Client 2: Hi.
+
+Host 1: Hey we've got. Got twelve.
+
+Host 1: Hey. How are you?
+
+Client 2: I'm doing great. How are you doing Good.
+
+Host 1: Good good. Thanks for taking the time. We're all you calling from.
+
+Client 2: Well, I am in Jamaica.
+
+Host 1: Oh, great. Awesome. What what time is didn't jamaica go.
+
+Client 2: Four thirty one. Or eastern time right now.
+
+Host 1: Okay. I suck a Geography geographic my mind Jamaica i was way East Alright?
+
+Host 1: Well, thanks for taking the time by by way of equipment introduction Will the t mobile medical called tim flow. We will have, like, another product that's called Cell ai, and we are currently building a diet. Like, both salespeople people. And so we're doing a bunch of market research looking into the competition what they do well where they don't do well with like and on and so forth. And so I believe I found your name online you were leaving a review to K c on G two if I remember correctly. So... Yeah. You know, really just yield to heal about your experience to them and and and what you liked and and you didn't like and so. Perhaps we can kick it up please... Can you tell us a little bit more about you what what do you do? And what does your do?
+
+Client 2: Yes. So Flaming, we actually like all in one resident engagement platform. So work primarily with, like, apartments. There are two parts of the platform where we help apartments with, like, resident events. So we would handle the entire event for them The other part, it's basically where we provide them with an app. So it's an app that is completely branded to their apartment. And it allows them to do, like, multiple things from request than services, confirming events, like a whole list of things are able to do on the the app And and what do you do there?
+
+Client 2: Sales like are you like, an ae as deal?
+
+Client 2: Oh, Sdr as Sp How big is the company?
+
+Client 2: So the company we're actually pretty small, a start up as well. So, like, for the Sdr, they're, like five of us and two aes.
+
+Host 1: Got it. It's that's still something. And tell me about Kicks. How how did you find doubt about it in the first space?
+
+Client 2: Google search. So we were actually using hubspot for Crm. But like Hubspot based gonna i listen limit well it's good for as Crm, but we needed a dial that would integrate with Top hubspot. And that's how we found kicks see. So kickstart see we were able to integrate the dialogue with Hubspot. And so like, we tried it for less than, like, probably about two weeks, but it wasn't doing like, a lot of the things that we wanted it to do. We reached out to customer care a few times and they weren't able to basically provide the what it is that we're looking for. So shortly after signing up for kicks, we switched to dal pad and we've been using that part ever since.
+
+Host 1: What is it that you were looking for that kicks you didn't have?
+
+Client 2: Okay. So what we wanted was I think the integration that kicks you provided, I'm not sure if they've, like, changed. Or upgraded. But the integration that kicks it provided with Hubspot was pretty basic. So it's where So when it is that we called like, Hubspot had companies and they had contacts. So the contacts were tied. To the to the company. So with the limitation that Ke had was that what you made a call with K, it would create like a new contact. And we would have to manually go to Hubspot and add the contact that was created to to the company that Hubspot already has. So that was like created more work for us.
+
+Host 1: I see... And dial pad does not have the same coming No.
+
+Client 2: It doesn't.
+
+Host 1: How does they all do it? How does they open know what company to link up the to?
+
+Client 2: So I think with that pad, One thing is Based... Well what we're are seeing is that with the numbers, all the numbers that are on Hubspot once even if we dial that number, directly from from that pad dal pad is able to once the number it's already in hopes hubspot dial had automatically ties that number that we dialed to the build or the company that already exists in hubspot.
+
+Host 1: Wait. So just to make sure I get I get this right. So every time it dials that contact all the Crm.
+
+Client 2: For once a bill. So we have already, like, we've uploaded a ton of contacts to the Crm. Or ton off buildings to the Crm.
+
+Host 1: Okay And so a difference between K. And Dial pad is that Kicks he was recreating the contact?
+
+Client 2: Yes. That's exactly what happened. So K was recreating the contact. So even... So the contacts that we had, that were calling, Kicks wasn't actually tying then to the company That's sucks.
+
+Host 1: So then you would end up with like, duplicated contacts in your crm.
+
+Client 2: We exactly. Or we would once place the call, we would have to manually go and link the contact that was created in In that it's in Hubspot. To to the company And what happened when you reach out to k support about this At the moment, they didn't have, like a fixed.
+
+Client 2: So the the only thing they us i we're able to do as to do what we're continuing to do. Manually tie the contact to help but they didn't have... I'm not sure if they have changed. Or if they haven't done anything differently, but we they were to... The only fix was for us to add literally manually add that new creative contact to hubspot. To the contact not to the company. Sorry. So that was like, a huge problem.
+
+Host 1: Yeah. Do you recall how much K cost you and and how much dialed by you now.
+
+Client 2: In regards to the cost. So we found like the Crm to use, so we were the ones who actually paid. So we from the Crm that we wanted to use and we went our manager with the Crm, and he was the one who's actually paying for the Crm.
+
+Host 1: Got it. Do you also use a sales enable platform like outreach all sales left.
+
+Client 2: No. So we only, like, dial pad and hubspot or like, the two... What I use so I mean advocating for a polar right now. It's like a lead generation platform somewhat similar to Zoom info. So I'm of case for Apollo. Where are using it have been seen some results. So I'm advocating for a apollo to be one of the systems that we use.
+
+Host 1: And okay. So then dial integrate with Hap hubspot And how does They work. Like, is it like a pow data like it's there a list that it's putting from hubspot and then just dialed it sequentially, or or do you just tell it contact by contact good to dial Yes.
+
+Client 2: Contact my contact.
+
+Host 1: Won't you using Hap hubspot dial?
+
+Client 2: Okay. So with... dial pad. What we needed, we needed like, So hope hubspot does give you, like the the amount of calls that you make the duration of the call, but I think what my manager said that he needed us in addition to to hubspot was What was it? So, like, some of the things that he needed from from in addition to, like, because we were... We were like, expanding or a sales team. And while it is that dial pad... Sorry. Hope hubspot was good enough Like their dialogue was good in was good. He needed to, like, manage each rep rep and in regards to, like, the number of the interactions and Sorry stop the the... Basically, like, track to track each call at because even with the recordings, all the recordings that we do they're stored in dal pad, not Hubspot. All the calls that we make, everything is handled to directly through Hubspot. I think one of the problems... Sorry that pad. I keep lu duplicating me. But everything all the calls, everything is stored on dial pad because that part was provided more a better opportunity to manage a larger team than hub spot those are. That's one of the main major reasons why we decided it is a dialogue in addition to hubspot. Dial... Hubspot So dial pad gave your manager insights about the activity of each right individually.
+
+Host 1: Like, what what what ways did title pad make it easier for your manager to manage the team?
+
+Client 2: Okay. So on dial pad, we are able to when you're on hot hubspot, you're not able to see who is the status of each rep? So it's like after dal pad stores it, Sorry. Hope hubspot stores the information. After, like, after a call is made And, like all the information is stored, not in the moment So it's it's very important...
+
+Host 1: Okay. So dial pad let your manager on know life who is currently on the call.
+
+Client 2: Yes. Who is currently available? Who is? There's immediate status Oh, Yeah.
+
+Client 2: Hot hubspot doesn't do that.
+
+Host 1: And why does that better your manager?
+
+Client 2: Because, like, so the team is remote. So and I... For lot of teams that are he I think one of the thing is that he wants to be able to know who is been productive? And who is not being productive. In the moment, Yeah.
+
+Host 1: Interesting. Can you i I I I didn't ask, can you clarify to me how what do you dial about like, is it to make cold calls or like existing mails.
+
+Client 2: cold, Well, a mixture of both because, like, we send it for me in addition to, like, doing the sdr role actually call existing customers as well just to follow with them to get, like additional information in regards to, like, their events. So we use that that pad to call all our customers so both cold card and collin existing customers. And, like, if we want to send a text, i'd send them, like a text message, that that also gives us that the ability to send, like, text messages and like a real phone.
+
+Host 1: Would you feel comfortable table showing us what that looks like to you, like, sharing a screen or something.
+
+Client 2: Sure. No problem. One second Sorry. My daughter is in the background.
+
+Host 1: Oh, you'll all good. I i couldn't hear thing.
+
+Client 2: Okay. Okay. Share screen South pad You should be seen my screen now.
+
+Host 1: Yes. I am. Okay. So Can you walk me through what what you're seeing on your screen here?
+
+Client 2: Okay. So like I... So this was like a missed call. And it showed like the the message So the the... This is the recording and they basically have like a a transcription of the message as well. So with dial pad, we are able like, make life calls and to send messages and they're also able to have, like a video meeting as well.
+
+Host 1: Do you use that video meeting feature?
+
+Client 2: No. We mainly use, like Google meet. So we don't actually use this the opportunities there and this is like a text conversation that I had with with a customer. So in addition to the calls, we're able to send them text messages as well. Which this is not something that I'm not sure if Hot hubspot has this, but I know when we started out, we weren't able to do this with Hubspot.
+
+Host 1: Yeah. Why do you not use the video solution?
+
+Client 2: So with... I think from, like, meetings, this isn't like something that we've ever explored So for... like, we've been using Google Needs, and we've just decided to stick with that.
+
+Host 1: What do you think the?
+
+Client 2: Maybe because I've been using it for so long. It's been really good. And this is the other thing as well. So like or status, we're able to... And this is something where with my manager where he's able to view in real time so Like go our status where if we're available, because so we don't typically receive inbound calls. But we're able to, like, change our status available or we can go offline and it shows also all that information, is he has access to. And once there is a call, he wants to make a call All the recordings are said to him. So he has access to all the recordings that are there. With with Hope spot. The recording is saved directly on the... When we make a call the recording is that is saved on the call So on the contact or the the company information, that's where there and saved, but he has access to all the All the recordings without actually having to go on Home spot and going on the company and pulling the recordings from there. So that's one of the other reasons why he wanted to have a as What can he do when he sees your available?
+
+Host 1: Can he like live listen to the call or or anything like that?
+
+Client 2: So we... Yes. It does have the option we are able to listening in on once there's a call an active call. He sees that there's an active call And yes, he's able to listening on that call in the moment as well.
+
+Host 1: What do you think of that?
+
+Client 2: I know that probably it's not something that he has done or has used. But I think being a call center setting, because I've worked in call centers previously. And that is something that that that is one feature that are lot of content centers have have in place So you'll it seems like i'm mostly comfortable with with that with the Id idea that you would like live listen to your calls.
+
+Client 2: Yeah. Well, for me, I personally don't have a problem with it.
+
+Host 1: Does he actually... Can you show me what's the the the the meeting recordings look like?
+
+Client 2: The four dial for that pad?
+
+Host 1: Yeah. The call recordings that you mentioned that go to your manager.
+
+Client 2: Sure. Let me see if I can find, one of these And all the will to you and your manager managerial or to the rest of your team well only myself and by manager.
+
+Client 2: So on the call, let me see I can find a live call Okay. So on the calls, do spot. Once you click... Sorry, dial pad. Once you click on view full transcript, it provides the link directly to the call.
+
+Host 1: You show me what that looks like?
+
+Client 2: Sure. One second By the way, is that like a dial apple or or you in your web browser right now?
+
+Client 2: So it's not it's the It's not the app. But it's the extension.
+
+Host 1: Yeah.
+
+Client 2: So... Yeah. When I click on the the... The the extension this one pops up. But there is the live I can't see Are you are you showing you something else?
+
+Client 2: Yeah. Let me change this here. Stop sharing. And Okay. So this... So what bell has So what I show you before was, like where would we would make calls from? Now. This is where we're able to, like, view the the recordings So I signed him to my dial account no. So some no longer unlike the app to make calls. But this would give me the like the transcript, I see there's a lot features here.
+
+Host 1: Those like the highlights, the the comments Do you use all of those?
+
+Client 2: And so these are, like when we're having like coaching sessions.
+
+Host 1: And do you actually have these coaching sessions Not as not as frequently.
+
+Client 2: But when it is that we do, these are, like, where some of the comments would go.
+
+Host 1: How often does your manager actually leave comments on your calls like that?
+
+Client 2: Not very frequently. I think because so the team where a very small group right now. And so in regard In... I think what... For us right now, we are we are... Even though we're an Team, myself and probably another member. We for most of like, the things that we do, they're not, like, focused on outbound calls. So we we help with, like, for some of the events that our customer's request. We would like follow with them to ensure that the events get that they confirmed the events. So we are not really focused on feel so much right now.
+
+Host 1: Got it What do you like most of a dial that So one, when it is a year on the call, I know that Hubspot does this as well where the transcript is available.
+
+Client 2: On dial pad, you're able to see the transcript their the transcript is being done immediately. So what as you speak, they're they're basically transcribing what you're seeing. So like, if a customer gives me an email address, and I miss something in the moment, I'm able to get or to copy their email address without asking them to repeat. So that's probably for me. That's, like, my most favorite feature.
+
+Host 1: I see. That is pretty awesome. What else do you like them about it?
+
+Client 2: So, like, yeah, that's like what I absolutely love. But for, like, all the other things, I think most other, like, dialing in system, probably does every that that part like what every other system does. So nothing else it's outstanding. But from me that's like, the... That's the main thing that I like. Nothing else is outstanding about it. In my opinion anything that you dislike about it?
+
+Client 2: Let me think Not really not really I'm trying to think if there's anything that I'm like, oh, gosh. I like this. Nothing is comment mind Right now that I really dislike it. I think overall it's a good platform. Under their customer service, they're readily available. Like, if there's something Like, I've had an issue and I had to reach out to customer service and they were there immediately to assist. They followed up multiple of times just to ensure that My issue was resolved.
+
+Host 3: Have you used their desktop app?
+
+Client 2: At all? Yes. Yes. I have. I switched computer So the other computer that I have the desktop app, that was done loaded on that.
+
+Host 3: And what do you think about the desktop step?
+
+Client 2: So these... They're basically the same. So that's, like, one of the reasons why I haven't even bothered to download the desktop because this does everything that that the desktop app does Got it.
+
+Host 1: How did Kicks compare if you he leave aside the the ball hubspot integration, with all the pros and guns of t So most of the things like...
+
+Client 2: So using Kicks, the Like when I shared my screen we're able to, like, see the the transcription right there. So like this is like the major thing for me that kicks it did not have this a... This feature then. So this was like, we use kicks to, like about a year or a year and a half ago So more they probably have changed a lot of their features But when we use it, like, when we use K, we didn't have access to I think for the recordings the rep, like we we didn't have we the rep didn't have access to or recorded. My manager had access, but we did not have access to it.
+
+Client 2: See our own recording. So that was one thing. And we would... Yeah. But I think... like, for most of the other features, that kicks he has dial pad has as well like there no major difference.
+
+Host 1: When you when you dial someone, Especially when you called dial like, What what what information do you look at on your screen? If anything at once when when it is that we make a call?
+
+Host 1: Yeah i so the information that is there would be...
+
+Client 2: Let me go ahead and share this screen with you again. So when we're on a call, This is what would would be seen. And we'll see what the transcription as it is that we're speaking. There's also Mh go ahead Well, there's also the information that shows how like, if I'm speaking for, like an extended period of time, there would be a note...
+
+Client 2: That pad gives you like notice oh you've been speaking too long time listen. So there's that notice there in red that gives you a prompt. Okay, you probably should up speaking now and listen.
+
+Host 1: What do you think of that?
+
+Client 2: I think that is good too because sometimes as still salespeople we can get, like, overly excited and speak a lot more than the the customer which not probably not the best. So that part gives that prompt. Okay? Probably slow down now.
+
+Host 1: Do you have a when you connect with someone, do diego, like, look for information about them like, Know. The linkedin yeah.
+
+Host 1: Tell me more which one? Would you go?
+
+Client 2: They're linked to information, probably just find the on linkedin team. And Just try to get some more information about them, like, if they're if they... And this for us is very important, how frequently they are linkedin, what are some of the things that polls. What do they care about, just to get as much information about them before actually call in them or sending in them an email, How often do you do that?
+
+Host 1: Like, what percentage age of of your calls? Do you open the link for?
+
+Client 2: U for new calls for me one once you're making a call to a new custom basically once we're calling a customer for the first time, I try to look on linkedin as much as possible However, though one thing to note with this is that we do not have So we call like the apartments.
+
+Client 2: And a lot of times, we do not have, like, the name of the person who it is that we're reaching out to.
+
+Host 1: Interesting But but when there is a linkedin you open paper time.
+
+Client 2: Yes. Yes What would you think if your dial or automatically open the linkedin for you?
+
+Host 1: As you... With the moment you connect.
+
+Client 2: Yeah. I think that would help a lot. That would be a good feature to have.
+
+Host 1: We'll I I know are dying, but I have a few more questions. Are you able to book five the minutes over?
+
+Client 2: Can you give me a minute?
+
+Host 1: Please Okay.
+
+Client 2: One second Is Jebediah...
+
+Host 1: Would you be up to show the prototype. I have to jump actually to like another user results chat, but would you be able to show the other the type of and ends the sales floor. And then I'm curious about how our sales broken fails to like, dial pads like live listening, like thing to her. Yeah. Okay. Awesome. Thanks, everyone. See you guys later. Yeah.
+
+Client 2: Hello?
+
+Host 3: Hey, Olivia.
+
+Client 2: Yeah. I'm back.
+
+Host 3: Okay. Great. Okay. So now we'd like to just kind of show you a prototype of what we are working on to get your feedback, and it's a very early to type, so there's probably a lot of things that we're missing, but we're just trying get an idea for like, what we can build that would be... Basically be a competitor to to dial that Mh.
+
+Host 3: For you. So So, yeah. So basically, here what we've been thinking about is building a desktop app that would you know, that you saw on your computer. And and what you would do is you would connect your outreach or your sales or in your case Time spot and you would pull in your your call tasks from there from that Crm. And so once you've selected the the, like, the sequence, list that you would want to run through. You would basically have, you know, your list of all your contacts, and then you'd be able to start calling.
+
+Client 2: Okay.
+
+Host 3: Is there anything here that doesn't look right or or the utility is missing?
+
+Client 2: I think this looks good. So you'd pull in the the contact. Are you able to, like, import the the because, like, with helps hubspot we... In addition to having the the contact information, we also have the company details. And for our company. We don't die like the contact. So like, let's say we're calling apartment a b.
+
+Client 2: For the first call, we would probably not have the name of, like, everyone who works at apartment Abc. So would have to call the company's number or the apartment number before it is that we're we're able to have, like, each contact information. So are we able to... Like would you be would we have the feature to import the company as well as the contact information.
+
+Host 3: That is a good question. I don't know the answer to that. So I guess we need to look into that. I'm sure there's probably a lot of people to do that. Mh Okay. Cool. Anything else?
+
+Client 2: I think otherwise, it's good.
+
+Host 3: Okay. Do you generally leave voicemail mails when you make your calls at if we're calling existing customers, But for, like, just the cold outreach most of the times, I do not because we're we're calling the company Okay.
+
+Host 3: And do you leave voice mails like, on a one off basis. Like, every time you make call you have the speak the voicemail mail Yeah.
+
+Host 3: Okay. Does dial not have a way of like, recording a pre a pre recorded voice that you could leave.
+
+Client 2: Yes, it does it does.
+
+Host 3: Okay. But you never use that No.
+
+Client 2: No.
+
+Host 3: Okay.
+
+Client 2: Like, for The... For the voicemail mails, a lot of times there probably going to be unique. So like, if we're calling a customer, the reason we're calling is probably going to be different from... I'm calling you very first call in someone else. So the voice mail would probably look a little different.
+
+Client 2: Got it. Okay. And... Yeah. And that's one of the reasons we use the the text features. So I use text feature a lot more than the voice.
+
+Host 3: Okay. And Okay. So when somebody calls you back, So say you so you say you calls them in the morning and they call you back in the afternoon.
+
+Host 3: And and you don't have dial pad open on your computer. What happens There's a missed call, and they would leave like the voice mail.
+
+Client 2: So I have data on my phone as well. So that's the mother...
+
+Host 3: Okay Yeah. And what does that does it... So does That mean that when they call you back, it rings on your phone?
+
+Client 2: Yeah That's okay.
+
+Host 3: Okay. Cool. Alright. So then in this front time, I'm just gonna kind of start calling this list, and I just curious what your thoughts are here. So in this case, it's a power dial where you're dialing three people at a time. And then one person answers So Currently, you're on a call with somebody. Is this what you would expect to see as far as, like, controls or information?
+
+Client 2: So right now, is it where the call is they're... It's ringing no answer. Like So this...
+
+Host 3: You are actually speaking with somebody called Myra right now. And every time they speak, this little animation is you know, matching their voice who okay.
+
+Client 2: So I think for this, Like, so it's And that's why I asked because it would... It doesn't actually seem like really clear. For me if what's what exactly happening here, like, is am I speaking with her? Is it ringing?
+
+Client 2: Yes.
+
+Client 2: Okay. So... Yeah.
+
+Host 3: Okay. So maybe what would you say would help to I guess, clarify that for you.
+
+Client 2: So like... And is it the no answer that this position of the call Yeah.
+
+Host 3: So no answer would be the disposition.
+
+Client 2: I think So this... And what does it look like if it is that like when it's ringing I'll back quickly.
+
+Host 3: It kinda goes fast. So So basically, when you start calling This is what it looks like when it's ringing.
+
+Client 2: Oh, okay.
+
+Host 3: It. Then it answers it. Just haven't set up this Yeah.
+
+Client 2: I think that's the then because no what what it looks what while it's ringing versus what it looks like when somebody speaking. And there's the the open call at the top that shows the phone is open Where it says...
+
+Host 3: This one...
+
+Client 2: This guy right. Yeah. Yeah.
+
+Host 3: Oh, yeah. Yeah. That's just showing you, I guess that you're connected to that person. In the list Okay.
+
+Client 2: Yeah. I think that's good of name.
+
+Host 3: Okay. And so one the the features that we were thinking about is obviously, what workflow said, which is being able to launch the person linkedin in or their Crm page, immediately when you make that connection.
+
+Host 3: But we also have the ability since it the desktop app to... like, if you were to hide this window, while you're calling or you press this minimize button. It would become, like, a little overlay. It just sits on your screen above all other apps so that you could have like, your browser window open or you know, whatever you want open while you're on the call. Because that Is is that something that you feel like would be useful or definitely.
+
+Client 2: And what about, like what I meant what dal pad does with the transcript transcription Mh I think that's, like... As again, that's one of my most favorite features, being able to see what is is at customer, like, but like wild call is happening been able to see what they're saying where... If I miss something, the is right there when able to to see it.
+
+Host 3: Yeah. Yeah. Okay. Where would you expect to see that transcription happening? Or what would you want it to show up.
+
+Host 3: On a view with this where the ad is Okay.
+
+Client 2: I'm well I'm not sure. Maybe that could be a little bigger. And we're Like, there's probably, like three lines you're able to see, like, three lines at the time.
+
+Host 3: Got it. Okay. Well, I guess, actually, since we're a desktop app, we could have it anywhere on your peter. So we could have it like, know, transcription in real time happening like, at the bottom of your screen. Mh. What do you what do you think about that Yeah.
+
+Client 2: I think When it can happen anywhere, like, Yeah.
+
+Host 3: Yeah. Okay. Great. Yeah. So then really quick, I'm just gonna... I know we're super over overtime. So I'll keep this brief. But another product that we're considering building is the sales floor which would be you and your team on a, like, sort of Pseudo sales floor where you could group up with, you know, your colleagues and make calls together. Where you would sort of hear... You'd be able to hear them making their calls they'd be able to hear you But as soon as, like, for instance, when you connect to a call, it would mute everyone so that you don't hear them, but they'd still be able to hear you and hear whatever call you're. You know, the person that you're talking to Is that a product that resonates with you. Is that something that you feel, like you'd get value out of Yes.
+
+Client 2: So when we start here, we actually had we're trying to do something like that. So what we did we used Google because we didn't have the upper like, we didn't have anything to do that. So we would use Google meet, and we would be, like, may cause. Everyone who'd be on Google Meet. And we would have to, like... Sometimes it is where the called the the other person on the line. They're not on the meeting, they're not able to hear what the what's happening on the call. So they'd be able to hear... Oh, what I'm seeing but not was the other person on the is seen. So I think this is extremely helpful, especially like, just where for a lot of teams would find this useful Yeah.
+
+Host 3: Okay Awesome. What do you think about using these two products together? Like, if if you were to install this app and it came with both these together Is that something that you find compelling?
+
+Client 2: So yeah. Because I'm thinking that having them we would probably want both instead of having them separately. And, like, the more we're able to consolidate everything, that would be, like way better than having one here one there once somewhere else once somewhere else.
+
+Host 3: Yeah. Okay. Cool. Well, thank you so much for your time, Olivia.
+
+Client 2: You're welcome.
+
+Host 3: And Yeah. We will be in touch Okay.
+
+Client 2: Sounds good. Enjoy the rest of your day.
+
+Host 3: Great. Thank you. You too. Bye

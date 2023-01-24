@@ -1,0 +1,117 @@
+Client 1: Hi, Brian. Hi Nigel.
+
+Client 2: Hello? Nigel and I just got done having another party talking about all the things.
+
+Client 3: Did they say they join?
+
+Client 2: You know what? They Let me see. Let me see if anybody accepted because I didn't send that I didn't send the invite until last night. They had said in their thing in Slack that we would that we should meet today. So that's why sent the meeting, hoping that they'd be able to join.
+
+Client 2: But when I look at it, Cody is the only one who accepted the invite Harrison declined, but he's got the meeting recorder on here. Jericho is asleep. I'm pretty sure he's been kind of working, like, working through nights. Mh. So it's just really not raj. So I don't know if they're gonna join or not. So let's give them you know, five to eight minutes. Be kinda like when you're in school if the teacher doesn't show up after ten minutes, you get go home.
+
+Client 3: Oh, yeah.
+
+Client 2: So I missed that.
+
+Client 2: Yeah. So while we're waiting for them to join I guess we can just talk through things. So what's interesting is I feel like even if we didn't do the integration all the way that we're supposed to, we should still be seeing calls hit our back end. Right?
+
+Client 3: Exactly. Get. We're not doing calls.
+
+Client 2: That's really weird especially from big daddy who everything was working. Right? So all we did is plan to the new thing. It should still be working. Although I did have them install the latest extension, I don't know how different the new extension is from the one they previously had installed. I guess I can try to find that file we sent them previously and do it comparison with the one we have now. But yeah, It should be something trying to hit the back in. That's what's so interesting about this.
+
+Client 3: Mh. My Might be worth checking what the this is on.
+
+Client 2: Checking with what?
+
+Client 3: I've mean worth checking what the difference are between the old father and you file?
+
+Client 2: Can I let me show you something while we're waiting for them. This is kind of interesting. If anybody sees them join, what you we do just call it out for me, so I'm not go by talking on stuff. They don't care about. Yep. Okay. So check this out Let me remember where I wanna go on this. Okay. I'm gonna go to copper p. I'm just gonna pick any random. And I just wanna get over to their shopify my the Harrison pointed of this out the other day.
+
+Client 2: So if I go to All their orders.
+
+Client 2: When I filter by Oh, yeah. I have it here. So I'm looking at everything tagged with O reorder. You got twenty six cents, twenty six cents, thirty cent. Since twenty seven seventeen of these.
+
+Client 2: Most of them are sales tax.
+
+Client 2: So it's really weird that we've got a reorder of this item. It automatically puts order protection on there. And then we're getting a twenty six percent sales tax. Is it because it's saying that we have a value of dollar fifteen and it's seen that even though it's zeroed out, might be.
+
+Client 2: Let's dollar fifteen times point zero six eight seven five so that would be seven point nine minutes.
+
+Client 2: So that does the. It's not even you know?
+
+Client 3: Just tell wife.
+
+Client 2: Twenty six ninety five.
+
+Client 2: And see have a full order, that would be a dollar eighty five. So... yeah. Anyway, that's all weird. I I don't know what what doing is looking at specifically, but you can see hold beach random and smaller amounts.
+
+Client 1: Secretions.
+
+Client 2: And see this one doesn't even have the sales tax. Everything's still zero.
+
+Client 3: But they're showing twenty eight cents here and we'll go back there.
+
+Client 3: You have to show I think go back the order. And and scroll down. Tax rates.
+
+Client 2: Oh zero I feel like this is a bug on their side.
+
+Client 2: I I think there's something going on inside and shopify by Sorry.
+
+Client 2: I'm muted him.
+
+Client 2: Hey, Cody. I just so, you know, I hit mute on your because it was there was a lot of background runway away.
+
+Client 1: Mh. Yeah. I'm sorry. That's okay.
+
+Client 2: So... yeah, weird. So I I don't know if there's anything you could think of that we could be wrong or if this is a you know thing on their side.
+
+Client 3: Is only with a copper or does it happen with other stores?
+
+Client 2: I don't know. I've never looked at another one. But I guess we could go look at someone else Don't download know your poly go to another one.
+
+Client 3: Probably stores that such a zero there and like all production sent to, like, whatever the original cost was Okay?
+
+Client 2: There another one that we should try?
+
+Client 3: Try College speeds.
+
+Client 2: Sorry i just send a message to.
+
+Client 3: Mh.
+
+Client 2: Okay. Now when you to at?
+
+Client 3: Just what you were doing before? So orders and then older through will be a reorder.
+
+Client 2: Come on fingers.
+
+Client 3: Order.
+
+Client 2: Thank you.
+
+Client 3: Says same thing seven of year. I think it used some sense. It's really very old this... Oh no that's. This one take shipping.
+
+Client 2: Yeah. Makes sense to even have some shipping that's So on those ones it's, you know, there's like, a shipping cost that they have to repay for shipping rate, And I think that makes sense.
+
+Client 3: Mh.
+
+Client 2: Yeah. It's just those other ones with tax that's weird. So I I think that's don't think that's an us issue. I think that's a shopify thing.
+
+Client 3: Maybe there's something we can set in the call. About it I haven't I'm I've never looked into.
+
+Client 2: Okay. So you think that there is a possibility, there's something we could do to clear that to zero it out or something.
+
+Client 3: I think it's worth looking be into. But weird house some of them don't have... I I mean mean I think then don't have tax and others do because of certain states. That required tax. But even then I I don't know why there's happening.
+
+Client 2: Yeah. Okay. Well, it's it's a little priority Harrison, like I said, pointed it out. So Okay. Okay. So we sent information. I wonder from the Matt channel if we have the original dropbox link I'm just going through the channel to see if I can find the original z file. Hey, Cody. I think you're okay to drop. I don't think they're gonna join.
+
+Client 1: So we're just gonna go and maybe compare it And Has happened from before and now.
+
+Client 1: Yeah.
+
+Client 2: But okay dropped that you can work on other things.
+
+Client 1: Yeah. Okay. I would drunk.
+
+Client 2: Okay. Thanks. Yeah.
+
+Client 1: Yeah. Thanks, Brad. Thanks, Nick. Bye.

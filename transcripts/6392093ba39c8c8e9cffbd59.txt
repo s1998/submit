@@ -1,0 +1,459 @@
+Host 2: It was Maximus running.
+
+Host 1: Scale, high.
+
+Client 3: Hi Maximus.
+
+Host 2: How are you doing?
+
+Host 1: Good. How are you?
+
+Client 3: Good. Thanks, guys.
+
+Host 1: The office today?
+
+Client 3: I am indeed. Yeah.
+
+Host 1: Nice. Well that. Cool. So I know you had to jump last time. So I'll recap you perfect dance running. So Dan mentioned that he would like to, like, just few think that you guys liked it, we'll kind of open that up. Just make sure, but kinda wanted to dig into a couple of things a little bit deeper just because Yesterday, a lot of, like, high level. Hey, Dan.
+
+Host 1: Good nice daughter. Wanted to dig in into a little couple other things just so we can show you like, the full tool since it is something that you guys are actually like, like, looking at it and interested in. So want to your consolidation say, a little bit more reporting just because it definitely can't take over all of your pre needs and then even like, go into Salesforce reporting, And then the second half of this call, I am bringing on Gertude. She's our data from our data team and she handles all scoping. So she'll ask about specifically, the non saas portion and just kind of wanting to understand your data and then also if you guys have any custom metrics wanna flush those out and see what's needed there. Cool.
+
+Client 3: Sounds good. Yep. Perfect.
+
+Host 2: Awesome. Well so we'll jump into the tool here we'll run through the consolidation process. First wanted to walk you through where the output side of what it's gonna look like. So if you hit on this report button up here at the top of the tool, This will pull up all the different reports that you can either create from scratch or you can just use our template reports as well. So here, I'm just gonna pull in an income statement. Can see all your data by month. If you wanted to see if I quarter change the time periods up here at the top. You can do that as well. But then the powerful part about this is you can create an individualized income statement for each subsidiary. So the way you would do that is just under the subsidiary toggle. This is where you can pick between each sub from zero or they could thought financials. So you just click on one or the other then all of your financials would actually disappear. From that individual sub.
+
+Host 1: Also worth noting that you can make this forward looking as well. So it doesn't have to be actual, you can also put the forecast.
+
+Client 3: It is it presumably that supposing you've done the but at the entity level.
+
+Host 2: Right. Right.
+
+Client 3: Yeah. Okay. Cool. Dan. Does all all our consolidation journals. Do they live in zero or enjoying.
+
+Client 4: Join literally. Calls zero days together. So everything's negative.
+
+Client 4: Yeah. Yeah. It just consolidate... Yeah. Cyber side in or consolidated each other side. There's nothing you're being enjoy.
+
+Client 3: Okay Awesome.
+
+Host 2: Within the Mosaic tool, we have the ability to run the elimination journal entries just as over the top entries, So the first thing we'll do is set up your Fx rates here. This where we're using a third party app called currency layer will pull in your average rate and spot rate for your P l and balance sheet adjustments? If you are using custom rates can always enter those in or hard code those in. And on our consolidation tab, you're gonna do a couple things here. First, you're gonna set up your intercom accounts. So you hit this configure button. This will pull in all of your accounts from all of your instances of zero, and then you'll just pick and choose which ones are your inner intercom accounts. And really, this is just to set and forget a process. So that way, once these are chosen every month, when you need run the elimination journal entry, you just choose the month.
+
+Host 2: You click these three dots click run elimination, and then Mosaic will propose and elimination journal entry for you. Any Fx spill over just gets captured as your Cta and this goes under your retained earnings. And you would just hit confirm and then Mosaic is just run the consolidation for you. Within the tool. As far as outputs are concerned, this is one of them. We also have Mosaic templates just to help you get started more quickly, Really useful gear on just bounce sheet activity in the period. You can see your balance sheet by subsidiary. As well. So here you can just toggle between again, all those different subs that you have. Can see it in more of the Columns format. With your consolidated and then each entity. So all six would appear here. Well as just your balance sheet and local currency for each individual sub.
+
+Client 3: And and like the stuff we we were looking at yesterday. Does this have drill down into it. So if you open up, Mh in in a they can you enter drill into, you know, cash or for example.
+
+Host 2: Mh. Yeah. You could get as deep as you wanna get here. We even pull in... Let me make a copy of this.
+
+Client 3: Yeah. Sorry damn break demo.
+
+Host 2: No worries. So If you wanted to drill in even further, you can drill into individual accounts you can filter this for a specific subsidiary. Our Cs team will help you set these up. Like, if you already have a standard set of reports all over that you're, you know, looking at on a monthly basis. We can help you recreate those.
+
+Client 3: Yeah. Perfect.
+
+Host 2: Then really just like a replica of the income statement reports here. And then if I scroll down, just the consolidation entry tables So your elimination Journal entry entries month to month, as well as your Cta. Month month. Cool.
+
+Host 1: I know join is a pretty simple tool, but it obviously, it does what you guys are needing to do right now but are there any areas where you guys would like to be able to just see more or... I mean, curious does this improve your workflow is like the same? Is it just a replacement I think one thing is going for currently is that the driver we produce our management reporting in Xo excel.
+
+Client 4: And it's also up to the exports out join. To drive all the numbers So this is whether this could replace process.
+
+Client 3: Yeah. Exactly. I was gonna say just that say we we use correct me if I'm wrong done, but we essentially use join to do the first layer of add everything up across all the entities, including the adjustments and producer sort of consolidated trial balance.
+
+Client 3: And we then put that Tb in Excel which then drives all the reporting.
+
+Client 3: Got it. Right.
+
+Client 4: So yeah that, we've got configured P l and but she earns cash flow but I just dropped in semi my file and then the... Yeah, all the numbers kind of back out. The other end?
+
+Client 3: Yeah. Exactly. And and so is whether this may to with this and say replace? That process with one source older.
+
+Client 4: Again, that be a lot more. Efficient rather than with the valet Nine ten four house. So feed any office day revenue just noticed just to check on this that's. It's give little adjustments and up done sort of four of refreshes done exports. Say if it's all in one. Tool, then obviously see that It eradicate case that.
+
+Client 3: Yeah?
+
+Host 1: Yeah. So I think it goes back to a largest, like, the actual again pulling in directly versus, like, the downloading, of course. So And dis join, are you able to drill down with join or because it is next to zero or... No. It's is it at the g?
+
+Client 4: You just just the G level. Yeah. You just the most granular goes. Is just seeing the account closed within, you know, like death is made up of other justice other stuff, this is where. It's the moment code level.
+
+Host 1: Gotcha. Okay. Cool. And. Right.
+
+Client 3: Sorry. So to that point, is Me transactional level lower it gl level.
+
+Host 1: Yeah. We pulled down to the transaction level. So you can always go three layers deep is what you'll notice here, but there's ways to get even deeper like, Maximus showed you can do filters and then go through layers on top of that. So can also just, like duplicate and then have a couple deeper than others. So definitely a couple always look at this that is a big differentiator between mosaic and really. I would say almost all of, like, the more lightweight tools in the market until you get to or enterprise level tools, you're not gonna get the deep integrations, and not really is like a different factor for us. Cool So next thing to walk through here is I would love to get a little bit deeper on the reporting side of things. What is your reporting package include today?
+
+Client 3: So we have quite fee be we're trying. I mean, we the bulk of our reporting is is at sort of twenty page Pdf, I guess, which is driven sort of it's basically the management accounts, you know, three statements management counts. Three statements. So the plus y budget. Type for just rolling forecast.
+
+Client 3: Mh. And then various different views of revenue. Sort of analysis, which is driven partly by the financials and also partly by the operational data coming out of case control.
+
+Host 1: Cool. Okay. Perfect. So If you guys are interested, I did flip this yesterday as far as sunny a mutual Nda just for the model. But if you guys did wanna share out, like an example report. We could probably just tell you like, all this is good. This would be your Cs from kids control. But wanted does to show you like, this will definitely be a lightweight version that is from our demo, but an executive report that we have That's pretty standard, I would say for our companies, then we'll kind of like, how we can duplicate things and slice and dice things. But here's just an example of a let's go of the Q three business update. And this is just like an overview for the whole company. That just shows how we can marry together different data. So of course, Arr we head count expenses and runway. And then here we're able to slice... Like, we showed you in the beginning the demo yesterday, our Arr by certain segment. So if you guys did wanna slice this by geo, you want to have, like, an air, neck chart next to for the Us where next to, like, a revenue chart and then have it shows different you know changes. We also have error changes. But really easy to get every view of your revenue in your top line. And then as questions are being asked, you know, maybe preemptively, you guys are just showing the different stories and and drilling down into different sprint categories here. So all these different drill down fields are coming from Salesforce.
+
+Client 3: Is the commentary dynamic? Or are there that sentences about that? Someone that doesn't.
+
+Host 1: Good question. So the commentary is not dynamic. That's kind of like where we take you to a point where you have all.
+
+Host 1: Let me just write your story.
+
+Client 3: Yeah. Yeah. Okay.
+
+Client 3: And then In terms of getting this to the board, Do you just print this into a Pdf or How do how does this come out of by that?
+
+Host 1: So a couple of different ways you can do this. You definitely can print it to Pdf of course, like, a lot of the beauty of the tool is in the drill downs. So when we need... If you do wanna share this out with the board, again, we don't have any license fees or or user limitations. So you guys and show these out externally and they'll only get access to what you show them. And you can make it so they can only view or can only interact me and they can click. And they get you to date ranges, but you guys probably do view only for the board I'm assuming. And, you know, limit their permission way.
+
+Client 3: Yeah. I mean, more on the internal side. We would probably have dashboards that we share. With people who can view but for the board. To to be plans we wouldn't lock.
+
+Host 2: Who would have bring into stop stage.
+
+Host 1: Totally. Makes sense. You can also... Show any of these charts or tables, of course, you can export them out of the tool. So they can export graphs just like you see here in a P g or you can always get underlying data as well, including all those like slices. When we export Csv it'll take it exactly how it is like the data up, and then you can you know, create anything you want excel.
+
+Client 3: Can... But can you can you can you set up all of the reporting as a Canvas I think you call that? And then just print the whole thing.
+
+Client 3: Yep. Rather graph by graph or something.
+
+Host 1: Mh. Exactly. Yeah. You can print the whole thing. Okay. Cool. So scrolling down a little bit. Just wanted to show you, like, you know, all the different pieces here head count for example. We can show this any which way, just like how we can drill down to anything. And then also, of course, including that plan. So just kind of a a little bit of recap of everything went over yesterday. That plan is, of course, built to mosaic. So if they do have questions about what's the drivers, you can very easily answer that? But then after this and wanting to understand, like, if so far you can imagine that this will inc eyes reporting. We do have a really robust like, salesforce visualization. I know like, for us specifically, don't even use Salesforce anymore because pretty much everything is in mosaic. A way that's a lot easier understand. So, like seeing full pipeline by stages, they see, like rep performance you know compared to goal. It really is interesting and I I wish that we could show our our mosaic it actually is a lot more robust, but the demo data that we have in here just isn't as obviously interesting is our real data, but it definitely will be something that Ideally, you should have more than the finance team in here like sales team could have benefit from the Cs team and we go beyond what Salesforce can do because we actually, for example, this chart at the top here. Or scroll up little bit Maximus. We actually are able to even normalize data. And so what we're showing here is like, sales rep. A lot of different ops teams just kinda, like set a a ramping number, but they don't really know if they you know, is actual to data. And so we're pulling all of our reps to time zero and then showing you when they're actually able to contribute meaningful bookings. And you can actually take this data then apply that on a waterfall schedule on your, you know, your models. And then show that this is actually an accurate way to out. Rep Yeah.
+
+Client 3: That's that's quite powerful.
+
+Host 1: A couple other things that we're doing here as well as we're pipeline snapshot. So you guys don't have to go Salesforce every weekend you know, see how your pipeline moved along? I know this is kind of a pain for rev teams if they forget on a Friday, then, you know, data is different on Monday. So definitely able to grab that information for you. And also curious from your perspective. How are you guys? What's like the timing of when you guys pay commissions on just booking date for the Us human and even for the Uk team or is it on like you guys recognize the revenue, say fifty Us team.
+
+Client 3: It's on the booking day. And it's paid in the month that they sign now.
+
+Client 3: And for the others, it's more of like an overall revenue target for the year because it's on like a flow rate of stuff coming through. Four.
+
+Host 1: And do you guys have Cs that are paid commission on renewal and things like that.
+
+Client 3: Not explicitly. Again, it's more on like an overall Revenue performance, of which obviously a big part is renewal and sells and things rather than ping linked to it. Now that's not said it doesn't change. Say if that is built in here, then that's useful.
+
+Host 1: Yeah. We just had a lot of people recently asking it's like, hey, how can we use To help us calculate commissions and we can definitely just like pretty much make a chart or table for you guys and all the relevant data. This bookings up for renewal. Metric is actually a really interesting one, because I don't know that teams really have a great way of tracking this. And so what this is showing here is date But dates of when the contracts are coming up for renewal and this is really helpful to share it with your Cs teams. One to keep track of, you know, when you should pay more attention to the customers, make they're happy, like, couple ones before that date, but then also tracking to make sure that they're actually pain. So we can actually pull up like an invoices of schedule and collections. Right next to this to show okay up for renewal in July. It's August now, have they paid their bill. If not, then normally, this is kind of like in a black box with finance and finances to ping the Cs team, and then it kinda of becomes it's like, you know, relay match. But if you just have everyone aligned around this, it's really easy to see all this information. You flip that too monthly or something sort to the collections c. So depending on...
+
+Client 3: No that's quite cool because that that is a question which helps that comes out, which is how do we just see all the billing and stuff together. With the sales stuff. And if you trying to in the Salesforce world you end up with Having to user plug to pull data and across blah. Mh. Yeah. Interesting. Cool Mark anything to add What he showing here?
+
+Host 2: Yeah. You can pull in, you know, all of your opportunities, by account my owner and the deals that are one in any given period too just by month. So you know, all are you and Dan don't even have to log in to Salesforce. Once you have all the right metrics within the Mosaic, just allow you to create these different dashboards and track everything here. In real time Yeah.
+
+Client 3: Cool.
+
+Host 1: And one other thing that kind of is like, overlooked, but hopefully maybe a cost savings for you guys that a lot of people we find have salesforce licenses, that don't necessarily need them, but you know, they wanna see the data. And so because we're all that data in, you could give everyone access to Mosaic. Get rid of some of those licenses that people are not really using this tool, but are just kind looking at the tool. And then reserve those for more active users Yep. Awesome. So Grace is gonna be joining in about ten minutes. Exactly ten minutes. Warranties she's the last time is here just to opens up to you guys, see if there's anything that you want to explore, questions or just you know, feedback or anything. Oh, I think we want to go into the arriving model a little bit more too. But Yeah.
+
+Client 3: That's cool. They. I I think nothing nothing for me. I Mean, i. I can see how it works and the power of it. Alright with all of this so of stuff the devil is in the detail and say it be about. How good your joining together between zero and salesforce is and and, you know, how granular his stuff said that when you pull up, is it look some.
+
+Client 3: All of that comes stuff. Say.
+
+Client 3: So I.
+
+Client 3: Sorry. Yeah.
+
+Client 4: I I'm just gonna say direct cost calculations in me kind of reports give is That's what. To describe it long and confusing. Free I noticed in some some parts of these fees. You have like, a formula books So it's it's kinda taking direct cost wages, seventy percent of that. Times by the proportion of one revenue over another over the direct cost related to that revenue. It's quite a long We're sort of seeing pricing the the cost into four buckets. Is that something that's kinda of We can within with kind of four mailboxes and Yes like that.
+
+Host 2: Definitely. Today, it's not released to customers. It's internal. But in q one, it is gonna be released to customers where you can create, like, any custom metric or any metric that you want in any calculation here. You would hit this new magic button. You would just choose one, like, where it's coming from what dataset so whether this is, like, for Gl data, department data, etcetera. And then you can really, like, create one pivot table using all those different dimensions that live within zero. And then also create, like, your own custom formulas here. And then your own custom metrics. So definitely something like in, you know January February, like you let us know what those are team can create them for you, but then after that, once it's available to the rest of our customers, like you can do it self serve Dan.
+
+Host 1: And there's also the place to show... Just the dataset, so you guys will be uploading from your case control. Some And so we can upload any dataset set. You don't even have to structure it in a certain way. So we'll literally pull in all the columns, all the rows. And then you guys can use that data in your metrics and in your top line Yeah.
+
+Host 2: And let me quickly walk you through how this work. So let's say this is a dataset that you have.
+
+Client 4: It can make any columns any headers.
+
+Host 2: You just really just need a time to dimension. So this is where just click upload drag drop that file in like, upload. Now you have all of this. Call Zen ticket information.
+
+Host 2: Then down here you can create this new metric.
+
+Client 4: It.
+
+Host 2: Just dan patrick.
+
+Host 2: Put it under customers and then you just choose that custom dataset set. And then here you can just create Seem like You got Product.
+
+Client 4: Amounts.
+
+Host 2: Values and really create whatever you want.
+
+Host 2: Yeah. You had saved both down the saves. Into that. And then now you can pull this metric onto the canvas. So really anything that is outside of your source systems, You can just upload into the tool and then create your metric here. So this is how we kinda, like, join, you know, other sources of information that are outside of your core here on crm billing Hr tool.
+
+Host 1: Yeah. So really the sky's limit, that this is, like the next Biggest release with our tool is getting beyond just for different datasets we get today is just opening up to really everything. And then be able to utilize that data anywhere and and pretty much getting into the Bi space. Without the coding in the what is it called? Meet incident.
+
+Client 3: Yep. The... So say that has just sort of raised and interesting though, which is did you just give give me two minutes on, like Mosaic and where you guys are and and I guess, they the concern with a younger company is that we invest later time and do a later set up and then nine months later.
+
+Client 3: It, you know, you guys run out of money and got say.
+
+Client 3: Say sort to what's the story? And what where are you guys on on that?
+
+Host 1: Yeah. It's a really good question. So I would say why aware a long? Mature for one of these, like, third generation at teenage walls. So Mo has been around three years now.
+
+Host 1: Really, really smart point. Guys. So one things that they're definitely looking at is a runway making sure that we're not gonna run out of money anytime soon. And we can tell internally like that... It's it's a really top priority for us. So just the way that you guys are seeing all this data here, we actually internally all of our employees gonna see a runway, you know, how we're spending your money or expenses everything like that. Like, they're extremely transparent And so it gives us a lot of confidence that things are going really well and we do have top tier investors. So in the Us P two founders find, general Catalyst, all like investors that are working with the talk tier companies, we're actually performing probably we've heard is is among the best of them just because we are hitting those, like, really aggressive growth targets. Our whole company is also really focused around product first. So product driven growth, our sales team is surprisingly small for how powerful the tool is in in our market. So we only actually have five sales reps, like Maximus is S, but five sales reps. And so we're really focusing. I think over thirty percent of our team is Engineering product. So if you are interested, or if I can share my screen really quickly, we do have a product release webinar coming up on the fourteenth, it might. The timing you actually might work out. It's ten am because oh, pacific time. So it's might be a little bit late for you guys. But if you register, then you will get the recording, but there really is no worry on our side that hey, we're not gonna be around in a couple years just because of how well our cash is managed. And how much our investors do care about, you know, us as the company doing well because we are doing among the best. And so hopefully, that we we're also series b, and we have sixteen million rate. So we're definitely not like, on the end of our of our runway. We we have quite ways to go. And we're just developing our products super fast that our growth is Supporting it too. What a good question? I mean right now. You never know. I mean, honestly, some of our... Our competitive market might get a little bit smaller just because I know that we have a lot of, like, ankle incubator out there that, you know, the market's not the best right now. So we'll see what happens in the next couple. Months or a year, but, yeah. Yep.
+
+Client 3: No. I just ask because we see that on the legal side as well. A lot of people sort of come into market with loaded noise men talk on it. You know they've they've come paul.
+
+Host 1: So cool.
+
+Client 3: Please, could you send me the link to that webinar?
+
+Host 1: Yeah, for sure. That's funny. I actually sold legal Crm. So I don't know if it's the same thing as you guys, maybe it is, but i think last month or two months ago, it's called Addicts. Not sure if you guys you know?
+
+Host 1: I think it's just a... It might be Us right now, but it seems like legal space is right for innovation just because it's like, the next one that's, like, kind of antiquated it needs a a refresh.
+
+Client 3: Exactly. Lloyd lawyers a slow to a dot tech.
+
+Host 1: So yeah no no.
+
+Client 3: It it's coming. Second, i need to ensure something.
+
+Client 3: Cool.
+
+Host 1: Perfect. Go ahead.
+
+Client 3: Sorry. Nine i.
+
+Host 1: Oh, I'm just gonna say grace about to join, but we'll do their technical scoping. You're right, Like, devil is definitely the details here. I actually am gonna send you guys as well. Two videos. One is on like a real live Erp or it's with Quickbooks, but very similar to zero. Integration process and what that looks like and then also Crm, because we kinda of mentioned this in the beginning of the of our calls, but The integrations of Mosaic, we built them where they're made to be extremely granular, like, the most granular out there because we do know that, like, hey, all this can look great. But if you guys are the tool, it doesn't get the level of detail you guys need, then it pretty much becomes useless you have to go back to cell anyways. So that is like a really major piece that we focus on a lot. And so I'll send you guys that can see what it looks like, but it is seamless and very regular. Cool. Gertude is joining. So perfect timing. Hey, Gertude.
+
+Client 5: Hey, Good morning.
+
+Host 1: Hey.
+
+Client 3: Hi, crazy.
+
+Client 5: Are you? You're.
+
+Client 3: Yes. Thanks. How are you?
+
+Client 5: Good.
+
+Host 1: So we just finished up a little more deep dive into the demo Gertude. I kinda gave him an intro to you, but feel free to do it again, then I gave you the the... Just for Oliver And indiana, I sent her a bunch of snippets from our calls yesterday, and our discovery call, so she should be at least up confused as we are as far as like, your business model and whatnot. So, yeah. I'll let her ask some questions and you guys tell us a little bit more about how your you guys are your best works.
+
+Client 5: Cool. Yep. So i'll myself richard sure everyone. Am Gertude I am on the dated team. I lead our technical scoping practice. So I really just wanna give an understanding today of how you're calculating top line metrics, which for my understanding, there's kind of two different buckets that we're splitting us into we have the Us side and then the the Uk side. And with the Us side. That's more of our traditional staff business, customers buy the software, create pretty straightforward saas and then on the other side, it's a little bit more usage base. So, I guess I would say based on on your time in court. So wanted to get an under standing of of where that all of that data lives and how you calculate your top line metrics. So my understanding is that we you guys are using Salesforce at least for the Us side. Is that is that accurate?
+
+Client 3: Okay. Yeah. So we're we're using Salesforce across everything actually.
+
+Client 5: But Okay.
+
+Client 3: But you're you're exactly right in that the business splits into the two business streams so fast. The best on revenue revenue models is probably a better description right. So you've got you got the subscription piece, which is largely Us, but it's not exclusively Us. And that is the traditional license sales, so a customer signed up for a three year deal and Pays thousand dollars per year.
+
+Client 5: Okay.
+
+Client 3: So that is fairly straightforward. It's spell sales rights and deals and, you know, all all of that kind of good stuff. Okay. So the complexity is on on the other side, which is the transactional what we call the case by case business.
+
+Client 5: Okay.
+
+Client 3: So there the the driver is really sitting days. Okay. And by that, that is when a i cases sitting in the course. It's the number of days sitting for in the call. Okay. And that's really the driver of revenue because for every everyday in course, there will be a bunch of services attached to that day. And a bunch of users in the law firm who we're using our software to support that dang. Okay So So so sort of conceptually what as i say, what we have is a number of sitting days, which then drives user numbers and drives call revenues across a few different revenue streams. with however, not every sitting day is equal. So we have sitting days split between two categories of case litigation and arbitration. Okay. And then within litigation and an arbitration. We have different offering type to say we have sort of gold silver bronze for one the description. And within each of those, we also say have small cases, medium, sized cases and large cases. Say quite quickly, you get... We have sort of twenty seven different streams of essentially cross multiplying a bunch of assumptions across each of those.
+
+Client 5: Okay. Got it. That makes sense. So when you're on on more of the the case by case basis, when you're booking that in install force, how how are you structuring those?
+
+Client 5: They have an opportunity per case or urgent account...
+
+Client 3: Okay. So guys... So we have So within salesforce, we have one opportunity per case.
+
+Client 5: Okay.
+
+Client 3: With with data attached, so we we capture the number of hearing days and we then capture the in court services revenue and the software user fee revenue.
+
+Client 3: Okay. Opportunity.
+
+Client 5: Okay. And are you doing that on on the opportunity level or have you added products into into Salesforce, and it's on the product level.
+
+Client 3: So in Salesforce it's at the opportunity level.
+
+Client 3: Okay. And the the only differentiation on the product side is, whether it's the that says all so for Access. Okay. However, it once so that's on the sales side on the act side, we're using case control which is our in house. This bespoke tool that the the ops team used to the run the matter So within that, we have the super granular detail of exact what they bought and what we build them.
+
+Client 5: Okay. And and I... Leaandra was mentioned that and and I know she mentioned that we could handle that with our Csv upload tool. Is there a link between the Salesforce opportunity and the case controlled data, Is there some sort of unique identifier between those two?
+
+Client 3: that there is as of October.
+
+Client 3: Okay. Last year. Last year.
+
+Client 5: Yeah.
+
+Client 3: Okay. So so we have joined them together. And there is explicitly a link between case control on zero because Case Control drives the invoicing that go through and.
+
+Client 5: Okay. Okay. And and so when you're reporting on your top line, in in this Saas bucket over here, we have Arr. And then more on the on the case case that's more of just revenue numbers and what you would expect to see in in each month So it's almost the the easiest kind of comparison that I can make there is more of a usage based model where we don't we don't actually know and five years that they're gonna have or three years there to have this many days in court. So that's more of a reporting on a a historical perspective and then using your historical to forecast for the future.
+
+Client 3: Correct it? Exactly hundred percent. Yeah. Okay. And so it's it's about the sort of flow stuff through the system. Rather than we can say if we sign our ten customers a month for the next two years, we'll have x. Okay.
+
+Client 5: And and then when you're when you're thinking about customer accounts if this is an important metric to you. What do you determine to be a accustomed I the staff side... Is is very straightforward far but more snow on the on the case a case basis, Is it just the number of unique accounts that you had each month?
+
+Client 3: It is. Yeah. I mean, we We don't worry so much about customers. Because. Because when you think about So i I like a cool case is quite binary. So a law firm either that. Work on it or they wait.
+
+Client 5: Mh.
+
+Client 3: And so the number of and whether a court case is in court or not is determined by a bunch of factors and say well if you start trying to look at sort of by customer help how busy we are. Or you know, how many days did we do this month first last month? That will be extremely volatile based on a bunch of stuff which is necessarily to do with how they are using us Yeah So so really the metric we come back to is sitting days and because that's a function of sort of across everything how busy are we And within the city days, how many goals of a bronze days are we doing?
+
+Client 5: Okay. Okay. So for a let's just say, Leaandra is a lawyer and I'm lawyer. If we're in court the same day, we that was gonna the same day would be two sitting days. Though right? If we're we're separate on cases.
+
+Client 3: Right. Yeah.
+
+Client 3: Sorry. Okay. So if you're if you're in corey May on case a then that's one day. And if this is Corey b on Case b, if she's Okay.
+
+Client 3: On that's two days.
+
+Client 5: Yeah. Okay. So they're even they're asking all these questions is I'm I'm trying to figure out how we... How best we fit this into our mo. Model. So we're very much so driven towards the Saas business. So the the side not not concerned about.
+
+Client 5: Yeah. I wanna make sure that we can support everything you would need from the usage. Side. So it sounds like the the key metrics here that we're looking for are just overall revenue that could be forecasted. Based on all of these different ways we can slice and dice this data as well as the number of days in court are there any other kind of key drivers that you have here for for the case case side.
+
+Client 3: So the other one is the number of users.
+
+Client 3: Okay. And say that So that is I mean, candidly, that's something we are getting our head around because because it's it's a functional face how many setting days we have today, i e how many users are going to call? This month. And also, a tale of how many users have used us historically who's still are using the software as that you know, tidying up their case preparing for an appeal or whatever.
+
+Client 5: Okay.
+
+Client 3: So that. We don't... Well, we have a number of models. But the jury is out on which of those is is correct, or old the best for us to use.
+
+Client 5: Got it. Well, that that would be something that hopefully we can help you with we have... Once we get baseline understanding of what all this data actually looks like and and making sure everything in it is accurate.
+
+Client 5: Then you can work with people have much more finance knowledge than I do our Cs to would be able to kind of talk you through. Okay. You could use this model you can use this not all assumptions and and stuff like that. Okay. Great. Okay. So as as far as that the the revenue data with for the more usage side of the house would live in Salesforce, and then you're your internal tool we could do a Csv upload for. And then all of all of those counts that... Like, these on court number of users that all live within on the we have more granular data in this in the what we would use for Csv. Yeah. Okay. Okay.
+
+Host 1: Oliver does the case control data flow into Salesforce at all. Like do they connect?
+
+Client 3: Question? Okay. I i don't think it does currently. I know we've been we've been working on how to bring them closer together, which again is partly if if this tool does order of that out of the box. It saves us. Thinking about a different way of doing not Got.
+
+Host 1: And the reason I ask is because if you guys did... Because I know Salesforce is really easy to pipe data from really anywhere into. A way that we can work around Csv, whether it's in the interim eventually, you know, later, is we... If anything is in Salesforce, we can pull it in. So if you guys ever did pipe it in there, then we can in, but it sounds like you prefer if we pulled it in, and then you got it from there, so we could do that too. But it is a way that we can have a direct integration sooner than whenever our open Api comes out next year. Yeah.
+
+Client 3: Yeah. Yeah That's a great thing...
+
+Client 5: Sorry. Go ahead.
+
+Client 3: No. It's just gonna say, i I think our preference is probably no to read it through Salesforce because once it goes into the salesforce. Black, that's a different thing whereas Our until we, you know, the guys if we need something that can just tool the out.
+
+Host 1: Got it. Got makes sense.
+
+Client 5: If if it is something that you do eventually wanna take a look at getting that data in salesforce for Mosaic reasons or any other our our team has seen quite a bit of salesforce, so we can we can help you understand best ways to structure it and and help you there as well. But as far as kind of the cadence for for how often you would update this the Csv data, how how often are do you look your revenue numbers is that? Month end, do you do it? Every week that's the cadence.
+
+Client 3: So it's It's really driven by month end But if if we could look at it more frequently.
+
+Client 3: I guess what what would be useful would be a you know, what's our revenue going to be this month? Forecast which again, we've quote on doing, but it's not perfect because of the way the data flows between Salesforce and the ops team.
+
+Client 5: So.
+
+Client 3: So...
+
+Client 5: Yeah. How I would... How I would kind of approach. That as far as the Cs upload, we'll we'll set you up on a our internal Cs upload tool where you would be able to go in and the Cs whenever you want, you wouldn't need to contact our team to do that. With with your your internal tool, do you have some sort of a Bi system or or something where you basically set up a report and then download it. So we have the same report going in every time.
+
+Client 3: Yeah. So how B sits on top of. That data.
+
+Client 5: Okay. Perfect. So we would we would work with you to make sure that we have the right structure in place, set up that report so that you can easily download the data and then upload it. It should take about five minutes to do so. Then you can have fresh data for if you're doing a big chunk of modeling or or something like that. And then from more of the forecasting side of the house, we would connect your Salesforce data for the saas part of the business as well as your pipeline and bookings numbers. And so with that, if there's a deli between this is a sales or lara a sas side versus this is a usage, we would be able to of see that coming down the pike. And that's how you could probably forecast your revenue going forward that a combination of that and as well as your historical within our our top line planner would probably be the best bet. For handling that.
+
+Client 3: Yeah.
+
+Host 1: In Oliver when you guys are reporting out your metrics, you guys report out complete separate numbers for the saas side in the Uk side or do you guys have any, like, blended metrics.
+
+Client 3: No. They're pretty separate. Just given how different the two business is are. Like obviously, every... Everything ladders up to our your revenue for the month. But But if you if you look at anything below that, it's split between the two bits.
+
+Host 1: Got it. And Gertude, we can... That's something that we could do. Right?
+
+Client 5: Yeah. My my kind of thought process here is that all the staff stuff would run through like, recurring revenue metrics. And then for the the usage side living in the scheduled revenue metric that also would have recurring revenue, but we had split it out into the scheduled revenue. And then they can they could use the top from there. Cool. Okay. I think I think I have everything all my questions answered. I don't know. If you have any questions for me, I'm happy to answer those or I can give loads Maximus and time back if they need they more demo stuff to go through.
+
+Client 3: May. I I think that's so good for me.
+
+Client 5: Okay.
+
+Host 1: Gertude. So I know we talked last or you... I mentioned you guys yesterday that it's, like around four six weeks. Do you think that this might be potential a bit longer just because we are pretty much doing two different builds or what do you think would be the implementation estimated time?
+
+Client 5: Yeah. It would It would depend... How for... As far as the the Csv data. How is that structured. Or you do you have... Is it like, E day in court this much in in bronze this many users. How is that? Structured.
+
+Client 3: Yeah. It's at the most granular level. So we could just dump like, hundred thousand rays into the Csv and i'll play.
+
+Client 5: Okay. And the great question. As far as the the transaction volume, How how many many records do you think that would be to look at the number of days I have spent in court.
+
+Client 3: Say I think to upload all the historic stuff we'd want then would be probably a couple of hundred thousand the granularity.
+
+Client 3: Okay. And then and then on an ongoing basis, it's probably you know, up to probably be less than a thousand a month sort of regularly.
+
+Client 5: Okay. Yep that works then we... What we would we could basically take get the the data from you directly and have our team up loaded into our our database and for the historical and then on forward basis you would be able to do it yourself, but just so we don't have any file size limitations.
+
+Client 5: Yeah. Okay. Yeah. So so given that given that it's a Salesforce Cs bill be Csv Combo build that I would push it probably more towards that six week timeline. As opposed to the four sixty eight just to make sure that we have everything in place. And and make sure that the the two revenue streams are clearly broken out and and understandable.
+
+Host 1: Helpful. Thank you.
+
+Host 1: Okay. I think that's all from you. Things Gertude.
+
+Client 5: Yeah, For sure.
+
+Client 3: Of it. Thanks.
+
+Client 5: Great to meet you. You guys later. Have a good one.
+
+Host 1: Hi.
+
+Client 5: I And just to be totally transparent around that six eight week timeline, So that is from scoping, so which typically takes place same week or the week following the kickoff call, and then it doesn't take into to count like any like vacations and things like that.
+
+Host 1: So just keep that in mind. But I guess from here, so mean, one still willing to look... Take a look at your guys reporting package and your top line if you guys do wanna send that over I can send over an Nda. But would love to understand, like, from this call from off call, like, what do you guys think as far as Mosaic, and it looks like timeline would probably land you guys would go live if we started time, we'll know if you guys wanna before the holidays, but probably if, like, the earliest we would have you guys going live is, like, early March just because we're considering genuine and pepper implementation. How does that land with everything you're thinking?
+
+Client 3: I think time timeline that would be sensible. So our year end is March.
+
+Client 3: Yeah. Perfect. So and we, like, Jam feb and start a march really peak budget season so So it's not like we would be doing this with nothing else going on.
+
+Client 3: On a busy time yeah.
+
+Client 3: Change the implementation date.
+
+Client 3: That's just.
+
+Client 3: Bet but in terms of a logical start, if we could get it ready and then go with it from April that would be a sort of logical time or even just in call lab, and we we'd probably even this year and as is and then have the reporting in the April rebooting. I e. First week of May.
+
+Client 4: Yeah. That's what i gonna say. Yeah Have it from there. Yeah.
+
+Client 3: Yeah. So I think I don't think there's any sort of time agency. Just given time scales and everything else came.
+
+Host 1: Cool. Perfect. So I guess next steps here are well, one, wanna make sure that if the line that you guys do like the tool, and then we can definitely talk about, like, pricing, negotiations and, like, just on what else do you guys would need from us to to feel comfortable? I'll just open that up to you and get your take on you think next steps should look like.
+
+Client 3: Yeah. I think I think we still just need to have a chat and and course figure it out because it is it's obviously as we said yesterday, It's obviously powerful and useful and does lot of great stuff is just very different. I'm just getting our heads around that is... I I think we the question, the question frosty to ask.
+
+Host 1: Mh.
+
+Client 3: And then the head count planning piece we touch briefly yesterday.
+
+Client 3: Mh. But I wonder if it's worth us just having another think about last and just Yeah. How how do I how do I say to D max like these your heads, please think about any additional hires and what they look like and and stuff within within the tool and does that live within the tool routers? Does that happen now? Sorry didn't we then there's of him, but the results into that account plan that she Sort of that sort of part of the work actually would be would be useful for one for us to think about.
+
+Host 1: Yeah. Let's revisit that. And I think one thing in Maximus as I'm saying this, tell me if I'm wrong here. But because the head count departments are determined by their Hr system, would they be able to create those dashboards per department head using that instead of, like, the zero department is there not internal using truck categories today, Yeah.
+
+Host 2: You'd be able to forecast by those new departments that you created a or Mosaic.
+
+Host 1: The now.
+
+Host 2: Yeah. I and you can share them out as well.
+
+Host 1: Definitely. The contact categories yet?
+
+Host 2: Yeah. The the only thing is when the actual come in for expenses, there would be no way for the tool to be able to segment by department.
+
+Client 3: Got ahead. That's fine. I I think the any cost really, we won't stay at that level is probably head count. So so we we just have a canvas per to team head and to share back. Single canvas with that single team head, and they can only see that one and nothing else.
+
+Host 2: Correct.
+
+Client 3: And then they can see what heads they've had. Exactly. Yeah. Okay.
+
+Host 1: Do you wanna see that again? Or do you remember how that piece works No.
+
+Client 3: I I think I remember donate. But... Yeah.
+
+Host 1: Perfect. Yeah. So that part actually is, like, pretty much our bread and butter and because you wanna look at head count and expenses, you don't have to, like, go back and reach out all your expenses. Although at some point maybe that would be useful in something you wanna do, but not now. But... yeah. So we could definitely split those out just have, like, department hiring dashboards. You guys still would be like, the get gatekeepers of the model. That way, you know, if someone did wanna add something you guys would have to be the ones to go add them. But they would be have transparency into who they need Tire and what their goals were.
+
+Client 3: Yeah. Yep.
+
+Host 1: Cool. So I wanna give you guys some time to think internally and I'll send over this call and then I said over the morning from yesterday, but I'll send it all the same thread. Would love to just recap with you guys sometime next week. That way you guys have had some time to think about it any questions that come up, which I'm sure they will will come up next week. And then we can dive deeper into anything else that you guys want to discuss or take a look at. Because I I mean, we want you to feel comfortable with the tool, of course. And so if we do need to do more of like, instead of, like us showing, like, a more you guys saying do you do this and we'll just kinda, like, guide you through those workflows. Can definitely take that approach too.
+
+Client 3: Yeah. That sounds good. And I do think it might be worth us having a slightly more detailed think about the revenue model and and Yeah how we build that because obviously, if when we send our revenue model over Gertude, decides it's it's too far away from standard sas.
+
+Client 3: And then that is probably something better know now than in Yes.
+
+Host 1: So So, yeah.
+
+Client 3: If you want to send over an Nda and then that's we can share bits with you.
+
+Host 1: Perfect. Yeah. Let's do that. And then So I I can send that over today. Are you to send out over your model today or sometime this week that way, mark as to start looking at it too.
+
+Client 3: Yeah. Yeah. Yeah. That's fine. If you send over in Nda, in next half for now.
+
+Client 3: Frankly Again.
+
+Client 3: Then Yeah. We can get from that.
+
+Host 1: Awesome. So looking at next week, do you guys have time Let's see. Same time we started today on Tuesday or same time or an hour later on Wednesday. So three Pm on Tuesday, three Pm or four pm, Wednesday. Or four pm on Monday.
+
+Client 3: Three Pm on Wednesday. I think would be best for me if that's sees that for me.
+
+Client 4: Yep. Yeah Okay.
+
+Host 1: Perfect. So I'll send you guys over another invite send it for an hour just in case we need it, but if we short short, Cool and if you need anything else from us, just let us know, but I'll send you over a bunch of stuff and putting that webinar, Nda, some videos today.
+
+Client 3: That's it. Sounds good.
+
+Client 3: Thanks, guys. Okay.
+
+Client 4: Thanks so much Cheers.
+
+Client 4: Thank you.

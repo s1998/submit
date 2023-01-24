@@ -1,0 +1,149 @@
+Client 2: Hey Hey George.
+
+Client 2: That's the morning going?
+
+Host 1: Good. Had one no, which is fine. It was kind of a long shot because of nets week. And got red lines back. So that was good.
+
+Client 2: Nice, which is the red lines one.
+
+Host 1: Am mine.
+
+Client 2: Nice. Dan Roland. Just wanted to get like, your quick like, really trying to just run down this pricing stuff, and I think like, there's Just handful on things floating around. So so wanted to run by A saw the updated version. To think like people, you know, obviously, there's a lot of feedback to Brian on the ae call. And as a result that, we've like come up with a couple of different models think like the one that I'm most interested in. Looks like there's and so wanted to just like try to get some quick ad hoc feedback. Around how people think about it. So this is kind of what where I hope we end up taking this, like, to hopefully much more skinny down version of what we presented in that meeting. So I think we presented i'm meeting was this Mh.
+
+Client 2: But the transaction not scraped out so, basically, like, the version that I'm, like, now put together is, like, it takes out like all this kind of super stuff. I think maybe we do add some of it back in, but, like, the idea is just trying to cut everything down. So we're only focusing on pricing levers. Know, like, a different slide on like all the stuff you get. It really And then, like, you know, the the packages here are mostly driven like the differentiation is Basically, if you take out transactions, it's all driven off of features and connectors. Like the difference between central pro and lead just based on those two factors like, how many features do you want? How many characters you want? And I guess a little bit users, but users just I guess gonna...
+
+Host 1: What is a business user versus did Or sorry. A model... Like, what's an... I think let's does it say on the new one? Like, what's an admin versus model?
+
+Client 2: Yeah. So admin, would be like, for people have access to permissions, model or is someone who has access to Sorry. So, admin is permissions, Canvas planning, model or is model Canvas and business user is just Canvas, Got it.
+
+Client 2: Also one other the things or I just think it's like probably too much. For now So the difference and I think another big problem of the other one is essential, like, look like, you know, like, the reality is we're still gonna have a good handful of customers and essential. I'm actually probably a lot of customers and essentials. So I don't love the idea of, like, having less features and like less great experience as a customer in that bucket. So the difference really in this model is Basically, you get all the features minus, like, net new things that come out that are, like, big deals like metric builder, driver based account planning. But otherwise, I you get everything else you get the cover waterfall you get. Like, all the kind of these other I don't know what what else we had in here. But like, basically have the whole package, And so now the biggest differentiation is really moving to away from transactions, but to monthly expenses So basically, we tell people like, hey, you have... Like, we just look at your last three months. Of expenses, we take the average. And like, that's your monthly expense limit. And, you know, this package is up to five hundred k and monthly expenses is. This package is up to a million dollars and and monthly expenses and this million. And like, obviously we need to go own that in.
+
+Client 2: Is that payroll Yep.
+
+Host 1: So If that's how we're gonna do it, then why wouldn't we just do like Up until you said that, it sounds like we're decreasing our pricing because If you're saying that you know, you get everything with a essential for twenty k, that's a lot less than what we're at asking for a lot of people right now who would fall into it's like, for example, a base. Should have been twenty thousand. And they're just gonna have this opportunity now to b twenty thousand and no.
+
+Client 2: I mean the... Well, that's the point. It's like, the whole model operates off of bucket people based on monthly expenses. So if you were to remove that then like, yeah, It definitely does. Fall down, but I think the thing is, like, we can bucket people like obviously, like, these expensive limits and there's still kind of, like a work in progress. But, like, you know, the expense limit for essential should be customers who are in, like the sub thirty to thirty five employee range. And people that are in pro like, should be, you know, most of our customers and then the elites are, like, really big customers. Like the Hopkins ins of the world.
+
+Host 1: I just feel like in that case, why we even show all these differences instead of just saying Hey, because you're this size, you paid this amount. Like, it just seems like we're showing people who are just outside of that, like, Hey, look, you could be saving ten thousand dollars a year. But you're not.
+
+Client 2: So it's not... I mean, this isn't like a like, how we want to present it to customers. This is like just trying to align on internally how things are structured. So, like, this was doing that then like, why we say, hey, You're on the pro package.
+
+Host 1: And they're gonna be like, what are their packages are there? And then we have to go okay. Well there's essential package, but you don't fit into that. Because like the naming convention here is essential pro makes it seem like you have a choice versus just being, like, only Smb this sized company this size something we're like, well, you don't fit into that. So you don't get it, but this sounds like I don't want Pro. I want essential.
+
+Client 2: Yeah. I mean, we could change the titles if that is something you're getting hung up on. But really more about, like, just the structure itself, like, how do you think people would respond to expenses as, like the primary bucket lever.
+
+Host 1: It needs better than transactions. But So, like, One it's better than the last one. It's better than transactions but it doesn't solve the real questions that I have around, like, discounting exceptions and things like that because I think that's really where it's starts to make more of a difference for us is like, Hey, we can present this however you guys want us to, but then knowing one our flexibility is the more important part. And I think the naming convention really makes a big difference here because we're positioning it as you're getting a better package, but you're not getting better package getting the same package. You just are a bigger company.
+
+Client 2: Yep. Yeah, I mean, it's definitely easy to change it to be like Smb mid market, enterprise like whatever.
+
+Client 2: Those those naming are. And so as far as discounting, like the way that this like the idea would work is that Like, just because you actually don't fit into the essential doesn't or the Smb whatever a call. It doesn't mean that like, you can't. Make that package work by, like, saying, say you're at. And again, these are just numbers, seven hundred and fifty k per month. Like, expenses and you're like, oh, thirty thousand dollars look that's like, way too much for me. I I can't spend that much. I'm at seven hundred and fifty k monthly. Then the idea is rather than, like, having to discount. You can say, okay. Like, that's fine. We can make essential work for you. It would just be twenty k you buy two expense add ons and that's like a hundred k extra of expenses per month. And now you're at twenty four k. you don't have you don't have up to a million dollars. So if you continue to grow, like you might need to buy next expense pack. You're not gonna have, like, that many admin users. So if you need more admin users you might to buy another admin user down the road or know, just move up to the pro package. If that, like, economically works for you, But so there's like, more flexibility into how we structure, like, the in between where, like, there is a way to incrementally make the packages work. And then at some point, like, rather than buying three data packs and three users all of the sudden like, okay. Yeah The pro just makes sense. But if you're not quite ready for Pro, then you can bridge those gaps more naturally with, like at renewal, maybe you just need, like, an extra data pack or an extra user. Or just like, upfront, maybe you're like, okay. Like, I probably do need three admin users I probably do need a million dollars of monthly expenses over the next nine months. I guess I will just go with Pro. But now we've given them like this lesser option. Without discounting anything and without, like, And i, obviously, we can Like, say, hey. We'll throw in and an expense data pack for free. That's two thousand dollars with the value, like, that's your discount. There's all sorts of stuff like that, but that's kind of how it it work. And I know, like, obviously, that's more complex to sell, but would think I provide a lot more flexibility to how we get people in like a package that is in the range they wanna pay, but has Like very clear upsell levers into why they would need to pay more in the future.
+
+Host 1: So One think And this is fine, but just... This is gonna change the sales process a little bit. We're gonna have to get Nda with, like, pretty much everyone, I think. Which is fine, but I mean, I think it's like I don't think i have to verify like what they say, I think like, every finance personnel probably know what they're monthly expenses, and and we can just have like a trust system.
+
+Client 2: And then obviously, if it's not the case, that's the first thing that goes into the system. And okay. We can deal with that when it comes. But I think that's kind of an case. My guess is that ninety percent of the time, we just ask people, hey, like, what's your total monthly expense? And that's a lot easier than asking, hey, what's your current arr? Like early on in the sales process.
+
+Host 1: Yeah. I mean, I also feel like this pricing is heavily geared towards just upsell, and I feel like I still feel like it's gonna reduce our Ac. Because I feel like we can negotiate smaller companies to pay more and it might just be easier if we kept our pricing And then after the fact said by the way based on your pricing, here's everything you get. And renewal are based on your expense uptick. And, like, setting that expectation. Like, I feel like we're kind of over complicating this for like I guess if the company cares more about, like, going from twenty k to twenty six k and having that six k upset rather than starting at twenty four k and then getting to, like, twenty five k or twenty six k then having a smaller percentage of upset. Like, this is gonna do that first one potentially, but I I feel like if we were just to say when people ask about renewal or in the contract contractor or something it says, alright. Whatever we agree on now is is, you know, what you get, And then on renewal, it's gonna be dependent on your growth in that prior period. That would be in my opinion, a way to keep our Ac higher and that expectation that their growth is gonna impact renewal.
+
+Client 2: Yeah. The only thing... So I guess and you're saying like, alright. So your expenses are a million dollars a month and we click have just a spike we increase our prices, ten percent for every thirty percent increase in your expenses. Something like that.
+
+Host 1: Yeah. Just like, having that laid out. That way, they don't have to think about, okay. What plan do I wanna go with are they, you know, gonna be watching over everything that I do instead it's just like, hey. Yeah. And how how a renewal work? Oh, yeah. They're based on your guys than last period, we base that around expenses and know, how much increase that is and we'll just have a step up that's incremental.
+
+Client 2: Yeah. So that's kinda how I was thinking things for, like, people that fall even outside of this would work. It's like, hey, Your enterprise pricing, you i don't... you know, you're larger than rep like, whatever it is. Like, that's rather than like, having to come up with, like, a fourth to your how you would bucket it. I just... That felt like it would was a harder pill to swallow from a customer perspective. Just because now I'm saying, okay. Well, basically, what that means is I'm increasing my product hike. I know, you know, depends of what the scale is, maybe it's like five percent price increase for every fifteen percent of growth or by front whatever it is, but it's just like... Alright. So basically, you're saying, you're almost certainly gonna raise my price. Five to fifteen percent every single year, and I have to agree upon that today. And there's, like, no real way for me to not have my price increase. And so I don't know how that would go over with customers, but that's Mean That would obviously be better for us to just lock that in. That felt like it might be hard harder for people to swallow out.
+
+Host 1: I don't think people pairs, like, I think that having the flexibility to, like, tell people that we're gonna be increasing our pricing and it's up for negotiation, but it typically is you know, x amount per stop or per like for example, expense add on, is more helpful invaluable then like that this will be because it really seems like this renewal or this changing pricing is all about renewal, which just makes it harder for us because we're not like, I have a couple of twenty k deals coming through, but I feel like at this point, in our sales life, those are kind of small deals. So, like, I just everyone I think is gonna... Unless we say you cannot do this one, It's the same. And then it's like I would rather just position it as hey, here is, if you want magic builder, it's just much more And then your renewal was gonna be based upon you know, your growth. And I think a lot of companies do that. Like, Saas as it just purely on a percentage of billing. So I don't think it would be so egregious to be, like yeah, you're gonna get an offset upset based on your growth. Also, I don't love how this still has driver based head planner in here for two thousand dollars.
+
+Host 1: It's like the one that sticks out is, like, why is that a feature that we're paying for?
+
+Client 2: I mean, I don't know it's not something that people need. It is like a nice have it has more value slash like, realistically, the yeah. I mean, you're probably right. Is that really something that is a great feature upsell probably not. But the honest truth it's like, over the next twelve months, the only way that we have to drive meaningful upsell because this model won't have any renewal In twenty twenty three is feature billing. So that's, like from there to artificially help. The next twelve months is it opposed like, it probably being something in the in the model that scales.
+
+Client 2: Got it. Yeah.
+
+Host 1: I don't think that that is adding as much value as a billing connect sure snowflake flight connector.
+
+Client 2: Yeah. I mean, again, all the things in here are The actual dollar numbers are our Tb. My guess is we probably will wanna try get some upsell for for that feature. But okay. That's good feedback. I think like, definitely need to validate how expenses would work with customers and so it's a good call out to, like, to start testing with people who do they prefer package approach or do they just prefer a you know, percent scaling approach off of.
+
+Host 1: This is This is still like, an all you can eat model aside from the snowflake and billing and metric builder and it's we are just essentially saying, you're gonna get staffed up based on your expenses.
+
+Client 2: So I think that's the thing that I think does I mean, I think it is pretty normal for people to see, like, different packages like, okay.
+
+Client 2: Here's an essential package. Here's a pro package. And so That's why I like.
+
+Host 1: I always still show analytics only, because it's a package that no one wants. But when there is someone who wants it, which there are some people who... That's all they need. It's there. I don't like giving people actual package options where they're act there's not a clear option.
+
+Client 2: Well, so I I mean, that's I think that is an argument for having cheap packages because like, well would say... Again, going back to like, the seven hundred and fifty k. Per month example, that's a customer then we show them, like, essential and pro And we say, like, look based on your expenses, you're at seven hundred and fifty k, You're probably gonna be at a million a month. Pretty soon. Like, you should just buy the pro package. They're gonna say, Okay. That's too expensive. I can't pay thirty k. And so we're gonna say, okay. Well, we can create essential package for you, but it's gonna be twenty k, plus two data packs plus maybe a user And so now you're at twenty five k. And so they're like, oh okay. Like, So we peg them high at thirty k to, like, that's what they should pay. They're saying like, cool. I don't have to pay thirty k. They're gonna make something work at twenty five for me because I'm fitting into this like, Smb pricing with some add ons.
+
+Host 1: I think as a salesperson that will make me lose my credibility of trying push them into a bigger package than just being like, hey, we can make this package for you because you are smarter than this and takes away the constantly approach, and it makes me feel like I'm pushing something that they don't actually need yet.
+
+Client 2: Okay. Well, you can start with the... Let's start with essential and build it up. Then you get to twenty five k. Then that's, like, more def because you you're saying like, they're like, oh, like twenty five k too expensive, and like well, you know, it's kind of twenty five k or thirty k. Like, you don't fit into our Smb and b pricing. Because I guess if if it was just based on the percents scaling. Like, the, like, the list price you show is like arbitrary, because we're just gonna, like, there's... It's there's one package then you're saying, a your expenses or x, that means that you pay why I can be like, well, why is that the list price based on my expenses? And we're gonna be like, well, I don't know, It's just because Well, I don't feel like this is solving the thing that you wanted with having multiple packages because this is still you only have one option.
+
+Host 1: It's just how much is that option gonna cost you.
+
+Client 2: I I mean, I don't don't really... I want everyone to have the full platform. I think that's valuable to like just from a customer being happy perspective.
+
+Client 2: But the only thing that I care about is coming with the pricing model that actually it consistently drives upsell. That's that's the I know we don't have many people on the analysis canvas, but why are we getting rid of the option to only offer analytics?
+
+Client 2: Just because it's not Like, the the value of the platform if we're just using analytics isn't really work. It's not worth it's like, twenty thousand dollars, twenty five thousand dollars.
+
+Host 1: Even with metric builder and Snowflake flight connector, I mean, I don't know.
+
+Client 2: Like, again, we have like, two customers at a two hundred that do it. So it's like, not a focus area.
+
+Host 1: Because I just feel like even if we get to that price, where we're like, alright, You're seven hundred and fifty thousand dollars. And here's our list price. Like, we're gonna have to negotiate anyway. It's like, people like discounts and It's gonna I feel like if you tell people hey it's thirty thousand, and you just say it's for everything. And you're upsell beyond this amount. But since, you know, it's end of the month, they you know well it's it's it's also not for everything again.
+
+Client 2: There's like, there is users. There is data packs and there is metric builder And...
+
+Host 1: Yeah.
+
+Client 2: But there's like others.
+
+Host 1: The base package. People are. Want, like, a little bit of a discount. And if we're starting at the amount, like, let's say we get to that twenty five k with the seventy fifty person. If we discount from there, it's gonna bring us again down below where we typically would land today.
+
+Client 2: Yeah. I mean, I just... I don't think like Oh how you discount is obviously just like you can make discounting work in any way you want, like, either start high and go low or start looking cars high when everything's laid out like this is what I'm saying.
+
+Host 1: So we can't start higher and then be like, alright. I think we're land twenty five k. Like, if we show them thirty k, they go... Well we're not a million dollars year yet. Then you go... Okay. Well, we can start you know, based on, you know, these skews. Now you're here. And now you are in a sku range So you can't really like just use your judgment call.
+
+Client 2: No. I mean, I I think it's like, okay. We can give you essential. We'll give you two data packs it should take three, but we'll give you a free data pack so there's your discount. And now rather than paying thirty thousand Like, you're paying twenty five thousand and we've thrown in like, a free data pack to make that work for you. Like, I'm I'm probably less worried about Right how we have to get creative around discounting to make people think this works and more just about, like, the rec to expenses and, like, is it better you package? Or is it better to scale. I like, those are probably the bigger questions. And then, like, name package versus scale.
+
+Client 2: Like, like, you fit into the pro package. So you get up a million dollars a month or like okay. You have spending a million dollars today, we're gonna increase your price five percent for every twenty percent. Your expenses grow. Like those two.
+
+Host 1: The scaling is at renewal the packaging at sale.
+
+Client 2: Right. I mean, if you tell them that they get up to a million dollars a month and they're at five hundred k then Oh, I mean, just I I definitely think that people will fit into this small spots they can fit into.
+
+Client 2: No one's gonna.
+
+Client 2: That's fine. Well, I don't know I mean that's that's fine because we're starting at twenty k. Dude... like the reality is percent of our customers who we signed in q four even though it was a big Ac mind, fifty two percent fell between seventeen and twenty three k. So, like, the reality is people ending up starting an essential package and having to build up or starting a central package capacity to discount. Will still happen. Oh, that's like it's fine for people to fall into this Smb category as long as we can upsell a data pack or two or a user and get them to twenty two twenty three, twenty four.
+
+Host 1: Got it. I mean, I think that it it sounds like we're gonna be selling, but we're actually be discounting off of twenty thousand personally because right now we're still everyone twenty five thirty, and we're getting to sub twenty twenty Think that's...
+
+Client 2: I think that's like the one thing that's in our control, Like, like, we can figure out how to optically make it look like twenty three k is attractive or whatever it is and it's on us to hold on price i So I I guess, I just think like there's definitely a lot of ways to optically make this look good at the start. It's more about, like, I think we need to increase the central cost.
+
+Host 1: I twenty two Yeah.
+
+Client 2: I mean, if we think that that'll help. So... I mean, also like, these list prices are... I think that's a good call out, like, definitely They think there is flexibility here. Like, if we go in, and it's a super small customer then, like, you know, I scare away, then maybe it is, like, twenty and thirty... Or maybe it's like eighteen and twenty eight. It's a big customer maybe it's, like, twenty two thirty two, like, having some flexibility in there that we can use to help make this look. Easier. I guess it's like what we're trying to we're trying to answer is like, is this structure more advantageous? Think there's obviously things we need to optimize around presentation around the numbers. Now we present but, like, Are we gonna... Are people just gonna be like, generally accepting like, yeah. Cool. Based on expenses, couple users makes sense. Let's figure out what works rather than this Right Like okay. Shit. I need what do you think I need? Right. Can I I didn't like this.
+
+Host 1: But but so I guess, one thing that would also be helpful is The only way that I'm gonna understand of, like, how scary the expense scaling is is, like, how much to our customers typically scale? Because like, if I'm thinking about it, Just spot For for twenty five k that if they sort essential, that is pretty much adding on five hundred dollars onto their Mosaic cost, like, what's a typical increase because I have no problem telling people like, yeah, you're renewal is gonna be based around, you know, how much your company grows based expenses and here's the typical years for that, just so you you're aware, I just don't know what they're gonna be thinking based on what their company is doing.
+
+Client 2: Yeah. I mean, I think the idea is that for eighty percent of our customers, they fall into like, they start out in essential and for pro, and over a year or two, they move like, up one bucket. And then once you get outside of the lead, then, like, you get this custom pricing. But so I think, like, Yeah. I don't know. Anyway, alright. I mean, I think the feedback was good, though. It's like we have to figure out It so it doesn't seem like there's any issue with expenses just as like, a category. It's more around what is the optimal way to structure it.
+
+Host 1: Yes. In the pricing. Of the expense packs.
+
+Client 2: Yep. Yeah. All all the numbers in here. Definitely. Definitely work in progress.
+
+Host 1: Definitely looks lot better though. I think I think that add ons here make sense. Snowflake like billing metric, admin user. I think complain.
+
+Client 2: But... I think like, you probably someone had consolidation and like, you probably just added it on the bottom, and he could say it's like, hey, It's for free, or maybe it's a thousand dollars like whatever it is. But But yeah. For the most part. Think this is set in the right direction. Cool. Okay. Well, unfortunately, I don't know how many more customer calls. We have or definitely had ask a bunch of people What did the customer say before?
+
+Client 2: Or it on any other customer calls, which some port. Have we spent spent a lot of time, I think. Trying to verify transactions, which no one liked So I don't know why we asked eight people. But we asked. Yeah. I'm talked about join one yesterday. Talked about expenses. That Vp applied was like, yeah. Totally fine that here my three packages makes sense. I know exactly how much I spend. That works for me. Also kinda brought up there, like, actually revenue. Yeah wouldn't you mind if it is. Based on revenue or both, like you can either scale up and down by revenue expenses. So it seems like at least, you know, one data point, but reception was generally fine. We'll definitely talk to a few more people to let's see, Like, how do they like it? And then... Well, that's it's a good point, like, just verifying should be package bay should it be just annual scaling.
+
+Host 1: Got it. One thing, I think that onboarding should be in a bigger bottom part that doesn't look like It's not like part of the top block.
+
+Client 2: Yep. Yeah. It's a good call out. Is it is additive, not roll up into the twenty.
+
+Host 1: Yeah.
+
+Client 2: Cool. Cool. Awesome. Okay. Well, this was super helpful. Appreciate with you back.
+
+Host 1: Yep. That looks way better just general feedback it's way better than last time.
+
+Client 2: Alright glad to hear it. Cool. Thanks, Leaandra.
