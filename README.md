@@ -4,7 +4,7 @@
 - [Installation](#installation)
 - [Code](#code)
     - [Training] (#training)
-    - [server] (@server)
+    - [server] (#server)
 - [Discussion](#discussion)
 - [Server](#server)
 
@@ -67,11 +67,18 @@ The second task is significantly harder (to annotate as well as model).
 
 #### Server
 
-To run the server, use command : python app.py
+To run the server, use command : `python app.py`
 
 See the file sendReq.py for example of API request.
 
 The ouput has the following format:
+
+Quesion contains the list of meaningful questions.
+
+Followup conatins the sentences that denote an action to be done in future (this part is significantly harder and needs some more work, e.g. better models, more labelled data etc...).
+
+Both the question and followups are sorted in the order of confidence. Most confident ones are printed in the end.
+
 
 ```
 
