@@ -3,10 +3,9 @@
 
 - [Installation](#installation)
 - [Code](#code)
-    - [Training] (#training)
-    - [server] (#server)
+    - [Training](#training)
+    - [Server](#server)
 - [Discussion](#discussion)
-- [Server](#server)
 
 ### Installation
 
@@ -116,12 +115,6 @@ Regarding the model performance:
 
 
 
-### server
-
-To run the server, use command `python app.py`
-
-
-A sample use of endpoint is present in the file sendReq.py .
 
 
   
