@@ -145,9 +145,15 @@ def get_future_work(text, debug=False):
         if ans[0] == "followup":
             prediction_list.append((ans, sent, all_sents[i-5:i+5]))
 
+    prediction_list = sorted(prediction_list, key=lambda x : x[0][1])
+    for tt in prediction_list[-100:]:
+        print(tt)
+    
     included_sents = []
-    for i, (ans, sent, context) in enumerate(prediction_list):
+    for i, (ans, sent, context) in enumerate(prediction_list[-100:]):
         kk = predictor.predict(sentence=sent)
+        print(ans, sent, context)
+        print("\t", kk['verbs'])
         verbs = kk['verbs']
 
         times = []
@@ -161,9 +167,14 @@ def get_future_work(text, debug=False):
             if include:
                 times.append([x for x, y in zip(kk['words'], verb['tags']) if 'tmp' in y.lower()])
                 vbs_lst.append(verb["verb"])
+        
+        print("\t\tinclude : ", len(times))
 
-    if len(times) or True:
-        included_sents.append((ans, sent, context))
+        if len(times):
+            included_sents.append((ans, sent, context))
+
+    for _, sent, _ in included_sents:
+        print(sent)
 
     return included_sents
 
@@ -199,12 +210,15 @@ def index():
                 for t in context:
                     print("\t\t", t)
 
-            selected_followup =  [(t[1], t[2]) for t in  followup if t[0][1] > 0.8]
+            selected_followup =  [(t[1], t[2]) for t in  followup if t[0][1] > 0.6]
             if not selected_followup:
                 selected_followup = [(t[1], t[2]) for t in  followup[-3:]]
+
+            selected_followup = [{"followup" : t[0], "context" : t[1]} for t in selected_followup]
+
             return jsonify(
                 {
-                    "question" : [(t[1], t[2]) for t in questions if t[0][1] > 0.8],
+                    "question" : [{"question" : t[1], "context" : t[2]} for t in questions if t[0][1] > 0.8],
                     "followup" : selected_followup
                 }
             )

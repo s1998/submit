@@ -13,35 +13,25 @@ import pandas as pd
 df_ques = pd.read_csv('questions_labelled.csv')
 df_stat = pd.read_csv('statements_labelled.csv')
 
-df_ques
-
-(df_ques['label'] == 2) | (df_ques.index < 250)
-
-df_ques[((df_ques['label'] == 2) | (df_ques.index < 250)) & (df_ques['label'] != 0) ]
-
-df_ques[(df_ques['label'] == 0)]
-
-df_stat.sample(n=250, random_state=1)['sent'].tolist() + df_ques[(df_ques['label'] == 0)]['sent'].tolist()
+# df_ques
+# (df_ques['label'] == 2) | (df_ques.index < 250)
+# df_ques[((df_ques['label'] == 2) | (df_ques.index < 250)) & (df_ques['label'] != 0) ]
+# df_ques[(df_ques['label'] == 0)]
+# df_stat.sample(n=250, random_state=1)['sent'].tolist() + df_ques[(df_ques['label'] == 0)]['sent'].tolist()
 
 statements = df_stat.sample(n=250, random_state=1)['sent'].tolist() + df_ques[(df_ques['label'] == 0)]['sent'].tolist()
-
 questions  = df_ques[((df_ques['label'] == 2) | (df_ques.index < 250)) & (df_ques['label'] != 0) ]['sent'].tolist()
-
 print("\n".join(statements[:5] + statements[-5:]), "\n****\n", "\n".join(questions[:5] + questions[-5:]))
 
 from transformers import AutoTokenizer
 modelname = 'bert-base-uncased'
-
 tokenizer = AutoTokenizer.from_pretrained(modelname)
 
 def process_data(text, labelgiven=0):
     text = ' '.join(text.split())
-
     encodings = tokenizer(text, padding="max_length", truncation=True, max_length=128)
-
     encodings['label'] = labelgiven
     encodings['text'] = text
-
     return encodings
 
 process_data("Hi I'm here", 0)
