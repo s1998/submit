@@ -3,6 +3,8 @@
 
 - [Installation](#installation)
 - [Code](#code)
+    - [Training] (#training)
+    - [server] (@server)
 - [Discussion](#discussion)
 - [Server](#server)
 
@@ -12,13 +14,18 @@
 
 Run following commands:
 
-pip install transformers allennlp spacy
-
+conda install flask==2.0.1 click==7.1.2
+pip install allennlp==2.1.0 allennlp-models==2.1.0
+pip install transformers spacy
 python spacy -m download en_core_web_sm
 
 See the following file (for versions of the library) : requirementsNew.txt
 
 ### Code
+
+There are two main portions in the code: 
+
+#### Training
 
 Notebooks folder contains the code used for obtaining the models.
 
@@ -57,6 +64,41 @@ About files in notebooks:
 Models from notebook 2 and 4 are used in the final deployed API.
 
 The second task is significantly harder (to annotate as well as model).
+
+#### Server
+
+To run the server, use command : python app.py
+
+See the file sendReq.py for example of API request.
+
+The ouput has the following format:
+
+```
+
+{
+    "question" : [
+        {
+            "question" : ...,
+            "context" : ...
+        },
+        {
+            "question" : ...,
+            "context" : ...
+        }, .....
+    ]
+    "followup" : [
+        {
+            "followup" : ...,
+            "context" : ...
+        },
+        {
+            "followup" : ...,
+            "context" : ...
+        }, .....
+    ]
+}
+
+```
 
 ### Discussion
 
