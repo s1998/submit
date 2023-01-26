@@ -12,13 +12,6 @@ Original file is located at
 import pandas as pd
 df_ques = pd.read_csv('questions_labelled.csv')
 df_stat = pd.read_csv('statements_labelled.csv')
-
-# df_ques
-# (df_ques['label'] == 2) | (df_ques.index < 250)
-# df_ques[((df_ques['label'] == 2) | (df_ques.index < 250)) & (df_ques['label'] != 0) ]
-# df_ques[(df_ques['label'] == 0)]
-# df_stat.sample(n=250, random_state=1)['sent'].tolist() + df_ques[(df_ques['label'] == 0)]['sent'].tolist()
-
 statements = df_stat.sample(n=250, random_state=1)['sent'].tolist() + df_ques[(df_ques['label'] == 0)]['sent'].tolist()
 questions  = df_ques[((df_ques['label'] == 2) | (df_ques.index < 250)) & (df_ques['label'] != 0) ]['sent'].tolist()
 print("\n".join(statements[:5] + statements[-5:]), "\n****\n", "\n".join(questions[:5] + questions[-5:]))
@@ -72,15 +65,14 @@ def compute_metrics(pred):
         'recall': recall
     }
 
-from transformers import AutoModelForSequenceClassification
 
+from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
+
+# Create the model and train it.
 model = AutoModelForSequenceClassification.from_pretrained(
     modelname,
     num_labels=2
 )
-
-from transformers import TrainingArguments, Trainer
-
 training_args = TrainingArguments(output_dir="./result", evaluation_strategy="epoch", num_train_epochs=5, warmup_ratio=0.1, learning_rate=0.00001)
 trainer = Trainer(
     model=model,
@@ -90,47 +82,21 @@ trainer = Trainer(
     tokenizer=tokenizer,
     compute_metrics=compute_metrics
 )
-
 trainer.train()
 print(trainer.evaluate())
 model.save_pretrained('./model/')
 
-print(trainer.evaluate())
-
-# ## Load the model
-
-# In[14]:
-
-
-from transformers import AutoModelForSequenceClassification
-
-new_model = AutoModelForSequenceClassification.from_pretrained('./model/').to(trainer.model.device)
-
-
-# In[15]:
-
-
-from transformers import AutoTokenizer
-
-new_tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
-
-
-# ## Get predictions
-
-# In[16]:
-
-
+# Load the model from checkpoint and make predictions on some of the samples
 import torch
 import numpy as np
-
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
+new_tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
+new_model = AutoModelForSequenceClassification.from_pretrained('./model/').to(trainer.model.device)
 def get_prediction(text):
     encoding = new_tokenizer(text, return_tensors="pt", padding="max_length", truncation=True, max_length=128)
     encoding = {k: v.to(trainer.model.device) for k,v in encoding.items()}
-
     outputs = new_model(**encoding)
-
     logits = outputs.logits
-
     sigmoid = torch.nn.Softmax(dim=-1)
     probs = sigmoid(logits.squeeze().cpu())
     probs = probs.detach().numpy()
@@ -140,9 +106,6 @@ def get_prediction(text):
         return ('question', probs[1])
     else:
         return ('statement', probs[0])
-
-
-# In[17]:
 
 sents = [
     'what did you have for lunch?',
@@ -159,8 +122,6 @@ sents = [
 
 for sent in sents:
   print(sent, get_prediction(sent))
-
-# trainer.model.device
 
 sents = [
     'what did you have for lunch?',

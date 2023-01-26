@@ -8,18 +8,14 @@ Original file is located at
 """
 
 # !pip install transformers flair
-
 # !unzip transcripts-20230117T054959Z-001.zip
-
 # !ls transcripts
-
-!pip install allennlp==2.1.0 allennlp-models==2.1.0
-!python -m spacy download en_core_web_sm
+# !pip install allennlp==2.1.0 allennlp-models==2.1.0
+# !python -m spacy download en_core_web_sm
 
 import spacy
-nlp = spacy.load('en_core_web_sm') # Load the English Model
-
 import os, re
+nlp = spacy.load('en_core_web_sm') # Load the English Model
 
 all_sents = []
 
@@ -34,11 +30,6 @@ for i, filename in enumerate(sorted(list(os.listdir("transcripts")))[:20]):
     doc = nlp(l)
     for sent in doc.sents:
       all_sents.append(str(sent))
-    # print(l)
-    # print(all_sents[-5:])
-  # break
-
-# all_sents
 
 from allennlp.predictors.predictor import Predictor
 import allennlp_models.tagging
@@ -132,67 +123,6 @@ with open('srlTimeV2.csv','w') as out:
     csv_out.writerow(['label', 'time', 'verbs', 'sentence'])
     for row in included_sents:
         csv_out.writerow((0, row[0], row[1], row[2]))
-
-# print("hello world")
-
-
-
-# from transformers import AutoTokenizer, AutoModelForSequenceClassification
-# import torch
-
-# model = AutoModelForSequenceClassification.from_pretrained('cross-encoder/nli-roberta-base')
-# tokenizer = AutoTokenizer.from_pretrained('cross-encoder/nli-roberta-base')
-
-# features = tokenizer(['But his email then you\'re were like, let\'s do it next week.', 'The action "do" is scheduled for future.'], 
-#                      ['Hey I\'m just curious, are you guys on Zoom right now?', 'The action is scheduled for future.'],  
-#                      padding=True, truncation=True, return_tensors="pt")
-
-# model.eval()
-# with torch.no_grad():
-#     scores = model(**features).logits
-#     label_mapping = ['contradiction', 'entailment', 'neutral']
-#     labels = [label_mapping[score_max] for score_max in scores.argmax(dim=1)]
-#     print(labels)
-
-# features = tokenizer(['But his email then you\'re were like, let\'s do it next week.', 'Previous sentence contains a future task.'], 
-#                      ['Hey I\'m just curious, are you guys on Zoom right now?', 'Previous sentence contains a future task.'],  
-#                      ['Hey I\'m just curious, are you guys on Zoom right now?', 'Previous sentence contains a future task.'],  
-#                      ['Hey I\'m just curious, are you guys on Zoom right now?', 'Previous sentence contains a future task.'],  
-#                      padding=True, truncation=True, return_tensors="pt")
-
-# sftm = torch.nn.Softmax(dim=1)
-# model.eval()
-# with torch.no_grad():
-#     scores = model(**features).logits
-#     scores = sftm(scores)
-#     label_mapping = ['contradiction', 'entailment', 'neutral']
-#     labels = [label_mapping[score_max] for score_max in scores.argmax(dim=1)]
-#     labels_score = [score_max for score_max in scores.max(dim=1)]
-#     print(labels, labels_score)
-
-# scores.max(dim=1), scores
-
-
-
-# new_sents = []
-
-# sftm = torch.nn.Softmax(dim=1)
-
-# for sent in all_sents[:10]:
-#   features = tokenizer([sent, 'In the previous sentence, the action is scheduled for future.'], 
-#                        [sent, 'In the previous sentence, the action is scheduled for future.'], 
-#                       padding=True, truncation=True, return_tensors="pt")
-  
-#   model.eval()
-#   with torch.no_grad():
-#       scores = model(**features).logits
-#       print(scores)
-#       scores = sftm(scores)
-
-#       label_mapping = ['contradiction', 'entailment', 'neutral']
-
-#       new_sents.append((label_mapping[scores.argmax(dim=1)], scores.max(dim=1), sent))
-
 
 
 # pose sequence as a NLI premise and label as a hypothesis
@@ -318,168 +248,4 @@ with open('srlTimeV3.csv','w') as out:
     csv_out.writerow(['label', 'probab', 'sentence', 'time', 'verbs'])
     for row in sorted(new_included_sents, reverse=True):
         csv_out.writerow((1, row[0], row[1], row[2], row[3]))
-
-
-
-import pandas as pd
-df = pd.read_csv('srlTimeV3_labelled.csv')
-
-df
-
-df[(df.index < 200) & (df['label'] == 1)]
-
-df[(df.index < 200) & (df['label'] == 0)]
-
-pos = df[(df.index < 200) & (df['label'] == 1)]['sentence'].tolist()
-neg = df[(df.index < 200) & (df['label'] == 1)]['sentence'].tolist() + df[(df.index > 300)].sample(200)['sentence'].tolist()
-
-pos
-
-
-
-from transformers import AutoTokenizer
-modelname = 'bert-large-uncased'
-
-tokenizer = AutoTokenizer.from_pretrained(modelname)
-
-def process_data(text, labelgiven=0):
-    text = ' '.join(text.split())
-
-    encodings = tokenizer(text, padding="max_length", truncation=True, max_length=128)
-
-    encodings['label'] = labelgiven
-    encodings['text'] = text
-
-    return encodings
-
-# !pip install datasets
-
-processed_data = []
-for stat in neg:
-  processed_data.append(process_data(stat, 0))
-for ques in pos:
-  processed_data.append(process_data(ques, 1))
-
-from sklearn.model_selection import train_test_split
-new_df = pd.DataFrame(processed_data)
-train_df, valid_df = train_test_split(new_df, test_size=0.2, random_state=2022)
-
-import pyarrow as pa
-from datasets import Dataset
-
-train_hg = Dataset(pa.Table.from_pandas(train_df))
-valid_hg = Dataset(pa.Table.from_pandas(valid_df))
-
-train_hg['input_ids']
-
-
-
-from sklearn.metrics import precision_recall_fscore_support, accuracy_score
-
-def compute_metrics(pred):
-    labels = pred.label_ids
-    preds = pred.predictions.argmax(-1)
-    precision, recall, f1, _ = precision_recall_fscore_support(labels, preds, average='binary')
-    acc = accuracy_score(labels, preds)
-    return {
-        'accuracy': acc,
-        'f1': f1,
-        'precision': precision,
-        'recall': recall
-    }
-
-# train_hg['text']
-
-from transformers import AutoModelForSequenceClassification
-
-model = AutoModelForSequenceClassification.from_pretrained(
-    modelname,
-    num_labels=2
-)
-
-from transformers import TrainingArguments, Trainer
-
-training_args = TrainingArguments(output_dir="./result", evaluation_strategy="epoch", num_train_epochs=5, 
-                                  warmup_steps=(train_df.shape[0] * 5 // 80), learning_rate=0.00001)
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    train_dataset=train_hg,
-    eval_dataset=valid_hg,
-    tokenizer=tokenizer,
-    compute_metrics=compute_metrics,
-)
-
-trainer.train()
-print(trainer.evaluate())
-model.save_pretrained('./model_future_work/')
-
-print(trainer.evaluate())
-
-# ## Load the model
-
-# In[14]:
-
-
-from transformers import AutoModelForSequenceClassification
-
-new_model = AutoModelForSequenceClassification.from_pretrained('./model/').to(trainer.model.device)
-
-
-# In[15]:
-
-
-from transformers import AutoTokenizer
-
-new_tokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
-
-
-# ## Get predictions
-
-# In[16]:
-
-
-import torch
-import numpy as np
-
-def get_prediction(text):
-    encoding = new_tokenizer(text, return_tensors="pt", padding="max_length", truncation=True, max_length=128)
-    encoding = {k: v.to(trainer.model.device) for k,v in encoding.items()}
-
-    outputs = new_model(**encoding)
-
-    logits = outputs.logits
-
-    sigmoid = torch.nn.Softmax(dim=-1)
-    probs = sigmoid(logits.squeeze().cpu())
-    probs = probs.detach().numpy()
-    label = np.argmax(probs, axis=-1)
-    
-    if label == 1:
-        return ('question', probs[1])
-    else:
-        return ('statement', probs[0])
-
-
-# In[17]:
-
-sents = [
-    'what did you have for lunch?',
-    'this is urgent, when can you deliver',
-    'can you do this in a month',
-    'this is good work',
-    'can you pull up the numbers for me',
-    'why is the delay',
-    'how is the baby doing',
-    'what are the plans for the weekend',
-    'what are the plans for the birthday',
-    'I can hear you saying that'
-]
-
-for sent in sents:
-  print(sent, get_prediction(sent))
-
-
-
-
 

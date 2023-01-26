@@ -60,7 +60,7 @@ def compute_metrics(pred):
         'recall': recall
     }
 
-from transformers import AutoModelForSequenceClassification
+from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
 import torch
 
 model = None
@@ -68,9 +68,6 @@ torch.cuda.empty_cache()
 
 model = AutoModelForSequenceClassification.from_pretrained(
     modelname, num_labels=2)
-
-from transformers import TrainingArguments, Trainer
-
 training_args = TrainingArguments(output_dir="./result", evaluation_strategy="epoch", num_train_epochs=5, 
                                   warmup_ratio=0.1, learning_rate=0.00001)
 trainer = Trainer(

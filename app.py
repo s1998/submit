@@ -63,8 +63,9 @@ nlp = spacy.load('en_core_web_sm') # Load the English Model
 from allennlp.predictors.predictor import Predictor
 import allennlp_models.tagging
 
-predictor = Predictor.from_path("https://storage.googleapis.com/allennlp-public-models/structured-prediction-srl-bert.2020.12.15.tar.gz",
-                                cuda_device=0)
+predictor = Predictor.from_path(
+    "https://storage.googleapis.com/allennlp-public-models/structured-prediction-srl-bert.2020.12.15.tar.gz",
+    cuda_device=0)
 
 
 def get_questions(text):
@@ -222,30 +223,7 @@ def index():
                     "followup" : selected_followup
                 }
             )
-        elif not (
-            isinstance(data["sentence"], str)
-            and isinstance(data["labels"], list)
-        ):
-            return jsonify(
-                {
-                    "error": "'sentence' field is not a string and/or 'labels' field is not a list of strings"
-                }
-            )
-        elif "multi_label" in data and not (isinstance(data["multi_label"], int)):
-            return jsonify(
-                {
-                    "error": "'multi_label' field is not an integer"
-                }
-            )
 
-        try:
-            if ("multi_label" in data):
-                result = classify(data["sentence"], data["labels"], data["multi_label"])
-            else:
-                result = classify(data["sentence"], data["labels"])
-            return jsonify(result)
-        except Exception as exception:
-            return jsonify({"error": str(exception)})
 
     return """<h1>Flask Server Running</h1>
         <p>
@@ -258,7 +236,5 @@ def index():
             to get predictions
         </p>"""
 
-
 if __name__ == "__main__":
     app.run(host='0.0.0.0', debug=False, port=5000)
-

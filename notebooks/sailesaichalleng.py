@@ -8,9 +8,7 @@ Original file is located at
 """
 
 # !pip install transformers flair
-
 # !unzip transcripts-20230117T054959Z-001.zip
-
 # !ls transcripts
 
 fname = "transcripts/639234e4a39c8c8e9c03759c.txt"
@@ -18,42 +16,11 @@ fname = "transcripts/639234e4a39c8c8e9c03759c.txt"
 with open(fname, "r") as f:
   txt = f.readlines()
 
-# for l in txt:
-#   print(l.strip())
-
+import os, re
 import spacy
 nlp = spacy.load('en_core_web_sm') # Load the English Model
 
-# import re
-
-# sents = []
-# for l in txt:
-#   l = l.strip()
-#   if l.startswith("Client"):
-#     # print(l)
-#     l = re.sub("Client [0-9]*:","", l,count=1)
-#     print(l)
-#     doc = nlp(l)
-#     for sent in doc.sents:
-#       print(sent)
-#       sents.append(sent)
-
-# sents = []
-# for l in txt:
-#   l = l.strip()
-#   if l.startswith("Client"):
-#     doc = nlp(l)
-#     for sent in doc.sents:
-#       sents.append(sent)
-
-# print(" $ ".join([str(k) for k in sents]))
-
-# fname = "transcripts/639234e4a39c8c8e9c03759c.txt"
-
-import os, re
-
 all_sents = []
-
 for i, filename in enumerate(sorted(list(os.listdir("transcripts")))[:20]):
   print(i, filename)
   fname = "transcripts/" + filename
@@ -67,34 +34,26 @@ for i, filename in enumerate(sorted(list(os.listdir("transcripts")))[:20]):
       for sent in doc.sents:
         all_sents.append(str(sent))
 
-all_sents
-
+# reference code of zero-shot classification pipeline from flair
 # # !pip install flair
 # from flair.models import TARSClassifier
 # from flair.data import Sentence
-
 # # 1. Load our pre-trained TARS model for English
 # tars = TARSClassifier.load('tars-base')
-
 # # 2. Prepare a test sentence
 # sentence = Sentence("I am so glad you liked it!")
-
 # # 3. Define some classes that you want to predict using descriptive names
 # classes = ["happy", "sad"]
-
 # #4. Predict for these classes
 # tars.predict_zero_shot(sentence, classes)
-
 # # Print sentence with predicted labels
 # print(sentence)
-
 
 
 from transformers import pipeline
 
 title = "Zero-Shot Text Classification with Hugging Face"
 description = "bart-large-mnli"
-
 classifier = pipeline("zero-shot-classification",
                       model="facebook/bart-large-mnli", device=0)
 
@@ -106,40 +65,12 @@ def zero_shot(doc, candidates):
     scores = dictionary['scores']
     return dict(zip(labels, scores))
 
-# !pip install bertopic
-
-aa = ["How are you?", "Right?", "Could you let me know this", "Cool", "Good", "Good day"]
-
-for x in aa:
-  print(x, zero_shot(x, "question, statement"))
+# # some examples to see if its working
+# aa = ["How are you?", "Right?", "Could you let me know this", "Cool", "Good", "Good day"]
+# for x in aa:
+#   print(x, zero_shot(x, "question, statement"))
 
 from tqdm.notebook import tqdm
-
-questions = []
-statements = []
-
-for sent in tqdm(all_sents):
-  out = zero_shot(sent, "question, statement")
-  if out['question'] > out['statement']:
-    questions.append(sent)
-  else:
-    statements.append(sent)
-
-for i in tqdm(range(len(all_sent) // 100)):
-  curr_ents = []
-
-x = classifier(all_sents[:100], ["question", "statement"])
-questions, statements = [], []
-for xx in x:
-  if xx['labels'][0] == 'question':
-    questions.append((xx['sequence'], xx['scores'][0]))
-  else:
-    statements.append((xx['sequence'], xx['scores'][0]))
-
-sorted(questions, key=lambda x: x[1], reverse=True)
-
-
-
 questions, statements = [], []
 
 for i in tqdm(range(len(all_sents) // 100)):
@@ -151,8 +82,6 @@ for i in tqdm(range(len(all_sents) // 100)):
       questions.append((xx['sequence'], xx['scores'][0]))
     else:
       statements.append((xx['sequence'], xx['scores'][0]))
-
-sorted([t for t in questions if "question" not in t[0].lower()], key=lambda x: x[1], reverse=True)[:50]
 
 import csv
 with open('questions.csv','w') as out:
@@ -170,36 +99,10 @@ with open('statements.csv','w') as out:
     for row in sorted(new_ques, key=lambda x: x[1], reverse=True):
         csv_out.writerow((row[0], row[1], -1))
 
-sorted([t for t in statements if "question" not in t[0].lower()], key=lambda x: x[1], reverse=True)[:50]
+# sorted([t for t in questions if "question" not in t[0].lower()], key=lambda x: x[1], reverse=True)[:50]
+# sorted([t for t in statements if "question" not in t[0].lower()], key=lambda x: x[1], reverse=True)[:50]
+# [t for t in questions if ("question" not in t[0].lower() and len(t[0].split()) > 2)][200:250]
 
-[t for t in questions if ("question" not in t[0].lower() and len(t[0].split()) > 2)][200:250]
-
-
-
-
-
-
-
-# from transformers import AutoConfig, AutoModelForSequenceClassification, AutoTokenizer, EvalPrediction, GlueDataset
-
-
-
-# from transformers import AutoTokenizer, AutoModelForSequenceClassification
-# import torch
-
-# model = AutoModelForSequenceClassification.from_pretrained('cross-encoder/nli-roberta-base')
-# tokenizer = AutoTokenizer.from_pretrained('cross-encoder/nli-roberta-base')
-
-# features = tokenizer(['But his email then you\'re were like, let\'s do it next week.', 'The action is scheduled for future.'], 
-#                      ['Hey I\'m just curious, are you guys on Zoom right now?', 'The action is scheduled for future.'],  
-#                      padding=True, truncation=True, return_tensors="pt")
-
-# model.eval()
-# with torch.no_grad():
-#     scores = model(**features).logits
-#     label_mapping = ['contradiction', 'entailment', 'neutral']
-#     labels = [label_mapping[score_max] for score_max in scores.argmax(dim=1)]
-#     print(labels)
 
 
 

@@ -3,14 +3,19 @@ import pprint
 import requests
 
 url = 'http://0.0.0.0:5000/'
-# url = "http://68.203.212.149:42499/"
+url = "http://68.203.212.149:42499/"
 
 
-fnames = ["63853b9aa39c8c8e9cf4e388.txt",
-"638e4a3ca39c8c8e9cafeed1.txt",
-"6398e26ea39c8c8e9c7ff842.txt",
-"639cb1b9a39c8c8e9cc8b15a.txt",
-"63b48a27a39c8c8e9c864e1a.txt",
+fnames = [
+# "6398e26ea39c8c8e9c7ff842.txt",
+
+"63863be8a39c8c8e9c09818e.txt",
+# "63853b9aa39c8c8e9cf4e388.txt",
+# "638e4a3ca39c8c8e9cafeed1.txt",
+# "6398e26ea39c8c8e9c7ff842.txt",
+# "639cb1b9a39c8c8e9cc8b15a.txt",
+# "63b48a27a39c8c8e9c864e1a.txt",
+
 # "638540b8a39c8c8e9cf54df8.txt",
 # "638e704aa39c8c8e9cb31b7e.txt",
 # "6398e851a39c8c8e9c806e12.txt",
